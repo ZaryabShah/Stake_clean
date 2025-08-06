@@ -1,13 +1,24 @@
 {
-  "timestamp": "2025-08-07T02:21:19.540160",
+  "timestamp": "2025-08-06T23:19:25.172Z",
   "provider_slug": "quickspin",
   "provider_name": "Quickspin",
-  "status": "initial_completed",
+  "status": "completed",
   "total_games": 116,
-  "games_fetched": 39,
-  "is_complete": false,
-  "needs_pagination": true,
+  "games_fetched": 116,
+  "is_complete": true,
+  "needs_pagination": false,
   "output_dir": "stake_thumbnails\\Quickspin",
   "games_data_file": "stake_thumbnails\\Quickspin\\initial_games.json",
-  "source": "initial_html_fetch"
+  "source": "parallel_graphql_fetch",
+  "completed_offsets": [
+    0,
+    39,
+    78
+  ],
+  "failed_offsets": [],
+  "retry_counts": {
+    "39": 1,
+    "78": 1
+  },
+  "last_successful_offset": 78
 }

@@ -1,0 +1,23 @@
+{
+  "timestamp": "2025-08-06T23:03:48.856Z",
+  "provider_slug": "thunderkick",
+  "provider_name": "Thunderkick",
+  "status": "completed",
+  "total_games": 82,
+  "games_fetched": 82,
+  "is_complete": true,
+  "needs_pagination": false,
+  "output_dir": "stake_thumbnails\\Thunderkick",
+  "games_data_file": "stake_thumbnails\\Thunderkick\\initial_games.json",
+  "source": "parallel_graphql_fetch",
+  "completed_offsets": [
+    0,
+    39,
+    78
+  ],
+  "failed_offsets": [],
+  "retry_counts": {
+    "78": 1
+  },
+  "last_successful_offset": 78
+}

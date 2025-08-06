@@ -1,13 +1,25 @@
 {
-  "timestamp": "2025-08-07T02:05:27.588785",
+  "timestamp": "2025-08-06T23:38:33.902Z",
   "provider_slug": "hacksaw-gaming",
   "provider_name": "Hacksaw Gaming",
-  "status": "initial_completed",
+  "status": "completed",
   "total_games": 180,
-  "games_fetched": 39,
-  "is_complete": false,
-  "needs_pagination": true,
+  "games_fetched": 180,
+  "is_complete": true,
+  "needs_pagination": false,
   "output_dir": "stake_thumbnails\\Hacksaw_Gaming",
   "games_data_file": "stake_thumbnails\\Hacksaw_Gaming\\initial_games.json",
-  "source": "initial_html_fetch"
+  "source": "parallel_graphql_fetch",
+  "completed_offsets": [
+    0,
+    39,
+    78,
+    117,
+    156
+  ],
+  "failed_offsets": [],
+  "retry_counts": {
+    "39": 1
+  },
+  "last_successful_offset": 156
 }

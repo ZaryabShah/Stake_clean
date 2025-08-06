@@ -1,0 +1,22 @@
+{
+  "phase": "initial_data_collection",
+  "duration": "0:00:42.702627",
+  "providers_processed": 49,
+  "providers_successful": 49,
+  "total_games_found": 3828,
+  "stats": {
+    "providers_found": 49,
+    "providers_completed": 0,
+    "games_found": 0,
+    "images_downloaded": 0,
+    "images_converted": 0,
+    "errors": 0,
+    "start_time": "2025-08-07 02:39:12.909737",
+    "end_time": "2025-08-07 02:39:55.612364",
+    "final_total_games": 1547,
+    "final_providers_count": 55,
+    "final_images_downloaded": 0,
+    "final_completion_rate": 0.0
+  },
+  "timestamp": "2025-08-07T02:39:55.612364"
+}

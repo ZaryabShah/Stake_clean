@@ -1,0 +1,683 @@
+{
+  "scraping_session": {
+    "timestamp": "2025-08-07T02:39:55.484499",
+    "total_providers": 49,
+    "completed_providers": 0,
+    "total_games": 3828,
+    "statistics": {
+      "providers_found": 49,
+      "providers_completed": 0,
+      "games_found": 0,
+      "images_downloaded": 0,
+      "images_converted": 0,
+      "errors": 0,
+      "start_time": "2025-08-07 02:39:12.909737",
+      "end_time": null,
+      "final_total_games": 1547,
+      "final_providers_count": 55,
+      "final_images_downloaded": 0,
+      "final_completion_rate": 0.0
+    }
+  },
+  "providers": [
+    {
+      "slug": "pragmatic-play",
+      "name": "Pragmatic Play",
+      "url": "/casino/group/pragmatic-play",
+      "image_url": null,
+      "total_games": 639,
+      "games_fetched": 39,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "stake-originals",
+      "name": "Stake Originals",
+      "url": "/casino/group/stake-originals",
+      "image_url": null,
+      "total_games": 25,
+      "games_fetched": 25,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "hacksaw-gaming",
+      "name": "Hacksaw Gaming",
+      "url": "/casino/group/hacksaw-gaming",
+      "image_url": null,
+      "total_games": 180,
+      "games_fetched": 39,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "evolution-gaming",
+      "name": "Evolution Gaming",
+      "url": "/casino/group/evolution-gaming",
+      "image_url": null,
+      "total_games": 82,
+      "games_fetched": 39,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "no-limit-city",
+      "name": "No Limit City",
+      "url": "/casino/group/no-limit-city",
+      "image_url": null,
+      "total_games": 94,
+      "games_fetched": 39,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "massive-studios",
+      "name": "Massive Studios",
+      "url": "/casino/group/massive-studios",
+      "image_url": null,
+      "total_games": 21,
+      "games_fetched": 21,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "twist-gaming",
+      "name": "Twist Gaming",
+      "url": "/casino/group/twist-gaming",
+      "image_url": null,
+      "total_games": 24,
+      "games_fetched": 24,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "titan-gaming",
+      "name": "Titan Gaming",
+      "url": "/casino/group/titan-gaming",
+      "image_url": null,
+      "total_games": 16,
+      "games_fetched": 16,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "backseat-gaming",
+      "name": "Backseat Gaming",
+      "url": "/casino/group/backseat-gaming",
+      "image_url": null,
+      "total_games": 26,
+      "games_fetched": 26,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "b-gaming",
+      "name": "B Gaming",
+      "url": "/casino/group/b-gaming",
+      "image_url": null,
+      "total_games": 153,
+      "games_fetched": 39,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "push-gaming",
+      "name": "Push Gaming",
+      "url": "/casino/group/push-gaming",
+      "image_url": null,
+      "total_games": 57,
+      "games_fetched": 39,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "hacksaw-openrgs",
+      "name": "Hacksaw OpenRGS",
+      "url": "/casino/group/hacksaw-openrgs",
+      "image_url": null,
+      "total_games": 8,
+      "games_fetched": 8,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "stake-engine",
+      "name": "Stake Engine",
+      "url": "/casino/group/stake-engine",
+      "image_url": null,
+      "total_games": 27,
+      "games_fetched": 27,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "shady-lady",
+      "name": "Shady Lady",
+      "url": "/casino/group/shady-lady",
+      "image_url": null,
+      "total_games": 5,
+      "games_fetched": 5,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "relax-gaming",
+      "name": "Relax Gaming",
+      "url": "/casino/group/relax-gaming",
+      "image_url": null,
+      "total_games": 132,
+      "games_fetched": 39,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "avatarux",
+      "name": "Avatarux",
+      "url": "/casino/group/avatarux",
+      "image_url": null,
+      "total_games": 61,
+      "games_fetched": 39,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "thunderkick",
+      "name": "Thunderkick",
+      "url": "/casino/group/thunderkick",
+      "image_url": null,
+      "total_games": 82,
+      "games_fetched": 39,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "penguin-king",
+      "name": "Penguin King",
+      "url": "/casino/group/penguin-king",
+      "image_url": null,
+      "total_games": 52,
+      "games_fetched": 39,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "fat-panda",
+      "name": "Fat Panda",
+      "url": "/casino/group/fat-panda",
+      "image_url": null,
+      "total_games": 15,
+      "games_fetched": 15,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "peter-sons",
+      "name": "Peter & Sons",
+      "url": "/casino/group/peter-sons",
+      "image_url": null,
+      "total_games": 33,
+      "games_fetched": 33,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "playn-go",
+      "name": "Play'n GO",
+      "url": "/casino/group/playn-go",
+      "image_url": null,
+      "total_games": 199,
+      "games_fetched": 39,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "popiplay",
+      "name": "Popiplay",
+      "url": "/casino/group/popiplay",
+      "image_url": null,
+      "total_games": 60,
+      "games_fetched": 39,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "paperclip-gaming",
+      "name": "Paperclip Gaming",
+      "url": "/casino/group/paperclip-gaming",
+      "image_url": null,
+      "total_games": 9,
+      "games_fetched": 9,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "elk-studios",
+      "name": "Elk Studios",
+      "url": "/casino/group/elk-studios",
+      "image_url": null,
+      "total_games": 125,
+      "games_fetched": 39,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "print-studios",
+      "name": "Print Studios",
+      "url": "/casino/group/print-studios",
+      "image_url": null,
+      "total_games": 22,
+      "games_fetched": 22,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "bullshark-games",
+      "name": "Bullshark Games",
+      "url": "/casino/group/bullshark-games",
+      "image_url": null,
+      "total_games": 20,
+      "games_fetched": 20,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "netent",
+      "name": "NetEnt",
+      "url": "/casino/group/netent",
+      "image_url": null,
+      "total_games": 90,
+      "games_fetched": 39,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "big-time-gaming",
+      "name": "Big Time Gaming",
+      "url": "/casino/group/big-time-gaming",
+      "image_url": null,
+      "total_games": 56,
+      "games_fetched": 39,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "red-tiger",
+      "name": "Red Tiger",
+      "url": "/casino/group/red-tiger",
+      "image_url": null,
+      "total_games": 110,
+      "games_fetched": 39,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "pg-soft",
+      "name": "PG Soft",
+      "url": "/casino/group/pg-soft",
+      "image_url": null,
+      "total_games": 83,
+      "games_fetched": 39,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "onetouch",
+      "name": "OneTouch",
+      "url": "/casino/group/onetouch",
+      "image_url": null,
+      "total_games": 32,
+      "games_fetched": 32,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "slotmill",
+      "name": "Slotmill",
+      "url": "/casino/group/slotmill",
+      "image_url": null,
+      "total_games": 36,
+      "games_fetched": 36,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "live88",
+      "name": "Live88",
+      "url": "/casino/group/live88",
+      "image_url": null,
+      "total_games": 5,
+      "games_fetched": 5,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "gamomat",
+      "name": "Gamomat",
+      "url": "/casino/group/gamomat",
+      "image_url": null,
+      "total_games": 70,
+      "games_fetched": 39,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "3-oaks-gaming",
+      "name": "3 Oaks Gaming",
+      "url": "/casino/group/3-oaks-gaming",
+      "image_url": null,
+      "total_games": 83,
+      "games_fetched": 39,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "games-global",
+      "name": "Games Global",
+      "url": "/casino/group/games-global",
+      "image_url": null,
+      "total_games": 95,
+      "games_fetched": 39,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "endorphina",
+      "name": "Endorphina",
+      "url": "/casino/group/endorphina",
+      "image_url": null,
+      "total_games": 186,
+      "games_fetched": 39,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "voltent",
+      "name": "VoltEnt",
+      "url": "/casino/group/voltent",
+      "image_url": null,
+      "total_games": 121,
+      "games_fetched": 39,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "just-slots",
+      "name": "Just Slots",
+      "url": "/casino/group/just-slots",
+      "image_url": null,
+      "total_games": 4,
+      "games_fetched": 4,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "fantasma-games",
+      "name": "Fantasma Games",
+      "url": "/casino/group/fantasma-games",
+      "image_url": null,
+      "total_games": 26,
+      "games_fetched": 26,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "blueprint",
+      "name": "Blueprint",
+      "url": "/casino/group/blueprint",
+      "image_url": null,
+      "total_games": 86,
+      "games_fetched": 39,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "belatra",
+      "name": "Belatra",
+      "url": "/casino/group/belatra",
+      "image_url": null,
+      "total_games": 76,
+      "games_fetched": 39,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "playson",
+      "name": "Playson",
+      "url": "/casino/group/playson",
+      "image_url": null,
+      "total_games": 38,
+      "games_fetched": 38,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "novomatic",
+      "name": "Novomatic",
+      "url": "/casino/group/novomatic",
+      "image_url": null,
+      "total_games": 61,
+      "games_fetched": 39,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "skywind",
+      "name": "Skywind",
+      "url": "/casino/group/skywind",
+      "image_url": null,
+      "total_games": 24,
+      "games_fetched": 24,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "quickspin",
+      "name": "Quickspin",
+      "url": "/casino/group/quickspin",
+      "image_url": null,
+      "total_games": 116,
+      "games_fetched": 39,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "red-rake-gaming",
+      "name": "Red Rake Gaming",
+      "url": "/casino/group/red-rake-gaming",
+      "image_url": null,
+      "total_games": 45,
+      "games_fetched": 39,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "game-art",
+      "name": "Game Art",
+      "url": "/casino/group/game-art",
+      "image_url": null,
+      "total_games": 99,
+      "games_fetched": 39,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    },
+    {
+      "slug": "spinomenal",
+      "name": "Spinomenal",
+      "url": "/casino/group/spinomenal",
+      "image_url": null,
+      "total_games": 119,
+      "games_fetched": 39,
+      "status": "initial_completed",
+      "last_updated": null,
+      "checkpoint_file": null
+    }
+  ],
+  "metadata_generation_result": {
+    "success": true,
+    "statistics": {
+      "total_games": 1547,
+      "providers": {
+        "3 Oaks Gaming": 39,
+        "AvatarUX": 39,
+        "Belatra": 39,
+        "Big Time Gaming": 39,
+        "Blueprint": 39,
+        "BGaming": 39,
+        "ELK Studios": 39,
+        "Endorphina": 39,
+        "Evolution": 39,
+        "Games Global": 39,
+        "GameArt": 39,
+        "Gamomat": 39,
+        "Hacksaw Gaming": 39,
+        "Netent": 39,
+        "Novomatic": 39,
+        "Nolimit City": 39,
+        "Penguin King ": 39,
+        "PG Soft": 39,
+        "Play'n Go": 39,
+        "Popiplay": 39,
+        "Pragmatic Play": 39,
+        "Push Gaming": 39,
+        "Quickspin": 39,
+        "Red Rake Gaming": 39,
+        "Red Tiger": 39,
+        "Relax Gaming": 39,
+        "Spinomenal": 39,
+        "Thunderkick": 39,
+        "VoltEnt": 39,
+        "Playson": 38,
+        "Slotmill": 36,
+        "Peter & Sons": 33,
+        "OneTouch": 32,
+        "Backseat Gaming": 26,
+        "Fantasma Games": 26,
+        "Twist Gaming": 25,
+        "Stake Originals": 25,
+        "Skywind": 24,
+        "Print Studios": 22,
+        "Massive Studios": 21,
+        "Bullshark Games": 20,
+        "Titan Gaming": 19,
+        "Paperclip Gaming": 18,
+        "Fat Panda": 15,
+        "Hacksaw OpenRGS": 8,
+        "18 Gaming": 6,
+        "Live88": 5,
+        "Shady Lady": 5,
+        "Just Slots": 4,
+        "Mirror Image Gaming": 3,
+        "Drip Drop Studios": 1,
+        "Paradice Gaming": 1,
+        "MadLab Gaming": 1,
+        "Rubber Duck Gaming": 1,
+        "Atomic Gaming": 1
+      },
+      "categories": {},
+      "themes": {},
+      "images": {
+        "total_expected": 1547,
+        "downloaded": 0,
+        "missing": 1547,
+        "completion_rate": 0.0
+      },
+      "top_providers": [
+        [
+          "3 Oaks Gaming",
+          39
+        ],
+        [
+          "AvatarUX",
+          39
+        ],
+        [
+          "Belatra",
+          39
+        ],
+        [
+          "Big Time Gaming",
+          39
+        ],
+        [
+          "Blueprint",
+          39
+        ],
+        [
+          "BGaming",
+          39
+        ],
+        [
+          "ELK Studios",
+          39
+        ],
+        [
+          "Endorphina",
+          39
+        ],
+        [
+          "Evolution",
+          39
+        ],
+        [
+          "Games Global",
+          39
+        ]
+      ],
+      "top_categories": [],
+      "top_themes": []
+    },
+    "files_generated": {
+      "csv_metadata": "stake_thumbnails\\games_metadata_20250807_023955.csv",
+      "json_metadata": "stake_thumbnails\\games_metadata_20250807_023955.json",
+      "provider_summary": "stake_thumbnails\\provider_summary_20250807_023955.csv"
+    }
+  }
+}

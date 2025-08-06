@@ -1,0 +1,254 @@
+2025-08-07 02:39:12,894 - INFO - 🚀 Robust Stake Scraper initialized
+2025-08-07 02:39:12,894 - INFO - 📁 Directories created/verified
+2025-08-07 02:39:12,909 - INFO - 🚀 Starting Robust Stake Scraper - Phase 1: Initial Data Collection
+2025-08-07 02:39:12,910 - INFO - 📋 Step 1: Fetching providers list...
+2025-08-07 02:39:12,935 - INFO - ✅ Checkpoint loaded: providers_list
+2025-08-07 02:39:12,938 - INFO - 📋 Loading providers from checkpoint...
+2025-08-07 02:39:12,961 - INFO - 🎮 Step 2: Fetching initial games data for all providers...
+2025-08-07 02:39:12,962 - INFO - 🚀 Starting initial fetch for 49 providers...
+2025-08-07 02:39:12,989 - INFO - ✅ Checkpoint loaded: provider_pragmatic-play_initial
+2025-08-07 02:39:12,989 - INFO - 📋 Provider Pragmatic Play initial data already fetched
+2025-08-07 02:39:13,015 - INFO - ✅ Checkpoint loaded: provider_stake-originals_initial
+2025-08-07 02:39:13,039 - INFO - 📋 Provider Stake Originals initial data already fetched
+2025-08-07 02:39:13,040 - INFO - ✅ Checkpoint loaded: provider_hacksaw-gaming_initial
+2025-08-07 02:39:13,061 - INFO - 📋 Provider Hacksaw Gaming initial data already fetched
+2025-08-07 02:39:13,065 - INFO - ✅ Checkpoint loaded: provider_evolution-gaming_initial
+2025-08-07 02:39:13,090 - INFO - 📋 Provider Evolution Gaming initial data already fetched
+2025-08-07 02:39:13,091 - INFO - ✅ Checkpoint loaded: provider_no-limit-city_initial
+2025-08-07 02:39:13,115 - INFO - 📋 Provider No Limit City initial data already fetched
+2025-08-07 02:39:13,140 - INFO - ✅ Checkpoint loaded: provider_massive-studios_initial
+2025-08-07 02:39:13,140 - INFO - 📋 Provider Massive Studios initial data already fetched
+2025-08-07 02:39:13,164 - INFO - ✅ Checkpoint loaded: provider_twist-gaming_initial
+2025-08-07 02:39:13,165 - INFO - 📋 Provider Twist Gaming initial data already fetched
+2025-08-07 02:39:13,190 - INFO - ✅ Checkpoint loaded: provider_titan-gaming_initial
+2025-08-07 02:39:13,191 - INFO - 📋 Provider Titan Gaming initial data already fetched
+2025-08-07 02:39:13,217 - INFO - ✅ Checkpoint loaded: provider_backseat-gaming_initial
+2025-08-07 02:39:13,241 - INFO - 📋 Provider Backseat Gaming initial data already fetched
+2025-08-07 02:39:13,242 - INFO - ✅ Checkpoint loaded: provider_b-gaming_initial
+2025-08-07 02:39:13,267 - INFO - 📋 Provider B Gaming initial data already fetched
+2025-08-07 02:39:13,267 - INFO - ✅ Checkpoint loaded: provider_push-gaming_initial
+2025-08-07 02:39:13,292 - INFO - 📋 Provider Push Gaming initial data already fetched
+2025-08-07 02:39:13,293 - INFO - ✅ Checkpoint loaded: provider_hacksaw-openrgs_initial
+2025-08-07 02:39:13,318 - INFO - 📋 Provider Hacksaw OpenRGS initial data already fetched
+2025-08-07 02:39:13,319 - INFO - ✅ Checkpoint loaded: provider_stake-engine_initial
+2025-08-07 02:39:13,343 - INFO - 📋 Provider Stake Engine initial data already fetched
+2025-08-07 02:39:13,367 - INFO - ✅ Checkpoint loaded: provider_shady-lady_initial
+2025-08-07 02:39:13,367 - INFO - 📋 Provider Shady Lady initial data already fetched
+2025-08-07 02:39:13,394 - INFO - ✅ Checkpoint loaded: provider_relax-gaming_initial
+2025-08-07 02:39:13,395 - INFO - 📋 Provider Relax Gaming initial data already fetched
+2025-08-07 02:39:13,420 - INFO - ✅ Checkpoint loaded: provider_avatarux_initial
+2025-08-07 02:39:13,420 - INFO - 📋 Provider Avatarux initial data already fetched
+2025-08-07 02:39:13,445 - INFO - 🎮 Fetching initial games for provider: Thunderkick
+2025-08-07 02:39:13,452 - INFO - ✅ Checkpoint loaded: provider_penguin-king_initial
+2025-08-07 02:39:13,478 - INFO - 📋 Provider Penguin King initial data already fetched
+2025-08-07 02:39:13,504 - INFO - ✅ Checkpoint loaded: provider_fat-panda_initial
+2025-08-07 02:39:13,505 - INFO - 📋 Provider Fat Panda initial data already fetched
+2025-08-07 02:39:13,534 - INFO - ✅ Checkpoint loaded: provider_peter-sons_initial
+2025-08-07 02:39:13,534 - INFO - 📋 Provider Peter & Sons initial data already fetched
+2025-08-07 02:39:13,561 - INFO - ✅ Checkpoint loaded: provider_playn-go_initial
+2025-08-07 02:39:13,593 - INFO - 📋 Provider Play'n GO initial data already fetched
+2025-08-07 02:39:13,594 - INFO - ✅ Checkpoint loaded: provider_popiplay_initial
+2025-08-07 02:39:13,619 - INFO - 📋 Provider Popiplay initial data already fetched
+2025-08-07 02:39:13,620 - INFO - ✅ Checkpoint loaded: provider_paperclip-gaming_initial
+2025-08-07 02:39:13,645 - INFO - 📋 Provider Paperclip Gaming initial data already fetched
+2025-08-07 02:39:13,645 - INFO - ✅ Checkpoint loaded: provider_elk-studios_initial
+2025-08-07 02:39:13,671 - INFO - 📋 Provider Elk Studios initial data already fetched
+2025-08-07 02:39:13,672 - INFO - ✅ Checkpoint loaded: provider_print-studios_initial
+2025-08-07 02:39:13,695 - INFO - 📋 Provider Print Studios initial data already fetched
+2025-08-07 02:39:13,724 - INFO - ✅ Checkpoint loaded: provider_bullshark-games_initial
+2025-08-07 02:39:13,725 - INFO - 📋 Provider Bullshark Games initial data already fetched
+2025-08-07 02:39:13,752 - INFO - ✅ Checkpoint loaded: provider_netent_initial
+2025-08-07 02:39:13,752 - INFO - 📋 Provider NetEnt initial data already fetched
+2025-08-07 02:39:13,812 - INFO - ✅ Checkpoint loaded: provider_big-time-gaming_initial
+2025-08-07 02:39:13,813 - INFO - 📋 Provider Big Time Gaming initial data already fetched
+2025-08-07 02:39:13,844 - INFO - ✅ Checkpoint loaded: provider_red-tiger_initial
+2025-08-07 02:39:13,868 - INFO - 📋 Provider Red Tiger initial data already fetched
+2025-08-07 02:39:13,869 - INFO - ✅ Checkpoint loaded: provider_pg-soft_initial
+2025-08-07 02:39:13,892 - INFO - 📋 Provider PG Soft initial data already fetched
+2025-08-07 02:39:13,893 - INFO - ✅ Checkpoint loaded: provider_onetouch_initial
+2025-08-07 02:39:13,916 - INFO - 📋 Provider OneTouch initial data already fetched
+2025-08-07 02:39:13,920 - INFO - ✅ Checkpoint loaded: provider_slotmill_initial
+2025-08-07 02:39:13,943 - INFO - 📋 Provider Slotmill initial data already fetched
+2025-08-07 02:39:13,968 - INFO - ✅ Checkpoint loaded: provider_live88_initial
+2025-08-07 02:39:13,969 - INFO - 📋 Provider Live88 initial data already fetched
+2025-08-07 02:39:13,992 - INFO - ✅ Checkpoint loaded: provider_gamomat_initial
+2025-08-07 02:39:13,992 - INFO - 📋 Provider Gamomat initial data already fetched
+2025-08-07 02:39:14,025 - INFO - ✅ Checkpoint loaded: provider_3-oaks-gaming_initial
+2025-08-07 02:39:14,026 - INFO - 📋 Provider 3 Oaks Gaming initial data already fetched
+2025-08-07 02:39:14,051 - INFO - ✅ Checkpoint loaded: provider_games-global_initial
+2025-08-07 02:39:14,072 - INFO - 📋 Provider Games Global initial data already fetched
+2025-08-07 02:39:14,075 - INFO - ✅ Checkpoint loaded: provider_endorphina_initial
+2025-08-07 02:39:14,099 - INFO - 📋 Provider Endorphina initial data already fetched
+2025-08-07 02:39:14,100 - INFO - ✅ Checkpoint loaded: provider_voltent_initial
+2025-08-07 02:39:14,122 - INFO - 📋 Provider VoltEnt initial data already fetched
+2025-08-07 02:39:14,125 - INFO - ✅ Checkpoint loaded: provider_just-slots_initial
+2025-08-07 02:39:14,149 - INFO - 📋 Provider Just Slots initial data already fetched
+2025-08-07 02:39:14,150 - INFO - ✅ Checkpoint loaded: provider_fantasma-games_initial
+2025-08-07 02:39:14,177 - INFO - 📋 Provider Fantasma Games initial data already fetched
+2025-08-07 02:39:14,201 - INFO - ✅ Checkpoint loaded: provider_blueprint_initial
+2025-08-07 02:39:14,201 - INFO - 📋 Provider Blueprint initial data already fetched
+2025-08-07 02:39:14,225 - INFO - ✅ Checkpoint loaded: provider_belatra_initial
+2025-08-07 02:39:14,226 - INFO - 📋 Provider Belatra initial data already fetched
+2025-08-07 02:39:14,250 - INFO - ✅ Checkpoint loaded: provider_playson_initial
+2025-08-07 02:39:14,251 - INFO - 📋 Provider Playson initial data already fetched
+2025-08-07 02:39:14,278 - INFO - ✅ Checkpoint loaded: provider_novomatic_initial
+2025-08-07 02:39:14,307 - INFO - 📋 Provider Novomatic initial data already fetched
+2025-08-07 02:39:14,311 - INFO - 🎮 Fetching initial games for provider: Skywind
+2025-08-07 02:39:36,786 - INFO - 📊 HTML fetch output for Skywind:
+🚀 Starting live fetch of Stake.com games for provider: skywind (attempt 1/3)...
+✅ Session created successfully: 6642ac35-ec77-471e-929c-d3e94af268c0
+📡 Fetching: https://stake.com/casino/group/skywind
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1695257 characters
+💾 Games HTML saved to: stake_games_skywind_2025-08-06T21-39-36-054Z.html
+🎰 Found 6668 game-related mentions
+� Page title: Skywind Group Online Slot Games - Play Best Slots by Skywind
+� Total games found: 24
+🎮 Found approximately 80 games in initial load
+🎉 Successfully fetched and analyzed games for skywind!
+💾 Also saved as: stake_games_skywind_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched skywind games page!
+
+2025-08-07 02:39:36,786 - INFO - 📊 Extracted 0 games from stake_games_skywind_2025-08-06T21-20-46-105Z.html
+2025-08-07 02:39:36,802 - INFO - 📊 Extracted 0 games from stake_games_skywind_2025-08-06T21-21-21-652Z.html
+2025-08-07 02:39:36,812 - INFO - 📊 Extracted 0 games from stake_games_skywind_2025-08-06T21-21-31-466Z.html
+2025-08-07 02:39:37,008 - INFO - 📊 Extracted 24 games from stake_games_skywind_2025-08-06T21-39-36-054Z.html
+2025-08-07 02:39:37,181 - INFO - 📊 Extracted 24 games from stake_games_skywind_latest.html
+2025-08-07 02:39:37,376 - INFO - 📊 Extracted 24 games from stake_games_skywind_latest.html
+2025-08-07 02:39:37,376 - INFO - 📊 Provider has only 24 games (complete - no pagination needed)
+2025-08-07 02:39:37,376 - INFO - 💾 Saved 24 games data for Skywind
+2025-08-07 02:39:37,402 - INFO - ✅ Checkpoint saved: provider_skywind_initial
+2025-08-07 02:39:37,402 - INFO - ✅ Initial fetch completed for Skywind: complete
+2025-08-07 02:39:37,427 - INFO - ✅ Checkpoint loaded: provider_quickspin_initial
+2025-08-07 02:39:37,451 - INFO - 📋 Provider Quickspin initial data already fetched
+2025-08-07 02:39:37,453 - INFO - ✅ Checkpoint loaded: provider_red-rake-gaming_initial
+2025-08-07 02:39:37,473 - INFO - 📋 Provider Red Rake Gaming initial data already fetched
+2025-08-07 02:39:37,473 - INFO - ✅ Checkpoint loaded: provider_game-art_initial
+2025-08-07 02:39:37,500 - INFO - 📋 Provider Game Art initial data already fetched
+2025-08-07 02:39:37,501 - INFO - ✅ Checkpoint loaded: provider_spinomenal_initial
+2025-08-07 02:39:37,525 - INFO - 📋 Provider Spinomenal initial data already fetched
+2025-08-07 02:39:53,426 - INFO - 📊 HTML fetch output for Thunderkick:
+🚀 Starting live fetch of Stake.com games for provider: thunderkick (attempt 1/3)...
+✅ Session created successfully: b9987889-1269-4082-b0fa-d8924ee634b2
+📡 Fetching: https://stake.com/casino/group/thunderkick
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1778345 characters
+💾 Games HTML saved to: stake_games_thunderkick_2025-08-06T21-39-53-034Z.html
+🎰 Found 7041 game-related mentions
+� Page title: Thunderkick Casino Games - Play Slots Online at Stake.com
+� Total games found: 82
+🎮 Found approximately 102.5 games in initial load
+🎉 Successfully fetched and analyzed games for thunderkick!
+💾 Also saved as: stake_games_thunderkick_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched thunderkick games page!
+
+2025-08-07 02:39:53,426 - INFO - 📊 Extracted 0 games from stake_games_thunderkick_2025-08-06T21-10-49-687Z.html
+2025-08-07 02:39:53,426 - INFO - 📊 Extracted 0 games from stake_games_thunderkick_2025-08-06T21-11-40-499Z.html
+2025-08-07 02:39:53,453 - INFO - 📊 Extracted 0 games from stake_games_thunderkick_2025-08-06T21-11-51-513Z.html
+2025-08-07 02:39:53,690 - INFO - 📊 Extracted 39 games from stake_games_thunderkick_2025-08-06T21-39-53-034Z.html
+2025-08-07 02:39:53,869 - INFO - 📊 Extracted 39 games from stake_games_thunderkick_latest.html
+2025-08-07 02:39:54,092 - INFO - 📊 Extracted 39 games from stake_games_thunderkick_latest.html
+2025-08-07 02:39:54,092 - INFO - 📊 Provider has 82 total games (39 in initial batch)
+2025-08-07 02:39:54,107 - INFO - 💾 Saved 39 games data for Thunderkick
+2025-08-07 02:39:54,125 - INFO - ✅ Checkpoint saved: provider_thunderkick_initial
+2025-08-07 02:39:54,125 - INFO - ✅ Initial fetch completed for Thunderkick: initial batch (39/82)
+2025-08-07 02:39:54,158 - INFO - ✅ Initial fetch completed: 49/49 providers successful
+2025-08-07 02:39:54,158 - INFO - ✅ Phase 1 Complete: Initial provider data collection finished
+2025-08-07 02:39:54,183 - INFO - 📊 Summary:
+2025-08-07 02:39:54,207 - INFO -    🏢 Total Providers: 49
+2025-08-07 02:39:54,208 - INFO -    ✅ Successful: 49
+2025-08-07 02:39:54,233 - INFO -    🎮 Total Games Found: 3828
+2025-08-07 02:39:54,234 - INFO -    📥 Initial Games Fetched: 1547
+2025-08-07 02:39:54,259 - INFO -    ✅ Complete Providers (≤39 games): 20
+2025-08-07 02:39:54,259 - INFO -    📄 Providers Needing Pagination: 29
+2025-08-07 02:39:54,286 - INFO - 📊 Generating metadata files...
+2025-08-07 02:39:54,290 - INFO - 📊 Starting metadata generation...
+2025-08-07 02:39:54,323 - INFO - 🔍 Scanning for games data in: stake_thumbnails
+2025-08-07 02:39:54,325 - INFO - 📊 3_Oaks_Gaming: 39 unique games (removed 0 duplicates)
+2025-08-07 02:39:54,382 - INFO - 📊 Avatarux: 39 unique games (removed 0 duplicates)
+2025-08-07 02:39:54,414 - INFO - 📊 Backseat_Gaming: 26 unique games (removed 0 duplicates)
+2025-08-07 02:39:54,414 - INFO - 📊 Belatra: 39 unique games (removed 0 duplicates)
+2025-08-07 02:39:54,441 - INFO - 📊 Big_Time_Gaming: 39 unique games (removed 0 duplicates)
+2025-08-07 02:39:54,481 - INFO - 📊 Blueprint: 39 unique games (removed 0 duplicates)
+2025-08-07 02:39:54,481 - INFO - 📊 Bullshark_Games: 20 unique games (removed 0 duplicates)
+2025-08-07 02:39:54,508 - INFO - 📊 B_Gaming: 39 unique games (removed 0 duplicates)
+2025-08-07 02:39:54,531 - INFO - 📊 Elk_Studios: 39 unique games (removed 0 duplicates)
+2025-08-07 02:39:54,536 - INFO - 📊 Endorphina: 39 unique games (removed 0 duplicates)
+2025-08-07 02:39:54,560 - INFO - 📊 Evolution_Gaming: 39 unique games (removed 0 duplicates)
+2025-08-07 02:39:54,588 - INFO - 📊 Fantasma_Games: 26 unique games (removed 0 duplicates)
+2025-08-07 02:39:54,590 - INFO - 📊 Fat_Panda: 15 unique games (removed 0 duplicates)
+2025-08-07 02:39:54,613 - INFO - 📊 Games_Global: 39 unique games (removed 0 duplicates)
+2025-08-07 02:39:54,636 - INFO - 📊 Game_Art: 39 unique games (removed 0 duplicates)
+2025-08-07 02:39:54,639 - INFO - 📊 Gamomat: 39 unique games (removed 0 duplicates)
+2025-08-07 02:39:54,658 - INFO - 📊 Hacksaw_Gaming: 39 unique games (removed 0 duplicates)
+2025-08-07 02:39:54,684 - INFO - 📊 Hacksaw_OpenRGS: 8 unique games (removed 0 duplicates)
+2025-08-07 02:39:54,685 - INFO - 📊 Just_Slots: 4 unique games (removed 0 duplicates)
+2025-08-07 02:39:54,708 - INFO - 📊 Live88: 5 unique games (removed 0 duplicates)
+2025-08-07 02:39:54,734 - INFO - 📊 Massive_Studios: 21 unique games (removed 0 duplicates)
+2025-08-07 02:39:54,736 - INFO - 📊 NetEnt: 39 unique games (removed 0 duplicates)
+2025-08-07 02:39:54,759 - INFO - 📊 Novomatic: 39 unique games (removed 0 duplicates)
+2025-08-07 02:39:54,786 - INFO - 📊 No_Limit_City: 39 unique games (removed 0 duplicates)
+2025-08-07 02:39:54,788 - INFO - 📊 OneTouch: 32 unique games (removed 0 duplicates)
+2025-08-07 02:39:54,810 - INFO - 📊 Paperclip_Gaming: 9 unique games (removed 0 duplicates)
+2025-08-07 02:39:54,837 - INFO - 📊 Penguin_King: 39 unique games (removed 0 duplicates)
+2025-08-07 02:39:54,839 - INFO - 📊 Peter_&_Sons: 33 unique games (removed 0 duplicates)
+2025-08-07 02:39:54,861 - INFO - 📊 PG_Soft: 39 unique games (removed 0 duplicates)
+2025-08-07 02:39:54,863 - INFO - 📊 Play'n_GO: 39 unique games (removed 0 duplicates)
+2025-08-07 02:39:54,888 - INFO - 📊 Playson: 38 unique games (removed 0 duplicates)
+2025-08-07 02:39:54,913 - INFO - 📊 Popiplay: 39 unique games (removed 0 duplicates)
+2025-08-07 02:39:54,915 - INFO - 📊 Pragmatic_Play: 39 unique games (removed 0 duplicates)
+2025-08-07 02:39:54,938 - INFO - 📊 Print_Studios: 22 unique games (removed 0 duplicates)
+2025-08-07 02:39:54,963 - INFO - 📊 Push_Gaming: 39 unique games (removed 0 duplicates)
+2025-08-07 02:39:54,963 - INFO - 📊 Quickspin: 39 unique games (removed 0 duplicates)
+2025-08-07 02:39:54,991 - INFO - 📊 Red_Rake_Gaming: 39 unique games (removed 0 duplicates)
+2025-08-07 02:39:55,015 - INFO - 📊 Red_Tiger: 39 unique games (removed 0 duplicates)
+2025-08-07 02:39:55,017 - INFO - 📊 Relax_Gaming: 39 unique games (removed 0 duplicates)
+2025-08-07 02:39:55,038 - INFO - 📊 Shady_Lady: 5 unique games (removed 0 duplicates)
+2025-08-07 02:39:55,052 - INFO - 📊 Skywind: 24 unique games (removed 0 duplicates)
+2025-08-07 02:39:55,052 - INFO - 📊 Slotmill: 36 unique games (removed 0 duplicates)
+2025-08-07 02:39:55,093 - INFO - 📊 Spinomenal: 39 unique games (removed 0 duplicates)
+2025-08-07 02:39:55,122 - INFO - 📊 Stake_Engine: 27 unique games (removed 0 duplicates)
+2025-08-07 02:39:55,124 - INFO - 📊 Stake_Originals: 25 unique games (removed 0 duplicates)
+2025-08-07 02:39:55,152 - INFO - 📊 Thunderkick: 39 unique games (removed 0 duplicates)
+2025-08-07 02:39:55,178 - INFO - 📊 Titan_Gaming: 16 unique games (removed 0 duplicates)
+2025-08-07 02:39:55,180 - INFO - 📊 Twist_Gaming: 24 unique games (removed 0 duplicates)
+2025-08-07 02:39:55,202 - INFO - 📊 VoltEnt: 39 unique games (removed 0 duplicates)
+2025-08-07 02:39:55,224 - INFO - ✅ Loaded 1547 total games from 49 providers
+2025-08-07 02:39:55,224 - INFO - 📊 Generating CSV metadata: stake_thumbnails\games_metadata_20250807_023955.csv
+2025-08-07 02:39:55,268 - INFO - ✅ CSV metadata saved: 1547 games
+2025-08-07 02:39:55,269 - INFO - 📊 Generating JSON metadata: stake_thumbnails\games_metadata_20250807_023955.json
+2025-08-07 02:39:55,312 - INFO - ✅ JSON metadata saved: 1547 games
+2025-08-07 02:39:55,312 - INFO - 📊 Generating provider summary: stake_thumbnails\provider_summary_20250807_023955.csv
+2025-08-07 02:39:55,327 - INFO - ✅ Provider summary saved: 55 providers
+2025-08-07 02:39:55,355 - INFO - ✅ Metadata generation completed!
+2025-08-07 02:39:55,374 - INFO - 📊 Final Statistics:
+2025-08-07 02:39:55,379 - INFO -    Total Games: 1547
+2025-08-07 02:39:55,379 - INFO -    Total Providers: 55
+2025-08-07 02:39:55,379 - INFO -    Images Downloaded: 0
+2025-08-07 02:39:55,379 - INFO -    Images Missing: 1547
+2025-08-07 02:39:55,379 - INFO -    Completion Rate: 0.0%
+2025-08-07 02:39:55,380 - INFO - ✅ Metadata generation completed successfully!
+2025-08-07 02:39:55,399 - INFO - 📊 Final Summary:
+2025-08-07 02:39:55,406 - INFO -    🎮 Total Games: 1547
+2025-08-07 02:39:55,435 - INFO -    🏢 Total Providers: 55
+2025-08-07 02:39:55,460 - INFO -    🖼️ Images Downloaded: 0
+2025-08-07 02:39:55,460 - INFO -    📈 Completion Rate: 0.0%
+2025-08-07 02:39:55,486 - INFO - 📋 Comprehensive metadata saved to metadata\comprehensive_metadata_20250807_023955.json
+2025-08-07 02:39:55,486 - INFO - 🎯 Phase 1 objectives achieved:
+2025-08-07 02:39:55,509 - INFO -    ✅ All provider total game counts collected
+2025-08-07 02:39:55,510 - INFO -    ✅ Initial game batches (≤39 games) saved
+2025-08-07 02:39:55,534 - INFO -    ✅ Data formatted according to client requirements
+2025-08-07 02:39:55,534 - INFO -    ✅ Checkpoints saved for all providers
+2025-08-07 02:39:55,559 - INFO - 
+📋 Next Steps Available:
+2025-08-07 02:39:55,560 - INFO -    📄 Phase 2: Complete game fetching for 29 providers
+2025-08-07 02:39:55,587 - INFO -    🖼️ Phase 3: Image downloading and processing
+2025-08-07 02:39:55,587 - INFO -    📊 Phase 4: Final metadata generation
+2025-08-07 02:39:55,612 - INFO - ⏱️ Phase 1 execution time: 0:00:42.702627
+2025-08-07 02:39:55,612 - INFO - 📊 Session stats saved to: metadata\session_stats_phase1_20250807_023955.json

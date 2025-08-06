@@ -1,10 +1,9 @@
 {
-  "provider": "Push Gaming",
+  "timestamp": "2025-08-06T22:49:20.384Z",
   "provider_slug": "push-gaming",
+  "provider_name": "Push Gaming",
   "total_games": 57,
-  "games_fetched": 39,
-  "is_complete": false,
-  "needs_pagination": true,
+  "games_fetched": 57,
   "games": [
     {
       "game_id": "pushgaming-wild-swarm-triple-hive",
@@ -395,8 +394,204 @@
       "expected_filename": "Push Gaming - 3 Magic Pots.webp",
       "game_url": "https://stake.com/casino/games/pushgaming-3-magic-pots",
       "extracted_at": "2025-08-07T02:08:03.024713"
+    },
+    {
+      "id": "6d447854-9ac1-44ee-8cc1-62e7a406620a",
+      "name": "Tiki Tumble",
+      "slug": "pushgaming-tiki-tumble",
+      "thumbnailUrl": "https://mediumrare.imgix.net/2aa270aa1f63f553466a7fe7a2e1661a96d3c50768557bfee8ddb328f10b0bb5",
+      "thumbnailBlurHash": "eLH:Z%kB9ZnlGc:Sozb{oyJEEvozI^ozMy?KoJD%f8aj0yoe#BWCsp",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "15cc3953-be33-47b7-9402-4f7043d72938",
+      "name": "Wild Swarm",
+      "slug": "pushgaming-wild-swarm",
+      "thumbnailUrl": "https://mediumrare.imgix.net/c1958fbfeadd645e6e5e98ec0acb28ac880c7dcfebfd670fc7397e24ff98bff8",
+      "thumbnailBlurHash": "eONbAD%2Q,s,DjLAxugOaxNH:?WYI?NGobL3R*IANHobD4t3x[V]o}",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "28367004-42d6-4a43-8efb-928d7bc9192a",
+      "name": "Olympus Unleashed",
+      "slug": "pushgaming-olympus-unleashed",
+      "thumbnailUrl": "https://mediumrare.imgix.net/e4b362706885ea47521a481063706a10f5675a14095c570820cc5345cf84d09f",
+      "thumbnailBlurHash": "egG9KwjaICoLrrzTf6njj?xDS$fPxZa|oe$+j[WBa}NbD*azoeazbb",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "a35ee1be-4ff0-40ec-9f8b-614637db615e",
+      "name": "Fish 'n' Nudge",
+      "slug": "pushgaming-fish-n-nudge",
+      "thumbnailUrl": "https://mediumrare.imgix.net/70dcdd3752fa8b9d19a443d4953cec494f440f14ce088db21112b576b4eef95c",
+      "thumbnailBlurHash": "edK2IjM}ALkDJB^5V@p0a$oeX:s*$~Rnr:~nkDemR,ROR;W=nnoxjK",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "723d8836-37e2-4e9f-9f5d-098d00e70d3f",
+      "name": "Dino P.D.",
+      "slug": "pushgaming-dino-pd",
+      "thumbnailUrl": "https://mediumrare.imgix.net/12db48236cead00f7e2f157a9991ac6861f5ba89454927c0ef0239024adae910",
+      "thumbnailBlurHash": "enNkhZo{O*wcax3mo{TwsAjZrvofajjYjctTe?R6WCaeVtWBogbIWU",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "27c86579-6991-491d-9f90-de58e1e8b9fc",
+      "name": "Generous Jack",
+      "slug": "pushgaming-generous-jack",
+      "thumbnailUrl": "https://mediumrare.imgix.net/3c316c18dabd6f7cc0cba928de279f3b46eed0cac4497315660e99447a449aca",
+      "thumbnailBlurHash": "eVNR7C%09GV[V[0y%0bwRkV[rWxZ%0RlR-yYX8r;jZRQIBSgo}j@aL",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "030ff22b-23b9-4a4f-baeb-1238979f8cc5",
+      "name": "Mad Blast",
+      "slug": "pushgaming-mad-blast",
+      "thumbnailUrl": "https://mediumrare.imgix.net/c2271203abd4796a2c19948c997a2ca850e5cddba5b05d9dd9e4b041b5f1e554",
+      "thumbnailBlurHash": "e#MX]joJIgWXsEAof6XAa#obvuaznij[R%TIfjROj?R*Vbjbf{f6oy",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "f3d1fe08-d183-4877-959e-975fbe889a1d",
+      "name": "Cats Of Olympuss",
+      "slug": "pushgaming-cats-of-olympuss",
+      "thumbnailUrl": "https://mediumrare.imgix.net/eefb6b665511cd3a028a5f348d0a6493fdb94699c04f187018417c2cd6372d05",
+      "thumbnailBlurHash": "ePMG0@nhKktSyDuBnit+WXx@#2w{v}RPwH.Pw[Q.aKa28|adowkCW.",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "a2e258ff-865c-4b7b-b77b-0092255af7f5",
+      "name": "Jaguar Drop",
+      "slug": "pushgaming-jaguar-drop",
+      "thumbnailUrl": "https://mediumrare.imgix.net/4ae6559c612fd36e260470b1e027fbbeecbfb7cabc7f01c676e8536ee2394329",
+      "thumbnailBlurHash": "eUK9o+s:IAsmE715Wro}j@OG#TflNHWVozPqn*R5jar;D$a#%Mfl$z",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "27b826e0-2ae7-49d8-bf7c-648e23771744",
+      "name": "Rat King",
+      "slug": "pushgaming-rat-king",
+      "thumbnailUrl": "https://mediumrare.imgix.net/c124ea7ad839f2808765c209b249dae07922e93f1b0dda5acba1cd31b57f634c",
+      "thumbnailBlurHash": "ebNSK|j1D7t5Mz^+WFn.ouRlDPWYx[bWtQR7sBRkoItQIUaKo|ofjY",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "f5dc08a6-ec8c-417e-b9c5-3beb832b3a79",
+      "name": "Shamrock Saints",
+      "slug": "pushgaming-shamrock-saints",
+      "thumbnailUrl": "https://mediumrare.imgix.net/0a7cae30e916e894c6b9482dc441e9d3774dee14a5a195889cde08f75df03caa",
+      "thumbnailBlurHash": "eSMPBlIr-4t6-Q0yjs?GxZt6vfoe$%azNHYQbIVsWWV?rBayo$t6t6",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "1653256c-b606-463c-8f66-74972a6fd75e",
+      "name": "10 Swords",
+      "slug": "pushgaming-10-swords",
+      "thumbnailUrl": "https://mediumrare.imgix.net/15b1e08b45d8457cfe16dc391337f728523c11347e42606ad2eae75eae3d2862",
+      "thumbnailBlurHash": "eMJ8YNtRAeW-Me#3o#pJV?aKAMWYiwnhR._0WBIAxtM|0.W9oxWYn#",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "bacc3e9c-f61d-43fc-8d22-3424380551d1",
+      "name": "Blaze of Ra",
+      "slug": "pushgaming-blaze-of-ra",
+      "thumbnailUrl": "https://mediumrare.imgix.net/22a5cb04127933732c8268dde922670f25411f17b159775eec94c947d38b6701",
+      "thumbnailBlurHash": "ehIr1yXlxBW=r=@qbb-Uazw{XnnjV[oJWV-os-IooeNaMyoe%1ayof",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "f07ba7cf-0c95-43d1-b707-3327a48020b4",
+      "name": "Mad Cars",
+      "slug": "pushgaming-mad-cars",
+      "thumbnailUrl": "https://mediumrare.imgix.net/d97d73daaf42510f0d10653ba09b7ad066ff52f2652bf20c1797015a1dd5ef69",
+      "thumbnailBlurHash": "eeJO_,s;DuWVr|VnofXSWUoLaCf6t5WnWTpIWVVta{WEIJWoxsn%f$",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "093448a3-428c-4a12-afde-0e2325d24d51",
+      "name": "Hearts Highway",
+      "slug": "pushgaming-hearts-highway",
+      "thumbnailUrl": "https://mediumrare.imgix.net/7d55133daf956344826393d43c18f8b8b02835e5e94f2469f19afb8f0c1fe3e1",
+      "thumbnailBlurHash": "eWOwa-t75YoMEM1gf8JDazJBq{WYwwWXbJG]bIs8jb$h8~njSxjZ$~",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "8901ce33-0298-467a-9192-af14dcd73b01",
+      "name": "Samurai's Katana",
+      "slug": "pushgaming-samurais-katana",
+      "thumbnailUrl": "https://mediumrare.imgix.net/94f7128d4d0b59ee1cab5e43f36cfaf5c910da34221c970fabf03865fa8d419f",
+      "thumbnailBlurHash": "e+MEkewvaOjdnjVUspbbafoerxfmSej=Sgx[S2WBocR*IEWAocbIj?",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "2f8edc2f-819e-47ee-aa71-5831b0934be5",
+      "name": "DJ Fox",
+      "slug": "pushgaming-dj-fox",
+      "thumbnailUrl": "https://mediumrare.imgix.net/99b0c906e1d59c1fef33f98382c6141d16cfcbfcf93b6ab5452dd1e60d9c56d9",
+      "thumbnailBlurHash": "eYJ7n.VrOxnhRX%AWAtTnjoMI$o#skspR%yUo#V@oKRkD?WVbBRj%1",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "914a0c9c-116a-4aab-973d-2aba640d4d2a",
+      "name": "DJ CAT",
+      "slug": "pushgaming-dj-cat",
+      "thumbnailUrl": "https://mediumrare.imgix.net/db635fa21b59ed0e0367b1cd09a128ed7cc8d5e82446b8b312a5ab41848f6fab",
+      "thumbnailBlurHash": "eVFH9%jXF}ofM|V-jFXTWFr?A4oNnMWXae=;bbVqs+NuIwR*n$oIxu",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
     }
-  ],
-  "timestamp": "2025-08-07T02:08:03.024713",
-  "source": "initial_html_fetch"
+  ]
 }

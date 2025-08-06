@@ -1,10 +1,9 @@
 {
-  "provider": "Novomatic",
+  "timestamp": "2025-08-06T22:57:20.060Z",
   "provider_slug": "novomatic",
+  "provider_name": "Novomatic",
   "total_games": 61,
-  "games_fetched": 39,
-  "is_complete": false,
-  "needs_pagination": true,
+  "games_fetched": 61,
   "games": [
     {
       "game_id": "novomatic-8-bullets-hold-and-win",
@@ -395,8 +394,248 @@
       "expected_filename": "Novomatic - Roaring Forties.webp",
       "game_url": "https://stake.com/casino/games/novomatic-roaring-forties",
       "extracted_at": "2025-08-07T02:20:38.685395"
+    },
+    {
+      "id": "3d915e9b-07c6-4a96-aa50-0b97dfb2eb75",
+      "name": "5 Sevens Hold & Win",
+      "slug": "novomatic-5-sevens-hold-win",
+      "thumbnailUrl": "https://mediumrare.imgix.net/cd4ed26e8f0d01420205adf422bfc4fdbcf184ac9f40836e61b12e7e06e14863",
+      "thumbnailBlurHash": "eUPES1OU8#R-D*9FbbN3WCS$H[n+Y1oJtQEEV[Suoyk8VWayWGkBtR",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "30d67b34-9cf6-41b1-af58-1334c565ec2c",
+      "name": "Million Dollar Heist Xtreme",
+      "slug": "novomatic-million-dollar-heist-xtreme",
+      "thumbnailUrl": "https://mediumrare.imgix.net/42b2e330208b0a72fe1c34fcbfea89c1fdb1eac3db56c16c67c30185d7677ea0",
+      "thumbnailBlurHash": "eHLVK:xa8w$~x]JM%0KQNaNtH?N^%fIWNHTyofMdVtn5Mxs9XTofjF",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "0af4ac8d-4b86-4908-9628-64a2849e218e",
+      "name": "Plenty of Fruit 40",
+      "slug": "novomatic-plenty-of-fruit-40",
+      "thumbnailUrl": "https://mediumrare.imgix.net/5a5a7707cec794727c2894763b7b3acb1e756d3453b5b44367d3d7d0b2fe74bf",
+      "thumbnailBlurHash": "ehGcNPxY5dNeaj#ioeS*Sgjb1URmwboes*O]WBVsn*oGV[kRxBr]k9",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "5ec2995b-47fa-41bf-82b3-7df0078a4d3d",
+      "name": "Columbus Deluxe",
+      "slug": "novomatic-columbus-deluxe",
+      "thumbnailUrl": "https://mediumrare.imgix.net/47ee2937908a7454b0e4dffec90d73f060877a3716c8ef3e1c2d7c0dbd1669dc",
+      "thumbnailBlurHash": "eqKbwqI@VsV[WUM@NdxZjFoyRGofjZocoMt%s,RjbHV[RRn%o|WCbb",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "064f4113-0185-40aa-bf68-d3e1a5b55929",
+      "name": "10 Super Clover",
+      "slug": "novomatic-10-super-clover",
+      "thumbnailUrl": "https://mediumrare.imgix.net/146f07efa10eb431fb9feb2267182b5c3b06a7e84272f2b7d491efa0d7572705",
+      "thumbnailBlurHash": "eiIYT[jG9uoeIovMoMS~fOof0}fktOay$%O]WUotjbr?EckAozWCn-",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "4f441aa7-95d0-482c-8d22-a12b9fe7f263",
+      "name": "Hot Chance",
+      "slug": "novomatic-hot-chance",
+      "thumbnailUrl": "https://mediumrare.imgix.net/29d3beef4543d516d25dcacca9741e67cb7ef18f4a2fac39b0b1bab5e5954d02",
+      "thumbnailBlurHash": "ePM;j;SOqaS1wJbWbIr?bFwdE2W;KOn+t5^7W.E3WEkol:w]OtWrtQ",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "8a1e9e80-ce72-4785-8233-f4f7038124c2",
+      "name": "Book of Flames: Hold and Win",
+      "slug": "novomatic-book-of-flames-hold-and-win",
+      "thumbnailUrl": "https://mediumrare.imgix.net/5aefd8a021e9839031882f61f1f63d492fefd610e8698f828b3414c7afe9f1c3",
+      "thumbnailBlurHash": "eWPqK8R6=XM#wI34VtxuRmbJ*~jEa5ofNI*IjFnOj]RP#kV@OZRlbc",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "7edf7ec9-1073-42d8-b609-ab179a6cd6a1",
+      "name": "Gryphon's Gold",
+      "slug": "novomatic-gryphons-gold",
+      "thumbnailUrl": "https://mediumrare.imgix.net/47ab77aa0c5541f5aac950b07eb8149b1d05fd526007c1dcd5c218e9a3b23ee0",
+      "thumbnailBlurHash": "eVI4*uslIcM}IUGNt8SPRoM|IitSIoaextu2R$V[oZxt9gIV%foybY",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "f7b229e1-c1fd-4e8d-a59c-c8108dc6c338",
+      "name": "Three Hotfire",
+      "slug": "novomatic-three-hotfire",
+      "thumbnailUrl": "https://mediumrare.imgix.net/0fef944fa211891648ea30707df8301b42e547e05e09a56205d28d778693bd66",
+      "thumbnailBlurHash": "eXOm.:WUDkkCM{02fkXTaybvD+jb%Kayt6B?aynMbInORMkBWZf6bc",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "fee2b799-41ac-493f-be74-dd0375b4dd5a",
+      "name": "Rise of Tut",
+      "slug": "novomatic-rise-of-tut",
+      "thumbnailUrl": "https://mediumrare.imgix.net/ae0a317948fc217ea889bc677d0889b69d350baac7cba30999c297eafeeda3c8",
+      "thumbnailBlurHash": "eONuY8slQ-i^#PC%a{JBaeiv@qofMeWsEmu1bIQ-R-JERiayT1WBR:",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "d979d07b-192b-46f9-8230-078a9935a041",
+      "name": "Gold Fever",
+      "slug": "novomatic-gold-fever",
+      "thumbnailUrl": "https://mediumrare.imgix.net/5a328dece6c6292a4d9c8ddd8a661cb905e552b18c2ff41eb5aeb9479c3574fd",
+      "thumbnailBlurHash": "eeHoOjxFNFM{%1=,nOx[WBs.GKRRtSt7RkcqR-RkofWAE,kWxVbHRj",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "993a37b8-2df0-4326-a511-a13703c3ebb6",
+      "name": "Always Hot",
+      "slug": "novomatic-always-hot",
+      "thumbnailUrl": "https://mediumrare.imgix.net/26d20054d4c2081e500c5be1a992beece7573acc54dcca40e56f6e0be2a884c8",
+      "thumbnailBlurHash": "eTO,oloy8xj@NKtJbFWGkBX9iJj[tRayobETjbWAaen|UdjGpIayt7",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "46f930f9-1175-4313-8c15-0282f0d51b6a",
+      "name": "Book Hotfire",
+      "slug": "novomatic-book-hotfire",
+      "thumbnailUrl": "https://mediumrare.imgix.net/0e8c6cd7bc0e2f14f09370f15925cc8393de553f7adb07b64c363bf1232b3510",
+      "thumbnailBlurHash": "ePPg~8e:vOoJ+wI,ayWGf6xuR6axNaayXQyGj?Vsf6RPrUfiXTafbd",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "f99a3b1e-2445-44f6-875a-843acf02b49d",
+      "name": "Coins of Fate",
+      "slug": "novomatic-coins-of-fate",
+      "thumbnailUrl": "https://mediumrare.imgix.net/28bc7d8195d85bd14a3b18f97ddde8b6385dfd1e4f2e7f4d2411a9a9b6f6f1bc",
+      "thumbnailBlurHash": "esMq}MxrRQoyaLVnt6oOjsoxQ}Rkjuafoyx[M}RQWXR%Z,ofofayba",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "ae053e93-a37f-4a73-96a9-5e15c1266c22",
+      "name": "Queen Of Hearts Deluxe",
+      "slug": "novomatic-queen-of-hearts-deluxe",
+      "thumbnailUrl": "https://mediumrare.imgix.net/ae135d4a06518afee0d2ee3f43ac794aa5fa96c6372000b9e5d2535c85a0544d",
+      "thumbnailBlurHash": "eROdd$S54UV[%003WVEPs:xtXyjGSet6kWcaoLVYj?Rjm*oetRWXj]",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "9dbaee47-3d68-4d94-b5bb-aec12a041e53",
+      "name": "Aztec Eclipse Hold and Win",
+      "slug": "novomatic-aztec-eclipse-hold-and-win",
+      "thumbnailUrl": "https://mediumrare.imgix.net/7701bd7c2ce42be8f67b43dc44b6d3a3897a0761e141eab6e26cc385358b45b4",
+      "thumbnailBlurHash": "eSDU0%eV7fxFkqIjbIyEoJtR5ub]$PS4a3?XflIAWDMyM_ajt6jboe",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "a670eaf1-4aa4-4750-8e0f-4e1aca931676",
+      "name": "40 Mega Hotfire",
+      "slug": "novomatic-40-mega-hotfire",
+      "thumbnailUrl": "https://mediumrare.imgix.net/ca6f284626da4eef55a8b30d51a804bcbc9a4ebf27a329bb8636677851f89ce4",
+      "thumbnailBlurHash": "eWKeC*aL2%XQs9vMV]X,XPs;NqWB$+kBR+7|jGNFX7RQ6us:S~S1r_",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "72aa031b-1ed1-45c6-ad83-56ebbd6ff682",
+      "name": "Christmas Boom",
+      "slug": "novomatic-christmas-boom",
+      "thumbnailUrl": "https://mediumrare.imgix.net/da95c70eb5799cb8f15ace77111c0b1a832407e8222bce61d2b825b7f3a0c690",
+      "thumbnailBlurHash": "eaI=[pjEL4OtM{v{oeXSNzs,0nn#MeWExts+jFRQi_adEQbI%LnhV?",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "c0319da6-2571-4980-816e-0797ca8e5ad6",
+      "name": "Ultra Hotfire",
+      "slug": "novomatic-ultra-hotfire",
+      "thumbnailUrl": "https://mediumrare.imgix.net/c4ecd6a3db96539ee4274df9efdb7767b45ccaad6c9ca6b37ae755633ecb40eb",
+      "thumbnailBlurHash": "epIW~@ae9*oeIu+$j?Sjj@kC5ZfkxUWXs*B@a#s7a}nz5bj[ofayt6",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "e4a89c5e-6b27-41f1-b406-495853c110c4",
+      "name": "5 Sevens: Hold and Win Christmas",
+      "slug": "novomatic-5-sevens-hold-and-win-christmas",
+      "thumbnailUrl": "https://mediumrare.imgix.net/db6d33f9cb05fbf672b22ed004234c76beafc7fcb15bf569aa903e32b026420c",
+      "thumbnailBlurHash": "eQPy#Wwc*}S}rXD6Szo#W;kW[AK4KNnPS#yYWBNGjHRiH?rtt7ofo}",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "248a1701-a907-4975-9ebf-cd9f8d35330b",
+      "name": "20 Mega Hotfire",
+      "slug": "novomatic-20-mega-hotfire",
+      "thumbnailUrl": "https://mediumrare.imgix.net/20773420489d94c07619210a9353ef0a863293aa3649473a1f4161067e214b78",
+      "thumbnailBlurHash": "eVNtwIafE0bZs8NCV]Xlk9t7q^V]x[ofV]GvjZRPW=RQD5t6NJRko#",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "0396e317-33d9-40e0-850d-e62018a6f061",
+      "name": "Million Dollar Heist",
+      "slug": "novomatic-million-dollar-heist",
+      "thumbnailUrl": "https://mediumrare.imgix.net/130e68b267769d97a1b125030d73c95e088860deca9d83b73831d6cef3669a59",
+      "thumbnailBlurHash": "eTNSA+o|auozR5B}N_O?s:WF#loyRnV]jvp{t6ROoeV?m+Rko#oyoz",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
     }
-  ],
-  "timestamp": "2025-08-07T02:20:38.685395",
-  "source": "initial_html_fetch"
+  ]
 }

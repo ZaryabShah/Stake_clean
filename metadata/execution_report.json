@@ -1,14 +1,14 @@
 {
   "execution_summary": {
-    "start_time": "2025-08-07T02:04:01.563899",
-    "end_time": "2025-08-07T02:22:42.659548",
-    "total_duration_seconds": 1121.095649,
-    "scraping_duration": 1120.6083240509033,
-    "completion_duration": 0.1101071834564209,
+    "start_time": "2025-08-07T02:39:12.181138",
+    "end_time": "2025-08-07T02:39:55.832180",
+    "total_duration_seconds": 43.651042,
+    "scraping_duration": 43.165117025375366,
+    "completion_duration": 0.11737442016601562,
     "download_duration": null
   },
   "data_summary": {
-    "total_providers": 48,
+    "total_providers": 50,
     "total_games": 0,
     "total_thumbnails": 0,
     "success_rate": 0

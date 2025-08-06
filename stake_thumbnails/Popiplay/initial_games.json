@@ -1,10 +1,9 @@
 {
-  "provider": "Popiplay",
+  "timestamp": "2025-08-06T22:50:26.542Z",
   "provider_slug": "popiplay",
+  "provider_name": "Popiplay",
   "total_games": 60,
-  "games_fetched": 39,
-  "is_complete": false,
-  "needs_pagination": true,
+  "games_fetched": 60,
   "games": [
     {
       "game_id": "popiplay-curse-of-echnaton",
@@ -395,8 +394,237 @@
       "expected_filename": "Popiplay - Hanafuda.webp",
       "game_url": "https://stake.com/casino/games/popiplay-hanafuda",
       "extracted_at": "2025-08-07T02:12:45.188012"
+    },
+    {
+      "id": "1ea52e33-e070-4bdd-89a4-728fdf88d818",
+      "name": "Clover Castle",
+      "slug": "popiplay-clover-castle",
+      "thumbnailUrl": "https://mediumrare.imgix.net/480bef56bfde628cced55393464bcd298403a30753a467b3c2cad638ab78ba78",
+      "thumbnailBlurHash": "edL4yBRkO@xZbY*rafpJofW?8qs.t7S2NH-?a|jDWWVsNnW=e.oJwK",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "8b76985a-f14b-4db4-b969-0a4395431712",
+      "name": "Queen of the Nile",
+      "slug": "popiplay-queen-of-the-nile",
+      "thumbnailUrl": "https://mediumrare.imgix.net/98fc3f60f0e3412c79161fc73e04e7b8a413189919ada9ea6540188f5ae0f832",
+      "thumbnailBlurHash": "eZKwzvE2TfaeVr2{D*pJjYjE^KIAV?oKk9%#RjR4s:R+I9ofn$t7oz",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "213158a1-d092-4d6d-afbd-86eab77efdb4",
+      "name": "Amazon City Of Gold",
+      "slug": "popiplay-amazon-city-of-gold",
+      "thumbnailUrl": "https://mediumrare.imgix.net/b173be229752d734bcbf05524e93ed501947a8074c791d829f0048bd36f6ecba",
+      "thumbnailBlurHash": "eqJjYfa~I:a$R*2Tj]X8WXkW#kbHbHoet6lSj[WBj@aee,jsofWCa#",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "bd8fedad-0dd0-4bad-b384-6d6eb4e3d02c",
+      "name": "Angry Fruits Xpress",
+      "slug": "popiplay-angry-fruits-xpress",
+      "thumbnailUrl": "https://mediumrare.imgix.net/756a3849f70f6fd5de670568ad9dc8f5e42b72534960e66cde37e45faa51ee8e",
+      "thumbnailBlurHash": "egOxs]Kuv%nASZ3OS_XAjcXP:knBI[o_jK?HebNFovnPrCW=bvX3kS",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "c99a2f38-27db-479e-aacf-f424ca77c6bb",
+      "name": "Store Wars",
+      "slug": "popiplay-store-wars",
+      "thumbnailUrl": "https://mediumrare.imgix.net/5552768b0afa2108e7b3f84f43a1e7a577945f0d43413825bbeca3466bfe9c4b",
+      "thumbnailBlurHash": "eYI5#Wo}9bWBIpqGj[OZjFjcB$SLN[s.#p=NV@RPf*enBNo2$*R+XR",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "2be09ef5-e1f6-40c5-bc08-269060e3d794",
+      "name": "UFO Joe",
+      "slug": "popiplay-ufo-joe",
+      "thumbnailUrl": "https://mediumrare.imgix.net/18eecb71c1767fe22fea71ed5abaea95bc84e86c4b9484331ec53b4716822f12",
+      "thumbnailBlurHash": "ehGuM2RiI1t7jK78WAnVt7jcv?WUoMs:oc-rWnNGobWCMloftPf6j[",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "e2ce2262-8339-4c01-8b6c-74cc8c19ef19",
+      "name": "Xperiment Gold",
+      "slug": "popiplay-xperiment-gold",
+      "thumbnailUrl": "https://mediumrare.imgix.net/4a6c982f04ca93a73b530889ce5692ee775cc7cd6b9bb0c512947aa15f18cec0",
+      "thumbnailBlurHash": "eUM5|v*07ztMS~3:u4Y5oGWqAvTJ#Rn3r=*JWXm,nNnOmln$kpjYR.",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "b4dd1ddf-8d2d-4987-9e7e-16ccb0fc1fb7",
+      "name": "Fish and Cash",
+      "slug": "popiplay-fish-and-cash",
+      "thumbnailUrl": "https://mediumrare.imgix.net/b9c95c5cce912f1f68695d1791ad13f5a419ff7010f70c9572751d7449648f9b",
+      "thumbnailBlurHash": "eJEEZy9K5K$~IdmSNM%Ms:V|1jx@$^R*xV+kxtIpnNNHDtS#$|xCW-",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "a6589c39-e886-49e7-a671-e40409c782aa",
+      "name": "Moneyscript",
+      "slug": "popiplay-moneyscript",
+      "thumbnailUrl": "https://mediumrare.imgix.net/d3ec484fb8eada1fe966219b58c33c6ed37f4a6dd25f3cd820529983f9a64425",
+      "thumbnailBlurHash": "eSDKlFo;L2kPnhD=S?cGX2xHKzbpr^kBRP.9ozv}ogIU0wWXxYWEtQ",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "405a72b7-4673-48c4-ad3d-25b680e3ee54",
+      "name": "Five Guys",
+      "slug": "popiplay-five-guys",
+      "thumbnailUrl": "https://mediumrare.imgix.net/a24e4fe54f442d59c8f7befaa1d7ab8d61038a2e58c674e349b64456ccc68602",
+      "thumbnailBlurHash": "eMQtPVadMwVuxTBNRjT1e.xu9ORkRpobahYkRkZ#oya0Dje.tRoeo}",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "8dbd43e4-0a92-4435-bb35-e0183f2a6e21",
+      "name": "Fish And Cash Arctic",
+      "slug": "popiplay-fish-and-cash-arctic",
+      "thumbnailUrl": "https://mediumrare.imgix.net/674b2c1eef0bda758ef372e3a4da71807ba27a200ed7999815dd9c6a0df6c08f",
+      "thumbnailBlurHash": "elHDEjkC5YoyNf?OWqOsobS5CAWqo|aew]GckBV[WEwIAIoI$$bJr=",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "7b5b73d0-1c5e-4039-b782-71d7ed116055",
+      "name": "Emotions",
+      "slug": "popiplay-emotions",
+      "thumbnailUrl": "https://mediumrare.imgix.net/fae4df41a45fa0517df27fa249fa17797930063f81d25c7698dbad3dc38aef16",
+      "thumbnailBlurHash": "efJ8xJS6AdodN4v4WGoyj?sq1QnmwGjYWFs]jbRkoJNID=S1tRoLxV",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "8890de79-3e09-455f-b839-3a3d9f969c17",
+      "name": "Axe Max",
+      "slug": "popiplay-axe-max",
+      "thumbnailUrl": "https://mediumrare.imgix.net/6544b4c7f2017ce9478ce94e6e03380a18acfc9a51f72b91c604d455f2766de0",
+      "thumbnailBlurHash": "efE|=1RPOZtlxa#MRP%ftSs;PXnio|kWbIt*s:IpWobFE1oIs+j?fO",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "e985ae5d-55e1-41a5-872a-26d88be0c3e3",
+      "name": "Raven Bjorn",
+      "slug": "popiplay-raven-bjorn",
+      "thumbnailUrl": "https://mediumrare.imgix.net/bd3e43f8b143781f6f265aa912ab67242c1287e54d36906795b88c1418f122f6",
+      "thumbnailBlurHash": "e#MX$8s.r;Wqw[1GoLg2WVoz+vWVSOj@bIyDWVV[ofaKR5oLX8jskC",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "86537b69-7a2a-4e52-b21c-0edaaca0e720",
+      "name": "Unipopcorn",
+      "slug": "popiplay-unipopcorn",
+      "thumbnailUrl": "https://mediumrare.imgix.net/3812176fafdaf5e31e965ff82fca9dc4eec4a565f94b1887138aac52bf433660",
+      "thumbnailBlurHash": "eUNJItWG%3tPof$]fOo}t3Rp0WWENGadN2xmjZRiWAX39Ja%ocoet1",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "fc000e6e-2657-4757-885b-ead5db52ef4e",
+      "name": "Tik Tak Toad",
+      "slug": "popiplay-tik-tak-toad",
+      "thumbnailUrl": "https://mediumrare.imgix.net/855cb3d933496f3fa41443dbf8d0d8493b87683170b9fd1c3c68c0bd1a294409",
+      "thumbnailBlurHash": "eeIX?,ShB9v~I:3@S#Tbrsk9gSbrsmnTwwYOk8aKaiVuM$oKtMWUoz",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "17d410c9-5fc6-431e-9b12-c1749126b045",
+      "name": "Mythos",
+      "slug": "popiplay-mythos",
+      "thumbnailUrl": "https://mediumrare.imgix.net/ba566fc4726b7c0539a6e3b6ecebf8df19341ade7d408714fe52d62b312c2886",
+      "thumbnailBlurHash": "edO{8U-nXTxuS%22xVXAxaXAVZr;t6t7n~cts+s,SiskVtt7jFNGoz",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "978de3bb-aa0d-4504-9097-00a1bb9802f7",
+      "name": "Cipollino",
+      "slug": "popiplay-cipollino",
+      "thumbnailUrl": "https://mediumrare.imgix.net/d630dd21beb91455944d237ece08c1f81b133678452a41ffa3ad529332f1a8fd",
+      "thumbnailBlurHash": "etLDvBX8IfbaRRK?bHW@bFn%5ef8s,fis*Tea#jEjZV@N2ayoajtkC",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "1558045f-444f-406f-8f92-5f595c684b79",
+      "name": "Creepy Ink",
+      "slug": "popiplay-creepy-ink",
+      "thumbnailUrl": "https://mediumrare.imgix.net/d444ae8f20e377dc80f9a9148e75f6edc4b53804b3f4b71582a9014bd63d629f",
+      "thumbnailBlurHash": "eUG-0VnPC7W.TJ.;RjtSkCSyCjSgibofn4*0gNMwkCn49vkqxYa|WC",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "963961d7-0165-44ff-b99f-931dfd507b8c",
+      "name": "Slotham City",
+      "slug": "popiplay-slotham-city",
+      "thumbnailUrl": "https://mediumrare.imgix.net/50acbb21fd00c47ba3a6a85dcb59535443c05cc3fda238d5cb1865fcafdfa64e",
+      "thumbnailBlurHash": "eWIN;Or:DH%1x1CCRiRkt6n.#LbIkkf9Nr^,ogsrn,M|D-bb%LR*V{",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "40ad8e2a-8b97-4485-9903-9a7f108b022b",
+      "name": "Spinguin",
+      "slug": "popiplay-spinguin",
+      "thumbnailUrl": "https://mediumrare.imgix.net/e0b81fba8f02c2543a61c675c38e770d4650ac9353703f1583ab77f3c1722b39",
+      "thumbnailBlurHash": "eNI$jXrz75NsNOD$jLyFjEtS1ANd,2wtoz?qR*IAs*IU4:aKSzN|r:",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
     }
-  ],
-  "timestamp": "2025-08-07T02:12:45.188012",
-  "source": "initial_html_fetch"
+  ]
 }

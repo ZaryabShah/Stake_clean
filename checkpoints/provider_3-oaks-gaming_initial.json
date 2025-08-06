@@ -1,13 +1,21 @@
 {
-  "timestamp": "2025-08-07T02:18:46.665946",
+  "timestamp": "2025-08-06T23:04:19.980Z",
   "provider_slug": "3-oaks-gaming",
   "provider_name": "3 Oaks Gaming",
-  "status": "initial_completed",
+  "status": "completed",
   "total_games": 83,
-  "games_fetched": 39,
-  "is_complete": false,
-  "needs_pagination": true,
+  "games_fetched": 83,
+  "is_complete": true,
+  "needs_pagination": false,
   "output_dir": "stake_thumbnails\\3_Oaks_Gaming",
   "games_data_file": "stake_thumbnails\\3_Oaks_Gaming\\initial_games.json",
-  "source": "initial_html_fetch"
+  "source": "parallel_graphql_fetch",
+  "completed_offsets": [
+    0,
+    39,
+    78
+  ],
+  "failed_offsets": [],
+  "retry_counts": {},
+  "last_successful_offset": 78
 }

@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-08-07T02:39:37.402641",
+  "provider_slug": "skywind",
+  "provider_name": "Skywind",
+  "status": "initial_completed",
+  "total_games": 24,
+  "games_fetched": 24,
+  "is_complete": true,
+  "needs_pagination": false,
+  "output_dir": "stake_thumbnails\\Skywind",
+  "games_data_file": "stake_thumbnails\\Skywind\\initial_games.json",
+  "source": "initial_html_fetch"
+}

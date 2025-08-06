@@ -1,10 +1,9 @@
 {
-  "provider": "Penguin King",
+  "timestamp": "2025-08-06T22:46:33.226Z",
   "provider_slug": "penguin-king",
+  "provider_name": "Penguin King",
   "total_games": 52,
-  "games_fetched": 39,
-  "is_complete": false,
-  "needs_pagination": true,
+  "games_fetched": 52,
   "games": [
     {
       "game_id": "penguinking-anubis-ascension",
@@ -395,8 +394,149 @@
       "expected_filename": "Penguin King - Mutant Potatoes.webp",
       "game_url": "https://stake.com/casino/games/penguinking-mutant-potatoes",
       "extracted_at": "2025-08-07T02:11:22.065022"
+    },
+    {
+      "id": "49221af4-4b7b-4f01-82bc-3801465c6f54",
+      "name": "God Smash: Eternal Chaos",
+      "slug": "penguinking-god-smash-eternal-chaos",
+      "thumbnailUrl": "https://mediumrare.imgix.net/ba4d848799396ca06c52bbb18cbb4903122b13306b5f58eac4d0fa148789ff33",
+      "thumbnailBlurHash": "eaOnz?RRWBWARWChbxk6ofW=igb^rXoee-p{R-RpjFRPaPjwT1jIog",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "fc799190-6cc8-49e4-aa54-3d04e9afd2e0",
+      "name": "Supersonic Express: Hold and Win",
+      "slug": "penguinking-supersonic-express-hold-and-win",
+      "thumbnailUrl": "https://mediumrare.imgix.net/4ed13dd508b3a8d26d742b76427b819f761c001958f60dd35867aefa6dc2ad64",
+      "thumbnailBlurHash": "eVIE*^R:VDS#NG=ZR;=qS#oy4Vaj-lX9WG-#oJNHbbR-OBs+WCkCx@",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "ed03aa9d-919b-4bcc-b41f-9097a81a1a29",
+      "name": "Twin Cash: Hold and Win",
+      "slug": "penguinking-twin-cash-hold-and-win",
+      "thumbnailUrl": "https://mediumrare.imgix.net/b98c694b6789345a810416d14bfee294752f8ab2243e6013e3f26438d2ff6a45",
+      "thumbnailBlurHash": "eTJHR~$^Q;bwESs#s#nhouo{0EROO9n#xW=?iwI@NMIV8}t1ozNfNH",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "51e8a40f-35ca-42d5-b754-335df219b226",
+      "name": "Christmas Link Express: Hold and Win",
+      "slug": "penguinking-christmas-link-express-hold-and-win",
+      "thumbnailUrl": "https://mediumrare.imgix.net/8f45e4d23faa1fd563c21d351483b3cfae13b833d10af8b743cfc205a2759cfc",
+      "thumbnailBlurHash": "eoKlttj;ICoaj=1Ok9WYj=t3z{oNkqn+jDg$W.WYWCRjVHW-jJRkbc",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "d426aee7-1924-4e4e-9101-2b22168f2446",
+      "name": " Flame and Fortune: Hold and Win",
+      "slug": "penguinking-flame-and-fortune-hold-and-win",
+      "thumbnailUrl": "https://mediumrare.imgix.net/fe0111368f6ee71a05e43e3db65b30fc7eaf7e380aa0f57c85a3aff57707285a",
+      "thumbnailBlurHash": "ehIzVSt6KMbHWV1@ozX,bbkVwda#soo2e:yraersafnPInf+ozazs:",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "467895a4-9c61-4bef-b6db-506089f07ef3",
+      "name": "Cash Maximus: Battle Arena",
+      "slug": "penguinking-cash-maximus-battle-arena",
+      "thumbnailUrl": "https://mediumrare.imgix.net/146732ffc22ebba1a37c40a1859d88f03d542568e5f0848e9f15790356eb629c",
+      "thumbnailBlurHash": "eTOw{K-P-6IVVs3oofyDWCR*+JR;w^t7X5y=oyrWn%RQn3obb^RkNL",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "8e3511d1-3363-4da9-bb67-3d4e63527f12",
+      "name": "Dynamite Trail: Hold and Win",
+      "slug": "penguinking-dynamite-trail-hold-and-win",
+      "thumbnailUrl": "https://mediumrare.imgix.net/1e48d395bfad23f84434bad723c5d6d9bf7924b05dbe1064f87b47c19bf3e632",
+      "thumbnailBlurHash": "eOMh}f?CXJR6NMCV${u2nQW?L-RiJXtQj]6.I:IEo{e-qdShxIXOjD",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "fe77ba09-9dbe-4c25-9a8d-e42d4f69cc43",
+      "name": "3 Golden Baskets: Treasure Tides",
+      "slug": "penguinking-3-golden-baskets-treasure-tides",
+      "thumbnailUrl": "https://mediumrare.imgix.net/e7f4611e73ae78cfc144a0501ba09fc4a22d024c8ebff083a3d07c6e5c66fb71",
+      "thumbnailBlurHash": "eWG,;39uP;tPR*wPI=yEoyt89@oznOW;g3.Ts:ROWXM{Fej?xDafn4",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "7513c559-44e3-4972-b26a-0cf18cadbb96",
+      "name": "Lord of the Dunes",
+      "slug": "penguinking-lord-of-the-dunes",
+      "thumbnailUrl": "https://mediumrare.imgix.net/4b15fcd48ab4730499aec2fdca6f52da6a40acd262eb8e5f3e6bf9bc025d60bd",
+      "thumbnailBlurHash": "eXKvU8bF=sM}nh0eIqxuNHt7MyIpI=jsa~?vxYIVn%M{MdxZozn%X8",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "42f4b68c-7ae5-478a-a486-44fb64941348",
+      "name": "Doom's Digging Machine",
+      "slug": "penguinking-dooms-digging-machine",
+      "thumbnailUrl": "https://mediumrare.imgix.net/280a135e2f18cf9247e2a0b398cf92af0e6ec84169eaddaba36b325177252148",
+      "thumbnailBlurHash": "eTMi]jW.ENT0#7HTjYpJozi{qyjGrwsmIv*0WYiJV@jJ-DkB$%Rjxu",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "a20713db-d487-42fe-9833-8b072ad84171",
+      "name": "Wish for a Cash Star",
+      "slug": "penguinking-wish-for-a-cash-star",
+      "thumbnailUrl": "https://mediumrare.imgix.net/a07a01c728339ae4ff427eb8c7f1da0bd71ea8a3de172887c610991887047119",
+      "thumbnailBlurHash": "ekJ%b*sC9Bj;Sl|Bn~nWj=WsEYWVxSobs$i.WYa^k8nzVgfjthWXV]",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "38f40e69-10bf-4080-985d-b6de256051e2",
+      "name": "Savannah Gold: Coin of the Wild",
+      "slug": "penguinking-savannah-gold-coin-of-the-wild",
+      "thumbnailUrl": "https://mediumrare.imgix.net/e80a6c519d6b24e038d4af9850a5662e3c1ade09c1c641bbfddc159c6f110046",
+      "thumbnailBlurHash": "eVE;ltsmKjpIeRlCkCpdbvrq7}V@OYV@sp%3jYE0aLogVYt8r^kCX9",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "35459b7b-cb43-423a-877a-d6e3b2158cb0",
+      "name": "Thunder Hog Chaos Reels",
+      "slug": "penguinking-thunder-hog-chaos-reels",
+      "thumbnailUrl": "https://mediumrare.imgix.net/3b131c8eafd048186af8316580af0b9866ed2a72deee197652be29d667cfc058",
+      "thumbnailBlurHash": "eUK0aqRkA1WWs98ZjFTfWVi_z+sWS7j]n$1~j]H@oMbuM-W;xAaeSe",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
     }
-  ],
-  "timestamp": "2025-08-07T02:11:22.065022",
-  "source": "initial_html_fetch"
+  ]
 }

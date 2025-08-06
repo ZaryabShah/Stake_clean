@@ -1,13 +1,22 @@
 {
-  "timestamp": "2025-08-07T02:10:57.340779",
+  "timestamp": "2025-08-06T22:56:57.648Z",
   "provider_slug": "avatarux",
   "provider_name": "Avatarux",
-  "status": "initial_completed",
+  "status": "completed",
   "total_games": 61,
-  "games_fetched": 39,
-  "is_complete": false,
-  "needs_pagination": true,
+  "games_fetched": 61,
+  "is_complete": true,
+  "needs_pagination": false,
   "output_dir": "stake_thumbnails\\Avatarux",
   "games_data_file": "stake_thumbnails\\Avatarux\\initial_games.json",
-  "source": "initial_html_fetch"
+  "source": "parallel_graphql_fetch",
+  "completed_offsets": [
+    0,
+    39
+  ],
+  "failed_offsets": [],
+  "retry_counts": {
+    "39": 4
+  },
+  "last_successful_offset": 39
 }

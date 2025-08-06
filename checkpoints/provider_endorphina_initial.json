@@ -1,13 +1,23 @@
 {
-  "timestamp": "2025-08-07T02:18:44.101073",
+  "timestamp": "2025-08-06T23:39:47.283Z",
   "provider_slug": "endorphina",
   "provider_name": "Endorphina",
-  "status": "initial_completed",
+  "status": "completed",
   "total_games": 186,
-  "games_fetched": 39,
-  "is_complete": false,
-  "needs_pagination": true,
+  "games_fetched": 186,
+  "is_complete": true,
+  "needs_pagination": false,
   "output_dir": "stake_thumbnails\\Endorphina",
   "games_data_file": "stake_thumbnails\\Endorphina\\initial_games.json",
-  "source": "initial_html_fetch"
+  "source": "parallel_graphql_fetch",
+  "completed_offsets": [
+    0,
+    39,
+    78,
+    117,
+    156
+  ],
+  "failed_offsets": [],
+  "retry_counts": {},
+  "last_successful_offset": 156
 }

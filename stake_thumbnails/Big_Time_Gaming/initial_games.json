@@ -1,10 +1,9 @@
 {
-  "provider": "Big Time Gaming",
+  "timestamp": "2025-08-06T22:48:57.433Z",
   "provider_slug": "big-time-gaming",
+  "provider_name": "Big Time Gaming",
   "total_games": 56,
-  "games_fetched": 39,
-  "is_complete": false,
-  "needs_pagination": true,
+  "games_fetched": 56,
   "games": [
     {
       "game_id": "bigtimegaming-bonanza",
@@ -395,8 +394,193 @@
       "expected_filename": "Big Time Gaming - Millionaire Rush.webp",
       "game_url": "https://stake.com/casino/games/bigtimegaming-millionaire-rush",
       "extracted_at": "2025-08-07T02:15:17.707018"
+    },
+    {
+      "id": "85c7437e-d94b-44f5-8048-c149f22d35dd",
+      "name": "Christmas Catch",
+      "slug": "bigtimegaming-christmas-catch",
+      "thumbnailUrl": "https://mediumrare.imgix.net/035b85d3373eded44624df4bd3bc99c106b509fd482d6c47d69c32c907a27ecf",
+      "thumbnailBlurHash": "eZJZf@R*V}R,M_MwW.tTjvosVTbHWHs:kA%yazRQjrV]9Ho3otS0t6",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "7d3d06f3-fc71-4cad-a6a9-de72a614ce79",
+      "name": "King of Cats",
+      "slug": "bigtimegaming-king-of-cats",
+      "thumbnailUrl": "https://mediumrare.imgix.net/bda75ac08a8c0521afa3ee3f9840ea8b59ed7bd4804aff38c3f4d32b05f97c18",
+      "thumbnailBlurHash": "eYNJByE2Z~tQROC9e.x]s.R-%3%1%fRPRjPXt6s9M{RPxZaeogWog3",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "f23223c8-762f-4d16-b20c-5ebcfa884673",
+      "name": "Holy Diver Megaways",
+      "slug": "bigtimegaming-holy-diver-megaways",
+      "thumbnailUrl": "https://mediumrare.imgix.net/11622878eed4d117ee6512b07c82da27dd3883053647fee145b9713017d5be0f",
+      "thumbnailBlurHash": "ecK]BbR$VOoLVy1oR%bvoMkC;EWBbFoMbDk?bFRQafW9H_j?x[ayt3",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "f5f88488-7fa6-4a5d-b031-7e27d2fe38b4",
+      "name": "Bonanza Falls",
+      "slug": "bigtimegaming-bonanza-falls",
+      "thumbnailUrl": "https://mediumrare.imgix.net/b9140b6392fec99c899e835f35d24d38d6e46837c8c976854f5adf2ff9ae71e3",
+      "thumbnailBlurHash": "emHCT0ofAWWqRQZtazT1j]jcKjj@oNkCogyZjbnObHW.K5WBw}oLbI",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "ec17b0a5-4ebb-452a-9a60-ede99d19b086",
+      "name": "Castle Of Terror",
+      "slug": "bigtimegaming-castle-of-terror",
+      "thumbnailUrl": "https://mediumrare.imgix.net/5be93b30e0d55d2319adc77b64c5213354c61598b3745795a7e53126887e653e",
+      "thumbnailBlurHash": "eNG,IxN2AE%KR3oyNgTKxZxZAMb_RORjo~_2xvMbNGNe0NxBw[ays;",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "ab285f3c-2df1-4c61-9520-d1263232ba01",
+      "name": "Over The Moon",
+      "slug": "bigtimegaming-over-the-moon",
+      "thumbnailUrl": "https://mediumrare.imgix.net/6d6b7e03383a0043f46516edf7062cb500028522d83550ccecd5670b58ec09d1",
+      "thumbnailBlurHash": "eZEEDdxr9@V_NtS:t5t6WCozDMnkrxX5o4-XWBV[bHRQD.W-x@sDoL",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "298ed1ff-f00c-409f-8357-4ee4a911f7a5",
+      "name": "Opal Fruits",
+      "slug": "bigtimegaming-opal-fruits",
+      "thumbnailUrl": "https://mediumrare.imgix.net/0bff2622b17a4855fc4a90ddcfa58d4efbeee441c34c49e239cdcecdf3da3bdb",
+      "thumbnailBlurHash": "eJKSAXsI8{bXIC9WWHo]X7sYvHSaXjn,srp%t2ICjFV[4VnoxvSbtQ",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "80a4570b-7488-47ef-a509-2578e055f077",
+      "name": "Gifts of Fortune",
+      "slug": "bigtimegaming-gifts-of-fortune",
+      "thumbnailUrl": "https://mediumrare.imgix.net/dc76bcc055ec10a7f4581af197766c3d0bcf2cfadad3bdb540d4cc230de5b584",
+      "thumbnailBlurHash": "eQKJyFxaD+kWRPoXoMixj]xu9mNdv~n$xt_4f9R+j[RjD7s9XmWUfh",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "a55ea3e6-1464-4d02-bfb8-a651c4ab467c",
+      "name": "Trigger Happy",
+      "slug": "bigtimegaming-trigger-happy",
+      "thumbnailUrl": "https://mediumrare.imgix.net/c1109e256c35aeda4ce6f8d271a2872d60653a8a48a509219942b7444ed8ddb8",
+      "thumbnailBlurHash": "eTLo~}bv0zV^D%3+kBK#jFaceBW=O;jF$R82R+ROflrcIDnh-AofxZ",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "0059b5e7-abd6-489d-9e42-560cb83cc9cb",
+      "name": "Royal Mint",
+      "slug": "bigtimegaming-royal-mint",
+      "thumbnailUrl": "https://mediumrare.imgix.net/c2796d7560ef433124057ba080c97352e5b393192ab0bb34dea92ec0ef98cde9",
+      "thumbnailBlurHash": "etN*p_NH#iRnr;0,R*xYkCjY#RWCS5oeWX-:WEM}afadrpa{XAfkkB",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "e3f06520-1c82-4ceb-ad5e-43bfbdd513b9",
+      "name": "Apollo Pays",
+      "slug": "bigtimegaming-apollo-pays",
+      "thumbnailUrl": "https://mediumrare.imgix.net/4b1d1d96d16f5eef8e1ee2e60e661060513183e852a75f4896bd2ce29af57cf7",
+      "thumbnailBlurHash": "eeM?o7j]?bt6xY19s.yEj[t7wIn#WFWUWBO]jYRQWBM{WBWYbbjbM|",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "2df228f8-097a-4c84-9759-c0e1070e1cf9",
+      "name": "Temple Quest Spinfinity",
+      "slug": "bigtimegaming-temple-quest-spinfinity",
+      "thumbnailUrl": "https://mediumrare.imgix.net/75a2b7f19cbfd7a327f9baf7fa0fb9a7e4d0f10af62bc231761ec89b9bdf6f9a",
+      "thumbnailBlurHash": "eUD_cwi{2CkWr=NOW=pJj[w^9?XS#-jFso%gfkVrenNaInni$+a}Na",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "d2f74dfc-7d6b-41d8-ad73-b65c2a19ae3f",
+      "name": "Queen of Riches",
+      "slug": "bigtimegaming-queen-of-riches",
+      "thumbnailUrl": "https://mediumrare.imgix.net/5976b130f36f5d26105662e8399ed167f48cd1cde0bbc3c273fe2d62a276b795",
+      "thumbnailBlurHash": "eQN8g2w|+Z%1ng4oe:-VoLtR{daxt7WVNxyskCM{j@IVZMWWtSRkbc",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "9af9e848-eef1-4314-a93b-d55f0e0705eb",
+      "name": "Kingmaker Fully Loaded",
+      "slug": "bigtimegaming-kingmaker-fully-loaded",
+      "thumbnailUrl": "https://mediumrare.imgix.net/b40d2be7b51463bd776d3da8a9571559a1ba9a716f39edf2979080825c3dee0c",
+      "thumbnailBlurHash": "edG^bBRjTekCVYllRkpJa#i^BtkDaeoKn$%DtQVrjrf+D+jYjEWCoz",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "67588aa0-3b19-41dd-85be-78bb3b34bf61",
+      "name": "Golden Goose Megaways",
+      "slug": "bigtimegaming-golden-goose-megaways",
+      "thumbnailUrl": "https://mediumrare.imgix.net/88f9a52cfd80543bd93e7bc96cf2dca1487c7ed5a8865cf303f29685f54834cc",
+      "thumbnailBlurHash": "ebH.y?M{JYNLM|,1Rj%ORnog0?niw[X8o#OknhISozNeIungjvo#W?",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "c1386eae-c5f5-4ebe-a3ee-558a969fad57",
+      "name": "Chocolates",
+      "slug": "bigtimegaming-chocolates",
+      "thumbnailUrl": "https://mediumrare.imgix.net/696c70910d5b155e5af36c7aa25501cd3350d05ab396dea75f747f20352c589d",
+      "thumbnailBlurHash": "elOxv^bd,WjEw@nNWVt6nioI{xn#OUjJNex^s9R+X9R.VpRksDXSoz",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "7f3b8778-b59f-4dcc-8ad3-d7f5e05018be",
+      "name": "The Race",
+      "slug": "bigtimegaming-the-race",
+      "thumbnailUrl": "https://mediumrare.imgix.net/6cf14cbd13567a15477e09bb81c0c08ac74260473b444623b471ff17fa5e0af5",
+      "thumbnailBlurHash": "elHCpfV}VrocNIwCWFn~j[WUmmouTKa#oe=XkBOZockWDlaiX8k9Si",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
     }
-  ],
-  "timestamp": "2025-08-07T02:15:17.707018",
-  "source": "initial_html_fetch"
+  ]
 }

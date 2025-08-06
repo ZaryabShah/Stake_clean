@@ -1,10 +1,9 @@
 {
-  "provider": "Red Rake Gaming",
+  "timestamp": "2025-08-06T22:45:52.736Z",
   "provider_slug": "red-rake-gaming",
+  "provider_name": "Red Rake Gaming",
   "total_games": 45,
-  "games_fetched": 39,
-  "is_complete": false,
-  "needs_pagination": true,
+  "games_fetched": 45,
   "games": [
     {
       "game_id": "redrake-beating-alcatraz",
@@ -395,8 +394,72 @@
       "expected_filename": "Red Rake Gaming - Age of Olympus Apollo.webp",
       "game_url": "https://stake.com/casino/games/redrake-age-of-olympus-apollo",
       "extracted_at": "2025-08-07T02:21:47.565142"
+    },
+    {
+      "id": "8429270a-3d3c-4b61-bd62-db9cad8d523d",
+      "name": "Vikings Journey",
+      "slug": "redrake-vikings-journey",
+      "thumbnailUrl": "https://mediumrare.imgix.net/c972a9b49e8cc677030a73184765799a315e39ded6c5edb4959f540e99fa381c",
+      "thumbnailBlurHash": "ehIqmCt9NNRkRQ%UbHtRRis.%6Rjj@RjWU~pjZV[a#M|R:t7%2kCbI",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "883ca3af-4cf5-4da7-900c-12486b0fae50",
+      "name": "Lotus Dynasty",
+      "slug": "redrake-lotus-dynasty",
+      "thumbnailUrl": "https://mediumrare.imgix.net/1bd6649a93820cc6150754923362374052358b7e111a092a745ed21f0a568ce4",
+      "thumbnailBlurHash": "ecMi~axZpJM|r_3$kCPANHX8NQs.EfoxXRGXbaicozjbM+Rk,@bIS$",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "2bcdf10e-7eb5-4ed6-97fa-16ecd9f45017",
+      "name": "Gustav Minebuster",
+      "slug": "redrake-gustav-minebuster",
+      "thumbnailUrl": "https://mediumrare.imgix.net/a660b541ef6665068478ac3aae3d1708a6ba3bf4737ec47c9e6cf820f0918f74",
+      "thumbnailBlurHash": "eVOw[_WF#lI=eUM[aN%0R+S6+ti|xVsAI[.mV]s*R+NGq@jFkWNKt7",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "91e40689-05a7-4cd3-a0bc-f0ef7a9887d4",
+      "name": "Million Christmas",
+      "slug": "redrake-million-christmas",
+      "thumbnailUrl": "https://mediumrare.imgix.net/393846bc5f6229870e6cd16664ff884351d899f4bb478a02502ff7e24ac3e145",
+      "thumbnailBlurHash": "eXLMriQ,9zxZIB7+VWJBWAoHN9i^nhM{xY.7ozwHWGV[H[XAw@s;bu",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "73a41230-c731-4d99-adb0-aebe8cc8dfcc",
+      "name": "Space Wins",
+      "slug": "redrake-space-wins",
+      "thumbnailUrl": "https://mediumrare.imgix.net/7f43099a7cd0c632ab2ea7a52697bc163f0ab5b2aa9456136201acddf12a8d37",
+      "thumbnailBlurHash": "eQLzHjxaXnI[MdG^W=.TofNLm-aexaoMS$lnskI9WCR%D%n$o}WBt7",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "18ba26d4-2089-41c8-b4b4-bfebde79d7e4",
+      "name": "Jungle Break",
+      "slug": "redrake-jungle-break",
+      "thumbnailUrl": "https://mediumrare.imgix.net/fd279c251eb495eaed20ba88390189cdde07f1e716ef765d736296c17021ce28",
+      "thumbnailBlurHash": "eYGT4SrsAnRlNFz@s,o}kCnkuHoyi{t7M|~WoeMxWXIUI,jFnnV_oM",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
     }
-  ],
-  "timestamp": "2025-08-07T02:21:47.565142",
-  "source": "initial_html_fetch"
+  ]
 }

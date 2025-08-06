@@ -1,13 +1,20 @@
 {
-  "timestamp": "2025-08-07T02:11:22.092762",
+  "timestamp": "2025-08-06T22:46:33.227Z",
   "provider_slug": "penguin-king",
   "provider_name": "Penguin King",
-  "status": "initial_completed",
+  "status": "completed",
   "total_games": 52,
-  "games_fetched": 39,
-  "is_complete": false,
-  "needs_pagination": true,
+  "games_fetched": 52,
+  "is_complete": true,
+  "needs_pagination": false,
   "output_dir": "stake_thumbnails\\Penguin_King",
   "games_data_file": "stake_thumbnails\\Penguin_King\\initial_games.json",
-  "source": "initial_html_fetch"
+  "source": "parallel_graphql_fetch",
+  "completed_offsets": [
+    0,
+    39
+  ],
+  "failed_offsets": [],
+  "retry_counts": {},
+  "last_successful_offset": 39
 }

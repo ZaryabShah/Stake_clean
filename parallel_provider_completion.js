@@ -9,13 +9,13 @@ const { parseStakeResponse } = require('./data_parser.js');
 const CONFIG = {
     GAMES_PER_REQUEST: 39,
     MAX_CONCURRENT_REQUESTS: 3, // Parallel requests
-    MAX_RETRIES: 4, // Reduced retries for faster processing
+    MAX_RETRIES: 20, // Increased retries for more robust processing
     BASE_DELAY: 2000,
     RETRY_DELAY: 5000,
     PROVIDER_DELAY: 3000,
     DEBUG_MODE: true,
     SKIP_MISSING_GAMES: true, // Skip if games don't exist at offset
-    MAX_EMPTY_ATTEMPTS: 3 // Stop after 3 consecutive empty responses
+    MAX_EMPTY_ATTEMPTS: 10 // Stop after 10 consecutive empty responses
 };
 
 /**
