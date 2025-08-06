@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-08-06T04:17:43.464Z",
+  "provider_slug": "avatarux",
+  "provider_name": "Avatarux",
+  "status": "completed",
+  "total_games": 61,
+  "games_fetched": 61,
+  "is_complete": true,
+  "needs_pagination": true,
+  "output_dir": "stake_thumbnails\\Avatarux",
+  "games_data_file": "stake_thumbnails\\Avatarux\\initial_games.json",
+  "source": "initial_html_fetch"
+}

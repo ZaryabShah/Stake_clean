@@ -1,0 +1,92 @@
+{
+  "provider": "Hacksaw Openrgs",
+  "provider_slug": "hacksaw-openrgs",
+  "total_games": 8,
+  "games_fetched": 8,
+  "is_complete": true,
+  "needs_pagination": false,
+  "games": [
+    {
+      "game_id": "kitsune-club-cabana",
+      "title": "Club Cabana",
+      "slug": "kitsune-club-cabana",
+      "provider": "Hacksaw OpenRGS",
+      "thumbnail_url": "https://mediumrare.imgix.net/5640dd5f61fe38270421b205c39817a822f030471d222671ad56be2553c0d171",
+      "expected_filename": "Hacksaw OpenRGS - Club Cabana.webp",
+      "game_url": "https://stake.com/casino/games/kitsune-club-cabana",
+      "extracted_at": "2025-08-06T01:27:11.277976"
+    },
+    {
+      "game_id": "nownow-sugar-park",
+      "title": "Sugar Park",
+      "slug": "nownow-sugar-park",
+      "provider": "Hacksaw OpenRGS",
+      "thumbnail_url": "https://mediumrare.imgix.net/403b214afb44dad380c00c5ecb78b42984339d8a94e96a3e80d2e7011778c5e5",
+      "expected_filename": "Hacksaw OpenRGS - Sugar Park.webp",
+      "game_url": "https://stake.com/casino/games/nownow-sugar-park",
+      "extracted_at": "2025-08-06T01:27:11.277976"
+    },
+    {
+      "game_id": "aceroll-eternal-nile",
+      "title": "Eternal Nile",
+      "slug": "aceroll-eternal-nile",
+      "provider": "Hacksaw OpenRGS",
+      "thumbnail_url": "https://mediumrare.imgix.net/0cb577ae8a167443afdb1b67d20b71acf6e3b95b9deefcb00b2c546896a75a78",
+      "expected_filename": "Hacksaw OpenRGS - Eternal Nile.webp",
+      "game_url": "https://stake.com/casino/games/aceroll-eternal-nile",
+      "extracted_at": "2025-08-06T01:27:11.277976"
+    },
+    {
+      "game_id": "nownow-street-knockout",
+      "title": "Street Knockout",
+      "slug": "nownow-street-knockout",
+      "provider": "Hacksaw OpenRGS",
+      "thumbnail_url": "https://mediumrare.imgix.net/e2676a5409325a61afa6bd672669d3e900b395d755dfdf433cdca7630a62ded8",
+      "expected_filename": "Hacksaw OpenRGS - Street Knockout.webp",
+      "game_url": "https://stake.com/casino/games/nownow-street-knockout",
+      "extracted_at": "2025-08-06T01:27:11.277976"
+    },
+    {
+      "game_id": "nownow-8-bit-quest",
+      "title": "8-Bit Quest",
+      "slug": "nownow-8-bit-quest",
+      "provider": "Hacksaw OpenRGS",
+      "thumbnail_url": "https://mediumrare.imgix.net/c24f8c668823b8fc9ecaace4ec2d458d28106c6247b4138a561d38db6b705455",
+      "expected_filename": "Hacksaw OpenRGS - 8-Bit Quest.webp",
+      "game_url": "https://stake.com/casino/games/nownow-8-bit-quest",
+      "extracted_at": "2025-08-06T01:27:11.277976"
+    },
+    {
+      "game_id": "trusty-sticky-candyland",
+      "title": "Sticky Candyland",
+      "slug": "trusty-sticky-candyland",
+      "provider": "Hacksaw OpenRGS",
+      "thumbnail_url": "https://mediumrare.imgix.net/01d620d4903a3f14b397ef202e934cd4e9902ad01794e7bc20903fe156a2a5b4",
+      "expected_filename": "Hacksaw OpenRGS - Sticky Candyland.webp",
+      "game_url": "https://stake.com/casino/games/trusty-sticky-candyland",
+      "extracted_at": "2025-08-06T01:27:11.277976"
+    },
+    {
+      "game_id": "kitsune-the-library",
+      "title": "The Library",
+      "slug": "kitsune-the-library",
+      "provider": "Hacksaw OpenRGS",
+      "thumbnail_url": "https://mediumrare.imgix.net/66dd42db2459d2b0a8fc356ed18ad0b3489b562ba80446496c4a8fa908c134cd",
+      "expected_filename": "Hacksaw OpenRGS - The Library.webp",
+      "game_url": "https://stake.com/casino/games/kitsune-the-library",
+      "extracted_at": "2025-08-06T01:27:11.277976"
+    },
+    {
+      "game_id": "nownow-shadow-treasure",
+      "title": "Shadow Treasure",
+      "slug": "nownow-shadow-treasure",
+      "provider": "Hacksaw OpenRGS",
+      "thumbnail_url": "https://mediumrare.imgix.net/04531340b93a65869cd94e56b921bb3438909d61336954c94f7824f8266b1f03",
+      "expected_filename": "Hacksaw OpenRGS - Shadow Treasure.webp",
+      "game_url": "https://stake.com/casino/games/nownow-shadow-treasure",
+      "extracted_at": "2025-08-06T01:27:11.277976"
+    }
+  ],
+  "timestamp": "2025-08-06T01:27:11.277976",
+  "source": "initial_html_fetch"
+}

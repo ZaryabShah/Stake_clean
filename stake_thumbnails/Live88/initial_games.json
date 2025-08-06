@@ -1,0 +1,62 @@
+{
+  "provider": "Live88",
+  "provider_slug": "live88",
+  "total_games": 5,
+  "games_fetched": 5,
+  "is_complete": true,
+  "needs_pagination": false,
+  "games": [
+    {
+      "game_id": "live88-blackjack-lobby",
+      "title": "Blackjack Lobby",
+      "slug": "live88-blackjack-lobby",
+      "provider": "Live88",
+      "thumbnail_url": "https://mediumrare.imgix.net/c5a503ccf43e1735439eb6611b6517c76bb2e08bcf8d41e8ca46ad0827ccdddf",
+      "expected_filename": "Live88 - Blackjack Lobby.webp",
+      "game_url": "https://stake.com/casino/games/live88-blackjack-lobby",
+      "extracted_at": "2025-08-06T01:01:17.562614"
+    },
+    {
+      "game_id": "live88-roulette-lobby",
+      "title": "Roulette Lobby",
+      "slug": "live88-roulette-lobby",
+      "provider": "Live88",
+      "thumbnail_url": "https://mediumrare.imgix.net/25361d2f18aa60af1475f28b028c1c28fae858555c06ea9859ea3f19fb720638",
+      "expected_filename": "Live88 - Roulette Lobby.webp",
+      "game_url": "https://stake.com/casino/games/live88-roulette-lobby",
+      "extracted_at": "2025-08-06T01:01:17.562614"
+    },
+    {
+      "game_id": "live88-royal-riches-roulette",
+      "title": "Royal Riches Roulette",
+      "slug": "live88-royal-riches-roulette",
+      "provider": "Live88",
+      "thumbnail_url": "https://mediumrare.imgix.net/e93775c9f33cd7169ed8048f45505379c728e797158044f44512c09a82c5285e",
+      "expected_filename": "Live88 - Royal Riches Roulette.webp",
+      "game_url": "https://stake.com/casino/games/live88-royal-riches-roulette",
+      "extracted_at": "2025-08-06T01:01:17.562614"
+    },
+    {
+      "game_id": "live88-triton-multiplier-roulette",
+      "title": "Triton Multiplier Roulette",
+      "slug": "live88-triton-multiplier-roulette",
+      "provider": "Live88",
+      "thumbnail_url": "https://mediumrare.imgix.net/f13100662f77fda3c9c55d4931cfcdd0e9ca18d2e5c7c63abf510d258a64990a",
+      "expected_filename": "Live88 - Triton Multiplier Roulette.webp",
+      "game_url": "https://stake.com/casino/games/live88-triton-multiplier-roulette",
+      "extracted_at": "2025-08-06T01:01:17.562614"
+    },
+    {
+      "game_id": "live88-baccarat-lobby",
+      "title": "Baccarat Lobby",
+      "slug": "live88-baccarat-lobby",
+      "provider": "Live88",
+      "thumbnail_url": "https://mediumrare.imgix.net/4253861418d73005d625eb6cd1805e9a1f39814d564817214eabf8bc8c15955f",
+      "expected_filename": "Live88 - Baccarat Lobby.webp",
+      "game_url": "https://stake.com/casino/games/live88-baccarat-lobby",
+      "extracted_at": "2025-08-06T01:01:17.562614"
+    }
+  ],
+  "timestamp": "2025-08-06T01:01:17.562614",
+  "source": "initial_html_fetch"
+}

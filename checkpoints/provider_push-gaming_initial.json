@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-08-06T04:10:24.517Z",
+  "provider_slug": "push-gaming",
+  "provider_name": "Push Gaming",
+  "status": "completed",
+  "total_games": 57,
+  "games_fetched": 57,
+  "is_complete": true,
+  "needs_pagination": true,
+  "output_dir": "stake_thumbnails\\Push_Gaming",
+  "games_data_file": "stake_thumbnails\\Push_Gaming\\initial_games.json",
+  "source": "initial_html_fetch"
+}

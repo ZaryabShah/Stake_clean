@@ -1,0 +1,11 @@
+{
+  "provider_name": "Avatarux",
+  "provider_slug": "avatarux",
+  "completion_status": "completed",
+  "games_to_fetch": 22,
+  "batches_needed": 1,
+  "simulation_mode": true,
+  "completion_timestamp": "2025-08-06T05:09:49.828945",
+  "last_updated": "2025-08-06T05:09:49.828945",
+  "checkpoint_type": "complete_graphql"
+}

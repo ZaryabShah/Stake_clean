@@ -1,0 +1,22 @@
+{
+  "timestamp": "2025-08-06T18:57:24.200Z",
+  "provider_slug": "elk-studios",
+  "provider_name": "Elk Studios",
+  "status": "in_progress",
+  "total_games": 124,
+  "games_fetched": 123,
+  "is_complete": false,
+  "needs_pagination": true,
+  "output_dir": "stake_thumbnails\\Elk_Studios",
+  "games_data_file": "stake_thumbnails\\Elk_Studios\\initial_games.json",
+  "source": "parallel_graphql_fetch",
+  "completed_offsets": [
+    0,
+    39,
+    78,
+    117
+  ],
+  "failed_offsets": [],
+  "retry_counts": {},
+  "last_successful_offset": 117
+}

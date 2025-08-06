@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-08-06T04:09:40.465Z",
+  "provider_slug": "big-time-gaming",
+  "provider_name": "Big Time Gaming",
+  "status": "completed",
+  "total_games": 56,
+  "games_fetched": 56,
+  "is_complete": true,
+  "needs_pagination": true,
+  "output_dir": "stake_thumbnails\\Big_Time_Gaming",
+  "games_data_file": "stake_thumbnails\\Big_Time_Gaming\\initial_games.json",
+  "source": "initial_html_fetch"
+}

@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-08-06T05:47:31.827Z",
+  "provider_slug": "quickspin",
+  "provider_name": "Quickspin",
+  "status": "completed",
+  "total_games": 116,
+  "games_fetched": 116,
+  "is_complete": true,
+  "needs_pagination": false,
+  "output_dir": "stake_thumbnails\\Quickspin",
+  "games_data_file": "stake_thumbnails\\Quickspin\\initial_games.json",
+  "source": "parallel_graphql_fetch"
+}

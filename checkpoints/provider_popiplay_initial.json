@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-08-06T04:14:08.170Z",
+  "provider_slug": "popiplay",
+  "provider_name": "Popiplay",
+  "status": "completed",
+  "total_games": 60,
+  "games_fetched": 60,
+  "is_complete": true,
+  "needs_pagination": true,
+  "output_dir": "stake_thumbnails\\Popiplay",
+  "games_data_file": "stake_thumbnails\\Popiplay\\initial_games.json",
+  "source": "initial_html_fetch"
+}

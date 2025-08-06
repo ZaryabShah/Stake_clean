@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-08-06T01:16:38.062238",
+  "provider_slug": "massive-studios",
+  "provider_name": "Massive Studios",
+  "status": "initial_completed",
+  "total_games": 21,
+  "games_fetched": 21,
+  "is_complete": true,
+  "needs_pagination": false,
+  "output_dir": "stake_thumbnails\\Massive_Studios",
+  "games_data_file": "stake_thumbnails\\Massive_Studios\\initial_games.json",
+  "source": "initial_html_fetch"
+}

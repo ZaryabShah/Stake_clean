@@ -1,0 +1,18 @@
+{
+  "phase": "initial_data_collection",
+  "duration": "0:00:02.172186",
+  "providers_processed": 49,
+  "providers_successful": 16,
+  "total_games_found": 324,
+  "stats": {
+    "providers_found": 49,
+    "providers_completed": 0,
+    "games_found": 0,
+    "images_downloaded": 0,
+    "images_converted": 0,
+    "errors": 0,
+    "start_time": "2025-08-06 22:22:05.188661",
+    "end_time": "2025-08-06 22:22:07.360847"
+  },
+  "timestamp": "2025-08-06T22:22:07.360847"
+}

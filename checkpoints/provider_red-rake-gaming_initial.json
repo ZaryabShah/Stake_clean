@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-08-06T03:50:05.317Z",
+  "provider_slug": "red-rake-gaming",
+  "provider_name": "Red Rake Gaming",
+  "status": "completed",
+  "total_games": 45,
+  "games_fetched": 45,
+  "is_complete": true,
+  "needs_pagination": true,
+  "output_dir": "stake_thumbnails\\Red_Rake_Gaming",
+  "games_data_file": "stake_thumbnails\\Red_Rake_Gaming\\initial_games.json",
+  "source": "initial_html_fetch"
+}

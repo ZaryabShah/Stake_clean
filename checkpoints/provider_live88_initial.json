@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-08-06T01:01:17.562614",
+  "provider_slug": "live88",
+  "provider_name": "Live88",
+  "status": "initial_completed",
+  "total_games": 5,
+  "games_fetched": 5,
+  "is_complete": true,
+  "needs_pagination": false,
+  "output_dir": "stake_thumbnails\\Live88",
+  "games_data_file": "stake_thumbnails\\Live88\\initial_games.json",
+  "source": "initial_html_fetch"
+}

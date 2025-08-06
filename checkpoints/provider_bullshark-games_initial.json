@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-08-06T01:32:01.397945",
+  "provider_slug": "bullshark-games",
+  "provider_name": "Bullshark Games",
+  "status": "initial_completed",
+  "total_games": 20,
+  "games_fetched": 20,
+  "is_complete": true,
+  "needs_pagination": false,
+  "output_dir": "stake_thumbnails\\Bullshark_Games",
+  "games_data_file": "stake_thumbnails\\Bullshark_Games\\initial_games.json",
+  "source": "initial_html_fetch"
+}

@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-08-06T00:51:42.250633",
+  "provider_slug": "stake-originals",
+  "provider_name": "Stake Originals",
+  "status": "initial_completed",
+  "total_games": 25,
+  "games_fetched": 25,
+  "is_complete": true,
+  "needs_pagination": false,
+  "output_dir": "stake_thumbnails\\Stake_Originals",
+  "games_data_file": "stake_thumbnails\\Stake_Originals\\initial_games.json",
+  "source": "initial_html_fetch"
+}

@@ -1,0 +1,11 @@
+{
+  "provider_name": "Playn Go",
+  "provider_slug": "playn-go",
+  "completion_status": "completed",
+  "games_to_fetch": 160,
+  "batches_needed": 5,
+  "simulation_mode": true,
+  "completion_timestamp": "2025-08-06T05:21:06.374811",
+  "last_updated": "2025-08-06T05:21:06.374811",
+  "checkpoint_type": "complete_graphql"
+}

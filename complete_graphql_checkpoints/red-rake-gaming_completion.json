@@ -1,0 +1,11 @@
+{
+  "provider_name": "Red Rake Gaming",
+  "provider_slug": "red-rake-gaming",
+  "completion_status": "completed",
+  "games_to_fetch": 6,
+  "batches_needed": 1,
+  "simulation_mode": true,
+  "completion_timestamp": "2025-08-06T05:09:42.776809",
+  "last_updated": "2025-08-06T05:09:42.776809",
+  "checkpoint_type": "complete_graphql"
+}

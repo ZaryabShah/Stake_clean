@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-08-06T01:04:29.447592",
+  "provider_slug": "playson",
+  "provider_name": "Playson",
+  "status": "initial_completed",
+  "total_games": 38,
+  "games_fetched": 38,
+  "is_complete": true,
+  "needs_pagination": false,
+  "output_dir": "stake_thumbnails\\Playson",
+  "games_data_file": "stake_thumbnails\\Playson\\initial_games.json",
+  "source": "initial_html_fetch"
+}

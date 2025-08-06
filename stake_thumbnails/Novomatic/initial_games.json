@@ -1,0 +1,649 @@
+{
+  "timestamp": "2025-08-06T04:18:56.592Z",
+  "provider": {
+    "id": "novomatic",
+    "name": "Novomatic",
+    "slug": "novomatic"
+  },
+  "summary": {
+    "totalGames": 61,
+    "fetchedGames": 61,
+    "remainingGames": 0,
+    "isComplete": true,
+    "currentOffset": 61
+  },
+  "games": [
+    {
+      "game_id": "novomatic-8-bullets-hold-and-win",
+      "title": "8 Bullets Hold and Win",
+      "slug": "novomatic-8-bullets-hold-and-win",
+      "provider": "Novomatic",
+      "thumbnail_url": "https://mediumrare.imgix.net/9b2fe6512d33c3620eac54f78777c1b7a524faa098835cbac17e8f8089e1a616",
+      "expected_filename": "Novomatic - 8 Bullets Hold and Win.webp",
+      "game_url": "https://stake.com/casino/games/novomatic-8-bullets-hold-and-win",
+      "extracted_at": "2025-08-06T01:02:30.016731"
+    },
+    {
+      "game_id": "novomatic-super-triple-fortune",
+      "title": "Super Triple Fortune",
+      "slug": "novomatic-super-triple-fortune",
+      "provider": "Novomatic",
+      "thumbnail_url": "https://mediumrare.imgix.net/8eac6d62f3a1ca33408d8cf56a7066672fac4cc053fd96420f5b14500106b5d2",
+      "expected_filename": "Novomatic - Super Triple Fortune.webp",
+      "game_url": "https://stake.com/casino/games/novomatic-super-triple-fortune",
+      "extracted_at": "2025-08-06T01:02:30.016731"
+    },
+    {
+      "game_id": "novomatic-book-of-ra",
+      "title": "Book of Ra",
+      "slug": "novomatic-book-of-ra",
+      "provider": "Novomatic",
+      "thumbnail_url": "https://mediumrare.imgix.net/3d5eaca3e82caa60d4078a6d2c5805c8df7f5e04641e669c77b76cfa646a8216",
+      "expected_filename": "Novomatic - Book of Ra.webp",
+      "game_url": "https://stake.com/casino/games/novomatic-book-of-ra",
+      "extracted_at": "2025-08-06T01:02:30.016731"
+    },
+    {
+      "game_id": "novomatic-book-of-ra-magic",
+      "title": "Book of Ra Magic",
+      "slug": "novomatic-book-of-ra-magic",
+      "provider": "Novomatic",
+      "thumbnail_url": "https://mediumrare.imgix.net/1dfc0e7ac98d0add3052e95e28cedf086442bfffdebf7d1b5b40a9d763e8d827",
+      "expected_filename": "Novomatic - Book of Ra Magic.webp",
+      "game_url": "https://stake.com/casino/games/novomatic-book-of-ra-magic",
+      "extracted_at": "2025-08-06T01:02:30.016731"
+    },
+    {
+      "game_id": "novomatic-40-super-clover",
+      "title": "40 Super Clover",
+      "slug": "novomatic-40-super-clover",
+      "provider": "Novomatic",
+      "thumbnail_url": "https://mediumrare.imgix.net/c70230904dd9d3595083f4186dc486f7c4a44059f1fcfa5017dfab0d1a8819c5",
+      "expected_filename": "Novomatic - 40 Super Clover.webp",
+      "game_url": "https://stake.com/casino/games/novomatic-40-super-clover",
+      "extracted_at": "2025-08-06T01:02:30.016731"
+    },
+    {
+      "game_id": "novomatic-diamond-link-mighty-sevens",
+      "title": "Diamond Link: Mighty Sevens",
+      "slug": "novomatic-diamond-link-mighty-sevens",
+      "provider": "Novomatic",
+      "thumbnail_url": "https://mediumrare.imgix.net/2103734ff7885416c57d692a2dd4a185f9ff050dca1a27c629930c88ed45f71c",
+      "expected_filename": "Novomatic - Diamond Link Mighty Sevens.webp",
+      "game_url": "https://stake.com/casino/games/novomatic-diamond-link-mighty-sevens",
+      "extracted_at": "2025-08-06T01:02:30.016731"
+    },
+    {
+      "game_id": "novomatic-book-of-ra-deluxe",
+      "title": "Book of Ra Deluxe",
+      "slug": "novomatic-book-of-ra-deluxe",
+      "provider": "Novomatic",
+      "thumbnail_url": "https://mediumrare.imgix.net/d85c4434d494dc81bce0a7cea714e9dbfa376e0150aff53862b721bcb09a22b3",
+      "expected_filename": "Novomatic - Book of Ra Deluxe.webp",
+      "game_url": "https://stake.com/casino/games/novomatic-book-of-ra-deluxe",
+      "extracted_at": "2025-08-06T01:02:30.016731"
+    },
+    {
+      "game_id": "novomatic-cash-connection-dolphins-pearl",
+      "title": "Cash Connection Dolphin's Pearl",
+      "slug": "novomatic-cash-connection-dolphins-pearl",
+      "provider": "Novomatic",
+      "thumbnail_url": "https://mediumrare.imgix.net/abbb8ef7bc396d5724c44b885f441b271f67b968805209e0b34e884292f10698",
+      "expected_filename": "Novomatic - Cash Connection Dolphin's Pearl.webp",
+      "game_url": "https://stake.com/casino/games/novomatic-cash-connection-dolphins-pearl",
+      "extracted_at": "2025-08-06T01:02:30.016731"
+    },
+    {
+      "game_id": "novomatic-vault-lock-crack-it-big",
+      "title": "Vault Lock: Crack it Big",
+      "slug": "novomatic-vault-lock-crack-it-big",
+      "provider": "Novomatic",
+      "thumbnail_url": "https://mediumrare.imgix.net/2f2c7c15dcd60a7292a483315d4ffb7733cb0550056d07ecc2a7e839680b08b9",
+      "expected_filename": "Novomatic - Vault Lock Crack it Big.webp",
+      "game_url": "https://stake.com/casino/games/novomatic-vault-lock-crack-it-big",
+      "extracted_at": "2025-08-06T01:02:30.016731"
+    },
+    {
+      "game_id": "novomatic-bananas-go-bahamas",
+      "title": "Bananas Go Bahamas",
+      "slug": "novomatic-bananas-go-bahamas",
+      "provider": "Novomatic",
+      "thumbnail_url": "https://mediumrare.imgix.net/8f6305a13258863bd4d21982e91ff0d0ca9c7ed769a8e6ee408033327e577803",
+      "expected_filename": "Novomatic - Bananas Go Bahamas.webp",
+      "game_url": "https://stake.com/casino/games/novomatic-bananas-go-bahamas",
+      "extracted_at": "2025-08-06T01:02:30.016731"
+    },
+    {
+      "game_id": "novomatic-mega-joker",
+      "title": "Mega Joker",
+      "slug": "novomatic-mega-joker",
+      "provider": "Novomatic",
+      "thumbnail_url": "https://mediumrare.imgix.net/4e5adf186c637888bf7cdc7ca7dedba2c945b19edd6668dfad68e22982b6f63d",
+      "expected_filename": "Novomatic - Mega Joker.webp",
+      "game_url": "https://stake.com/casino/games/novomatic-mega-joker",
+      "extracted_at": "2025-08-06T01:02:30.016731"
+    },
+    {
+      "game_id": "novomatic-one-mad-hatter",
+      "title": "One Mad Hatter",
+      "slug": "novomatic-one-mad-hatter",
+      "provider": "Novomatic",
+      "thumbnail_url": "https://mediumrare.imgix.net/02a85e920b030ef11b9eb0a6e7a3972b0d865724a6c8eed18f0d1bc3698292ca",
+      "expected_filename": "Novomatic - One Mad Hatter.webp",
+      "game_url": "https://stake.com/casino/games/novomatic-one-mad-hatter",
+      "extracted_at": "2025-08-06T01:02:30.016731"
+    },
+    {
+      "game_id": "novomatic-lord-of-the-ocean",
+      "title": "Lord of the Ocean ",
+      "slug": "novomatic-lord-of-the-ocean",
+      "provider": "Novomatic",
+      "thumbnail_url": "https://mediumrare.imgix.net/34a7c62787bd32abaec1906b57d22bd6cc2a0e911bb165c2fcd83e60fc61fd21",
+      "expected_filename": "Novomatic - Lord of the Ocean.webp",
+      "game_url": "https://stake.com/casino/games/novomatic-lord-of-the-ocean",
+      "extracted_at": "2025-08-06T01:02:30.016731"
+    },
+    {
+      "game_id": "novomatic-book-of-ra-deluxe-6",
+      "title": "Book of Ra Deluxe 6",
+      "slug": "novomatic-book-of-ra-deluxe-6",
+      "provider": "Novomatic",
+      "thumbnail_url": "https://mediumrare.imgix.net/b28fe1671f2d1e78670e08e28f86b6f8c09eb9f5cb537732515fa7f359780dba",
+      "expected_filename": "Novomatic - Book of Ra Deluxe 6.webp",
+      "game_url": "https://stake.com/casino/games/novomatic-book-of-ra-deluxe-6",
+      "extracted_at": "2025-08-06T01:02:30.016731"
+    },
+    {
+      "game_id": "novomatic-lucky-ladys-charm-deluxe",
+      "title": "Lucky Lady's Charm Deluxe",
+      "slug": "novomatic-lucky-ladys-charm-deluxe",
+      "provider": "Novomatic",
+      "thumbnail_url": "https://mediumrare.imgix.net/f9edd63ec08084bba27e4cb7bf6800b1a2436691035ee15d2d5e8f7723ee23a9",
+      "expected_filename": "Novomatic - Lucky Lady's Charm Deluxe.webp",
+      "game_url": "https://stake.com/casino/games/novomatic-lucky-ladys-charm-deluxe",
+      "extracted_at": "2025-08-06T01:02:30.016731"
+    },
+    {
+      "game_id": "novomatic-sizzling-hot-deluxe",
+      "title": "Sizzling Hot Deluxe",
+      "slug": "novomatic-sizzling-hot-deluxe",
+      "provider": "Novomatic",
+      "thumbnail_url": "https://mediumrare.imgix.net/17b45c2d5d843fdbe77fb0b952415f1422d2b1ee9228dc40c7110de31b1cfb9a",
+      "expected_filename": "Novomatic - Sizzling Hot Deluxe.webp",
+      "game_url": "https://stake.com/casino/games/novomatic-sizzling-hot-deluxe",
+      "extracted_at": "2025-08-06T01:02:30.016731"
+    },
+    {
+      "game_id": "novomatic-sizzling-hot",
+      "title": "Sizzling Hot",
+      "slug": "novomatic-sizzling-hot",
+      "provider": "Novomatic",
+      "thumbnail_url": "https://mediumrare.imgix.net/77b91957b98d6863e68a5f6c519608c1eeb29e7bbc00eeff5c7e90f6c8356961",
+      "expected_filename": "Novomatic - Sizzling Hot.webp",
+      "game_url": "https://stake.com/casino/games/novomatic-sizzling-hot",
+      "extracted_at": "2025-08-06T01:02:30.016731"
+    },
+    {
+      "game_id": "novomatic-wings-of-fire",
+      "title": "Wings of Fire",
+      "slug": "novomatic-wings-of-fire",
+      "provider": "Novomatic",
+      "thumbnail_url": "https://mediumrare.imgix.net/68ee6201690dcfd55313040f3131150c7f20c699957e435accf85bb976579f80",
+      "expected_filename": "Novomatic - Wings of Fire.webp",
+      "game_url": "https://stake.com/casino/games/novomatic-wings-of-fire",
+      "extracted_at": "2025-08-06T01:02:30.016731"
+    },
+    {
+      "game_id": "novomatic-black-forest-treasures-lock-and-spin",
+      "title": "Black Forest Treasures Lock and Spin",
+      "slug": "novomatic-black-forest-treasures-lock-and-spin",
+      "provider": "Novomatic",
+      "thumbnail_url": "https://mediumrare.imgix.net/8b3191683c42577720a39dea8372a78aff1b8206b6d32a0cdf2d808010f0369b",
+      "expected_filename": "Novomatic - Black Forest Treasures Lock and Spin.webp",
+      "game_url": "https://stake.com/casino/games/novomatic-black-forest-treasures-lock-and-spin",
+      "extracted_at": "2025-08-06T01:02:30.016731"
+    },
+    {
+      "game_id": "novomatic-faust",
+      "title": "Faust",
+      "slug": "novomatic-faust",
+      "provider": "Novomatic",
+      "thumbnail_url": "https://mediumrare.imgix.net/efd9d8eef6eb4fea9234208a462e91740463d0d5e5c29f5e8c56c99c302c42fc",
+      "expected_filename": "Novomatic - Faust.webp",
+      "game_url": "https://stake.com/casino/games/novomatic-faust",
+      "extracted_at": "2025-08-06T01:02:30.016731"
+    },
+    {
+      "game_id": "novomatic-lucky-lady-s-charm-deluxe-6",
+      "title": "Lucky Lady's Charm Deluxe 6",
+      "slug": "novomatic-lucky-lady-s-charm-deluxe-6",
+      "provider": "Novomatic",
+      "thumbnail_url": "https://mediumrare.imgix.net/2729e05827a18c0ae23d0b2bc1c442dbace141f9f1f7c11c0885622db74e04da",
+      "expected_filename": "Novomatic - Lucky Lady's Charm Deluxe 6.webp",
+      "game_url": "https://stake.com/casino/games/novomatic-lucky-lady-s-charm-deluxe-6",
+      "extracted_at": "2025-08-06T01:02:30.016731"
+    },
+    {
+      "game_id": "novomatic-5-sevens",
+      "title": "5 Sevens",
+      "slug": "novomatic-5-sevens",
+      "provider": "Novomatic",
+      "thumbnail_url": "https://mediumrare.imgix.net/fb7679a6d60a4e03a0afd4c3cab322dcef6e99fc4fd451c516539590a5753732",
+      "expected_filename": "Novomatic - 5 Sevens.webp",
+      "game_url": "https://stake.com/casino/games/novomatic-5-sevens",
+      "extracted_at": "2025-08-06T01:02:30.016731"
+    },
+    {
+      "game_id": "novomatic-chip-runner",
+      "title": "Chip Runner",
+      "slug": "novomatic-chip-runner",
+      "provider": "Novomatic",
+      "thumbnail_url": "https://mediumrare.imgix.net/c8524237e3ad8abdd66c19d88dcd8ce1d13ad2864ce468154f9846d408d93913",
+      "expected_filename": "Novomatic - Chip Runner.webp",
+      "game_url": "https://stake.com/casino/games/novomatic-chip-runner",
+      "extracted_at": "2025-08-06T01:02:30.016731"
+    },
+    {
+      "game_id": "novomatic-the-money-game",
+      "title": "The Money Game",
+      "slug": "novomatic-the-money-game",
+      "provider": "Novomatic",
+      "thumbnail_url": "https://mediumrare.imgix.net/027011ca4dd0cc11ae3b3c1eca44bcc34674e459ad0dbbde26c5f3c2001a8db8",
+      "expected_filename": "Novomatic - The Money Game.webp",
+      "game_url": "https://stake.com/casino/games/novomatic-the-money-game",
+      "extracted_at": "2025-08-06T01:02:30.016731"
+    },
+    {
+      "game_id": "novomatic-dolphins-pearl-deluxe",
+      "title": "Dolphin's Pearl Deluxe Buy Bonus",
+      "slug": "novomatic-dolphins-pearl-deluxe",
+      "provider": "Novomatic",
+      "thumbnail_url": "https://mediumrare.imgix.net/813e5d277ad3ef8019ba4949c1cdcfb766665ce90093c6f72d1d2d925e82385c",
+      "expected_filename": "Novomatic - Dolphin's Pearl Deluxe Buy Bonus.webp",
+      "game_url": "https://stake.com/casino/games/novomatic-dolphins-pearl-deluxe",
+      "extracted_at": "2025-08-06T01:02:30.016731"
+    },
+    {
+      "game_id": "novomatic-golden-ark",
+      "title": "Golden Ark",
+      "slug": "novomatic-golden-ark",
+      "provider": "Novomatic",
+      "thumbnail_url": "https://mediumrare.imgix.net/1d534da51d6ee249cad2d9de56f81e3017cc5ef17bd33fa497064e9c7d7eb5a4",
+      "expected_filename": "Novomatic - Golden Ark.webp",
+      "game_url": "https://stake.com/casino/games/novomatic-golden-ark",
+      "extracted_at": "2025-08-06T01:02:30.016731"
+    },
+    {
+      "game_id": "novomatic-dolphins-pearl",
+      "title": "Dolphin's Pearl",
+      "slug": "novomatic-dolphins-pearl",
+      "provider": "Novomatic",
+      "thumbnail_url": "https://mediumrare.imgix.net/7864fd95928be55308fd96b903c4cd2ce054dfce81bca314aef66c338aad0d4f",
+      "expected_filename": "Novomatic - Dolphin's Pearl.webp",
+      "game_url": "https://stake.com/casino/games/novomatic-dolphins-pearl",
+      "extracted_at": "2025-08-06T01:02:30.016731"
+    },
+    {
+      "game_id": "novomatic-book-hotfire-multichance",
+      "title": "Book Hotfire Multichance",
+      "slug": "novomatic-book-hotfire-multichance",
+      "provider": "Novomatic",
+      "thumbnail_url": "https://mediumrare.imgix.net/6c413952c8c17be21bf6cfdb0f30b6dcf98b57697feb6e38773468e839d1e86f",
+      "expected_filename": "Novomatic - Book Hotfire Multichance.webp",
+      "game_url": "https://stake.com/casino/games/novomatic-book-hotfire-multichance",
+      "extracted_at": "2025-08-06T01:02:30.016731"
+    },
+    {
+      "game_id": "novomatic-charming-ladys-boom",
+      "title": "Charming Lady's Boom",
+      "slug": "novomatic-charming-ladys-boom",
+      "provider": "Novomatic",
+      "thumbnail_url": "https://mediumrare.imgix.net/7e01894fdc18ab6c4e72de8977795e9de917a30bd2d8d411c39bd545727e28d6",
+      "expected_filename": "Novomatic - Charming Lady's Boom.webp",
+      "game_url": "https://stake.com/casino/games/novomatic-charming-ladys-boom",
+      "extracted_at": "2025-08-06T01:02:30.016731"
+    },
+    {
+      "game_id": "novomatic-jackass-gold-hold-and-win",
+      "title": "Jackass Gold: Hold and Win",
+      "slug": "novomatic-jackass-gold-hold-and-win",
+      "provider": "Novomatic",
+      "thumbnail_url": "https://mediumrare.imgix.net/4faefe6288a5d80db0ea1f07196f7bdbe082f6ff1998e1424c243a3360a87561",
+      "expected_filename": "Novomatic - Jackass Gold Hold and Win.webp",
+      "game_url": "https://stake.com/casino/games/novomatic-jackass-gold-hold-and-win",
+      "extracted_at": "2025-08-06T01:02:30.016731"
+    },
+    {
+      "game_id": "novomatic-ultra-hot-deluxe",
+      "title": "Ultra Hot Deluxe",
+      "slug": "novomatic-ultra-hot-deluxe",
+      "provider": "Novomatic",
+      "thumbnail_url": "https://mediumrare.imgix.net/995fe247bf8da3f238f3484770bb23249c9a075dba944d3e991044152583c6e8",
+      "expected_filename": "Novomatic - Ultra Hot Deluxe.webp",
+      "game_url": "https://stake.com/casino/games/novomatic-ultra-hot-deluxe",
+      "extracted_at": "2025-08-06T01:02:30.016731"
+    },
+    {
+      "game_id": "novomatic-piggy-prizes-wand-of-riches",
+      "title": "Piggy Prizes Wand of Riches",
+      "slug": "novomatic-piggy-prizes-wand-of-riches",
+      "provider": "Novomatic",
+      "thumbnail_url": "https://mediumrare.imgix.net/15a660c647e8153239b46886fdd9e6ff7d47db818f39de559cf134346a871660",
+      "expected_filename": "Novomatic - Piggy Prizes Wand of Riches.webp",
+      "game_url": "https://stake.com/casino/games/novomatic-piggy-prizes-wand-of-riches",
+      "extracted_at": "2025-08-06T01:02:30.016731"
+    },
+    {
+      "game_id": "novomatic-gorilla",
+      "title": "Gorilla",
+      "slug": "novomatic-gorilla",
+      "provider": "Novomatic",
+      "thumbnail_url": "https://mediumrare.imgix.net/7461689cbe05fb4262eb9f06a8da08c7dd2d2725776e7551e8324da36f8589be",
+      "expected_filename": "Novomatic - Gorilla.webp",
+      "game_url": "https://stake.com/casino/games/novomatic-gorilla",
+      "extracted_at": "2025-08-06T01:02:30.016731"
+    },
+    {
+      "game_id": "novomatic-10-devils-hotfire",
+      "title": "10 Devils Hotfire",
+      "slug": "novomatic-10-devils-hotfire",
+      "provider": "Novomatic",
+      "thumbnail_url": "https://mediumrare.imgix.net/81aa397a7e9599c9183c02b9d9cf2fddd35a6a198cee5b143b353c087d701375",
+      "expected_filename": "Novomatic - 10 Devils Hotfire.webp",
+      "game_url": "https://stake.com/casino/games/novomatic-10-devils-hotfire",
+      "extracted_at": "2025-08-06T01:02:30.016731"
+    },
+    {
+      "game_id": "novomatic-mystic-bull",
+      "title": "Mystic Bull",
+      "slug": "novomatic-mystic-bull",
+      "provider": "Novomatic",
+      "thumbnail_url": "https://mediumrare.imgix.net/8ae4c8e09c84b88d55c9b43553d57dfbf7b29eba137c2539c0e1758f78a18d27",
+      "expected_filename": "Novomatic - Mystic Bull.webp",
+      "game_url": "https://stake.com/casino/games/novomatic-mystic-bull",
+      "extracted_at": "2025-08-06T01:02:30.016731"
+    },
+    {
+      "game_id": "novomatic-sizzling-hot-6-extra-gold",
+      "title": "Sizzling Hot 6 Extra Gold",
+      "slug": "novomatic-sizzling-hot-6-extra-gold",
+      "provider": "Novomatic",
+      "thumbnail_url": "https://mediumrare.imgix.net/a071fab05f7d95195c0211ff5645c5b142791263afc5fcfce857038ed10be3f7",
+      "expected_filename": "Novomatic - Sizzling Hot 6 Extra Gold.webp",
+      "game_url": "https://stake.com/casino/games/novomatic-sizzling-hot-6-extra-gold",
+      "extracted_at": "2025-08-06T01:02:30.016731"
+    },
+    {
+      "game_id": "novomatic-power-stars",
+      "title": "Power Stars",
+      "slug": "novomatic-power-stars",
+      "provider": "Novomatic",
+      "thumbnail_url": "https://mediumrare.imgix.net/b8b7044ec8f42b8d77fc218bdf0e31e2650e74d9c559a3c5205fd7d22167ebbb",
+      "expected_filename": "Novomatic - Power Stars.webp",
+      "game_url": "https://stake.com/casino/games/novomatic-power-stars",
+      "extracted_at": "2025-08-06T01:02:30.016731"
+    },
+    {
+      "game_id": "novomatic-50-jokers-hotfire",
+      "title": "50 Jokers Hotfire",
+      "slug": "novomatic-50-jokers-hotfire",
+      "provider": "Novomatic",
+      "thumbnail_url": "https://mediumrare.imgix.net/fe80dfaad3bdd1e73fa4b80ffbd30a1388bef9d2991da50b944cc0ef601c2b28",
+      "expected_filename": "Novomatic - 50 Jokers Hotfire.webp",
+      "game_url": "https://stake.com/casino/games/novomatic-50-jokers-hotfire",
+      "extracted_at": "2025-08-06T01:02:30.016731"
+    },
+    {
+      "game_id": "novomatic-roaring-forties",
+      "title": "Roaring Forties",
+      "slug": "novomatic-roaring-forties",
+      "provider": "Novomatic",
+      "thumbnail_url": "https://mediumrare.imgix.net/3a0b934b38a2eafa082366ca60a29686dec2470d9def342bd58772a362aa9573",
+      "expected_filename": "Novomatic - Roaring Forties.webp",
+      "game_url": "https://stake.com/casino/games/novomatic-roaring-forties",
+      "extracted_at": "2025-08-06T01:02:30.016731"
+    },
+    {
+      "id": "3d915e9b-07c6-4a96-aa50-0b97dfb2eb75",
+      "name": "5 Sevens Hold & Win",
+      "slug": "novomatic-5-sevens-hold-win",
+      "thumbnailUrl": "https://mediumrare.imgix.net/cd4ed26e8f0d01420205adf422bfc4fdbcf184ac9f40836e61b12e7e06e14863",
+      "thumbnailBlurHash": "eUPES1OU8#R-D*9FbbN3WCS$H[n+Y1oJtQEEV[Suoyk8VWayWGkBtR",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "30d67b34-9cf6-41b1-af58-1334c565ec2c",
+      "name": "Million Dollar Heist Xtreme",
+      "slug": "novomatic-million-dollar-heist-xtreme",
+      "thumbnailUrl": "https://mediumrare.imgix.net/42b2e330208b0a72fe1c34fcbfea89c1fdb1eac3db56c16c67c30185d7677ea0",
+      "thumbnailBlurHash": "eHLVK:xa8w$~x]JM%0KQNaNtH?N^%fIWNHTyofMdVtn5Mxs9XTofjF",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "0af4ac8d-4b86-4908-9628-64a2849e218e",
+      "name": "Plenty of Fruit 40",
+      "slug": "novomatic-plenty-of-fruit-40",
+      "thumbnailUrl": "https://mediumrare.imgix.net/5a5a7707cec794727c2894763b7b3acb1e756d3453b5b44367d3d7d0b2fe74bf",
+      "thumbnailBlurHash": "ehGcNPxY5dNeaj#ioeS*Sgjb1URmwboes*O]WBVsn*oGV[kRxBr]k9",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "5ec2995b-47fa-41bf-82b3-7df0078a4d3d",
+      "name": "Columbus Deluxe",
+      "slug": "novomatic-columbus-deluxe",
+      "thumbnailUrl": "https://mediumrare.imgix.net/47ee2937908a7454b0e4dffec90d73f060877a3716c8ef3e1c2d7c0dbd1669dc",
+      "thumbnailBlurHash": "eqKbwqI@VsV[WUM@NdxZjFoyRGofjZocoMt%s,RjbHV[RRn%o|WCbb",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "064f4113-0185-40aa-bf68-d3e1a5b55929",
+      "name": "10 Super Clover",
+      "slug": "novomatic-10-super-clover",
+      "thumbnailUrl": "https://mediumrare.imgix.net/146f07efa10eb431fb9feb2267182b5c3b06a7e84272f2b7d491efa0d7572705",
+      "thumbnailBlurHash": "eiIYT[jG9uoeIovMoMS~fOof0}fktOay$%O]WUotjbr?EckAozWCn-",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "4f441aa7-95d0-482c-8d22-a12b9fe7f263",
+      "name": "Hot Chance",
+      "slug": "novomatic-hot-chance",
+      "thumbnailUrl": "https://mediumrare.imgix.net/29d3beef4543d516d25dcacca9741e67cb7ef18f4a2fac39b0b1bab5e5954d02",
+      "thumbnailBlurHash": "ePM;j;SOqaS1wJbWbIr?bFwdE2W;KOn+t5^7W.E3WEkol:w]OtWrtQ",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "8a1e9e80-ce72-4785-8233-f4f7038124c2",
+      "name": "Book of Flames: Hold and Win",
+      "slug": "novomatic-book-of-flames-hold-and-win",
+      "thumbnailUrl": "https://mediumrare.imgix.net/5aefd8a021e9839031882f61f1f63d492fefd610e8698f828b3414c7afe9f1c3",
+      "thumbnailBlurHash": "eWPqK8R6=XM#wI34VtxuRmbJ*~jEa5ofNI*IjFnOj]RP#kV@OZRlbc",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "7edf7ec9-1073-42d8-b609-ab179a6cd6a1",
+      "name": "Gryphon's Gold",
+      "slug": "novomatic-gryphons-gold",
+      "thumbnailUrl": "https://mediumrare.imgix.net/47ab77aa0c5541f5aac950b07eb8149b1d05fd526007c1dcd5c218e9a3b23ee0",
+      "thumbnailBlurHash": "eVI4*uslIcM}IUGNt8SPRoM|IitSIoaextu2R$V[oZxt9gIV%foybY",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "f7b229e1-c1fd-4e8d-a59c-c8108dc6c338",
+      "name": "Three Hotfire",
+      "slug": "novomatic-three-hotfire",
+      "thumbnailUrl": "https://mediumrare.imgix.net/0fef944fa211891648ea30707df8301b42e547e05e09a56205d28d778693bd66",
+      "thumbnailBlurHash": "eXOm.:WUDkkCM{02fkXTaybvD+jb%Kayt6B?aynMbInORMkBWZf6bc",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "fee2b799-41ac-493f-be74-dd0375b4dd5a",
+      "name": "Rise of Tut",
+      "slug": "novomatic-rise-of-tut",
+      "thumbnailUrl": "https://mediumrare.imgix.net/ae0a317948fc217ea889bc677d0889b69d350baac7cba30999c297eafeeda3c8",
+      "thumbnailBlurHash": "eONuY8slQ-i^#PC%a{JBaeiv@qofMeWsEmu1bIQ-R-JERiayT1WBR:",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "d979d07b-192b-46f9-8230-078a9935a041",
+      "name": "Gold Fever",
+      "slug": "novomatic-gold-fever",
+      "thumbnailUrl": "https://mediumrare.imgix.net/5a328dece6c6292a4d9c8ddd8a661cb905e552b18c2ff41eb5aeb9479c3574fd",
+      "thumbnailBlurHash": "eeHoOjxFNFM{%1=,nOx[WBs.GKRRtSt7RkcqR-RkofWAE,kWxVbHRj",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "46f930f9-1175-4313-8c15-0282f0d51b6a",
+      "name": "Book Hotfire",
+      "slug": "novomatic-book-hotfire",
+      "thumbnailUrl": "https://mediumrare.imgix.net/0e8c6cd7bc0e2f14f09370f15925cc8393de553f7adb07b64c363bf1232b3510",
+      "thumbnailBlurHash": "ePPg~8e:vOoJ+wI,ayWGf6xuR6axNaayXQyGj?Vsf6RPrUfiXTafbd",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "993a37b8-2df0-4326-a511-a13703c3ebb6",
+      "name": "Always Hot",
+      "slug": "novomatic-always-hot",
+      "thumbnailUrl": "https://mediumrare.imgix.net/26d20054d4c2081e500c5be1a992beece7573acc54dcca40e56f6e0be2a884c8",
+      "thumbnailBlurHash": "eTO,oloy8xj@NKtJbFWGkBX9iJj[tRayobETjbWAaen|UdjGpIayt7",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "f99a3b1e-2445-44f6-875a-843acf02b49d",
+      "name": "Coins of Fate",
+      "slug": "novomatic-coins-of-fate",
+      "thumbnailUrl": "https://mediumrare.imgix.net/28bc7d8195d85bd14a3b18f97ddde8b6385dfd1e4f2e7f4d2411a9a9b6f6f1bc",
+      "thumbnailBlurHash": "esMq}MxrRQoyaLVnt6oOjsoxQ}Rkjuafoyx[M}RQWXR%Z,ofofayba",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "ae053e93-a37f-4a73-96a9-5e15c1266c22",
+      "name": "Queen Of Hearts Deluxe",
+      "slug": "novomatic-queen-of-hearts-deluxe",
+      "thumbnailUrl": "https://mediumrare.imgix.net/ae135d4a06518afee0d2ee3f43ac794aa5fa96c6372000b9e5d2535c85a0544d",
+      "thumbnailBlurHash": "eROdd$S54UV[%003WVEPs:xtXyjGSet6kWcaoLVYj?Rjm*oetRWXj]",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "9dbaee47-3d68-4d94-b5bb-aec12a041e53",
+      "name": "Aztec Eclipse Hold and Win",
+      "slug": "novomatic-aztec-eclipse-hold-and-win",
+      "thumbnailUrl": "https://mediumrare.imgix.net/7701bd7c2ce42be8f67b43dc44b6d3a3897a0761e141eab6e26cc385358b45b4",
+      "thumbnailBlurHash": "eSDU0%eV7fxFkqIjbIyEoJtR5ub]$PS4a3?XflIAWDMyM_ajt6jboe",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "a670eaf1-4aa4-4750-8e0f-4e1aca931676",
+      "name": "40 Mega Hotfire",
+      "slug": "novomatic-40-mega-hotfire",
+      "thumbnailUrl": "https://mediumrare.imgix.net/ca6f284626da4eef55a8b30d51a804bcbc9a4ebf27a329bb8636677851f89ce4",
+      "thumbnailBlurHash": "eWKeC*aL2%XQs9vMV]X,XPs;NqWB$+kBR+7|jGNFX7RQ6us:S~S1r_",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "72aa031b-1ed1-45c6-ad83-56ebbd6ff682",
+      "name": "Christmas Boom",
+      "slug": "novomatic-christmas-boom",
+      "thumbnailUrl": "https://mediumrare.imgix.net/da95c70eb5799cb8f15ace77111c0b1a832407e8222bce61d2b825b7f3a0c690",
+      "thumbnailBlurHash": "eaI=[pjEL4OtM{v{oeXSNzs,0nn#MeWExts+jFRQi_adEQbI%LnhV?",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "e4a89c5e-6b27-41f1-b406-495853c110c4",
+      "name": "5 Sevens: Hold and Win Christmas",
+      "slug": "novomatic-5-sevens-hold-and-win-christmas",
+      "thumbnailUrl": "https://mediumrare.imgix.net/db6d33f9cb05fbf672b22ed004234c76beafc7fcb15bf569aa903e32b026420c",
+      "thumbnailBlurHash": "eQPy#Wwc*}S}rXD6Szo#W;kW[AK4KNnPS#yYWBNGjHRiH?rtt7ofo}",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "c0319da6-2571-4980-816e-0797ca8e5ad6",
+      "name": "Ultra Hotfire",
+      "slug": "novomatic-ultra-hotfire",
+      "thumbnailUrl": "https://mediumrare.imgix.net/c4ecd6a3db96539ee4274df9efdb7767b45ccaad6c9ca6b37ae755633ecb40eb",
+      "thumbnailBlurHash": "epIW~@ae9*oeIu+$j?Sjj@kC5ZfkxUWXs*B@a#s7a}nz5bj[ofayt6",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "0396e317-33d9-40e0-850d-e62018a6f061",
+      "name": "Million Dollar Heist",
+      "slug": "novomatic-million-dollar-heist",
+      "thumbnailUrl": "https://mediumrare.imgix.net/130e68b267769d97a1b125030d73c95e088860deca9d83b73831d6cef3669a59",
+      "thumbnailBlurHash": "eTNSA+o|auozR5B}N_O?s:WF#loyRnV]jvp{t6ROoeV?m+Rko#oyoz",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "248a1701-a907-4975-9ebf-cd9f8d35330b",
+      "name": "20 Mega Hotfire",
+      "slug": "novomatic-20-mega-hotfire",
+      "thumbnailUrl": "https://mediumrare.imgix.net/20773420489d94c07619210a9353ef0a863293aa3649473a1f4161067e214b78",
+      "thumbnailBlurHash": "eVNtwIafE0bZs8NCV]Xlk9t7q^V]x[ofV]GvjZRPW=RQD5t6NJRko#",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    }
+  ]
+}

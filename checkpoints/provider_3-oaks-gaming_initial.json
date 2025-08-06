@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-08-06T04:37:30.184Z",
+  "provider_slug": "3-oaks-gaming",
+  "provider_name": "3 Oaks Gaming",
+  "status": "completed",
+  "total_games": 83,
+  "games_fetched": 83,
+  "is_complete": true,
+  "needs_pagination": true,
+  "output_dir": "stake_thumbnails\\3_Oaks_Gaming",
+  "games_data_file": "stake_thumbnails\\3_Oaks_Gaming\\initial_games.json",
+  "source": "initial_html_fetch"
+}

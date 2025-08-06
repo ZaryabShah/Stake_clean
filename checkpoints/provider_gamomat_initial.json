@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-08-06T04:19:32.336Z",
+  "provider_slug": "gamomat",
+  "provider_name": "Gamomat",
+  "status": "completed",
+  "total_games": 70,
+  "games_fetched": 70,
+  "is_complete": true,
+  "needs_pagination": true,
+  "output_dir": "stake_thumbnails\\Gamomat",
+  "games_data_file": "stake_thumbnails\\Gamomat\\initial_games.json",
+  "source": "initial_html_fetch"
+}

@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-08-06T04:18:56.593Z",
+  "provider_slug": "novomatic",
+  "provider_name": "Novomatic",
+  "status": "completed",
+  "total_games": 61,
+  "games_fetched": 61,
+  "is_complete": true,
+  "needs_pagination": true,
+  "output_dir": "stake_thumbnails\\Novomatic",
+  "games_data_file": "stake_thumbnails\\Novomatic\\initial_games.json",
+  "source": "initial_html_fetch"
+}

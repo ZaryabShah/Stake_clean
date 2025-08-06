@@ -1,0 +1,222 @@
+{
+  "provider": "Massive Studios",
+  "provider_slug": "massive-studios",
+  "total_games": 21,
+  "games_fetched": 21,
+  "is_complete": true,
+  "needs_pagination": false,
+  "games": [
+    {
+      "game_id": "massive-super-wild-cat",
+      "title": "Super Wild Cat",
+      "slug": "massive-super-wild-cat",
+      "provider": "Massive Studios",
+      "thumbnail_url": "https://mediumrare.imgix.net/9ba19ce82c77d01eaa3dffef73c8334a2f9a644ccbf6de9dc1a3da0c66127a36",
+      "expected_filename": "Massive Studios - Super Wild Cat.webp",
+      "game_url": "https://stake.com/casino/games/massive-super-wild-cat",
+      "extracted_at": "2025-08-06T01:16:38.062238"
+    },
+    {
+      "game_id": "massive-rooster-returns",
+      "title": "Rooster Returns",
+      "slug": "massive-rooster-returns",
+      "provider": "Massive Studios",
+      "thumbnail_url": "https://mediumrare.imgix.net/93be5043875bfe1b6ac223263ef946fc27f696a1c49101fb4af20e6321a71587",
+      "expected_filename": "Massive Studios - Rooster Returns.webp",
+      "game_url": "https://stake.com/casino/games/massive-rooster-returns",
+      "extracted_at": "2025-08-06T01:16:38.062238"
+    },
+    {
+      "game_id": "massive-maximus-multiplus",
+      "title": "Maximus Multiplus",
+      "slug": "massive-maximus-multiplus",
+      "provider": "Massive Studios",
+      "thumbnail_url": "https://mediumrare.imgix.net/f4aad8590e5af81a66753a27905b3742329deffb4304ef2378d0f8e0bd5ac4cc",
+      "expected_filename": "Massive Studios - Maximus Multiplus.webp",
+      "game_url": "https://stake.com/casino/games/massive-maximus-multiplus",
+      "extracted_at": "2025-08-06T01:16:38.062238"
+    },
+    {
+      "game_id": "massive-bonsai-banzai",
+      "title": "Bonsai Banzai",
+      "slug": "massive-bonsai-banzai",
+      "provider": "Massive Studios",
+      "thumbnail_url": "https://mediumrare.imgix.net/5a4f91281047d90dee36bd004367b73bd7bf4e327fc907d5d3757abe4f62abf6",
+      "expected_filename": "Massive Studios - Bonsai Banzai.webp",
+      "game_url": "https://stake.com/casino/games/massive-bonsai-banzai",
+      "extracted_at": "2025-08-06T01:16:38.062238"
+    },
+    {
+      "game_id": "massive-hex-appeal",
+      "title": "Hex Appeal",
+      "slug": "massive-hex-appeal",
+      "provider": "Massive Studios",
+      "thumbnail_url": "https://mediumrare.imgix.net/05e5efaa6b4f5925932c6d435608bd2b04b13f122b354e70e2581cf8a5988843",
+      "expected_filename": "Massive Studios - Hex Appeal.webp",
+      "game_url": "https://stake.com/casino/games/massive-hex-appeal",
+      "extracted_at": "2025-08-06T01:16:38.062238"
+    },
+    {
+      "game_id": "massive-hot-rocks",
+      "title": "Hot Rocks",
+      "slug": "massive-hot-rocks",
+      "provider": "Massive Studios",
+      "thumbnail_url": "https://mediumrare.imgix.net/06e92d24d5e085e7a74ffc03c17e47e5012a1c2bee25d781117c223b736046cc",
+      "expected_filename": "Massive Studios - Hot Rocks.webp",
+      "game_url": "https://stake.com/casino/games/massive-hot-rocks",
+      "extracted_at": "2025-08-06T01:16:38.062238"
+    },
+    {
+      "game_id": "massive-gold-mega-stepper",
+      "title": "Gold Mega Stepper",
+      "slug": "massive-gold-mega-stepper",
+      "provider": "Massive Studios",
+      "thumbnail_url": "https://mediumrare.imgix.net/a89cb04ba6e0035df61d3f00acb3321b1b5ee10738d255832c32fe81d68d7ac7",
+      "expected_filename": "Massive Studios - Gold Mega Stepper.webp",
+      "game_url": "https://stake.com/casino/games/massive-gold-mega-stepper",
+      "extracted_at": "2025-08-06T01:16:38.062238"
+    },
+    {
+      "game_id": "massive-dracs-stacks",
+      "title": "Drac's Stacks",
+      "slug": "massive-dracs-stacks",
+      "provider": "Massive Studios",
+      "thumbnail_url": "https://mediumrare.imgix.net/206991ed05b55483c8c247fdd0d37aefc1d506a132090035f1ce6c7d244f10c4",
+      "expected_filename": "Massive Studios - Drac's Stacks.webp",
+      "game_url": "https://stake.com/casino/games/massive-dracs-stacks",
+      "extracted_at": "2025-08-06T01:16:38.062238"
+    },
+    {
+      "game_id": "massive-roosters-revenge",
+      "title": "Roosters Revenge",
+      "slug": "massive-roosters-revenge",
+      "provider": "Massive Studios",
+      "thumbnail_url": "https://mediumrare.imgix.net/9a3919d5cee1c2d2a25804ea3248f95ddba6d74c02955b1d56a130f4498146a8",
+      "expected_filename": "Massive Studios - Roosters Revenge.webp",
+      "game_url": "https://stake.com/casino/games/massive-roosters-revenge",
+      "extracted_at": "2025-08-06T01:16:38.062238"
+    },
+    {
+      "game_id": "massive-licence-to-squirrel",
+      "title": "Licence to Squirrel",
+      "slug": "massive-licence-to-squirrel",
+      "provider": "Massive Studios",
+      "thumbnail_url": "https://mediumrare.imgix.net/43819f464e289c4b574905e0f44490cbdd729e270639d927dfb06c73ab5da454",
+      "expected_filename": "Massive Studios - Licence to Squirrel.webp",
+      "game_url": "https://stake.com/casino/games/massive-licence-to-squirrel",
+      "extracted_at": "2025-08-06T01:16:38.062238"
+    },
+    {
+      "game_id": "massive-joker-jam",
+      "title": "Joker Jam",
+      "slug": "massive-joker-jam",
+      "provider": "Massive Studios",
+      "thumbnail_url": "https://mediumrare.imgix.net/f09d7634c8080d2de36474ce938027caec7b7caa6afcd56cef20d76d1c924815",
+      "expected_filename": "Massive Studios - Joker Jam.webp",
+      "game_url": "https://stake.com/casino/games/massive-joker-jam",
+      "extracted_at": "2025-08-06T01:16:38.062238"
+    },
+    {
+      "game_id": "massive-jawsome",
+      "title": "Jawsome",
+      "slug": "massive-jawsome",
+      "provider": "Massive Studios",
+      "thumbnail_url": "https://mediumrare.imgix.net/4a3aba90e8c5d621891b640a445a3455080223c2e703f952bcfc7454abfdf86c",
+      "expected_filename": "Massive Studios - Jawsome.webp",
+      "game_url": "https://stake.com/casino/games/massive-jawsome",
+      "extracted_at": "2025-08-06T01:16:38.062238"
+    },
+    {
+      "game_id": "massive-funkin-donuts",
+      "title": "Funkin' Donuts",
+      "slug": "massive-funkin-donuts",
+      "provider": "Massive Studios",
+      "thumbnail_url": "https://mediumrare.imgix.net/efa4517dbe07cd7253b135b0c753b90483153621a4569e2972c6d2cef33321f4",
+      "expected_filename": "Massive Studios - Funkin' Donuts.webp",
+      "game_url": "https://stake.com/casino/games/massive-funkin-donuts",
+      "extracted_at": "2025-08-06T01:16:38.062238"
+    },
+    {
+      "game_id": "massive-zombie-rabbit-invasion",
+      "title": "Zombie Rabbit Invasion",
+      "slug": "massive-zombie-rabbit-invasion",
+      "provider": "Massive Studios",
+      "thumbnail_url": "https://mediumrare.imgix.net/0e2374f165d78cb97e489f906d53462fd3fb7ed2f2e1404a44f371b00e5d56ad",
+      "expected_filename": "Massive Studios - Zombie Rabbit Invasion.webp",
+      "game_url": "https://stake.com/casino/games/massive-zombie-rabbit-invasion",
+      "extracted_at": "2025-08-06T01:16:38.062238"
+    },
+    {
+      "game_id": "massive-broadsiders",
+      "title": "Broadsiders!",
+      "slug": "massive-broadsiders",
+      "provider": "Massive Studios",
+      "thumbnail_url": "https://mediumrare.imgix.net/18a31f4e2a1d8bf0903ac5cd3b9b9796381244eba8f9b3cf99c8a043ea06a2bc",
+      "expected_filename": "Massive Studios - Broadsiders!.webp",
+      "game_url": "https://stake.com/casino/games/massive-broadsiders",
+      "extracted_at": "2025-08-06T01:16:38.062238"
+    },
+    {
+      "game_id": "massive-hyde-and-seek",
+      "title": "Hyde and Seek",
+      "slug": "massive-hyde-and-seek",
+      "provider": "Massive Studios",
+      "thumbnail_url": "https://mediumrare.imgix.net/fc077a8e779e4884a493922c54903412ba48f85cb4829ab71dc6d6f1f99a0867",
+      "expected_filename": "Massive Studios - Hyde and Seek.webp",
+      "game_url": "https://stake.com/casino/games/massive-hyde-and-seek",
+      "extracted_at": "2025-08-06T01:16:38.062238"
+    },
+    {
+      "game_id": "massive-buffaloads",
+      "title": "Buffaloads",
+      "slug": "massive-buffaloads",
+      "provider": "Massive Studios",
+      "thumbnail_url": "https://mediumrare.imgix.net/75169393817b667ae170cb0de62071dca0edd8d5cac63b4722b40f723c4c2cfd",
+      "expected_filename": "Massive Studios - Buffaloads.webp",
+      "game_url": "https://stake.com/casino/games/massive-buffaloads",
+      "extracted_at": "2025-08-06T01:16:38.062238"
+    },
+    {
+      "game_id": "massive-super-mega-monsters",
+      "title": "Super Mega Monsters",
+      "slug": "massive-super-mega-monsters",
+      "provider": "Massive Studios",
+      "thumbnail_url": "https://mediumrare.imgix.net/da4d52ab66e1ba7e18c1a77a881932912164652dce08b79beedc6faf7ce536d8",
+      "expected_filename": "Massive Studios - Super Mega Monsters.webp",
+      "game_url": "https://stake.com/casino/games/massive-super-mega-monsters",
+      "extracted_at": "2025-08-06T01:16:38.062238"
+    },
+    {
+      "game_id": "massive-mac-and-cheese",
+      "title": "Mac and Cheese",
+      "slug": "massive-mac-and-cheese",
+      "provider": "Massive Studios",
+      "thumbnail_url": "https://mediumrare.imgix.net/8534e30b1d96fbaba0a0d5b15d2d0972cb8a5a47eb70ce0b941f370c8ce8d954",
+      "expected_filename": "Massive Studios - Mac and Cheese.webp",
+      "game_url": "https://stake.com/casino/games/massive-mac-and-cheese",
+      "extracted_at": "2025-08-06T01:16:38.062238"
+    },
+    {
+      "game_id": "massive-serpentina",
+      "title": "Serpentina",
+      "slug": "massive-serpentina",
+      "provider": "Massive Studios",
+      "thumbnail_url": "https://mediumrare.imgix.net/3d967e29862a836a5dd0f86c49f7c9a8424f08666f762bf92979b76d1838799a",
+      "expected_filename": "Massive Studios - Serpentina.webp",
+      "game_url": "https://stake.com/casino/games/massive-serpentina",
+      "extracted_at": "2025-08-06T01:16:38.062238"
+    },
+    {
+      "game_id": "massive-the-ringmasters-whopping-wins",
+      "title": "The Ringmaster's Whopping Wins",
+      "slug": "massive-the-ringmasters-whopping-wins",
+      "provider": "Massive Studios",
+      "thumbnail_url": "https://mediumrare.imgix.net/9f270a6f9092e47a766ea7acf8d8dd535f78433247a9dfd9b73e3dfeb314a743",
+      "expected_filename": "Massive Studios - The Ringmaster's Whopping Wins.webp",
+      "game_url": "https://stake.com/casino/games/massive-the-ringmasters-whopping-wins",
+      "extracted_at": "2025-08-06T01:16:38.062238"
+    }
+  ],
+  "timestamp": "2025-08-06T01:16:38.062238",
+  "source": "initial_html_fetch"
+}

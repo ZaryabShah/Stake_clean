@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-08-06T05:04:55.691Z",
+  "provider_slug": "netent",
+  "provider_name": "Netent",
+  "status": "completed",
+  "total_games": 90,
+  "games_fetched": 90,
+  "is_complete": true,
+  "needs_pagination": false,
+  "output_dir": "stake_thumbnails\\Netent",
+  "games_data_file": "stake_thumbnails\\Netent\\initial_games.json",
+  "source": "parallel_graphql_fetch"
+}

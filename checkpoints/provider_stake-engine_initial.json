@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-08-06T01:29:34.884392",
+  "provider_slug": "stake-engine",
+  "provider_name": "Stake Engine",
+  "status": "initial_completed",
+  "total_games": 27,
+  "games_fetched": 27,
+  "is_complete": true,
+  "needs_pagination": false,
+  "output_dir": "stake_thumbnails\\Stake_Engine",
+  "games_data_file": "stake_thumbnails\\Stake_Engine\\initial_games.json",
+  "source": "initial_html_fetch"
+}

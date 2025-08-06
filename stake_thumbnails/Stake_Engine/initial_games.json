@@ -1,0 +1,282 @@
+{
+  "provider": "Stake Engine",
+  "provider_slug": "stake-engine",
+  "total_games": 27,
+  "games_fetched": 27,
+  "is_complete": true,
+  "needs_pagination": false,
+  "games": [
+    {
+      "game_id": "twist-gaming-win-exe",
+      "title": "Win.exe",
+      "slug": "twist-gaming-win-exe",
+      "provider": "Twist Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/cd5e0127e4506bd6ef97bceecf5191ed29fe29b2c2103d68a7481b364d192daa",
+      "expected_filename": "Twist Gaming - Win.exe.webp",
+      "game_url": "https://stake.com/casino/games/twist-gaming-win-exe",
+      "extracted_at": "2025-08-06T01:29:34.884392"
+    },
+    {
+      "game_id": "titan-gaming-ninja-rabbit",
+      "title": "Ninja Rabbit",
+      "slug": "titan-gaming-ninja-rabbit",
+      "provider": "Titan Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/ae1054234a8aebfd8997c0948049707ad8c555311495685c8ab9697cfb8f313b",
+      "expected_filename": "Titan Gaming - Ninja Rabbit.webp",
+      "game_url": "https://stake.com/casino/games/titan-gaming-ninja-rabbit",
+      "extracted_at": "2025-08-06T01:29:34.884392"
+    },
+    {
+      "game_id": "titan-gaming-battle-of-gods",
+      "title": "Battle Of Gods",
+      "slug": "titan-gaming-battle-of-gods",
+      "provider": "Titan Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/66bcd283139c9ecd7a769f6447bf4b06eb465fb9c6fcadc89aaadc8d0fbb35a7",
+      "expected_filename": "Titan Gaming - Battle Of Gods.webp",
+      "game_url": "https://stake.com/casino/games/titan-gaming-battle-of-gods",
+      "extracted_at": "2025-08-06T01:29:34.884392"
+    },
+    {
+      "game_id": "mirrorimage-drop-the-boss-trump",
+      "title": "Drop The Boss",
+      "slug": "mirrorimage-drop-the-boss-trump",
+      "provider": "Mirror Image Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/813a0a5c21e76425e9cf7e1b9157a416e74dc268e6bc6f37ef15f5252d8bada0",
+      "expected_filename": "Mirror Image Gaming - Drop The Boss.webp",
+      "game_url": "https://stake.com/casino/games/mirrorimage-drop-the-boss-trump",
+      "extracted_at": "2025-08-06T01:29:34.884392"
+    },
+    {
+      "game_id": "paperclip-candy-party",
+      "title": "Candy Party",
+      "slug": "paperclip-candy-party",
+      "provider": "Paperclip Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/c7fdc44800d681d555a88873a95efafdcab50f64bb7f675cb1e601319872cc17",
+      "expected_filename": "Paperclip Gaming - Candy Party.webp",
+      "game_url": "https://stake.com/casino/games/paperclip-candy-party",
+      "extracted_at": "2025-08-06T01:29:34.884392"
+    },
+    {
+      "game_id": "dripdrop-eggs-of-olympus",
+      "title": "Eggs of Olympus",
+      "slug": "dripdrop-eggs-of-olympus",
+      "provider": "Drip Drop Studios",
+      "thumbnail_url": "https://mediumrare.imgix.net/018fc5652edb864d751edd14848dd34ea0caf305dea93c5dea0c43ce420d4369",
+      "expected_filename": "Drip Drop Studios - Eggs of Olympus.webp",
+      "game_url": "https://stake.com/casino/games/dripdrop-eggs-of-olympus",
+      "extracted_at": "2025-08-06T01:29:34.884392"
+    },
+    {
+      "game_id": "paperclip-crown-conquest",
+      "title": "Crown Conquest",
+      "slug": "paperclip-crown-conquest",
+      "provider": "Paperclip Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/a9e47ced695af1e07559161614722f44e47689d11a8072dac28b0c6fc7dafdf9",
+      "expected_filename": "Paperclip Gaming - Crown Conquest.webp",
+      "game_url": "https://stake.com/casino/games/paperclip-crown-conquest",
+      "extracted_at": "2025-08-06T01:29:34.884392"
+    },
+    {
+      "game_id": "paperclip-pinball-peak",
+      "title": "Pinball Peak",
+      "slug": "paperclip-pinball-peak",
+      "provider": "Paperclip Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/832f2e0e6a6560610e4ac714398d2d510b08f25b538c27ab4b5ba4e040372785",
+      "expected_filename": "Paperclip Gaming - Pinball Peak.webp",
+      "game_url": "https://stake.com/casino/games/paperclip-pinball-peak",
+      "extracted_at": "2025-08-06T01:29:34.884392"
+    },
+    {
+      "game_id": "paperclip-forged-in-fire",
+      "title": "Forged in Fire",
+      "slug": "paperclip-forged-in-fire",
+      "provider": "Paperclip Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/16d78a4ab09d50c010eaef1b258236a74890856a8ec0267a3a2b8499eb14b1d7",
+      "expected_filename": "Paperclip Gaming - Forged in Fire.webp",
+      "game_url": "https://stake.com/casino/games/paperclip-forged-in-fire",
+      "extracted_at": "2025-08-06T01:29:34.884392"
+    },
+    {
+      "game_id": "titan-gaming-call-of-zuma",
+      "title": "Call of Zuma",
+      "slug": "titan-gaming-call-of-zuma",
+      "provider": "Titan Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/8d711e29ccd5aa4b6de43d476390dde098421dd200587b87c032c066b914b401",
+      "expected_filename": "Titan Gaming - Call of Zuma.webp",
+      "game_url": "https://stake.com/casino/games/titan-gaming-call-of-zuma",
+      "extracted_at": "2025-08-06T01:29:34.884392"
+    },
+    {
+      "game_id": "paperclip-scroll-keeper",
+      "title": "Scroll Keeper",
+      "slug": "paperclip-scroll-keeper",
+      "provider": "Paperclip Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/5d062f868666f08d043ca728ca672d28307676dd676b65862e55cabe0ab3e724",
+      "expected_filename": "Paperclip Gaming - Scroll Keeper.webp",
+      "game_url": "https://stake.com/casino/games/paperclip-scroll-keeper",
+      "extracted_at": "2025-08-06T01:29:34.884392"
+    },
+    {
+      "game_id": "paradice-gaming-stumble-guy",
+      "title": "Stumble Guy",
+      "slug": "paradice-gaming-stumble-guy",
+      "provider": "Paradice Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/af78aee35318a5400037aadfa7e7afefe416eb4b95b7c9e23cfa8be6b2632e1b",
+      "expected_filename": "Paradice Gaming - Stumble Guy.webp",
+      "game_url": "https://stake.com/casino/games/paradice-gaming-stumble-guy",
+      "extracted_at": "2025-08-06T01:29:34.884392"
+    },
+    {
+      "game_id": "mirror-image-gaming-tiki-pachinko",
+      "title": "Tiki Pachinko",
+      "slug": "mirror-image-gaming-tiki-pachinko",
+      "provider": "Mirror Image Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/d17ea627572673a3f3670a0bbadbfff046e85ecd996210f94156faa1bc103752",
+      "expected_filename": "Mirror Image Gaming - Tiki Pachinko.webp",
+      "game_url": "https://stake.com/casino/games/mirror-image-gaming-tiki-pachinko",
+      "extracted_at": "2025-08-06T01:29:34.884392"
+    },
+    {
+      "game_id": "18gaming-doge-to-the-moon",
+      "title": "Doge to the Moon",
+      "slug": "18gaming-doge-to-the-moon",
+      "provider": "18 Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/c3299eabe05c84f3ed495a2f3fd41c2eccec3f2a42e4f31b0f0072843488bcaa",
+      "expected_filename": "18 Gaming - Doge to the Moon.webp",
+      "game_url": "https://stake.com/casino/games/18gaming-doge-to-the-moon",
+      "extracted_at": "2025-08-06T01:29:34.884392"
+    },
+    {
+      "game_id": "18gaming-magical-loot",
+      "title": "Magical Loot",
+      "slug": "18gaming-magical-loot",
+      "provider": "18 Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/0a82b5c7aa861d72d9a56868fa2efaad5be03341921122f28279ce3a0eb01e45",
+      "expected_filename": "18 Gaming - Magical Loot.webp",
+      "game_url": "https://stake.com/casino/games/18gaming-magical-loot",
+      "extracted_at": "2025-08-06T01:29:34.884392"
+    },
+    {
+      "game_id": "madlab-gaming-blast-blitz",
+      "title": "Blast Blitz",
+      "slug": "madlab-gaming-blast-blitz",
+      "provider": "MadLab Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/eb804f4686bb7479f94046ea063f60d4c09f9f3f9e02fb41c29da284365de098",
+      "expected_filename": "MadLab Gaming - Blast Blitz.webp",
+      "game_url": "https://stake.com/casino/games/madlab-gaming-blast-blitz",
+      "extracted_at": "2025-08-06T01:29:34.884392"
+    },
+    {
+      "game_id": "rubber-duck-gaming-mega-multis",
+      "title": "Mega Multis",
+      "slug": "rubber-duck-gaming-mega-multis",
+      "provider": "Rubber Duck Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/742fc4e8eb3badbbc3d6498423d2f9cc8c279c6c5bbe82eaee707148a6ba6885",
+      "expected_filename": "Rubber Duck Gaming - Mega Multis.webp",
+      "game_url": "https://stake.com/casino/games/rubber-duck-gaming-mega-multis",
+      "extracted_at": "2025-08-06T01:29:34.884392"
+    },
+    {
+      "game_id": "atomic-gaming-fruit-cocktail",
+      "title": "Fruit Cocktail",
+      "slug": "atomic-gaming-fruit-cocktail",
+      "provider": "Atomic Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/34a648b58fc4e5be74b9467bb3f08c2404adffffe9854f65cdc3c4c43f890792",
+      "expected_filename": "Atomic Gaming - Fruit Cocktail.webp",
+      "game_url": "https://stake.com/casino/games/atomic-gaming-fruit-cocktail",
+      "extracted_at": "2025-08-06T01:29:34.884392"
+    },
+    {
+      "game_id": "18-gaming-fruit-burst-bonanza",
+      "title": "Fruit Burst Bonanza",
+      "slug": "18-gaming-fruit-burst-bonanza",
+      "provider": "18 Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/5a2ec54530e7616df5f7dd05aed17bc390039d32b879951bbf30a9aa82d0d0b6",
+      "expected_filename": "18 Gaming - Fruit Burst Bonanza.webp",
+      "game_url": "https://stake.com/casino/games/18-gaming-fruit-burst-bonanza",
+      "extracted_at": "2025-08-06T01:29:34.884392"
+    },
+    {
+      "game_id": "mirror-image-gaming-pachinko-planet",
+      "title": "Pachinko Planet!",
+      "slug": "mirror-image-gaming-pachinko-planet",
+      "provider": "Mirror Image Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/b992f49da667bca318f94e8d0bfa36cf5c2a663cb0b5377e9c2f011adbda9481",
+      "expected_filename": "Mirror Image Gaming - Pachinko Planet!.webp",
+      "game_url": "https://stake.com/casino/games/mirror-image-gaming-pachinko-planet",
+      "extracted_at": "2025-08-06T01:29:34.884392"
+    },
+    {
+      "game_id": "paperclip-borrowed-time",
+      "title": "Borrowed Time",
+      "slug": "paperclip-borrowed-time",
+      "provider": "Paperclip Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/db00089cd132b67df9f6858b3f7692bb9c7df575da67027c8d25b0cfc4c22dfb",
+      "expected_filename": "Paperclip Gaming - Borrowed Time.webp",
+      "game_url": "https://stake.com/casino/games/paperclip-borrowed-time",
+      "extracted_at": "2025-08-06T01:29:34.884392"
+    },
+    {
+      "game_id": "paperclip-bluebeards-ghost",
+      "title": "Bluebeard's Ghost",
+      "slug": "paperclip-bluebeards-ghost",
+      "provider": "Paperclip Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/2d39ab7c22bc8fed13974be06629999c946267c1ec682e2d494d6ce719ecaa32",
+      "expected_filename": "Paperclip Gaming - Bluebeard's Ghost.webp",
+      "game_url": "https://stake.com/casino/games/paperclip-bluebeards-ghost",
+      "extracted_at": "2025-08-06T01:29:34.884392"
+    },
+    {
+      "game_id": "18-gaming-sushi-jet-dash",
+      "title": "Sushi Jet Dash",
+      "slug": "18-gaming-sushi-jet-dash",
+      "provider": "18 Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/8a1bb4cde22aaf1e32ae6c2fbfb384565cb57da56ffff3715785f6d897c2387e",
+      "expected_filename": "18 Gaming - Sushi Jet Dash.webp",
+      "game_url": "https://stake.com/casino/games/18-gaming-sushi-jet-dash",
+      "extracted_at": "2025-08-06T01:29:34.884392"
+    },
+    {
+      "game_id": "18gaming-rolling-riches-the-loo-empire",
+      "title": "Rolling Riches The Loo Empire",
+      "slug": "18gaming-rolling-riches-the-loo-empire",
+      "provider": "18 Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/cdfc855a9880d0620e7fa1ec9ade2f3a4f40989369061f5055edbe980b3c5463",
+      "expected_filename": "18 Gaming - Rolling Riches The Loo Empire.webp",
+      "game_url": "https://stake.com/casino/games/18gaming-rolling-riches-the-loo-empire",
+      "extracted_at": "2025-08-06T01:29:34.884392"
+    },
+    {
+      "game_id": "paperclip-deadspin-bonanza",
+      "title": "Deadspin Bonanza",
+      "slug": "paperclip-deadspin-bonanza",
+      "provider": "Paperclip Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/2350dc72bc55968157fd739760cf59c3658bac84f13ae02f428726214d4f0712",
+      "expected_filename": "Paperclip Gaming - Deadspin Bonanza.webp",
+      "game_url": "https://stake.com/casino/games/paperclip-deadspin-bonanza",
+      "extracted_at": "2025-08-06T01:29:34.884392"
+    },
+    {
+      "game_id": "18-gaming-grand-prix-fortunes",
+      "title": "Grand Prix Fortunes",
+      "slug": "18-gaming-grand-prix-fortunes",
+      "provider": "18 Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/f887d335bf9f3a88111776b170239bcaffdd0257fd9c480e7cecaf176c47d94d",
+      "expected_filename": "18 Gaming - Grand Prix Fortunes.webp",
+      "game_url": "https://stake.com/casino/games/18-gaming-grand-prix-fortunes",
+      "extracted_at": "2025-08-06T01:29:34.884392"
+    },
+    {
+      "game_id": "paperclip-gaming-balance",
+      "title": "Balance",
+      "slug": "paperclip-gaming-balance",
+      "provider": "Paperclip Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/5554e42d3f6cb834c54dac70ecf83fc0fae530e94e14f6f2807b5d18e5ba0d5d",
+      "expected_filename": "Paperclip Gaming - Balance.webp",
+      "game_url": "https://stake.com/casino/games/paperclip-gaming-balance",
+      "extracted_at": "2025-08-06T01:29:34.884392"
+    }
+  ],
+  "timestamp": "2025-08-06T01:29:34.884392",
+  "source": "initial_html_fetch"
+}

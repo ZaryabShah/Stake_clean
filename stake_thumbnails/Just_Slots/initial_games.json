@@ -1,0 +1,52 @@
+{
+  "provider": "Just Slots",
+  "provider_slug": "just-slots",
+  "total_games": 4,
+  "games_fetched": 4,
+  "is_complete": true,
+  "needs_pagination": false,
+  "games": [
+    {
+      "game_id": "justslots-book-of-arcane",
+      "title": "Book of Arcane",
+      "slug": "justslots-book-of-arcane",
+      "provider": "Just Slots",
+      "thumbnail_url": "https://mediumrare.imgix.net/4803dbc4c6eeedab814258ffcd2daa09de679b740d53d40549d70d6971873617",
+      "expected_filename": "Just Slots - Book of Arcane.webp",
+      "game_url": "https://stake.com/casino/games/justslots-book-of-arcane",
+      "extracted_at": "2025-08-06T22:35:23.715056"
+    },
+    {
+      "game_id": "justslots-sugar-heaven",
+      "title": "Sugar Heaven",
+      "slug": "justslots-sugar-heaven",
+      "provider": "Just Slots",
+      "thumbnail_url": "https://mediumrare.imgix.net/49448646a43fa69e4bdb1472ae021ffebef9b9e2775dfa2c2a7a40234de4771c",
+      "expected_filename": "Just Slots - Sugar Heaven.webp",
+      "game_url": "https://stake.com/casino/games/justslots-sugar-heaven",
+      "extracted_at": "2025-08-06T22:35:23.715056"
+    },
+    {
+      "game_id": "justslots-cyber-egypt",
+      "title": "Cyber Egypt",
+      "slug": "justslots-cyber-egypt",
+      "provider": "Just Slots",
+      "thumbnail_url": "https://mediumrare.imgix.net/ff8684b9adde8df52bd8453969a8a0a9e3054bcd915418c17fa73f8601c8ac19",
+      "expected_filename": "Just Slots - Cyber Egypt.webp",
+      "game_url": "https://stake.com/casino/games/justslots-cyber-egypt",
+      "extracted_at": "2025-08-06T22:35:23.715056"
+    },
+    {
+      "game_id": "justslots-shogun-skylord",
+      "title": "Shogun Skylord",
+      "slug": "justslots-shogun-skylord",
+      "provider": "Just Slots",
+      "thumbnail_url": "https://mediumrare.imgix.net/30a4171b4f74d21c90250bc2788312ca7b828a50a40b21f62e5289900b8d33b6",
+      "expected_filename": "Just Slots - Shogun Skylord.webp",
+      "game_url": "https://stake.com/casino/games/justslots-shogun-skylord",
+      "extracted_at": "2025-08-06T22:35:23.715056"
+    }
+  ],
+  "timestamp": "2025-08-06T22:35:23.715056",
+  "source": "initial_html_fetch"
+}

@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-08-06T04:19:57.479Z",
+  "provider_slug": "belatra",
+  "provider_name": "Belatra",
+  "status": "completed",
+  "total_games": 76,
+  "games_fetched": 76,
+  "is_complete": true,
+  "needs_pagination": true,
+  "output_dir": "stake_thumbnails\\Belatra",
+  "games_data_file": "stake_thumbnails\\Belatra\\initial_games.json",
+  "source": "initial_html_fetch"
+}

@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-08-06T00:58:22.571948",
+  "provider_slug": "fantasma-games",
+  "provider_name": "Fantasma Games",
+  "status": "initial_completed",
+  "total_games": 26,
+  "games_fetched": 26,
+  "is_complete": true,
+  "needs_pagination": false,
+  "output_dir": "stake_thumbnails\\Fantasma_Games",
+  "games_data_file": "stake_thumbnails\\Fantasma_Games\\initial_games.json",
+  "source": "initial_html_fetch"
+}

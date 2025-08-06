@@ -1,0 +1,62 @@
+{
+  "provider": "Shady Lady",
+  "provider_slug": "shady-lady",
+  "total_games": 5,
+  "games_fetched": 5,
+  "is_complete": true,
+  "needs_pagination": false,
+  "games": [
+    {
+      "game_id": "shadylady-oops",
+      "title": "Oops",
+      "slug": "shadylady-oops",
+      "provider": "Shady Lady",
+      "thumbnail_url": "https://mediumrare.imgix.net/bd1117ab4ebf38ffa007f3498d32fe34413da3d22ede9b5ccfd0a20acda3f154",
+      "expected_filename": "Shady Lady - Oops.webp",
+      "game_url": "https://stake.com/casino/games/shadylady-oops",
+      "extracted_at": "2025-08-06T01:06:58.446036"
+    },
+    {
+      "game_id": "shadylady-brainwashed",
+      "title": "Brainwashed",
+      "slug": "shadylady-brainwashed",
+      "provider": "Shady Lady",
+      "thumbnail_url": "https://mediumrare.imgix.net/39c20540d399114067399f3bd48c2e79658bf6e2c5ccdc9628f780c31a3f6382",
+      "expected_filename": "Shady Lady - Brainwashed.webp",
+      "game_url": "https://stake.com/casino/games/shadylady-brainwashed",
+      "extracted_at": "2025-08-06T01:06:58.446036"
+    },
+    {
+      "game_id": "shadylady-office-party",
+      "title": "Office Party",
+      "slug": "shadylady-office-party",
+      "provider": "Shady Lady",
+      "thumbnail_url": "https://mediumrare.imgix.net/9a495469ee61ecc14425bd3639457ca27c5e574180d25e4a9cf6517ef2908392",
+      "expected_filename": "Shady Lady - Office Party.webp",
+      "game_url": "https://stake.com/casino/games/shadylady-office-party",
+      "extracted_at": "2025-08-06T01:06:58.446036"
+    },
+    {
+      "game_id": "shadylady-orphan-organ",
+      "title": "Orphan Organ",
+      "slug": "shadylady-orphan-organ",
+      "provider": "Shady Lady",
+      "thumbnail_url": "https://mediumrare.imgix.net/6d670d02a64af3fd4b4c1af3e0e6875b17be43bc3e7ed04155aba26d08d0d50e",
+      "expected_filename": "Shady Lady - Orphan Organ.webp",
+      "game_url": "https://stake.com/casino/games/shadylady-orphan-organ",
+      "extracted_at": "2025-08-06T01:06:58.446036"
+    },
+    {
+      "game_id": "shadylady-devils-finger",
+      "title": "Devil's Finger",
+      "slug": "shadylady-devils-finger",
+      "provider": "Shady Lady",
+      "thumbnail_url": "https://mediumrare.imgix.net/077dc61f7f2834276ce0ba648e8aff6aaa652bd6cb9d126822e178a14402eb98",
+      "expected_filename": "Shady Lady - Devil's Finger.webp",
+      "game_url": "https://stake.com/casino/games/shadylady-devils-finger",
+      "extracted_at": "2025-08-06T01:06:58.446036"
+    }
+  ],
+  "timestamp": "2025-08-06T01:06:58.446036",
+  "source": "initial_html_fetch"
+}

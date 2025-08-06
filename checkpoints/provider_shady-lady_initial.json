@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-08-06T01:06:58.451598",
+  "provider_slug": "shady-lady",
+  "provider_name": "Shady Lady",
+  "status": "initial_completed",
+  "total_games": 5,
+  "games_fetched": 5,
+  "is_complete": true,
+  "needs_pagination": false,
+  "output_dir": "stake_thumbnails\\Shady_Lady",
+  "games_data_file": "stake_thumbnails\\Shady_Lady\\initial_games.json",
+  "source": "initial_html_fetch"
+}

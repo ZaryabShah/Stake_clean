@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-08-06T19:04:57.198Z",
+  "provider_slug": "spinomenal",
+  "provider_name": "Spinomenal",
+  "status": "in_progress",
+  "total_games": 119,
+  "games_fetched": 115,
+  "is_complete": false,
+  "needs_pagination": true,
+  "output_dir": "stake_thumbnails\\Spinomenal",
+  "games_data_file": "stake_thumbnails\\Spinomenal\\initial_games.json",
+  "source": "parallel_graphql_fetch",
+  "completed_offsets": [
+    0,
+    39,
+    78,
+    117
+  ],
+  "failed_offsets": [],
+  "retry_counts": {
+    "117": 2
+  },
+  "last_successful_offset": 117
+}

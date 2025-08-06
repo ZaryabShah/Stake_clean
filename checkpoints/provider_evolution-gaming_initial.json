@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-08-06T04:24:58.763Z",
+  "provider_slug": "evolution-gaming",
+  "provider_name": "Evolution Gaming",
+  "status": "completed",
+  "total_games": 81,
+  "games_fetched": 81,
+  "is_complete": true,
+  "needs_pagination": true,
+  "output_dir": "stake_thumbnails\\Evolution_Gaming",
+  "games_data_file": "stake_thumbnails\\Evolution_Gaming\\initial_games.json",
+  "source": "initial_html_fetch"
+}

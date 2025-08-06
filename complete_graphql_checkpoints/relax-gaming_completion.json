@@ -1,0 +1,11 @@
+{
+  "provider_name": "Relax Gaming",
+  "provider_slug": "relax-gaming",
+  "completion_status": "completed",
+  "games_to_fetch": 93,
+  "batches_needed": 3,
+  "simulation_mode": true,
+  "completion_timestamp": "2025-08-06T05:21:01.341999",
+  "last_updated": "2025-08-06T05:21:01.341999",
+  "checkpoint_type": "complete_graphql"
+}

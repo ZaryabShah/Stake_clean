@@ -1,0 +1,172 @@
+{
+  "provider": "Titan Gaming",
+  "provider_slug": "titan-gaming",
+  "total_games": 16,
+  "games_fetched": 16,
+  "is_complete": true,
+  "needs_pagination": false,
+  "games": [
+    {
+      "game_id": "titan-gaming-ninja-rabbit",
+      "title": "Ninja Rabbit",
+      "slug": "titan-gaming-ninja-rabbit",
+      "provider": "Titan Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/ae1054234a8aebfd8997c0948049707ad8c555311495685c8ab9697cfb8f313b",
+      "expected_filename": "Titan Gaming - Ninja Rabbit.webp",
+      "game_url": "https://stake.com/casino/games/titan-gaming-ninja-rabbit",
+      "extracted_at": "2025-08-06T01:20:30.981281"
+    },
+    {
+      "game_id": "titan-gaming-battle-of-gods",
+      "title": "Battle Of Gods",
+      "slug": "titan-gaming-battle-of-gods",
+      "provider": "Titan Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/66bcd283139c9ecd7a769f6447bf4b06eb465fb9c6fcadc89aaadc8d0fbb35a7",
+      "expected_filename": "Titan Gaming - Battle Of Gods.webp",
+      "game_url": "https://stake.com/casino/games/titan-gaming-battle-of-gods",
+      "extracted_at": "2025-08-06T01:20:30.981281"
+    },
+    {
+      "game_id": "titan-gaming-call-of-zuma",
+      "title": "Call of Zuma",
+      "slug": "titan-gaming-call-of-zuma",
+      "provider": "Titan Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/8d711e29ccd5aa4b6de43d476390dde098421dd200587b87c032c066b914b401",
+      "expected_filename": "Titan Gaming - Call of Zuma.webp",
+      "game_url": "https://stake.com/casino/games/titan-gaming-call-of-zuma",
+      "extracted_at": "2025-08-06T01:20:30.981281"
+    },
+    {
+      "game_id": "titan-gaming-www",
+      "title": "WWW",
+      "slug": "titan-gaming-www",
+      "provider": "Titan Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/5175b7af91c7d82e51d1681eb60d771f9269e1fdf82bdc0a51c328c3b49c544c",
+      "expected_filename": "Titan Gaming - WWW.webp",
+      "game_url": "https://stake.com/casino/games/titan-gaming-www",
+      "extracted_at": "2025-08-06T01:20:30.981281"
+    },
+    {
+      "game_id": "titan-gaming-puffer-stacks",
+      "title": "Puffer Stacks",
+      "slug": "titan-gaming-puffer-stacks",
+      "provider": "Titan Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/59fd8e01d5e95a31b7820351442fbbf33ed732dbcc0e7e17ec7a92eef2698558",
+      "expected_filename": "Titan Gaming - Puffer Stacks.webp",
+      "game_url": "https://stake.com/casino/games/titan-gaming-puffer-stacks",
+      "extracted_at": "2025-08-06T01:20:30.981281"
+    },
+    {
+      "game_id": "titan-gaming-underworld",
+      "title": "Underworld",
+      "slug": "titan-gaming-underworld",
+      "provider": "Titan Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/dfdd9c82f79b051376cd6fd7699690c3ab0d5c1aa2572c1b9283a74f54c44943",
+      "expected_filename": "Titan Gaming - Underworld.webp",
+      "game_url": "https://stake.com/casino/games/titan-gaming-underworld",
+      "extracted_at": "2025-08-06T01:20:30.981281"
+    },
+    {
+      "game_id": "titan-gaming-wild-orbs",
+      "title": "Wild Orbs",
+      "slug": "titan-gaming-wild-orbs",
+      "provider": "Titan Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/efe7c55eeee3b7fc978b28b8d3c2c0b605e625ea845960dd7adf168102547c1d",
+      "expected_filename": "Titan Gaming - Wild Orbs.webp",
+      "game_url": "https://stake.com/casino/games/titan-gaming-wild-orbs",
+      "extracted_at": "2025-08-06T01:20:30.981281"
+    },
+    {
+      "game_id": "titan-gaming-perseus-vs-medusa",
+      "title": "Perseus Vs Medusa",
+      "slug": "titan-gaming-perseus-vs-medusa",
+      "provider": "Titan Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/642808075f4824e65dc882e56c1ea5613b4c802362c5135aca8857f3371d2952",
+      "expected_filename": "Titan Gaming - Perseus Vs Medusa.webp",
+      "game_url": "https://stake.com/casino/games/titan-gaming-perseus-vs-medusa",
+      "extracted_at": "2025-08-06T01:20:30.981281"
+    },
+    {
+      "game_id": "titan-gaming-athena-vs-ares",
+      "title": "Athena vs Ares",
+      "slug": "titan-gaming-athena-vs-ares",
+      "provider": "Titan Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/1e4ba88b89fdec7e434e8c05e18be7cc0adf6692d18bceeddd7f02f6ac93012b",
+      "expected_filename": "Titan Gaming - Athena vs Ares.webp",
+      "game_url": "https://stake.com/casino/games/titan-gaming-athena-vs-ares",
+      "extracted_at": "2025-08-06T01:20:30.981281"
+    },
+    {
+      "game_id": "titan-gaming-poseidon-vs-apollo",
+      "title": "Poseidon Vs Apollo",
+      "slug": "titan-gaming-poseidon-vs-apollo",
+      "provider": "Titan Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/8cdb9ba66f879c2fbb22a15f12ce8da3a0062cceafa416bf4cf495e404b4ce3e",
+      "expected_filename": "Titan Gaming - Poseidon Vs Apollo.webp",
+      "game_url": "https://stake.com/casino/games/titan-gaming-poseidon-vs-apollo",
+      "extracted_at": "2025-08-06T01:20:30.981281"
+    },
+    {
+      "game_id": "titan-gaming-untamed",
+      "title": "Untamed",
+      "slug": "titan-gaming-untamed",
+      "provider": "Titan Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/ceb353c138fef55c0fbeaabe1cf222b7a05e96a048a3ba40752835e40d165fb2",
+      "expected_filename": "Titan Gaming - Untamed.webp",
+      "game_url": "https://stake.com/casino/games/titan-gaming-untamed",
+      "extracted_at": "2025-08-06T01:20:30.981281"
+    },
+    {
+      "game_id": "titan-gaming-hercules-vs-hydra",
+      "title": "Hercules Vs Hydra",
+      "slug": "titan-gaming-hercules-vs-hydra",
+      "provider": "Titan Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/143c60ca892ae2cc458384fa976dfdb33308892bcc68d2028342da9b8469d398",
+      "expected_filename": "Titan Gaming - Hercules Vs Hydra.webp",
+      "game_url": "https://stake.com/casino/games/titan-gaming-hercules-vs-hydra",
+      "extracted_at": "2025-08-06T01:20:30.981281"
+    },
+    {
+      "game_id": "titan-gaming-walking-wilds",
+      "title": "Walking Wilds",
+      "slug": "titan-gaming-walking-wilds",
+      "provider": "Titan Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/537a786842662bdc05ed0ca1f1f13e4ece8932c68843c493cd4eef61b0f13bef",
+      "expected_filename": "Titan Gaming - Walking Wilds.webp",
+      "game_url": "https://stake.com/casino/games/titan-gaming-walking-wilds",
+      "extracted_at": "2025-08-06T01:20:30.981281"
+    },
+    {
+      "game_id": "titan-gaming-dragon-fiesta",
+      "title": "Dragon Fiesta",
+      "slug": "titan-gaming-dragon-fiesta",
+      "provider": "Titan Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/4360e0a7398a7699efc60bea09dd8eb08fdb343aef21bec872957dfbf56a92e5",
+      "expected_filename": "Titan Gaming - Dragon Fiesta.webp",
+      "game_url": "https://stake.com/casino/games/titan-gaming-dragon-fiesta",
+      "extracted_at": "2025-08-06T01:20:30.981281"
+    },
+    {
+      "game_id": "titan-gaming-juice-monster",
+      "title": "Juice Monster",
+      "slug": "titan-gaming-juice-monster",
+      "provider": "Titan Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/aefc0dada8317cc5d21f7dca42f0a1708944d99ed054afd7dc60f725e08e835a",
+      "expected_filename": "Titan Gaming - Juice Monster.webp",
+      "game_url": "https://stake.com/casino/games/titan-gaming-juice-monster",
+      "extracted_at": "2025-08-06T01:20:30.981281"
+    },
+    {
+      "game_id": "titan-gaming-maximus",
+      "title": "Maximus",
+      "slug": "titan-gaming-maximus",
+      "provider": "Titan Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/b43ac7cd9edb68648b936a6a5bf47c837e32129013e348b2de6fb833c891e076",
+      "expected_filename": "Titan Gaming - Maximus.webp",
+      "game_url": "https://stake.com/casino/games/titan-gaming-maximus",
+      "extracted_at": "2025-08-06T01:20:30.981281"
+    }
+  ],
+  "timestamp": "2025-08-06T01:20:30.981281",
+  "source": "initial_html_fetch"
+}

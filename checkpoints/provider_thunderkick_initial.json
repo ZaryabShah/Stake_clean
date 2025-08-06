@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-08-06T04:33:39.600Z",
+  "provider_slug": "thunderkick",
+  "provider_name": "Thunderkick",
+  "status": "completed",
+  "total_games": 82,
+  "games_fetched": 82,
+  "is_complete": true,
+  "needs_pagination": true,
+  "output_dir": "stake_thumbnails\\Thunderkick",
+  "games_data_file": "stake_thumbnails\\Thunderkick\\initial_games.json",
+  "source": "initial_html_fetch"
+}

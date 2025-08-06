@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-08-06T01:20:30.981281",
+  "provider_slug": "titan-gaming",
+  "provider_name": "Titan Gaming",
+  "status": "initial_completed",
+  "total_games": 16,
+  "games_fetched": 16,
+  "is_complete": true,
+  "needs_pagination": false,
+  "output_dir": "stake_thumbnails\\Titan_Gaming",
+  "games_data_file": "stake_thumbnails\\Titan_Gaming\\initial_games.json",
+  "source": "initial_html_fetch"
+}

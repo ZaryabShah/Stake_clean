@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-08-06T18:57:30.214Z",
+  "provider_slug": "no-limit-city",
+  "provider_name": "No Limit City",
+  "status": "in_progress",
+  "total_games": 94,
+  "games_fetched": 87,
+  "is_complete": false,
+  "needs_pagination": true,
+  "output_dir": "stake_thumbnails/No_Limit_City",
+  "games_data_file": "stake_thumbnails\\No_Limit_City\\initial_games.json",
+  "source": "parallel_graphql_fetch",
+  "completed_offsets": [
+    0,
+    39,
+    78
+  ],
+  "failed_offsets": [],
+  "retry_counts": {},
+  "last_successful_offset": 78
+}

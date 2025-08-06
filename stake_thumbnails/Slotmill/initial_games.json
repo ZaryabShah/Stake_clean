@@ -1,0 +1,372 @@
+{
+  "provider": "Slotmill",
+  "provider_slug": "slotmill",
+  "total_games": 36,
+  "games_fetched": 36,
+  "is_complete": true,
+  "needs_pagination": false,
+  "games": [
+    {
+      "game_id": "slotmill-crazy-crops",
+      "title": "Crazy Crops",
+      "slug": "slotmill-crazy-crops",
+      "provider": "Slotmill",
+      "thumbnail_url": "https://mediumrare.imgix.net/9a30c8018c210c231f5a2e8a7e461aca5b957b9c86f432f84ad170d04ac97053",
+      "expected_filename": "Slotmill - Crazy Crops.webp",
+      "game_url": "https://stake.com/casino/games/slotmill-crazy-crops",
+      "extracted_at": "2025-08-06T01:19:22.925684"
+    },
+    {
+      "game_id": "slotmill-ragnarok-40k",
+      "title": "Ragnarök 40k",
+      "slug": "slotmill-ragnarok-40k",
+      "provider": "Slotmill",
+      "thumbnail_url": "https://mediumrare.imgix.net/ba7bc4d6575e37e77c8baf6a74228e9a7344756f849a47cc5a8f63ee1083594e",
+      "expected_filename": "Slotmill - Ragnarök 40k.webp",
+      "game_url": "https://stake.com/casino/games/slotmill-ragnarok-40k",
+      "extracted_at": "2025-08-06T01:19:22.925684"
+    },
+    {
+      "game_id": "slotmill-king-of-the-streets",
+      "title": "King of the Streets",
+      "slug": "slotmill-king-of-the-streets",
+      "provider": "Slotmill",
+      "thumbnail_url": "https://mediumrare.imgix.net/df4f4fd9a6b641a415a91bf87b6b5815665aaeebcab6a9af7a2e2d083eb22726",
+      "expected_filename": "Slotmill - King of the Streets.webp",
+      "game_url": "https://stake.com/casino/games/slotmill-king-of-the-streets",
+      "extracted_at": "2025-08-06T01:19:22.925684"
+    },
+    {
+      "game_id": "slotmill-money-jar-2",
+      "title": "Money Jar 2",
+      "slug": "slotmill-money-jar-2",
+      "provider": "Slotmill",
+      "thumbnail_url": "https://mediumrare.imgix.net/f452b409aeaca3150da09a9f696222a7967cf1776679b895fa2044baf7f33a0b",
+      "expected_filename": "Slotmill - Money Jar 2.webp",
+      "game_url": "https://stake.com/casino/games/slotmill-money-jar-2",
+      "extracted_at": "2025-08-06T01:19:22.925684"
+    },
+    {
+      "game_id": "slotmill-chilli-bandits",
+      "title": "Chilli Bandits",
+      "slug": "slotmill-chilli-bandits",
+      "provider": "Slotmill",
+      "thumbnail_url": "https://mediumrare.imgix.net/209ca5e45cec4875bb27014966dfec38ea6710490d72137f5cdf6f1baf3b292d",
+      "expected_filename": "Slotmill - Chilli Bandits.webp",
+      "game_url": "https://stake.com/casino/games/slotmill-chilli-bandits",
+      "extracted_at": "2025-08-06T01:19:22.925684"
+    },
+    {
+      "game_id": "slotmill-sweet-spotz",
+      "title": "Sweet Spotz",
+      "slug": "slotmill-sweet-spotz",
+      "provider": "Slotmill",
+      "thumbnail_url": "https://mediumrare.imgix.net/e8a7aee34d145fc05099a931d662911e8ab0bfaf60b65fcef4e8e6fd580bd1e8",
+      "expected_filename": "Slotmill - Sweet Spotz.webp",
+      "game_url": "https://stake.com/casino/games/slotmill-sweet-spotz",
+      "extracted_at": "2025-08-06T01:19:22.925684"
+    },
+    {
+      "game_id": "slotmill-emberfall",
+      "title": "Emberfall",
+      "slug": "slotmill-emberfall",
+      "provider": "Slotmill",
+      "thumbnail_url": "https://mediumrare.imgix.net/d385dd8b31ef801d029313e4cead6839a48b0e5d96f836dfc81aba0a63631566",
+      "expected_filename": "Slotmill - Emberfall.webp",
+      "game_url": "https://stake.com/casino/games/slotmill-emberfall",
+      "extracted_at": "2025-08-06T01:19:22.925684"
+    },
+    {
+      "game_id": "slotmill-shark-frenzy",
+      "title": "Shark Frenzy",
+      "slug": "slotmill-shark-frenzy",
+      "provider": "Slotmill",
+      "thumbnail_url": "https://mediumrare.imgix.net/d1117f90689a90c31cdafa2b993805924dc8138d7889bc9befc105893518de95",
+      "expected_filename": "Slotmill - Shark Frenzy.webp",
+      "game_url": "https://stake.com/casino/games/slotmill-shark-frenzy",
+      "extracted_at": "2025-08-06T01:19:22.925684"
+    },
+    {
+      "game_id": "slotmill-ragnarok",
+      "title": "Ragnarok",
+      "slug": "slotmill-ragnarok",
+      "provider": "Slotmill",
+      "thumbnail_url": "https://mediumrare.imgix.net/796dfc8250b258df5e44b6d582007f8623dd7249460c641642f791f3673084cf",
+      "expected_filename": "Slotmill - Ragnarok.webp",
+      "game_url": "https://stake.com/casino/games/slotmill-ragnarok",
+      "extracted_at": "2025-08-06T01:19:22.925684"
+    },
+    {
+      "game_id": "slotmill-eternal-dusk",
+      "title": "Eternal Dusk",
+      "slug": "slotmill-eternal-dusk",
+      "provider": "Slotmill",
+      "thumbnail_url": "https://mediumrare.imgix.net/87ed6e1b360866b28dfb0c8499c2296c7428b8e7632eaaebbb9f27587ff32484",
+      "expected_filename": "Slotmill - Eternal Dusk.webp",
+      "game_url": "https://stake.com/casino/games/slotmill-eternal-dusk",
+      "extracted_at": "2025-08-06T01:19:22.925684"
+    },
+    {
+      "game_id": "slotmill-fortune-pandas",
+      "title": "Fortune Pandas",
+      "slug": "slotmill-fortune-pandas",
+      "provider": "Slotmill",
+      "thumbnail_url": "https://mediumrare.imgix.net/d0dfe0920f5730bcf82a1e016f794b4c53e2bcf3c8b5c97119139335ce41eb6a",
+      "expected_filename": "Slotmill - Fortune Pandas.webp",
+      "game_url": "https://stake.com/casino/games/slotmill-fortune-pandas",
+      "extracted_at": "2025-08-06T01:19:22.925684"
+    },
+    {
+      "game_id": "slotmill-eternal-dawn",
+      "title": "Eternal Dawn",
+      "slug": "slotmill-eternal-dawn",
+      "provider": "Slotmill",
+      "thumbnail_url": "https://mediumrare.imgix.net/f91903e30bc724ef065f9dbabd0739ff0b6092b82538e6faa7cd95762e1edfe1",
+      "expected_filename": "Slotmill - Eternal Dawn.webp",
+      "game_url": "https://stake.com/casino/games/slotmill-eternal-dawn",
+      "extracted_at": "2025-08-06T01:19:22.925684"
+    },
+    {
+      "game_id": "slotmill-coins-and-cannons",
+      "title": "Coins and Cannons",
+      "slug": "slotmill-coins-and-cannons",
+      "provider": "Slotmill",
+      "thumbnail_url": "https://mediumrare.imgix.net/d4a6568cc6788926a25f91ffcd0a70275d530989d65e18b0ff20d822f0425ded",
+      "expected_filename": "Slotmill - Coins and Cannons.webp",
+      "game_url": "https://stake.com/casino/games/slotmill-coins-and-cannons",
+      "extracted_at": "2025-08-06T01:19:22.925684"
+    },
+    {
+      "game_id": "slotmill-coin-quest-2",
+      "title": "Coin Quest 2",
+      "slug": "slotmill-coin-quest-2",
+      "provider": "Slotmill",
+      "thumbnail_url": "https://mediumrare.imgix.net/28a611a71bb6db876a6e834b8ddd6056c5298d599da9507cefc5828eaa3d5ca9",
+      "expected_filename": "Slotmill - Coin Quest 2.webp",
+      "game_url": "https://stake.com/casino/games/slotmill-coin-quest-2",
+      "extracted_at": "2025-08-06T01:19:22.925684"
+    },
+    {
+      "game_id": "slotmill-cash-pandas",
+      "title": "Cash Pandas",
+      "slug": "slotmill-cash-pandas",
+      "provider": "Slotmill",
+      "thumbnail_url": "https://mediumrare.imgix.net/0f4ed9205e84200922b8633cad34dd7ab5a09302bbbc130a636fdc21b40e1f52",
+      "expected_filename": "Slotmill - Cash Pandas.webp",
+      "game_url": "https://stake.com/casino/games/slotmill-cash-pandas",
+      "extracted_at": "2025-08-06T01:19:22.925684"
+    },
+    {
+      "game_id": "slotmill-brew-brothers-xmas-brew",
+      "title": "Brew Brothers: Xmas Brew",
+      "slug": "slotmill-brew-brothers-xmas-brew",
+      "provider": "Slotmill",
+      "thumbnail_url": "https://mediumrare.imgix.net/bc4239db2caaa28edc4208017a41e6d4b1b8ccf6842a8c4f83f9e894f08df9d0",
+      "expected_filename": "Slotmill - Brew Brothers Xmas Brew.webp",
+      "game_url": "https://stake.com/casino/games/slotmill-brew-brothers-xmas-brew",
+      "extracted_at": "2025-08-06T01:19:22.925684"
+    },
+    {
+      "game_id": "slotmill-merlins-fortune",
+      "title": "Merlin's Fortune",
+      "slug": "slotmill-merlins-fortune",
+      "provider": "Slotmill",
+      "thumbnail_url": "https://mediumrare.imgix.net/29fd9751c5d5dd667902ec86777aef65980b0eb10199b88c0ffcfded00b0c64c",
+      "expected_filename": "Slotmill - Merlin's Fortune.webp",
+      "game_url": "https://stake.com/casino/games/slotmill-merlins-fortune",
+      "extracted_at": "2025-08-06T01:19:22.925684"
+    },
+    {
+      "game_id": "slotmill-brew-brothers",
+      "title": "Brew Brothers",
+      "slug": "slotmill-brew-brothers",
+      "provider": "Slotmill",
+      "thumbnail_url": "https://mediumrare.imgix.net/18e4f80c3cc4ebc14d9c344bb5238984d788843ac325bce972ce98f20820d0fb",
+      "expected_filename": "Slotmill - Brew Brothers.webp",
+      "game_url": "https://stake.com/casino/games/slotmill-brew-brothers",
+      "extracted_at": "2025-08-06T01:19:22.925684"
+    },
+    {
+      "game_id": "slotmill-tyrants-fall",
+      "title": "Tyrants Fall",
+      "slug": "slotmill-tyrants-fall",
+      "provider": "Slotmill",
+      "thumbnail_url": "https://mediumrare.imgix.net/98e507ad7aebffab6c4dd7f19cc9a83630938b96a8193826f8d0ec1582e41b39",
+      "expected_filename": "Slotmill - Tyrants Fall.webp",
+      "game_url": "https://stake.com/casino/games/slotmill-tyrants-fall",
+      "extracted_at": "2025-08-06T01:19:22.925684"
+    },
+    {
+      "game_id": "slotmill-sands-of-eternity-2",
+      "title": "Sands of Eternity 2",
+      "slug": "slotmill-sands-of-eternity-2",
+      "provider": "Slotmill",
+      "thumbnail_url": "https://mediumrare.imgix.net/fc77c15416c172e76b5d506041bfd536120144f06e26dcad6b4f6714395f682b",
+      "expected_filename": "Slotmill - Sands of Eternity 2.webp",
+      "game_url": "https://stake.com/casino/games/slotmill-sands-of-eternity-2",
+      "extracted_at": "2025-08-06T01:19:22.925684"
+    },
+    {
+      "game_id": "slotmill-last-man-standing",
+      "title": "Last Man Standing",
+      "slug": "slotmill-last-man-standing",
+      "provider": "Slotmill",
+      "thumbnail_url": "https://mediumrare.imgix.net/d8102765deadfc911db6d9b0e81c74c559c255a07c41704c82e4f9694a8cd0a5",
+      "expected_filename": "Slotmill - Last Man Standing.webp",
+      "game_url": "https://stake.com/casino/games/slotmill-last-man-standing",
+      "extracted_at": "2025-08-06T01:19:22.925684"
+    },
+    {
+      "game_id": "slotmill-gods-of-glory",
+      "title": "Gods of Glory",
+      "slug": "slotmill-gods-of-glory",
+      "provider": "Slotmill",
+      "thumbnail_url": "https://mediumrare.imgix.net/1770b05ce8a5e1c7e18694badb6e0fc95cd310083643ed56b85c723304f95d29",
+      "expected_filename": "Slotmill - Gods of Glory.webp",
+      "game_url": "https://stake.com/casino/games/slotmill-gods-of-glory",
+      "extracted_at": "2025-08-06T01:19:22.925684"
+    },
+    {
+      "game_id": "slotmill-golden-scrolls",
+      "title": "Golden Scrolls",
+      "slug": "slotmill-golden-scrolls",
+      "provider": "Slotmill",
+      "thumbnail_url": "https://mediumrare.imgix.net/2f9abd007397e776c956f57df18232dbbae8ce3931f9e917f6306c4821139d2b",
+      "expected_filename": "Slotmill - Golden Scrolls.webp",
+      "game_url": "https://stake.com/casino/games/slotmill-golden-scrolls",
+      "extracted_at": "2025-08-06T01:19:22.925684"
+    },
+    {
+      "game_id": "slotmill-super-fruit-smash",
+      "title": "Super Fruit Smash",
+      "slug": "slotmill-super-fruit-smash",
+      "provider": "Slotmill",
+      "thumbnail_url": "https://mediumrare.imgix.net/5c24937ff10811949014aae85685b04ee655c149e2cfd4adc5a2f4397307fdde",
+      "expected_filename": "Slotmill - Super Fruit Smash.webp",
+      "game_url": "https://stake.com/casino/games/slotmill-super-fruit-smash",
+      "extracted_at": "2025-08-06T01:19:22.925684"
+    },
+    {
+      "game_id": "slotmill-three-samurai",
+      "title": "Three Samurai",
+      "slug": "slotmill-three-samurai",
+      "provider": "Slotmill",
+      "thumbnail_url": "https://mediumrare.imgix.net/edb3b2d4b68cc0041de92aa5193e76319a5d6bbd9253782c61d3fa92abb832ee",
+      "expected_filename": "Slotmill - Three Samurai.webp",
+      "game_url": "https://stake.com/casino/games/slotmill-three-samurai",
+      "extracted_at": "2025-08-06T01:19:22.925684"
+    },
+    {
+      "game_id": "slotmill-raging-riches",
+      "title": "Raging Riches",
+      "slug": "slotmill-raging-riches",
+      "provider": "Slotmill",
+      "thumbnail_url": "https://mediumrare.imgix.net/46c60712d22962b76d61166a635a86a62a717901b72e0944a9b9ee31991108a4",
+      "expected_filename": "Slotmill - Raging Riches.webp",
+      "game_url": "https://stake.com/casino/games/slotmill-raging-riches",
+      "extracted_at": "2025-08-06T01:19:22.925684"
+    },
+    {
+      "game_id": "slotmill-gem-rush",
+      "title": "Gem Rush",
+      "slug": "slotmill-gem-rush",
+      "provider": "Slotmill",
+      "thumbnail_url": "https://mediumrare.imgix.net/1a65d010100e93f3265bd88b1b9de357409c361e21419559628ea54302203a11",
+      "expected_filename": "Slotmill - Gem Rush.webp",
+      "game_url": "https://stake.com/casino/games/slotmill-gem-rush",
+      "extracted_at": "2025-08-06T01:19:22.925684"
+    },
+    {
+      "game_id": "slotmill-fruit-smash",
+      "title": "Fruit Smash",
+      "slug": "slotmill-fruit-smash",
+      "provider": "Slotmill",
+      "thumbnail_url": "https://mediumrare.imgix.net/65fe6abde703660332eca766f312bf199bb5afa812bd37fa32bdb7c1dfad731c",
+      "expected_filename": "Slotmill - Fruit Smash.webp",
+      "game_url": "https://stake.com/casino/games/slotmill-fruit-smash",
+      "extracted_at": "2025-08-06T01:19:22.925684"
+    },
+    {
+      "game_id": "slotmill-money-jar",
+      "title": "Money Jar",
+      "slug": "slotmill-money-jar",
+      "provider": "Slotmill",
+      "thumbnail_url": "https://mediumrare.imgix.net/3c4f55cf9fc46d6730874d9504a83dc00c6dea3898787e7386bd33f34fe17562",
+      "expected_filename": "Slotmill - Money Jar.webp",
+      "game_url": "https://stake.com/casino/games/slotmill-money-jar",
+      "extracted_at": "2025-08-06T01:19:22.925684"
+    },
+    {
+      "game_id": "slotmill-the-big-hit",
+      "title": "Big Hit",
+      "slug": "slotmill-the-big-hit",
+      "provider": "Slotmill",
+      "thumbnail_url": "https://mediumrare.imgix.net/c4ff366758d010e1221f06b019fd1b557de2a444ffd7d3ed6888794d097905e6",
+      "expected_filename": "Slotmill - Big Hit.webp",
+      "game_url": "https://stake.com/casino/games/slotmill-the-big-hit",
+      "extracted_at": "2025-08-06T01:19:22.925684"
+    },
+    {
+      "game_id": "slotmill-coin-quest",
+      "title": "Coin Quest",
+      "slug": "slotmill-coin-quest",
+      "provider": "Slotmill",
+      "thumbnail_url": "https://mediumrare.imgix.net/0491f49aaed2dcd30bec9cfe8c944e6067bc43b1f60744b2edb15a212a00f857",
+      "expected_filename": "Slotmill - Coin Quest.webp",
+      "game_url": "https://stake.com/casino/games/slotmill-coin-quest",
+      "extracted_at": "2025-08-06T01:19:22.925684"
+    },
+    {
+      "game_id": "slotmill-emperors-rise",
+      "title": "Emperor’s Rise",
+      "slug": "slotmill-emperors-rise",
+      "provider": "Slotmill",
+      "thumbnail_url": "https://mediumrare.imgix.net/292be8cb2be1e2ca4f2a41f317458800f5d9ab4e325608de62db1ca41aed0f14",
+      "expected_filename": "Slotmill - Emperor’s Rise.webp",
+      "game_url": "https://stake.com/casino/games/slotmill-emperors-rise",
+      "extracted_at": "2025-08-06T01:19:22.925684"
+    },
+    {
+      "game_id": "slotmill-lucy-luck-and-the-temple-of-mysteries",
+      "title": "Lucy Luck and the Temple of Mysteries",
+      "slug": "slotmill-lucy-luck-and-the-temple-of-mysteries",
+      "provider": "Slotmill",
+      "thumbnail_url": "https://mediumrare.imgix.net/44fc076484c9e78134d682c86f20af90ebcbbc1724b8dfcab5e36bee04f0babb",
+      "expected_filename": "Slotmill - Lucy Luck and the Temple of Mysteries.webp",
+      "game_url": "https://stake.com/casino/games/slotmill-lucy-luck-and-the-temple-of-mysteries",
+      "extracted_at": "2025-08-06T01:19:22.925684"
+    },
+    {
+      "game_id": "slotmill-sands-of-eternity",
+      "title": "Sands of Eternity",
+      "slug": "slotmill-sands-of-eternity",
+      "provider": "Slotmill",
+      "thumbnail_url": "https://mediumrare.imgix.net/988d0b2d7667d9ecc02f6fc3e55ccd3af4c81c843d1283bcd8201dfd90e663d7",
+      "expected_filename": "Slotmill - Sands of Eternity.webp",
+      "game_url": "https://stake.com/casino/games/slotmill-sands-of-eternity",
+      "extracted_at": "2025-08-06T01:19:22.925684"
+    },
+    {
+      "game_id": "slotmill-drunken-sailors",
+      "title": "Drunken Sailors",
+      "slug": "slotmill-drunken-sailors",
+      "provider": "Slotmill",
+      "thumbnail_url": "https://mediumrare.imgix.net/b9ffecf8aa4e77540d3b0f4650ea2e34ce2544deeb058016da2ed8f6ea6ee1d9",
+      "expected_filename": "Slotmill - Drunken Sailors.webp",
+      "game_url": "https://stake.com/casino/games/slotmill-drunken-sailors",
+      "extracted_at": "2025-08-06T01:19:22.925684"
+    },
+    {
+      "game_id": "slotmill-lucy-luck-and-the-crimson-diamond",
+      "title": "Lucy Luck and the Crimson Diamond",
+      "slug": "slotmill-lucy-luck-and-the-crimson-diamond",
+      "provider": "Slotmill",
+      "thumbnail_url": "https://mediumrare.imgix.net/0a5b480fdbbc92dda0e8c2b79fa17574823b280a24345770342f4c1f41dd2747",
+      "expected_filename": "Slotmill - Lucy Luck and the Crimson Diamond.webp",
+      "game_url": "https://stake.com/casino/games/slotmill-lucy-luck-and-the-crimson-diamond",
+      "extracted_at": "2025-08-06T01:19:22.925684"
+    }
+  ],
+  "timestamp": "2025-08-06T01:19:22.925684",
+  "source": "initial_html_fetch"
+}

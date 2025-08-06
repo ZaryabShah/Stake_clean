@@ -1,0 +1,25 @@
+{
+  "timestamp": "2025-08-06T19:06:57.121Z",
+  "provider_slug": "voltent",
+  "provider_name": "Voltent",
+  "status": "completed",
+  "total_games": 121,
+  "games_fetched": 155,
+  "is_complete": true,
+  "needs_pagination": false,
+  "output_dir": "stake_thumbnails\\Voltent",
+  "games_data_file": "stake_thumbnails\\Voltent\\initial_games.json",
+  "source": "parallel_graphql_fetch",
+  "completed_offsets": [
+    0,
+    39,
+    78,
+    117
+  ],
+  "failed_offsets": [],
+  "retry_counts": {
+    "78": 1,
+    "117": 3
+  },
+  "last_successful_offset": 117
+}

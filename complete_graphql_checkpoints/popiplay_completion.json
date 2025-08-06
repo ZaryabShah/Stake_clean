@@ -1,0 +1,11 @@
+{
+  "provider_name": "Popiplay",
+  "provider_slug": "popiplay",
+  "completion_status": "completed",
+  "games_to_fetch": 21,
+  "batches_needed": 1,
+  "simulation_mode": true,
+  "completion_timestamp": "2025-08-06T05:09:48.822316",
+  "last_updated": "2025-08-06T05:09:48.822316",
+  "checkpoint_type": "complete_graphql"
+}

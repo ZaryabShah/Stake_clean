@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-08-06T04:44:08.502Z",
+  "provider_slug": "blueprint",
+  "provider_name": "Blueprint",
+  "status": "completed",
+  "total_games": 86,
+  "games_fetched": 86,
+  "is_complete": true,
+  "needs_pagination": true,
+  "output_dir": "stake_thumbnails\\Blueprint",
+  "games_data_file": "stake_thumbnails\\Blueprint\\initial_games.json",
+  "source": "initial_html_fetch"
+}

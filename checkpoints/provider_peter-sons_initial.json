@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-08-06T01:03:37.763682",
+  "provider_slug": "peter-sons",
+  "provider_name": "Peter Sons",
+  "status": "initial_completed",
+  "total_games": 33,
+  "games_fetched": 33,
+  "is_complete": true,
+  "needs_pagination": false,
+  "output_dir": "stake_thumbnails\\Peter_Sons",
+  "games_data_file": "stake_thumbnails\\Peter_Sons\\initial_games.json",
+  "source": "initial_html_fetch"
+}

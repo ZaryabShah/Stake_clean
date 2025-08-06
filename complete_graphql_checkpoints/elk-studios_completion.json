@@ -1,0 +1,11 @@
+{
+  "provider_name": "Elk Studios",
+  "provider_slug": "elk-studios",
+  "completion_status": "completed",
+  "games_to_fetch": 85,
+  "batches_needed": 3,
+  "simulation_mode": true,
+  "completion_timestamp": "2025-08-06T05:21:00.339084",
+  "last_updated": "2025-08-06T05:21:00.339084",
+  "checkpoint_type": "complete_graphql"
+}

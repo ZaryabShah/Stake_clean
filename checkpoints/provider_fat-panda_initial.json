@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-08-06T01:26:12.882915",
+  "provider_slug": "fat-panda",
+  "provider_name": "Fat Panda",
+  "status": "initial_completed",
+  "total_games": 15,
+  "games_fetched": 15,
+  "is_complete": true,
+  "needs_pagination": false,
+  "output_dir": "stake_thumbnails\\Fat_Panda",
+  "games_data_file": "stake_thumbnails\\Fat_Panda\\initial_games.json",
+  "source": "initial_html_fetch"
+}

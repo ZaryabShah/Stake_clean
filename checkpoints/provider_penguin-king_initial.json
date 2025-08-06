@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-08-06T22:32:27.043419",
+  "provider_slug": "penguin-king",
+  "provider_name": "Penguin King",
+  "status": "initial_completed",
+  "total_games": 52,
+  "games_fetched": 39,
+  "is_complete": false,
+  "needs_pagination": true,
+  "output_dir": "stake_thumbnails\\Penguin_King",
+  "games_data_file": "stake_thumbnails\\Penguin_King\\initial_games.json",
+  "source": "initial_html_fetch"
+}

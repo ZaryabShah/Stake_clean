@@ -1,0 +1,332 @@
+{
+  "provider": "Onetouch",
+  "provider_slug": "onetouch",
+  "total_games": 32,
+  "games_fetched": 32,
+  "is_complete": true,
+  "needs_pagination": false,
+  "games": [
+    {
+      "game_id": "onetouch-roulette",
+      "title": "Stake Roulette",
+      "slug": "onetouch-roulette",
+      "provider": "OneTouch",
+      "thumbnail_url": "https://mediumrare.imgix.net/ef80047828bb78d31d821a6666781861e548af9d6c64654902f5f088b42efeb8",
+      "expected_filename": "OneTouch - Stake Roulette.webp",
+      "game_url": "https://stake.com/casino/games/onetouch-roulette",
+      "extracted_at": "2025-08-06T01:02:55.171802"
+    },
+    {
+      "game_id": "onetouch-blackjack",
+      "title": "Stake Blackjack",
+      "slug": "onetouch-blackjack",
+      "provider": "OneTouch",
+      "thumbnail_url": "https://mediumrare.imgix.net/e39833a379689bce1e9ff1259cb55fe58b678189b349ed5214987c05adaac4e2",
+      "expected_filename": "OneTouch - Stake Blackjack.webp",
+      "game_url": "https://stake.com/casino/games/onetouch-blackjack",
+      "extracted_at": "2025-08-06T01:02:55.171802"
+    },
+    {
+      "game_id": "onetouch-big-bank-bust",
+      "title": "Big Bank Bust",
+      "slug": "onetouch-big-bank-bust",
+      "provider": "OneTouch",
+      "thumbnail_url": "https://mediumrare.imgix.net/d0ecaa75872e551a2afd9aa4376d4d5ebe08604ce8413726645a26fe8f22f916",
+      "expected_filename": "OneTouch - Big Bank Bust.webp",
+      "game_url": "https://stake.com/casino/games/onetouch-big-bank-bust",
+      "extracted_at": "2025-08-06T01:02:55.171802"
+    },
+    {
+      "game_id": "onetouch-snack-attack-megaways",
+      "title": "Snack Attack Megaways",
+      "slug": "onetouch-snack-attack-megaways",
+      "provider": "OneTouch",
+      "thumbnail_url": "https://mediumrare.imgix.net/added0151a6819b531f44bd91f42e95a4c2ea70f1d40f65a333bf3f975d2d84a",
+      "expected_filename": "OneTouch - Snack Attack Megaways.webp",
+      "game_url": "https://stake.com/casino/games/onetouch-snack-attack-megaways",
+      "extracted_at": "2025-08-06T01:02:55.171802"
+    },
+    {
+      "game_id": "onetouch-angels-and-demons",
+      "title": "Angels and Demons",
+      "slug": "onetouch-angels-and-demons",
+      "provider": "OneTouch",
+      "thumbnail_url": "https://mediumrare.imgix.net/7dd5421f508999c4f61d4cf3b0d768111f705e362fbfcd813a688cf97f3f8bc7",
+      "expected_filename": "OneTouch - Angels and Demons.webp",
+      "game_url": "https://stake.com/casino/games/onetouch-angels-and-demons",
+      "extracted_at": "2025-08-06T01:02:55.171802"
+    },
+    {
+      "game_id": "onetouch-legends-cup",
+      "title": "Legends Cup",
+      "slug": "onetouch-legends-cup",
+      "provider": "OneTouch",
+      "thumbnail_url": "https://mediumrare.imgix.net/004797af67cd039759c32b72bf4108c9d17d2d06280e314c92ff0b8112875fcd",
+      "expected_filename": "OneTouch - Legends Cup.webp",
+      "game_url": "https://stake.com/casino/games/onetouch-legends-cup",
+      "extracted_at": "2025-08-06T01:02:55.171802"
+    },
+    {
+      "game_id": "onetouch-wild-coyote-megaways",
+      "title": "Wild Coyote Megaways",
+      "slug": "onetouch-wild-coyote-megaways",
+      "provider": "OneTouch",
+      "thumbnail_url": "https://mediumrare.imgix.net/24d2b1236e14825ad10de8f613c0ef22d171fdc298dec449cfc235f02ed38653",
+      "expected_filename": "OneTouch - Wild Coyote Megaways.webp",
+      "game_url": "https://stake.com/casino/games/onetouch-wild-coyote-megaways",
+      "extracted_at": "2025-08-06T01:02:55.171802"
+    },
+    {
+      "game_id": "onetouch-god-hand-feature-buy",
+      "title": "God Hand Feature Buy",
+      "slug": "onetouch-god-hand-feature-buy",
+      "provider": "OneTouch",
+      "thumbnail_url": "https://mediumrare.imgix.net/04d20e43627bce09725c7b8434f635cb050e8e56a3c6cb4c1d10c036e1acc6b1",
+      "expected_filename": "OneTouch - God Hand Feature Buy.webp",
+      "game_url": "https://stake.com/casino/games/onetouch-god-hand-feature-buy",
+      "extracted_at": "2025-08-06T01:02:55.171802"
+    },
+    {
+      "game_id": "onetouch-wealthy-sharks",
+      "title": "Wealthy Sharks",
+      "slug": "onetouch-wealthy-sharks",
+      "provider": "OneTouch",
+      "thumbnail_url": "https://mediumrare.imgix.net/6b812309c72bf161c4e8c0308bf26ddb515624a0dc6d641b72bbc40152c84bf9",
+      "expected_filename": "OneTouch - Wealthy Sharks.webp",
+      "game_url": "https://stake.com/casino/games/onetouch-wealthy-sharks",
+      "extracted_at": "2025-08-06T01:02:55.171802"
+    },
+    {
+      "game_id": "onetouch-lady-fortuna",
+      "title": "Lady Fortuna",
+      "slug": "onetouch-lady-fortuna",
+      "provider": "OneTouch",
+      "thumbnail_url": "https://mediumrare.imgix.net/f3d1c4241f99aef3d6cfa60a11a129b5f3de6e5b8b7b658250c0dc0d9c1787a8",
+      "expected_filename": "OneTouch - Lady Fortuna.webp",
+      "game_url": "https://stake.com/casino/games/onetouch-lady-fortuna",
+      "extracted_at": "2025-08-06T01:02:55.171802"
+    },
+    {
+      "game_id": "onetouch-tiki-terror",
+      "title": "Tiki Terror",
+      "slug": "onetouch-tiki-terror",
+      "provider": "OneTouch",
+      "thumbnail_url": "https://mediumrare.imgix.net/d96ff4d89257db648a9f5038eb2a9ba93102391d5cac3f3d1016067d10bcf72f",
+      "expected_filename": "OneTouch - Tiki Terror.webp",
+      "game_url": "https://stake.com/casino/games/onetouch-tiki-terror",
+      "extracted_at": "2025-08-06T01:02:55.171802"
+    },
+    {
+      "game_id": "onetouch-lucky-lion",
+      "title": "Lucky Lion",
+      "slug": "onetouch-lucky-lion",
+      "provider": "OneTouch",
+      "thumbnail_url": "https://mediumrare.imgix.net/db2ad561b8cf92214c6079455efa827fdd2cc7bb147b4c717b21f2bbeb045381",
+      "expected_filename": "OneTouch - Lucky Lion.webp",
+      "game_url": "https://stake.com/casino/games/onetouch-lucky-lion",
+      "extracted_at": "2025-08-06T01:02:55.171802"
+    },
+    {
+      "game_id": "onetouch-genies-secret-feature-buy",
+      "title": "Genie's Secret Feature Buy",
+      "slug": "onetouch-genies-secret-feature-buy",
+      "provider": "OneTouch",
+      "thumbnail_url": "https://mediumrare.imgix.net/4a018520d8ab45a415dd0c11ec9f271fed7ca3782e494f8d9a598e3112ac649e",
+      "expected_filename": "OneTouch - Genie's Secret Feature Buy.webp",
+      "game_url": "https://stake.com/casino/games/onetouch-genies-secret-feature-buy",
+      "extracted_at": "2025-08-06T01:02:55.171802"
+    },
+    {
+      "game_id": "onetouch-wild-waves-megaways",
+      "title": "Wild Waves Megaways",
+      "slug": "onetouch-wild-waves-megaways",
+      "provider": "OneTouch",
+      "thumbnail_url": "https://mediumrare.imgix.net/5f4a5fa29fbb535960000a6cea81bcb8c82555e798ec25de37ed1a2e8fbd7ecc",
+      "expected_filename": "OneTouch - Wild Waves Megaways.webp",
+      "game_url": "https://stake.com/casino/games/onetouch-wild-waves-megaways",
+      "extracted_at": "2025-08-06T01:02:55.171802"
+    },
+    {
+      "game_id": "onetouch-steam-vault",
+      "title": "Steam Vault",
+      "slug": "onetouch-steam-vault",
+      "provider": "OneTouch",
+      "thumbnail_url": "https://mediumrare.imgix.net/70f37c5ea1375c5a1f999c94e0ba1d7e36aeeb0d0ec4aa29923dc98136e1a830",
+      "expected_filename": "OneTouch - Steam Vault.webp",
+      "game_url": "https://stake.com/casino/games/onetouch-steam-vault",
+      "extracted_at": "2025-08-06T01:02:55.171802"
+    },
+    {
+      "game_id": "onetouch-ryse-of-the-mighty-gods",
+      "title": "Ryse of the Mighty Gods",
+      "slug": "onetouch-ryse-of-the-mighty-gods",
+      "provider": "OneTouch",
+      "thumbnail_url": "https://mediumrare.imgix.net/d2de1ed24164ffb86bf3a44a807db0da7708fc2172b2b9935104a279139b8c4f",
+      "expected_filename": "OneTouch - Ryse of the Mighty Gods.webp",
+      "game_url": "https://stake.com/casino/games/onetouch-ryse-of-the-mighty-gods",
+      "extracted_at": "2025-08-06T01:02:55.171802"
+    },
+    {
+      "game_id": "onetouch-flexing-dragons",
+      "title": "Flexing Dragons",
+      "slug": "onetouch-flexing-dragons",
+      "provider": "OneTouch",
+      "thumbnail_url": "https://mediumrare.imgix.net/e0ba00c8bc2e999ecd5a3c0c0e8411e630f2ca4ece4a65e28cf3be180948bb5b",
+      "expected_filename": "OneTouch - Flexing Dragons.webp",
+      "game_url": "https://stake.com/casino/games/onetouch-flexing-dragons",
+      "extracted_at": "2025-08-06T01:02:55.171802"
+    },
+    {
+      "game_id": "onetouch-king-of-mafia",
+      "title": "King of Mafia",
+      "slug": "onetouch-king-of-mafia",
+      "provider": "OneTouch",
+      "thumbnail_url": "https://mediumrare.imgix.net/5be0a0feadf68317945c5a2022f9ee6409d3fee5954636b43ecc5695a283133b",
+      "expected_filename": "OneTouch - King of Mafia.webp",
+      "game_url": "https://stake.com/casino/games/onetouch-king-of-mafia",
+      "extracted_at": "2025-08-06T01:02:55.171802"
+    },
+    {
+      "game_id": "onetouch-queens-of-glory-legacy",
+      "title": "Queens of Glory Legacy",
+      "slug": "onetouch-queens-of-glory-legacy",
+      "provider": "OneTouch",
+      "thumbnail_url": "https://mediumrare.imgix.net/00e531d12c815279a1b54646ae5e87468866e99a54a7bd35668e45350df5ee5c",
+      "expected_filename": "OneTouch - Queens of Glory Legacy.webp",
+      "game_url": "https://stake.com/casino/games/onetouch-queens-of-glory-legacy",
+      "extracted_at": "2025-08-06T01:02:55.171802"
+    },
+    {
+      "game_id": "onetouch-grand-heist-feature-buy",
+      "title": "Grand Heist Feature Buy",
+      "slug": "onetouch-grand-heist-feature-buy",
+      "provider": "OneTouch",
+      "thumbnail_url": "https://mediumrare.imgix.net/568b0298158ed24c80479462120b909d260ffeb79d3dbe01e06ff42adc3feacb",
+      "expected_filename": "OneTouch - Grand Heist Feature Buy.webp",
+      "game_url": "https://stake.com/casino/games/onetouch-grand-heist-feature-buy",
+      "extracted_at": "2025-08-06T01:02:55.171802"
+    },
+    {
+      "game_id": "onetouch-gifts-of-horus",
+      "title": "Gifts Of Horus",
+      "slug": "onetouch-gifts-of-horus",
+      "provider": "OneTouch",
+      "thumbnail_url": "https://mediumrare.imgix.net/2fa756f23ddfbf6c8cf49c653bb2c3ca49fd0a5c305230eb699d52e7d67b3655",
+      "expected_filename": "OneTouch - Gifts Of Horus.webp",
+      "game_url": "https://stake.com/casino/games/onetouch-gifts-of-horus",
+      "extracted_at": "2025-08-06T01:02:55.171802"
+    },
+    {
+      "game_id": "onetouch-bubbles-bonanza",
+      "title": "Bubbles Bonanza",
+      "slug": "onetouch-bubbles-bonanza",
+      "provider": "OneTouch",
+      "thumbnail_url": "https://mediumrare.imgix.net/909da52571b1e8acd5e18c389cf5368865672a092537edde3e1569ba4a23d3ae",
+      "expected_filename": "OneTouch - Bubbles Bonanza.webp",
+      "game_url": "https://stake.com/casino/games/onetouch-bubbles-bonanza",
+      "extracted_at": "2025-08-06T01:02:55.171802"
+    },
+    {
+      "game_id": "onetouch-genies-secret",
+      "title": "Genie's Secret",
+      "slug": "onetouch-genies-secret",
+      "provider": "OneTouch",
+      "thumbnail_url": "https://mediumrare.imgix.net/90692534368af7b53d9552a0297fe09dd55e5752796b03f7153039aa58f0146a",
+      "expected_filename": "OneTouch - Genie's Secret.webp",
+      "game_url": "https://stake.com/casino/games/onetouch-genies-secret",
+      "extracted_at": "2025-08-06T01:02:55.171802"
+    },
+    {
+      "game_id": "onetouch-grand-christmas-heist-buy-feature",
+      "title": "Grand Christmas Heist Feature Buy",
+      "slug": "onetouch-grand-christmas-heist-buy-feature",
+      "provider": "OneTouch",
+      "thumbnail_url": "https://mediumrare.imgix.net/bd03b13d100592038399454ee3e8c92fa9cc8043f5d394f0cdc5b0da753c1474",
+      "expected_filename": "OneTouch - Grand Christmas Heist Feature Buy.webp",
+      "game_url": "https://stake.com/casino/games/onetouch-grand-christmas-heist-buy-feature",
+      "extracted_at": "2025-08-06T01:02:55.171802"
+    },
+    {
+      "game_id": "onetouch-traveling-treasures-brazil",
+      "title": "Traveling Treasures Brazil",
+      "slug": "onetouch-traveling-treasures-brazil",
+      "provider": "OneTouch",
+      "thumbnail_url": "https://mediumrare.imgix.net/b07bdaf73e4c54fccf4d5f127a7e7ec611f886a0a69ee76cbacb49641123da96",
+      "expected_filename": "OneTouch - Traveling Treasures Brazil.webp",
+      "game_url": "https://stake.com/casino/games/onetouch-traveling-treasures-brazil",
+      "extracted_at": "2025-08-06T01:02:55.171802"
+    },
+    {
+      "game_id": "onetouch-sea-treasure-deep-dive",
+      "title": "Sea Treasure Deep Dive",
+      "slug": "onetouch-sea-treasure-deep-dive",
+      "provider": "OneTouch",
+      "thumbnail_url": "https://mediumrare.imgix.net/d5b01884c6713b97a99709b6342fef624c513876e2f8ace8d19b6cb9c48060c3",
+      "expected_filename": "OneTouch - Sea Treasure Deep Dive.webp",
+      "game_url": "https://stake.com/casino/games/onetouch-sea-treasure-deep-dive",
+      "extracted_at": "2025-08-06T01:02:55.171802"
+    },
+    {
+      "game_id": "onetouch-wacky-wildlife",
+      "title": "Wacky Wildlife",
+      "slug": "onetouch-wacky-wildlife",
+      "provider": "OneTouch",
+      "thumbnail_url": "https://mediumrare.imgix.net/6389a52db99cb9a0bbc22e3da69b569bff1d7e150beaa94da75bef89fda8c9bf",
+      "expected_filename": "OneTouch - Wacky Wildlife.webp",
+      "game_url": "https://stake.com/casino/games/onetouch-wacky-wildlife",
+      "extracted_at": "2025-08-06T01:02:55.171802"
+    },
+    {
+      "game_id": "onetouch-colosseum-clash",
+      "title": "Colosseum Clash",
+      "slug": "onetouch-colosseum-clash",
+      "provider": "OneTouch",
+      "thumbnail_url": "https://mediumrare.imgix.net/6792384dc4d6e87b8b47565527ad26313663445dd335ed2b8157ea86fd75301b",
+      "expected_filename": "OneTouch - Colosseum Clash.webp",
+      "game_url": "https://stake.com/casino/games/onetouch-colosseum-clash",
+      "extracted_at": "2025-08-06T01:02:55.171802"
+    },
+    {
+      "game_id": "onetouch-wild-voodoo",
+      "title": "Wild Voodoo",
+      "slug": "onetouch-wild-voodoo",
+      "provider": "OneTouch",
+      "thumbnail_url": "https://mediumrare.imgix.net/745dd17ad8c526eaeaa88f67e8cf186af8bb4a3c1fcb65eb826ce0e84ce01c27",
+      "expected_filename": "OneTouch - Wild Voodoo.webp",
+      "game_url": "https://stake.com/casino/games/onetouch-wild-voodoo",
+      "extracted_at": "2025-08-06T01:02:55.171802"
+    },
+    {
+      "game_id": "onetouch-tonatiuhs-legacy",
+      "title": "Tonatiuh's Legacy",
+      "slug": "onetouch-tonatiuhs-legacy",
+      "provider": "OneTouch",
+      "thumbnail_url": "https://mediumrare.imgix.net/311e02132b46c767a792f7c8a1c0cc6ba5580c90ac3cb5f219eaa6c0a40ae4b3",
+      "expected_filename": "OneTouch - Tonatiuh's Legacy.webp",
+      "game_url": "https://stake.com/casino/games/onetouch-tonatiuhs-legacy",
+      "extracted_at": "2025-08-06T01:02:55.171802"
+    },
+    {
+      "game_id": "onetouch-monkeys-treasure",
+      "title": "Monkey's Treasure",
+      "slug": "onetouch-monkeys-treasure",
+      "provider": "OneTouch",
+      "thumbnail_url": "https://mediumrare.imgix.net/c7034cd9d840b5cde24fc63c2e6e5e08b4b08adf3c8de4bbf7b035f1f00cfd75",
+      "expected_filename": "OneTouch - Monkey's Treasure.webp",
+      "game_url": "https://stake.com/casino/games/onetouch-monkeys-treasure",
+      "extracted_at": "2025-08-06T01:02:55.171802"
+    },
+    {
+      "game_id": "onetouch-reel-fruitz-frenzy",
+      "title": "Reel Fruitz Frenzy",
+      "slug": "onetouch-reel-fruitz-frenzy",
+      "provider": "OneTouch",
+      "thumbnail_url": "https://mediumrare.imgix.net/e8cefa67739a1efbb1e9a926872c7f94db2c2e9195a698d1ebcfb33a5261fc4d",
+      "expected_filename": "OneTouch - Reel Fruitz Frenzy.webp",
+      "game_url": "https://stake.com/casino/games/onetouch-reel-fruitz-frenzy",
+      "extracted_at": "2025-08-06T01:02:55.171802"
+    }
+  ],
+  "timestamp": "2025-08-06T01:02:55.171802",
+  "source": "initial_html_fetch"
+}

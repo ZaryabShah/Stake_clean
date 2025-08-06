@@ -1,0 +1,649 @@
+{
+  "timestamp": "2025-08-06T04:17:43.463Z",
+  "provider": {
+    "id": "avatarux",
+    "name": "Avatarux",
+    "slug": "avatarux"
+  },
+  "summary": {
+    "totalGames": 61,
+    "fetchedGames": 61,
+    "remainingGames": 0,
+    "isComplete": true,
+    "currentOffset": 61
+  },
+  "games": [
+    {
+      "game_id": "avatarux-reel-warriors",
+      "title": "Reel Warriors",
+      "slug": "avatarux-reel-warriors",
+      "provider": "AvatarUX",
+      "thumbnail_url": "https://mediumrare.imgix.net/de78a923def82fcdaa3085ae99089aecbf07819a87e3aa48df2e04f176ec5f79",
+      "expected_filename": "AvatarUX - Reel Warriors.webp",
+      "game_url": "https://stake.com/casino/games/avatarux-reel-warriors",
+      "extracted_at": "2025-08-06T00:54:24.855887"
+    },
+    {
+      "game_id": "avatarux-sweet-delights",
+      "title": "Sweet Delights",
+      "slug": "avatarux-sweet-delights",
+      "provider": "AvatarUX",
+      "thumbnail_url": "https://mediumrare.imgix.net/448f12b52bad2222527cfdbb86c272c69369539d01df861897668370cb16fa26",
+      "expected_filename": "AvatarUX - Sweet Delights.webp",
+      "game_url": "https://stake.com/casino/games/avatarux-sweet-delights",
+      "extracted_at": "2025-08-06T00:54:24.855887"
+    },
+    {
+      "game_id": "avatarux-cosmic-jokers",
+      "title": "Cosmic Jokers",
+      "slug": "avatarux-cosmic-jokers",
+      "provider": "AvatarUX",
+      "thumbnail_url": "https://mediumrare.imgix.net/949227b24e919c11f5e94939a0b24473a9dfeb3f55bfd8b091066c5acd42866c",
+      "expected_filename": "AvatarUX - Cosmic Jokers.webp",
+      "game_url": "https://stake.com/casino/games/avatarux-cosmic-jokers",
+      "extracted_at": "2025-08-06T00:54:24.855887"
+    },
+    {
+      "game_id": "avatarux-cherry-pop",
+      "title": "Cherry Pop",
+      "slug": "avatarux-cherry-pop",
+      "provider": "AvatarUX",
+      "thumbnail_url": "https://mediumrare.imgix.net/83eb58191d3edc3f656060756600ab5f62afde239fa0c60cfc0b85b203a61e84",
+      "expected_filename": "AvatarUX - Cherry Pop.webp",
+      "game_url": "https://stake.com/casino/games/avatarux-cherry-pop",
+      "extracted_at": "2025-08-06T00:54:24.855887"
+    },
+    {
+      "game_id": "avatarux-rebel-paws",
+      "title": "Rebel Paws",
+      "slug": "avatarux-rebel-paws",
+      "provider": "AvatarUX",
+      "thumbnail_url": "https://mediumrare.imgix.net/1bdd2580bb020ea46b92ef8e7fb7385f6a6dc9cf831f551a66de8a8627ed9ab6",
+      "expected_filename": "AvatarUX - Rebel Paws.webp",
+      "game_url": "https://stake.com/casino/games/avatarux-rebel-paws",
+      "extracted_at": "2025-08-06T00:54:24.855887"
+    },
+    {
+      "game_id": "avatarux-zombie-apopalypse",
+      "title": "Zombie aPOPalypse",
+      "slug": "avatarux-zombie-apopalypse",
+      "provider": "AvatarUX",
+      "thumbnail_url": "https://mediumrare.imgix.net/f88a849fd5ba03973e0613de34d80c17746126d1a2bd48c9b9b714bf4e6918e4",
+      "expected_filename": "AvatarUX - Zombie aPOPalypse.webp",
+      "game_url": "https://stake.com/casino/games/avatarux-zombie-apopalypse",
+      "extracted_at": "2025-08-06T00:54:24.855887"
+    },
+    {
+      "game_id": "avatarux-pop-royale",
+      "title": "Pop Royale",
+      "slug": "avatarux-pop-royale",
+      "provider": "AvatarUX",
+      "thumbnail_url": "https://mediumrare.imgix.net/7b07ead985c0d13b6cb1d3ba5f6ac87b0e335dc4986cfcbc62d313738156a628",
+      "expected_filename": "AvatarUX - Pop Royale.webp",
+      "game_url": "https://stake.com/casino/games/avatarux-pop-royale",
+      "extracted_at": "2025-08-06T00:54:24.855887"
+    },
+    {
+      "game_id": "avatarux-pop-o-gold",
+      "title": "Pop O'Gold",
+      "slug": "avatarux-pop-o-gold",
+      "provider": "AvatarUX",
+      "thumbnail_url": "https://mediumrare.imgix.net/06b07ac341d867c97da651196a53976bd980527d21d282c099d02126ab2be7c0",
+      "expected_filename": "AvatarUX - Pop O'Gold.webp",
+      "game_url": "https://stake.com/casino/games/avatarux-pop-o-gold",
+      "extracted_at": "2025-08-06T00:54:24.855887"
+    },
+    {
+      "game_id": "avatarux-hippo-pop",
+      "title": "Hippo Pop",
+      "slug": "avatarux-hippo-pop",
+      "provider": "AvatarUX",
+      "thumbnail_url": "https://mediumrare.imgix.net/cff8ede83c6eb2bf49984ee02d447c2dc6fe015dfbfa49f88ec321e0a8eb83eb",
+      "expected_filename": "AvatarUX - Hippo Pop.webp",
+      "game_url": "https://stake.com/casino/games/avatarux-hippo-pop",
+      "extracted_at": "2025-08-06T00:54:24.855887"
+    },
+    {
+      "game_id": "avatarux-duck-hunt-500",
+      "title": "Duck Hunt 500",
+      "slug": "avatarux-duck-hunt-500",
+      "provider": "AvatarUX",
+      "thumbnail_url": "https://mediumrare.imgix.net/818814f1303cbddc5ff6946d9c0f01a6b717a9037910ad516891c1eb43c7fd16",
+      "expected_filename": "AvatarUX - Duck Hunt 500.webp",
+      "game_url": "https://stake.com/casino/games/avatarux-duck-hunt-500",
+      "extracted_at": "2025-08-06T00:54:24.855887"
+    },
+    {
+      "game_id": "avatarux-monkey-pop",
+      "title": "Monkey Pop",
+      "slug": "avatarux-monkey-pop",
+      "provider": "AvatarUX",
+      "thumbnail_url": "https://mediumrare.imgix.net/1922aeaf332d817690ed62610b7bf5ff5d519d01169fffd675b61e9c80d22c35",
+      "expected_filename": "AvatarUX - Monkey Pop.webp",
+      "game_url": "https://stake.com/casino/games/avatarux-monkey-pop",
+      "extracted_at": "2025-08-06T00:54:24.855887"
+    },
+    {
+      "game_id": "avatarux-captain-more-gain",
+      "title": "Captain More’gain",
+      "slug": "avatarux-captain-more-gain",
+      "provider": "AvatarUX",
+      "thumbnail_url": "https://mediumrare.imgix.net/ea71e6d0ad21b9a05d6ea0c0b5d3d7272ed217c25dc5ce73b8878f366fc764e5",
+      "expected_filename": "AvatarUX - Captain More’gain.webp",
+      "game_url": "https://stake.com/casino/games/avatarux-captain-more-gain",
+      "extracted_at": "2025-08-06T00:54:24.855887"
+    },
+    {
+      "game_id": "avatarux-vegas-fortune",
+      "title": "Vegas Fortune",
+      "slug": "avatarux-vegas-fortune",
+      "provider": "AvatarUX",
+      "thumbnail_url": "https://mediumrare.imgix.net/5d27af123459966ac37f009200593b0372c082a0e7fa2a50cf6ff5f394515562",
+      "expected_filename": "AvatarUX - Vegas Fortune.webp",
+      "game_url": "https://stake.com/casino/games/avatarux-vegas-fortune",
+      "extracted_at": "2025-08-06T00:54:24.855887"
+    },
+    {
+      "game_id": "avatarux-piggy-pop",
+      "title": "Piggy Pop",
+      "slug": "avatarux-piggy-pop",
+      "provider": "AvatarUX",
+      "thumbnail_url": "https://mediumrare.imgix.net/e740b8cb25787e3010afe49bb2d526f3bea6d7fd32de9d89af51e76f3bc800b3",
+      "expected_filename": "AvatarUX - Piggy Pop.webp",
+      "game_url": "https://stake.com/casino/games/avatarux-piggy-pop",
+      "extracted_at": "2025-08-06T00:54:24.855887"
+    },
+    {
+      "game_id": "avatarux-arcana-pop",
+      "title": "Arcana Pop",
+      "slug": "avatarux-arcana-pop",
+      "provider": "AvatarUX",
+      "thumbnail_url": "https://mediumrare.imgix.net/b59321c291d4208f9ece8ce6a7d4699a3e2e1a56e53da9a58ac00f1b8a11e97b",
+      "expected_filename": "AvatarUX - Arcana Pop.webp",
+      "game_url": "https://stake.com/casino/games/avatarux-arcana-pop",
+      "extracted_at": "2025-08-06T00:54:24.855887"
+    },
+    {
+      "game_id": "avatarux-looney-pop",
+      "title": "Looney Pop",
+      "slug": "avatarux-looney-pop",
+      "provider": "AvatarUX",
+      "thumbnail_url": "https://mediumrare.imgix.net/830dd4fd6a74bb304d2aaf6023536a3b1bb3c63cd49a3bcbdd711cb2e6abb2db",
+      "expected_filename": "AvatarUX - Looney Pop.webp",
+      "game_url": "https://stake.com/casino/games/avatarux-looney-pop",
+      "extracted_at": "2025-08-06T00:54:24.855887"
+    },
+    {
+      "game_id": "avatarux-cherry-pop-deluxe",
+      "title": "Cherry Pop Deluxe",
+      "slug": "avatarux-cherry-pop-deluxe",
+      "provider": "AvatarUX",
+      "thumbnail_url": "https://mediumrare.imgix.net/dcb2dd71cd2d298cf1767f47f71decf2d93ee80c7b63a54fb5ee9e9824abed51",
+      "expected_filename": "AvatarUX - Cherry Pop Deluxe.webp",
+      "game_url": "https://stake.com/casino/games/avatarux-cherry-pop-deluxe",
+      "extracted_at": "2025-08-06T00:54:24.855887"
+    },
+    {
+      "game_id": "avatarux-xmas-pop-delight",
+      "title": "XmasPop Delight",
+      "slug": "avatarux-xmas-pop-delight",
+      "provider": "AvatarUX",
+      "thumbnail_url": "https://mediumrare.imgix.net/0d0fbbd291ced852de3907685f0b25f89dbde66c78c131a789114e51009f1693",
+      "expected_filename": "AvatarUX - XmasPop Delight.webp",
+      "game_url": "https://stake.com/casino/games/avatarux-xmas-pop-delight",
+      "extracted_at": "2025-08-06T00:54:24.855887"
+    },
+    {
+      "game_id": "avatarux-tiki-pop-spooky-temples",
+      "title": "TikiPop Spooky Temples",
+      "slug": "avatarux-tiki-pop-spooky-temples",
+      "provider": "AvatarUX",
+      "thumbnail_url": "https://mediumrare.imgix.net/bb0169b1581200f8808ccdf0ed9f9acffe390839fb4ca103ff3ebe71945e276d",
+      "expected_filename": "AvatarUX - TikiPop Spooky Temples.webp",
+      "game_url": "https://stake.com/casino/games/avatarux-tiki-pop-spooky-temples",
+      "extracted_at": "2025-08-06T00:54:24.855887"
+    },
+    {
+      "game_id": "avatarux-piggypop-grand-affair",
+      "title": "PiggyPop Grand Affair",
+      "slug": "avatarux-piggypop-grand-affair",
+      "provider": "AvatarUX",
+      "thumbnail_url": "https://mediumrare.imgix.net/c3515997916eb148a4c51baa22dae6ea63c169ec82c2eb1b9dc0d12283a913fc",
+      "expected_filename": "AvatarUX - PiggyPop Grand Affair.webp",
+      "game_url": "https://stake.com/casino/games/avatarux-piggypop-grand-affair",
+      "extracted_at": "2025-08-06T00:54:24.855887"
+    },
+    {
+      "game_id": "avatarux-big-catch-craze",
+      "title": "Big Catch Craze",
+      "slug": "avatarux-big-catch-craze",
+      "provider": "AvatarUX",
+      "thumbnail_url": "https://mediumrare.imgix.net/702f402f21ab45e8ef7acadfbf37a78fda56cf631da2ffb8c5d81fc413870b11",
+      "expected_filename": "AvatarUX - Big Catch Craze.webp",
+      "game_url": "https://stake.com/casino/games/avatarux-big-catch-craze",
+      "extracted_at": "2025-08-06T00:54:24.855887"
+    },
+    {
+      "game_id": "avatarux-sweet-gummy",
+      "title": "Sweet Gummy",
+      "slug": "avatarux-sweet-gummy",
+      "provider": "AvatarUX",
+      "thumbnail_url": "https://mediumrare.imgix.net/ba614293c3ec7b1d3037a7211c7063e27ef4ef53ea75e45b4be03ea9bc764d9e",
+      "expected_filename": "AvatarUX - Sweet Gummy.webp",
+      "game_url": "https://stake.com/casino/games/avatarux-sweet-gummy",
+      "extracted_at": "2025-08-06T00:54:24.855887"
+    },
+    {
+      "game_id": "avatarux-bounty-pop",
+      "title": "Bounty Pop",
+      "slug": "avatarux-bounty-pop",
+      "provider": "AvatarUX",
+      "thumbnail_url": "https://mediumrare.imgix.net/288967c9a56a63a32ff89920b5919f5227dfb1a65580dd2283141d721c7c2e02",
+      "expected_filename": "AvatarUX - Bounty Pop.webp",
+      "game_url": "https://stake.com/casino/games/avatarux-bounty-pop",
+      "extracted_at": "2025-08-06T00:54:24.855887"
+    },
+    {
+      "game_id": "avatarux-florida-man",
+      "title": "Floridaman",
+      "slug": "avatarux-florida-man",
+      "provider": "AvatarUX",
+      "thumbnail_url": "https://mediumrare.imgix.net/72e3d3426e3939eb15b231705814dc267e2ca287ac0c700f13ed16bfefd0eff1",
+      "expected_filename": "AvatarUX - Floridaman.webp",
+      "game_url": "https://stake.com/casino/games/avatarux-florida-man",
+      "extracted_at": "2025-08-06T00:54:24.855887"
+    },
+    {
+      "game_id": "avatarux-animals-strike",
+      "title": "Animals Strike",
+      "slug": "avatarux-animals-strike",
+      "provider": "AvatarUX",
+      "thumbnail_url": "https://mediumrare.imgix.net/a60557ae615d128df1fff9a0e804c76eaaf53119b28087eab2917d07ca9f9a4e",
+      "expected_filename": "AvatarUX - Animals Strike.webp",
+      "game_url": "https://stake.com/casino/games/avatarux-animals-strike",
+      "extracted_at": "2025-08-06T00:54:24.855887"
+    },
+    {
+      "game_id": "avatarux-reef-pop",
+      "title": "ReefPOP",
+      "slug": "avatarux-reef-pop",
+      "provider": "AvatarUX",
+      "thumbnail_url": "https://mediumrare.imgix.net/65df3dfd4b439ab9405bac3a723d1106d25cad800e860fe20a099310611fa3ec",
+      "expected_filename": "AvatarUX - ReefPOP.webp",
+      "game_url": "https://stake.com/casino/games/avatarux-reef-pop",
+      "extracted_at": "2025-08-06T00:54:24.855887"
+    },
+    {
+      "game_id": "avatarux-silicon-spinners",
+      "title": "Silicon Spinners",
+      "slug": "avatarux-silicon-spinners",
+      "provider": "AvatarUX",
+      "thumbnail_url": "https://mediumrare.imgix.net/5b845dd98bc4614d30e2fb5e8377e5988df24b0b61227b128a0d91a9dacb3deb",
+      "expected_filename": "AvatarUX - Silicon Spinners.webp",
+      "game_url": "https://stake.com/casino/games/avatarux-silicon-spinners",
+      "extracted_at": "2025-08-06T00:54:24.855887"
+    },
+    {
+      "game_id": "avatarux-critter-pop",
+      "title": "Critter Pop",
+      "slug": "avatarux-critter-pop",
+      "provider": "AvatarUX",
+      "thumbnail_url": "https://mediumrare.imgix.net/e1e8f33bd926cb10197ddbe9e21d611533b3d4c192e6d703d1db989a0efaaddb",
+      "expected_filename": "AvatarUX - Critter Pop.webp",
+      "game_url": "https://stake.com/casino/games/avatarux-critter-pop",
+      "extracted_at": "2025-08-06T00:54:24.855887"
+    },
+    {
+      "game_id": "avatarux-wild-pops",
+      "title": "Wild Pops",
+      "slug": "avatarux-wild-pops",
+      "provider": "AvatarUX",
+      "thumbnail_url": "https://mediumrare.imgix.net/46572bfb51a0f6b0c11fa0c0901f73e8b90bb1baaa71de39aaa94d0955251b22",
+      "expected_filename": "AvatarUX - Wild Pops.webp",
+      "game_url": "https://stake.com/casino/games/avatarux-wild-pops",
+      "extracted_at": "2025-08-06T00:54:24.855887"
+    },
+    {
+      "game_id": "avatarux-tiki-pop",
+      "title": "Tiki Pop",
+      "slug": "avatarux-tiki-pop",
+      "provider": "AvatarUX",
+      "thumbnail_url": "https://mediumrare.imgix.net/f8b61d2fe3bfaf00f457d338d522f746ce2d7ea43c0b29007b1409024ead500a",
+      "expected_filename": "AvatarUX - Tiki Pop.webp",
+      "game_url": "https://stake.com/casino/games/avatarux-tiki-pop",
+      "extracted_at": "2025-08-06T00:54:24.855887"
+    },
+    {
+      "game_id": "avatarux-7-lucky-gods",
+      "title": "7 Lucky Gods",
+      "slug": "avatarux-7-lucky-gods",
+      "provider": "AvatarUX",
+      "thumbnail_url": "https://mediumrare.imgix.net/3425a26c2ffd6267b4a094887a303122d7e5e08c2c802e57e1993d94184fcc53",
+      "expected_filename": "AvatarUX - 7 Lucky Gods.webp",
+      "game_url": "https://stake.com/casino/games/avatarux-7-lucky-gods",
+      "extracted_at": "2025-08-06T00:54:24.855887"
+    },
+    {
+      "game_id": "avatarux-nugget",
+      "title": "Nugget",
+      "slug": "avatarux-nugget",
+      "provider": "AvatarUX",
+      "thumbnail_url": "https://mediumrare.imgix.net/02d8b6dd4c4bc9ec6a0b3e0f83102ccd21715043606343155da04f3d49710dcc",
+      "expected_filename": "AvatarUX - Nugget.webp",
+      "game_url": "https://stake.com/casino/games/avatarux-nugget",
+      "extracted_at": "2025-08-06T00:54:24.855887"
+    },
+    {
+      "game_id": "avatarux-electro-cubes",
+      "title": "Electro Cubes",
+      "slug": "avatarux-electro-cubes",
+      "provider": "AvatarUX",
+      "thumbnail_url": "https://mediumrare.imgix.net/3f0b39c2ad4de3e6a6ebb641eff71b5b48df9162f011dfb594e7d72c9aa75609",
+      "expected_filename": "AvatarUX - Electro Cubes.webp",
+      "game_url": "https://stake.com/casino/games/avatarux-electro-cubes",
+      "extracted_at": "2025-08-06T00:54:24.855887"
+    },
+    {
+      "game_id": "avatarux-lolli-pop",
+      "title": "Lolli Pop",
+      "slug": "avatarux-lolli-pop",
+      "provider": "AvatarUX",
+      "thumbnail_url": "https://mediumrare.imgix.net/d3eccd78d9b402f3e3805059030c87737a9472fee556e92f96d3426c4b0cfee8",
+      "expected_filename": "AvatarUX - Lolli Pop.webp",
+      "game_url": "https://stake.com/casino/games/avatarux-lolli-pop",
+      "extracted_at": "2025-08-06T00:54:24.855887"
+    },
+    {
+      "game_id": "avatarux-papaya-pop",
+      "title": "Papaya Pop",
+      "slug": "avatarux-papaya-pop",
+      "provider": "AvatarUX",
+      "thumbnail_url": "https://mediumrare.imgix.net/aabb1b27d68fe2d9a9318c01cd4a2f5d520d36ccf1a6be1ec0c4ad9ce100be0c",
+      "expected_filename": "AvatarUX - Papaya Pop.webp",
+      "game_url": "https://stake.com/casino/games/avatarux-papaya-pop",
+      "extracted_at": "2025-08-06T00:54:24.855887"
+    },
+    {
+      "game_id": "avatarux-imperial-coins",
+      "title": "Imperial Coins",
+      "slug": "avatarux-imperial-coins",
+      "provider": "AvatarUX",
+      "thumbnail_url": "https://mediumrare.imgix.net/e9af34162187ed6b3c023eaa6348a297d171ce7b08dd067c356955ca964715fa",
+      "expected_filename": "AvatarUX - Imperial Coins.webp",
+      "game_url": "https://stake.com/casino/games/avatarux-imperial-coins",
+      "extracted_at": "2025-08-06T00:54:24.855887"
+    },
+    {
+      "game_id": "avatarux-witchy-poppins",
+      "title": "Witchy POPpins",
+      "slug": "avatarux-witchy-poppins",
+      "provider": "AvatarUX",
+      "thumbnail_url": "https://mediumrare.imgix.net/5e1cd78c3a9c69ddd89db8994da5a8836810a8efc71e6b89725ddf437e85d75b",
+      "expected_filename": "AvatarUX - Witchy POPpins.webp",
+      "game_url": "https://stake.com/casino/games/avatarux-witchy-poppins",
+      "extracted_at": "2025-08-06T00:54:24.855887"
+    },
+    {
+      "game_id": "avatarux-pixel-paws",
+      "title": "Pixel Paws",
+      "slug": "avatarux-pixel-paws",
+      "provider": "AvatarUX",
+      "thumbnail_url": "https://mediumrare.imgix.net/bd10fbad061de37fca869c692164e22d20ff5d47b858cb51f9f89762792727e9",
+      "expected_filename": "AvatarUX - Pixel Paws.webp",
+      "game_url": "https://stake.com/casino/games/avatarux-pixel-paws",
+      "extracted_at": "2025-08-06T00:54:24.855887"
+    },
+    {
+      "game_id": "avatarux-jungle-pop",
+      "title": "Jungle Pop",
+      "slug": "avatarux-jungle-pop",
+      "provider": "AvatarUX",
+      "thumbnail_url": "https://mediumrare.imgix.net/7cf282bfdc477b2a979d03f7fd5f379ebd226a99f75e221329cfc4aa91e30970",
+      "expected_filename": "AvatarUX - Jungle Pop.webp",
+      "game_url": "https://stake.com/casino/games/avatarux-jungle-pop",
+      "extracted_at": "2025-08-06T00:54:24.855887"
+    },
+    {
+      "id": "13384b25-1cd8-401b-b3fc-f39ae9b1ffd4",
+      "name": "Gods Gone Wild",
+      "slug": "avatarux-gods-gone-wild",
+      "thumbnailUrl": "https://mediumrare.imgix.net/253f2b4f9226999ef45dabb3aeceb647288b4b4bfe0d083badbb4a0406707cbf",
+      "thumbnailBlurHash": "eOR9:AkQorWVNELQf4cVWES1;li{X3aMnny=bEZhafrxzWa{buWoWr",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "e930f8df-98cc-4c82-9c15-bb29943ffb05",
+      "name": "HipHopPop",
+      "slug": "avatarux-hip-hop-pop",
+      "thumbnailUrl": "https://mediumrare.imgix.net/b105bbb9b82e1fe7fd8b0dcef14340c73788001467822b2642f3abaaf09c05b4",
+      "thumbnailBlurHash": "egOANVsqw8jDn$ARsDktnhsn+Vw|WIr=Sxt,s.a2WUNZMfS4%0S2bD",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "12bd0268-4ed3-4daa-bd8a-fca1f876bc03",
+      "name": "Pop Rocks",
+      "slug": "avatarux-pop-rocks",
+      "thumbnailUrl": "https://mediumrare.imgix.net/320380c178bc84db6384e8d46033772bbd3ff962a47cbd8c4fa619c4bc865e07",
+      "thumbnailBlurHash": "eUE=J?s:AEj=NH+7ozo$jYaOt,bvoLaeR6.TX8InafR6B4Rjnnofr@",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "5520610e-7ea0-4497-94db-d7255c088983",
+      "name": "Worms of Valor",
+      "slug": "avatarux-worms-of-valor",
+      "thumbnailUrl": "https://mediumrare.imgix.net/fb992c171d7ea1b11f17781440601437bd86e5eea950ff0d7d0fd25413616921",
+      "thumbnailBlurHash": "ecOKimW+9bt9NH2wawS%f-XSv;az$la$t6lmbFv#oMjEZjoMjaaxXR",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "a45389c4-5ce5-427b-a04f-7d8e1ae2e831",
+      "name": "Donkey and The GOATS",
+      "slug": "avatarux-donkey-and-the-goats",
+      "thumbnailUrl": "https://mediumrare.imgix.net/51542f59f70bbc7a7ad0e10d1f14557790db139b25424c0aa5b64b22ed617705",
+      "thumbnailBlurHash": "eSOLr}kr^KRPi]8nTJ%KnOaJ_$oeJBxGMzcC$eZ$T0Mz8^skrXShOG",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "05c4587c-ddc0-49f5-8122-c29106a222e2",
+      "name": "JinglePop",
+      "slug": "avatarux-jingle-pop",
+      "thumbnailUrl": "https://mediumrare.imgix.net/8fb0a608b2ea1df5b806afa0cbca89de17aba9996887aef2fb08bc8ace7a0411",
+      "thumbnailBlurHash": "ejI=u-kX14oLNL-LW;O?n%ay11Rjx@jFxVOajZWVaes9I.sVxWjsaf",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "d3e70efe-c686-4918-98ab-5af25689198e",
+      "name": "Juicy Pop",
+      "slug": "avatarux-juicy-pop",
+      "thumbnailUrl": "https://mediumrare.imgix.net/a3da6e55514997905ebdbf1697fc0d8d67e8d62ec0163e2645a0028ae8dff603",
+      "thumbnailBlurHash": "ehO+@yspz;Swoc1HsBbdSxay#8WCNeoeShpIR+i^s.oLMebFpHbHsT",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "04b22f62-3e7d-46bd-9905-539f323082b1",
+      "name": "PopNoir",
+      "slug": "avatarux-popnoir",
+      "thumbnailUrl": "https://mediumrare.imgix.net/c27a3844ab202024188520f2caee8327ba004c25219db8be1a679b56d52b759f",
+      "thumbnailBlurHash": "eZKmh1xtn2oHxU0zkC-.WAxu#5NHx]f,W=.8WBWAxtM{Mds.X9oJoz",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "1d47c741-dd11-4224-8007-52d4fd6c0968",
+      "name": "80sPOP",
+      "slug": "avatarux-80spop",
+      "thumbnailUrl": "https://mediumrare.imgix.net/36e2807615f84a5f869ee7777b2dac16f85ffbca31806f21819adc2297f02f42",
+      "thumbnailBlurHash": "ejIqmJs:m;NaVtqsbbsDRjof5rS$owjFbb={ahfOoyNHiynPoMbbf4",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "45d2f034-7aa8-4bf2-9037-4849654cef90",
+      "name": "Kokeshi Pop",
+      "slug": "avatarux-kokeshi-pop",
+      "thumbnailUrl": "https://mediumrare.imgix.net/6288777b57d41627d698e582d61a0939d230d8fc029ec9a9a716f20121ad149a",
+      "thumbnailBlurHash": "eTGmi?IcOZo_t2?%NM%JbqbFF}tNadNuS5.jtKItR-R.E%X4j]WYWX",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "c581e86c-2bcb-414e-80b7-c2abb7379d56",
+      "name": "Depths of Fortune",
+      "slug": "avatarux-depths-of-fortune",
+      "thumbnailUrl": "https://mediumrare.imgix.net/d68c963a6c04cab533a4f6d7148ef7ad5827ee5e38dcf54c6acdccd2c62dde3a",
+      "thumbnailBlurHash": "eQGcC?xZ2SNHExUvbrK#WCj^2*OTxuofv+?vofi{n,Z%D~s:erV[xb",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "2359f4b0-6513-4001-b1b8-60802178d656",
+      "name": "Canyon Riches",
+      "slug": "avatarux-canyon-riches",
+      "thumbnailUrl": "https://mediumrare.imgix.net/e65c2c0b6e6cfcf39e4701c9bba1a7661ef5f8d82c9ff4eafeac55b783ece3f7",
+      "thumbnailBlurHash": "ekIgyMNIMxNIr=#3R+ogR+t7NgkBj]s.S5?Es.V@s-RjE4s.kWoLt7",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "e1f55256-e20b-4cb1-a610-4016d7d96726",
+      "name": "Toad's Bounty",
+      "slug": "avatarux-toads-bounty",
+      "thumbnailUrl": "https://mediumrare.imgix.net/6f04bdb9094953be8b878ed293b3081f4cc1081f6689fabb1c2f065a6eab5736",
+      "thumbnailBlurHash": "eYFQ{ci_JNRjR$MOV?s=aLs:D3adRloJof-sjZM_j?RjF0WU$%bHnm",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "77fe193e-0ec4-41ed-9e59-8942c61ab729",
+      "name": "HelioPOPolis",
+      "slug": "avatarux-heliopopolis",
+      "thumbnailUrl": "https://mediumrare.imgix.net/574473f55c5f6d4a09afe4738fb4975cc5499a3596133806f7a191e487e45abd",
+      "thumbnailBlurHash": "ebMaOms*%YW@tQ3?sktjofXT%EniNKsSNd%#WGN0RjaKQ+W=a*RjxF",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "f8533e7f-baf2-4289-8f34-8d5bd81891d9",
+      "name": "Beastly Burglars",
+      "slug": "avatarux-beastly-burglars",
+      "thumbnailUrl": "https://mediumrare.imgix.net/c090cf654b43ae943e2e114ad2fb510111ee12d7038a430f7134e85f161848b4",
+      "thumbnailBlurHash": "edJQ.fozM0IoM{_+baw0R*ofxoWVoexFkW=}jvIoniX6IAbFbvW;xu",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "5f0c2dd7-620c-47d3-b76b-f608736783f8",
+      "name": "Raging Pop",
+      "slug": "avatarux-raging-pop",
+      "thumbnailUrl": "https://mediumrare.imgix.net/f59bbdfb7b02edd18555367a8cac99dad75f80cca5b88fcbfc4cddc533e1130f",
+      "thumbnailBlurHash": "eQQG8|t5D?OsI]XFR.o*oyW?:lNN#mxTxa%~jeR4n|nNvOn#XjNeWA",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "534f9866-1836-4517-8d2b-a7e254b7559b",
+      "name": "PixiePop ",
+      "slug": "avatarux-pixiepop",
+      "thumbnailUrl": "https://mediumrare.imgix.net/83af1656278708c3ada97514e9372c4da22a32357878d1d1ddfa797049ef61e4",
+      "thumbnailBlurHash": "eXR9:TjYVHbIV@y:aeo|ayjF%2i{ocj?ogy?j[VZozkC,.kVkVofX8",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "3272adae-ea93-4279-a1dd-c07514ce2bd0",
+      "name": "King of Samba",
+      "slug": "avatarux-king-of-samba",
+      "thumbnailUrl": "https://mediumrare.imgix.net/18b195dd297bb6967d8cedbd127002e98cf9da342e35b0e76b69191a3a64a344",
+      "thumbnailBlurHash": "eWKw*aW@yExGtPpjjY%foMx;0GobMdR.ob-.ozMeRlN2IdWVyCWAbI",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "a8a7c2ed-ef8f-433d-ba7f-e8609740a612",
+      "name": "Kitty POPpins ",
+      "slug": "avatarux-kitty-poppins",
+      "thumbnailUrl": "https://mediumrare.imgix.net/4c6872776fcffa45d4ddaf16c076c5f4b8d54285afdf9780b1f957108e77028e",
+      "thumbnailBlurHash": "elLyXUofrioMry-ufls=fks:-EWXX1a}Sb?Ek9RjjaRkIBoJt7a{kC",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "539ab0ab-b63e-49e4-93ce-df293690a4bf",
+      "name": "GemPops",
+      "slug": "avatarux-gempops",
+      "thumbnailUrl": "https://mediumrare.imgix.net/5ddde05846f9af1ecdf0cd6abb30b50f202d3c8589c8cd05c67d33c98467cbcd",
+      "thumbnailBlurHash": "eTN@{8$%R5IpRO0fr?tRNGbcq@e:xaWBt7hKoyVsa#r=m+WUOYj]of",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "7dce56c7-acd3-4e1c-a5c3-775bc01caa10",
+      "name": "Majestic Meow",
+      "slug": "avatarux-majestic-meow",
+      "thumbnailUrl": "https://mediumrare.imgix.net/0122eda441004b0d872dc687bcebd56e7f6b0954b1ece29ffc0047b790beaebe",
+      "thumbnailBlurHash": "eUNaxp%1m8IorZ2bW.S5WCkD+4WBSzxat7PWWDr=oxRQ8|RkyCowS$",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "531ffa59-8358-48ed-9311-03aca32574f5",
+      "name": "Tik Talkers",
+      "slug": "avatarux-tik-talkers",
+      "thumbnailUrl": "https://mediumrare.imgix.net/fda161d747259109c444b30ba68b7eb7751e3b5456c550ab3445c809ea56398b",
+      "thumbnailBlurHash": "eaL2+VXA$.W@%N+qSc-qRit6m#NGi^RjIU-UNHIUxuI:H^oftNt6tQ",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    }
+  ]
+}

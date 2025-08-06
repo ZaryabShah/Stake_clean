@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-08-06T05:38:20.374Z",
+  "provider_slug": "game-art",
+  "provider_name": "Game Art",
+  "status": "completed",
+  "total_games": 98,
+  "games_fetched": 98,
+  "is_complete": true,
+  "needs_pagination": false,
+  "output_dir": "stake_thumbnails\\Game_Art",
+  "games_data_file": "stake_thumbnails\\Game_Art\\initial_games.json",
+  "source": "parallel_graphql_fetch"
+}

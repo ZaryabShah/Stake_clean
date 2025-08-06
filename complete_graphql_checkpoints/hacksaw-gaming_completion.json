@@ -1,0 +1,11 @@
+{
+  "provider_name": "Hacksaw Gaming",
+  "provider_slug": "hacksaw-gaming",
+  "completion_status": "completed",
+  "games_to_fetch": 141,
+  "batches_needed": 4,
+  "simulation_mode": true,
+  "completion_timestamp": "2025-08-06T05:21:04.358810",
+  "last_updated": "2025-08-06T05:21:04.358810",
+  "checkpoint_type": "complete_graphql"
+}

@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-08-06T19:02:03.755Z",
+  "provider_slug": "red-tiger",
+  "provider_name": "Red Tiger",
+  "status": "in_progress",
+  "total_games": 110,
+  "games_fetched": 77,
+  "is_complete": false,
+  "needs_pagination": true,
+  "output_dir": "stake_thumbnails\\Red_Tiger",
+  "games_data_file": "stake_thumbnails\\Red_Tiger\\initial_games.json",
+  "source": "parallel_graphql_fetch",
+  "completed_offsets": [
+    0,
+    39
+  ],
+  "failed_offsets": [
+    78
+  ],
+  "retry_counts": {
+    "78": 4
+  },
+  "last_successful_offset": 39
+}

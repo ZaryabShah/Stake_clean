@@ -1,0 +1,748 @@
+{
+  "timestamp": "2025-08-06T04:19:32.335Z",
+  "provider": {
+    "id": "gamomat",
+    "name": "Gamomat",
+    "slug": "gamomat"
+  },
+  "summary": {
+    "totalGames": 70,
+    "fetchedGames": 70,
+    "remainingGames": 0,
+    "isComplete": true,
+    "currentOffset": 70
+  },
+  "games": [
+    {
+      "game_id": "gamomat-diamond-desire-flame",
+      "title": "Diamond Desire Flame",
+      "slug": "gamomat-diamond-desire-flame",
+      "provider": "Gamomat",
+      "thumbnail_url": "https://mediumrare.imgix.net/5c0d6b1f49553fa459f89483c147aeacd47ca167d8798b35adcf8b0e3be4b02c",
+      "expected_filename": "Gamomat - Diamond Desire Flame.webp",
+      "game_url": "https://stake.com/casino/games/gamomat-diamond-desire-flame",
+      "extracted_at": "2025-08-06T00:59:26.385763"
+    },
+    {
+      "game_id": "gamomat-mega-mystery-mine",
+      "title": "Mega Mystery Mine",
+      "slug": "gamomat-mega-mystery-mine",
+      "provider": "Gamomat",
+      "thumbnail_url": "https://mediumrare.imgix.net/fcd63d82e99c09a16e15092160a1166889f774ff78a3294deca669fdc64bd811",
+      "expected_filename": "Gamomat - Mega Mystery Mine.webp",
+      "game_url": "https://stake.com/casino/games/gamomat-mega-mystery-mine",
+      "extracted_at": "2025-08-06T00:59:26.385763"
+    },
+    {
+      "game_id": "gamomat-side-strike",
+      "title": "Side Strike",
+      "slug": "gamomat-side-strike",
+      "provider": "Gamomat",
+      "thumbnail_url": "https://mediumrare.imgix.net/ef98205d755977757a569426036e0141df6eaa7d422fccaa41251e75c3cb05a3",
+      "expected_filename": "Gamomat - Side Strike.webp",
+      "game_url": "https://stake.com/casino/games/gamomat-side-strike",
+      "extracted_at": "2025-08-06T00:59:26.385763"
+    },
+    {
+      "game_id": "gamomat-ramses-book",
+      "title": "Ramses book",
+      "slug": "gamomat-ramses-book",
+      "provider": "Gamomat",
+      "thumbnail_url": "https://mediumrare.imgix.net/9779c8d90581ed605f7a62eda72d3bbb33a0c4c8f72ea24bcba261cb90c0e937",
+      "expected_filename": "Gamomat - Ramses book.webp",
+      "game_url": "https://stake.com/casino/games/gamomat-ramses-book",
+      "extracted_at": "2025-08-06T00:59:26.385763"
+    },
+    {
+      "game_id": "gamomat-roman-legion",
+      "title": "Roman Legion",
+      "slug": "gamomat-roman-legion",
+      "provider": "Gamomat",
+      "thumbnail_url": "https://mediumrare.imgix.net/2768acae22921f3271ddcad51a480002556180290180e7553accff36ca2262e5",
+      "expected_filename": "Gamomat - Roman Legion.webp",
+      "game_url": "https://stake.com/casino/games/gamomat-roman-legion",
+      "extracted_at": "2025-08-06T00:59:26.385763"
+    },
+    {
+      "game_id": "gamomat-crystal-ball",
+      "title": "Crystal Ball",
+      "slug": "gamomat-crystal-ball",
+      "provider": "Gamomat",
+      "thumbnail_url": "https://mediumrare.imgix.net/485b3139e53360d65f5ccb4e37ae4810f73d48bf4e67cf4f1887800d447da260",
+      "expected_filename": "Gamomat - Crystal Ball.webp",
+      "game_url": "https://stake.com/casino/games/gamomat-crystal-ball",
+      "extracted_at": "2025-08-06T00:59:26.385763"
+    },
+    {
+      "game_id": "gamomat-crystal-ball-multi-symbols",
+      "title": "Crystal Ball Multi Symbols",
+      "slug": "gamomat-crystal-ball-multi-symbols",
+      "provider": "Gamomat",
+      "thumbnail_url": "https://mediumrare.imgix.net/e714bfa770f63ba9d41d9f3da6f921b9aa54a4063e43fafd592ecaa0a250e804",
+      "expected_filename": "Gamomat - Crystal Ball Multi Symbols.webp",
+      "game_url": "https://stake.com/casino/games/gamomat-crystal-ball-multi-symbols",
+      "extracted_at": "2025-08-06T00:59:26.385763"
+    },
+    {
+      "game_id": "gamomat-books-bulls",
+      "title": "Books & Bulls",
+      "slug": "gamomat-books-bulls",
+      "provider": "Gamomat",
+      "thumbnail_url": "https://mediumrare.imgix.net/7da79bf9d236b22c81226605e3337455b4129bf44768a98e9fd08d9006e47567",
+      "expected_filename": "Gamomat - Books & Bulls.webp",
+      "game_url": "https://stake.com/casino/games/gamomat-books-bulls",
+      "extracted_at": "2025-08-06T00:59:26.385763"
+    },
+    {
+      "game_id": "gamomat-sticky-diamonds",
+      "title": "Sticky Diamonds",
+      "slug": "gamomat-sticky-diamonds",
+      "provider": "Gamomat",
+      "thumbnail_url": "https://mediumrare.imgix.net/dba3d2d36e34019ed8e8165ec9e2281947cc3d433d42486f8f23507b54014dea",
+      "expected_filename": "Gamomat - Sticky Diamonds.webp",
+      "game_url": "https://stake.com/casino/games/gamomat-sticky-diamonds",
+      "extracted_at": "2025-08-06T00:59:26.385763"
+    },
+    {
+      "game_id": "gamomat-la-dolce-vita",
+      "title": "La Dolce Vita",
+      "slug": "gamomat-la-dolce-vita",
+      "provider": "Gamomat",
+      "thumbnail_url": "https://mediumrare.imgix.net/7bb727d5374738d3cbfcf3266899582b64e542b4d7ef7dea82406e77c2114399",
+      "expected_filename": "Gamomat - La Dolce Vita.webp",
+      "game_url": "https://stake.com/casino/games/gamomat-la-dolce-vita",
+      "extracted_at": "2025-08-06T00:59:26.385763"
+    },
+    {
+      "game_id": "gamomat-roman-legion-deluxe",
+      "title": "Roman Legion Deluxe",
+      "slug": "gamomat-roman-legion-deluxe",
+      "provider": "Gamomat",
+      "thumbnail_url": "https://mediumrare.imgix.net/22247e25396f5a7c926847e0520a682646683780490c0ead0536a37561301edd",
+      "expected_filename": "Gamomat - Roman Legion Deluxe.webp",
+      "game_url": "https://stake.com/casino/games/gamomat-roman-legion-deluxe",
+      "extracted_at": "2025-08-06T00:59:26.385763"
+    },
+    {
+      "game_id": "gamomat-lava-lions",
+      "title": "Lava Lions",
+      "slug": "gamomat-lava-lions",
+      "provider": "Gamomat",
+      "thumbnail_url": "https://mediumrare.imgix.net/24c9f62bc0ee252b9a42e17717cb0162145cdd06329c0524f1082cb3d866f949",
+      "expected_filename": "Gamomat - Lava Lions.webp",
+      "game_url": "https://stake.com/casino/games/gamomat-lava-lions",
+      "extracted_at": "2025-08-06T00:59:26.385763"
+    },
+    {
+      "game_id": "gamomat-the-book-beyond",
+      "title": "The Book Beyond",
+      "slug": "gamomat-the-book-beyond",
+      "provider": "Gamomat",
+      "thumbnail_url": "https://mediumrare.imgix.net/6fcf3b6c94a6161ad67f9aa7717a8520588fb6401c31404493b1079f6aa7eb69",
+      "expected_filename": "Gamomat - The Book Beyond.webp",
+      "game_url": "https://stake.com/casino/games/gamomat-the-book-beyond",
+      "extracted_at": "2025-08-06T00:59:26.385763"
+    },
+    {
+      "game_id": "gamomat-great-warrior",
+      "title": "Great Warrior",
+      "slug": "gamomat-great-warrior",
+      "provider": "Gamomat",
+      "thumbnail_url": "https://mediumrare.imgix.net/095bfd37e51d30d30eb17a927e82c9a213b50f02cabfb4817c02e16b00cb7524",
+      "expected_filename": "Gamomat - Great Warrior.webp",
+      "game_url": "https://stake.com/casino/games/gamomat-great-warrior",
+      "extracted_at": "2025-08-06T00:59:26.385763"
+    },
+    {
+      "game_id": "gamomat-maaax-diamonds",
+      "title": "Maaax Diamonds",
+      "slug": "gamomat-maaax-diamonds",
+      "provider": "Gamomat",
+      "thumbnail_url": "https://mediumrare.imgix.net/6c8318f30a7d3bfd3befea5f4994931a5dafad1d3eec2a461e4fce96ca0e048e",
+      "expected_filename": "Gamomat - Maaax Diamonds.webp",
+      "game_url": "https://stake.com/casino/games/gamomat-maaax-diamonds",
+      "extracted_at": "2025-08-06T00:59:26.385763"
+    },
+    {
+      "game_id": "gamomat-tower-of-power",
+      "title": "Tower of Power",
+      "slug": "gamomat-tower-of-power",
+      "provider": "Gamomat",
+      "thumbnail_url": "https://mediumrare.imgix.net/ac590fab8c36750daf311268956af5c4d23cf6f9860398a0eb6ac89ca8e38e04",
+      "expected_filename": "Gamomat - Tower of Power.webp",
+      "game_url": "https://stake.com/casino/games/gamomat-tower-of-power",
+      "extracted_at": "2025-08-06T00:59:26.385763"
+    },
+    {
+      "game_id": "gamomat-win-shooter",
+      "title": "Win Shooter",
+      "slug": "gamomat-win-shooter",
+      "provider": "Gamomat",
+      "thumbnail_url": "https://mediumrare.imgix.net/421d20a5e0c9b19fab0bf68e317a6be01a39853522b73e877a957e5d14eb65f8",
+      "expected_filename": "Gamomat - Win Shooter.webp",
+      "game_url": "https://stake.com/casino/games/gamomat-win-shooter",
+      "extracted_at": "2025-08-06T00:59:26.385763"
+    },
+    {
+      "game_id": "gamomat-book-of-ages",
+      "title": "Book of Ages",
+      "slug": "gamomat-book-of-ages",
+      "provider": "Gamomat",
+      "thumbnail_url": "https://mediumrare.imgix.net/31cd8787a6b41b9c78b2192b554e2b7910ffc801cace7e788d4d9787e9fa6571",
+      "expected_filename": "Gamomat - Book of Ages.webp",
+      "game_url": "https://stake.com/casino/games/gamomat-book-of-ages",
+      "extracted_at": "2025-08-06T00:59:26.385763"
+    },
+    {
+      "game_id": "gamomat-books-temples",
+      "title": "Books & Temples",
+      "slug": "gamomat-books-temples",
+      "provider": "Gamomat",
+      "thumbnail_url": "https://mediumrare.imgix.net/e02ff8a8e2334e51de70960912528985c777da7813e53c38422979dfdc12f5cf",
+      "expected_filename": "Gamomat - Books & Temples.webp",
+      "game_url": "https://stake.com/casino/games/gamomat-books-temples",
+      "extracted_at": "2025-08-06T00:59:26.385763"
+    },
+    {
+      "game_id": "gamomat-ancient-magic",
+      "title": "Ancient Magic",
+      "slug": "gamomat-ancient-magic",
+      "provider": "Gamomat",
+      "thumbnail_url": "https://mediumrare.imgix.net/8455277db464788863f90798aa9d8a27895dc0b6c6403411e1c63edb31b2a02a",
+      "expected_filename": "Gamomat - Ancient Magic.webp",
+      "game_url": "https://stake.com/casino/games/gamomat-ancient-magic",
+      "extracted_at": "2025-08-06T00:59:26.385763"
+    },
+    {
+      "game_id": "gamomat-explodiac",
+      "title": "Explodiac",
+      "slug": "gamomat-explodiac",
+      "provider": "Gamomat",
+      "thumbnail_url": "https://mediumrare.imgix.net/83db3e43c63060a4e8a6f3c16f1adc5b3d72b2f0966b747c0fa5a0025a446343",
+      "expected_filename": "Gamomat - Explodiac.webp",
+      "game_url": "https://stake.com/casino/games/gamomat-explodiac",
+      "extracted_at": "2025-08-06T00:59:26.385763"
+    },
+    {
+      "game_id": "gamomat-fort-brave",
+      "title": "Fort Brave",
+      "slug": "gamomat-fort-brave",
+      "provider": "Gamomat",
+      "thumbnail_url": "https://mediumrare.imgix.net/67ac77a9b81ab5fa4352ea8549a52f564cd1b236060e3f9a84e34f2e0db9896c",
+      "expected_filename": "Gamomat - Fort Brave.webp",
+      "game_url": "https://stake.com/casino/games/gamomat-fort-brave",
+      "extracted_at": "2025-08-06T00:59:26.385763"
+    },
+    {
+      "game_id": "gamomat-royal-seven-xxl-flaming-link",
+      "title": "Royal Seven XXL Flaming Link",
+      "slug": "gamomat-royal-seven-xxl-flaming-link",
+      "provider": "Gamomat",
+      "thumbnail_url": "https://mediumrare.imgix.net/ee55eb300ace51b0fc67f46bcf4be19abadee09245937bd7381b535f4f04b687",
+      "expected_filename": "Gamomat - Royal Seven XXL Flaming Link.webp",
+      "game_url": "https://stake.com/casino/games/gamomat-royal-seven-xxl-flaming-link",
+      "extracted_at": "2025-08-06T00:59:26.385763"
+    },
+    {
+      "game_id": "gamomat-books-and-pearls",
+      "title": "Books and Pearls",
+      "slug": "gamomat-books-and-pearls",
+      "provider": "Gamomat",
+      "thumbnail_url": "https://mediumrare.imgix.net/4e56c71a615b04050b974761ae9102cfb53a9b98b7e9365a3fa65914ddc73182",
+      "expected_filename": "Gamomat - Books and Pearls.webp",
+      "game_url": "https://stake.com/casino/games/gamomat-books-and-pearls",
+      "extracted_at": "2025-08-06T00:59:26.385763"
+    },
+    {
+      "game_id": "gamomat-disc-of-athena",
+      "title": "Disc of Athena",
+      "slug": "gamomat-disc-of-athena",
+      "provider": "Gamomat",
+      "thumbnail_url": "https://mediumrare.imgix.net/9d74ef752487eb75cf2ab7a159fadc2c6fad11cacc88b2aa2abf24c18d8d88d8",
+      "expected_filename": "Gamomat - Disc of Athena.webp",
+      "game_url": "https://stake.com/casino/games/gamomat-disc-of-athena",
+      "extracted_at": "2025-08-06T00:59:26.385763"
+    },
+    {
+      "game_id": "gamomat-shoguns-secret",
+      "title": "Shoguns Secret",
+      "slug": "gamomat-shoguns-secret",
+      "provider": "Gamomat",
+      "thumbnail_url": "https://mediumrare.imgix.net/505ea2caa61ad357680fbd24c06c65c8956c1146cebfab6807c739390614a49d",
+      "expected_filename": "Gamomat - Shoguns Secret.webp",
+      "game_url": "https://stake.com/casino/games/gamomat-shoguns-secret",
+      "extracted_at": "2025-08-06T00:59:26.385763"
+    },
+    {
+      "game_id": "gamomat-western-jack",
+      "title": "Western Jack",
+      "slug": "gamomat-western-jack",
+      "provider": "Gamomat",
+      "thumbnail_url": "https://mediumrare.imgix.net/e30fe3641b3a4b92366d99afe2289051cfe94799b8c727e3c5b18e69f7a1db31",
+      "expected_filename": "Gamomat - Western Jack.webp",
+      "game_url": "https://stake.com/casino/games/gamomat-western-jack",
+      "extracted_at": "2025-08-06T00:59:26.385763"
+    },
+    {
+      "game_id": "gamomat-monkey-mania",
+      "title": "Monkey Mania",
+      "slug": "gamomat-monkey-mania",
+      "provider": "Gamomat",
+      "thumbnail_url": "https://mediumrare.imgix.net/24e678f2bcc0d56a7aadeead8bde6be9c0139390b79226adb4f7736784757a9d",
+      "expected_filename": "Gamomat - Monkey Mania.webp",
+      "game_url": "https://stake.com/casino/games/gamomat-monkey-mania",
+      "extracted_at": "2025-08-06T00:59:26.385763"
+    },
+    {
+      "game_id": "gamomat-la-dolce-vita-deluxe",
+      "title": "La Dolce Vita Deluxe",
+      "slug": "gamomat-la-dolce-vita-deluxe",
+      "provider": "Gamomat",
+      "thumbnail_url": "https://mediumrare.imgix.net/9949088155ef3e0079b041aa2b3bf33c53438b92796514c8d6b8352c126ac37d",
+      "expected_filename": "Gamomat - La Dolce Vita Deluxe.webp",
+      "game_url": "https://stake.com/casino/games/gamomat-la-dolce-vita-deluxe",
+      "extracted_at": "2025-08-06T00:59:26.385763"
+    },
+    {
+      "game_id": "gamomat-pharaos-riches",
+      "title": "Pharao's Riches",
+      "slug": "gamomat-pharaos-riches",
+      "provider": "Gamomat",
+      "thumbnail_url": "https://mediumrare.imgix.net/43d2b6d03f8cbfc5283359e248e00b10d57307bef61ad4a3f665ab6e5fb03e54",
+      "expected_filename": "Gamomat - Pharao's Riches.webp",
+      "game_url": "https://stake.com/casino/games/gamomat-pharaos-riches",
+      "extracted_at": "2025-08-06T00:59:26.385763"
+    },
+    {
+      "game_id": "gamomat-savanna-moon",
+      "title": "Savanna Moon",
+      "slug": "gamomat-savanna-moon",
+      "provider": "Gamomat",
+      "thumbnail_url": "https://mediumrare.imgix.net/0ab5667b4f7b06a58794b08734e40caee91d8b582ccb3baa38de7838b782292f",
+      "expected_filename": "Gamomat - Savanna Moon.webp",
+      "game_url": "https://stake.com/casino/games/gamomat-savanna-moon",
+      "extracted_at": "2025-08-06T00:59:26.385763"
+    },
+    {
+      "game_id": "gamomat-crystal-ball-deluxe",
+      "title": "Crystal Ball Deluxe",
+      "slug": "gamomat-crystal-ball-deluxe",
+      "provider": "Gamomat",
+      "thumbnail_url": "https://mediumrare.imgix.net/7052862ba7b2241a13a1872ab6f723dcd789a0a4bbe83006a753b83180900d90",
+      "expected_filename": "Gamomat - Crystal Ball Deluxe.webp",
+      "game_url": "https://stake.com/casino/games/gamomat-crystal-ball-deluxe",
+      "extracted_at": "2025-08-06T00:59:26.385763"
+    },
+    {
+      "game_id": "gamomat-ramses-book-flaming-link",
+      "title": "Ramses Book Flaming Link",
+      "slug": "gamomat-ramses-book-flaming-link",
+      "provider": "Gamomat",
+      "thumbnail_url": "https://mediumrare.imgix.net/cb4f93cf58bdc89ee7ef08c3bb6f41c55e03b3f1c2113bb8d45adedeff9fb1f6",
+      "expected_filename": "Gamomat - Ramses Book Flaming Link.webp",
+      "game_url": "https://stake.com/casino/games/gamomat-ramses-book-flaming-link",
+      "extracted_at": "2025-08-06T00:59:26.385763"
+    },
+    {
+      "game_id": "gamomat-take-5",
+      "title": "Take 5",
+      "slug": "gamomat-take-5",
+      "provider": "Gamomat",
+      "thumbnail_url": "https://mediumrare.imgix.net/4c9635b22db05a71096b23f9d20f05c52921fb22f42af834aad63e7d08735c9c",
+      "expected_filename": "Gamomat - Take 5.webp",
+      "game_url": "https://stake.com/casino/games/gamomat-take-5",
+      "extracted_at": "2025-08-06T00:59:26.385763"
+    },
+    {
+      "game_id": "gamomat-king-of-the-jungle",
+      "title": "King of the Jungle",
+      "slug": "gamomat-king-of-the-jungle",
+      "provider": "Gamomat",
+      "thumbnail_url": "https://mediumrare.imgix.net/4556c8dfab4e20f3839412703bec0aa3e13a2d357c7fa8ce6610d5e0014d0ee5",
+      "expected_filename": "Gamomat - King of the Jungle.webp",
+      "game_url": "https://stake.com/casino/games/gamomat-king-of-the-jungle",
+      "extracted_at": "2025-08-06T00:59:26.385763"
+    },
+    {
+      "game_id": "gamomat-book-of-romeo-and-julia",
+      "title": "Book of Romeo and Julia",
+      "slug": "gamomat-book-of-romeo-and-julia",
+      "provider": "Gamomat",
+      "thumbnail_url": "https://mediumrare.imgix.net/aa1e99211aba450118d7e3d8309d813fa2f9b85b7fbcd6ca8afb444b5475fa6d",
+      "expected_filename": "Gamomat - Book of Romeo and Julia.webp",
+      "game_url": "https://stake.com/casino/games/gamomat-book-of-romeo-and-julia",
+      "extracted_at": "2025-08-06T00:59:26.385763"
+    },
+    {
+      "game_id": "gamomat-royal-seven-xxl",
+      "title": "Royal Seven XXL",
+      "slug": "gamomat-royal-seven-xxl",
+      "provider": "Gamomat",
+      "thumbnail_url": "https://mediumrare.imgix.net/ddd797eaca82b99c6b6462bfe804621bf945fdf9078a49298fb3cfba44032a23",
+      "expected_filename": "Gamomat - Royal Seven XXL.webp",
+      "game_url": "https://stake.com/casino/games/gamomat-royal-seven-xxl",
+      "extracted_at": "2025-08-06T00:59:26.385763"
+    },
+    {
+      "game_id": "gamomat-the-book-beyond-2",
+      "title": "The Book Beyond 2",
+      "slug": "gamomat-the-book-beyond-2",
+      "provider": "Gamomat",
+      "thumbnail_url": "https://mediumrare.imgix.net/b44c80a71355e8f17b04cce28f059b752e6e3a324522b33d311f1530dcafdf7e",
+      "expected_filename": "Gamomat - The Book Beyond 2.webp",
+      "game_url": "https://stake.com/casino/games/gamomat-the-book-beyond-2",
+      "extracted_at": "2025-08-06T00:59:26.385763"
+    },
+    {
+      "game_id": "gamomat-100-flaring-fruits",
+      "title": "100 Flaring Fruits",
+      "slug": "gamomat-100-flaring-fruits",
+      "provider": "Gamomat",
+      "thumbnail_url": "https://mediumrare.imgix.net/25399f478ba8a75296bb7748bc756e081ae1e73789fb154d8861db19498a0980",
+      "expected_filename": "Gamomat - 100 Flaring Fruits.webp",
+      "game_url": "https://stake.com/casino/games/gamomat-100-flaring-fruits",
+      "extracted_at": "2025-08-06T00:59:26.385763"
+    },
+    {
+      "id": "0d318e00-123a-4426-a1b5-1ae2e31a28fa",
+      "name": "Ramses Book Deluxe",
+      "slug": "gamomat-ramses-book-deluxe",
+      "thumbnailUrl": "https://mediumrare.imgix.net/8b77d18a0baa4161c7d6d1a3e2ffd60cafdc311bd440fe96ee4ec04d8b7466d6",
+      "thumbnailBlurHash": "eiNk3Do2vfso$y1aa{tQfksmiKjsbuWXW?u3fQivWXR-jDf6tQWqR-",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "3286f8ed-f839-49db-85a0-e30b7701b986",
+      "name": "Phantom's Mirror",
+      "slug": "gamomat-phantoms-mirror",
+      "thumbnailUrl": "https://mediumrare.imgix.net/d37241b827f5f486254f57eba9e579d104caa1061278ace815bf6408bd32f6ad",
+      "thumbnailBlurHash": "egIg4iofM{WBRj0xa|bbayt7+vWVoLj[ofpwoLV@oLRjH@jZt7bHkC",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "3eeab864-70f1-4c84-89f9-032e8989bbfe",
+      "name": "Book of Juno",
+      "slug": "gamomat-book-of-juno",
+      "thumbnailUrl": "https://mediumrare.imgix.net/89c00701aa40197b7c7e05b1bd91eb33fa36e86472f3b0b433498c56e07022d9",
+      "thumbnailBlurHash": "edO_WnV?rfspn:4|aKo$WCWZ-ispn$NGRjx|s.i{WUVunhadg4odR+",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "1486f4ee-6591-476b-a5ae-c5388f2f8848",
+      "name": "Royal Seven Ultra",
+      "slug": "gamomat-royal-seven-ultra",
+      "thumbnailUrl": "https://mediumrare.imgix.net/5509b72f871aa093ab96276798d2610f8b9732354b2bee6effa4f1fa558941ba",
+      "thumbnailBlurHash": "eSOdg~R9Dlt6R5KDM}Sieobc*~Nb%IVujcGcXQt1N2a1Y-brXmM}o|",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "57558b00-75c4-49fa-bfd8-45a6ba95a7ca",
+      "name": "Land Of Heroes",
+      "slug": "gamomat-land-of-heroes",
+      "thumbnailUrl": "https://mediumrare.imgix.net/5567cad00d856f79a90a881f5d62c088728416b785ad33a08db50b8cbed5ce42",
+      "thumbnailBlurHash": "eJLEiw^+TUIAVDD2%fPUNYv-CDJ59byC#@yqELH?xbog5fIV-VVtXn",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "8ecf8835-f32e-4a55-917d-0571b11d6bdb",
+      "name": "Great Grizzly",
+      "slug": "gamomat-great-grizzly",
+      "thumbnailUrl": "https://mediumrare.imgix.net/6930503e6efe0754bb3c6e870032d0e8b872c0dc0e8b85f2951b18485f633c8d",
+      "thumbnailBlurHash": "eTK9_*9%6UsjJ.P0NLPCxVs.p2$yOat2rrqExoMyWBiw9Hk8%1juw[",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "5b3d376f-dfe5-4a3d-8ef6-67ee842c26d6",
+      "name": "Book of Oasis",
+      "slug": "gamomat-book-of-oasis",
+      "thumbnailUrl": "https://mediumrare.imgix.net/12525977730d766565b02a688333a9e40f94e3dd53b1648d576a06efb4ef6af7",
+      "thumbnailBlurHash": "eVEq?dPV5rslI@RMTKo}w[ozLNb]xss8f6-qt2WAWENH69kAxaW=xZ",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "938bc32b-54ff-4536-bf53-ee4c62490e8c",
+      "name": "Ramses Book Christmas Edition",
+      "slug": "gamomat-ramses-book-christmas-edition",
+      "thumbnailUrl": "https://mediumrare.imgix.net/3a74b5784c9aeb07fa5606f9176e6204d6080254dbb234513d6c5ca135e40918",
+      "thumbnailBlurHash": "eNM=UtkD:+xa;1M^R.bKt6%L{wjIEOWBKP_3xVrWi_9avKoa%1xDo}",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "b9c0c290-97aa-482e-9653-15fbf57d6950",
+      "name": "Wilds Gone Wild",
+      "slug": "gamomat-wilds-gone-wild",
+      "thumbnailUrl": "https://mediumrare.imgix.net/67814539dd962bb9aa5d3f32365e4476c54548a7e8a8d9dbf05dea4863539dce",
+      "thumbnailBlurHash": "eYRU8aoe.Raff4D@kByWWBbuxUjYRjV@kD*JaxMxWnVtv}W-aebbRk",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "f29eb397-e446-4657-8c0b-d451d70113cf",
+      "name": "Black Beauty",
+      "slug": "gamomat-black-beauty",
+      "thumbnailUrl": "https://mediumrare.imgix.net/c1cb846dacb96f6e74a89635346c66e73399cc199302fda57a8cf762b705fd8a",
+      "thumbnailBlurHash": "eMLfs%Vt=:NHRk-Mn4?aWWbxIBbHNLWANI?vS4D%oME04Tj=%3xutQ",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "f5a87d03-03f2-45a4-9f54-4b0e276690ee",
+      "name": "Book of Elements",
+      "slug": "gamomat-book-of-elements",
+      "thumbnailUrl": "https://mediumrare.imgix.net/df8a41a51b8e06310375d627305ae8bfe9c9afc289d0271e94c6a7fab0b7db41",
+      "thumbnailBlurHash": "eTPW:RNG*eEkVs1GkBwKR-kD:+kWNaxCX9*0kDRPnhM{Z3w^o~RkSz",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "23a53869-1c07-4b02-864d-bc9c252309b1",
+      "name": "Fruit Rush",
+      "slug": "gamomat-fruit-rush",
+      "thumbnailUrl": "https://mediumrare.imgix.net/bed662f4a116003c8828bc9b2ece86c9ac1a2f6f5dbbfd81cb9e571d21aead08",
+      "thumbnailBlurHash": "eNNuLZI]MvNH$I8yWYO@j?xa,mI[X9R.OGT}R.icRoNY4:xGxcxVxo",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "eeef0462-8445-4d76-8586-c5ffd2749273",
+      "name": "Wild Rubies",
+      "slug": "gamomat-wild-rubies",
+      "thumbnailUrl": "https://mediumrare.imgix.net/7c1b2208cc27311af9a1a4485fd092f0367156684fb6a7d4f129121e1b259acc",
+      "thumbnailBlurHash": "eTQ~|5j]{oa0IU5gae=|V@NZM]jEXMR*og%~aKMwWWjIzuV@X4ozSv",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "ddf950a3-e600-4454-89e1-4a5b10a17aa2",
+      "name": "Stacks of Jacks",
+      "slug": "gamomat-stacks-of-jacks",
+      "thumbnailUrl": "https://mediumrare.imgix.net/e6de62f55cb7ba0cf7a7d2ae724864fbb65c0b2545b34ded12b13f00b2ce8985",
+      "thumbnailBlurHash": "ehHyv|ba2:j@Naz;j@KhWVj[Bmayw|azsAl9j[nOf6nO9@oLoLWUsp",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "59748033-6083-4ba5-a582-014083637410",
+      "name": "Fancy Fruits Flaming Link",
+      "slug": "gamomat-fancy-fruits-flaming-link",
+      "thumbnailUrl": "https://mediumrare.imgix.net/abaa41892fd3655d40e3548f2bf237da651ca72e135513cea5d6731b2e47aa6a",
+      "thumbnailBlurHash": "eLPpyGbHqvrr*|^ubatkniwfHtoyIVafO?tTn+HYSzO9Hsa2o~TIxr",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "c27c1510-8240-4239-93b8-f8baf5d6929c",
+      "name": "Royal Seven",
+      "slug": "gamomat-royal-seven",
+      "thumbnailUrl": "https://mediumrare.imgix.net/6979748ab1a98c0afcbefd15ac86c8c51cd0965839280d17cfdfe4502d342336",
+      "thumbnailBlurHash": "eUO1A+Wq4WX7MxOhR+N4brt7=FWC$RovnnP:oenNf8Myh#kSpHRUo#",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "6eff45d6-7b36-41d7-959a-baa4e398a903",
+      "name": "20 Ember Wilds",
+      "slug": "gamomat-20-ember-wilds",
+      "thumbnailUrl": "https://mediumrare.imgix.net/a75f46e30e6b2b8bd874405d0dc9168e707e9f69e5adcd2ee6e762d71577a474",
+      "thumbnailBlurHash": "eRRSiVs.MJi_r;MxoyWAadtQZPj[klfinmPpaeoIkWRQqZaeoOkWTc",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "4338883b-8b9f-44bd-8d6c-e94d4d6898d3",
+      "name": "Fancy Fruits",
+      "slug": "gamomat-fancy-fruits",
+      "thumbnailUrl": "https://mediumrare.imgix.net/ac06053881c3ddb99f016ea7aca8ff1d22a91804ca1acc62a9655b4ee987bc3e",
+      "thumbnailBlurHash": "ePQ=aUX9zpr=vzD6aykXoLt7IVn$OFWqkDqFkBVrf7RQUvaetQkCT0",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "9b8db686-fbc5-4e0e-b05d-35aff0e0c311",
+      "name": "Atlantic Wilds",
+      "slug": "gamomat-atlantic-wilds",
+      "thumbnailUrl": "https://mediumrare.imgix.net/83e07f516f99dbef61454cd5b68ba61b361252d2a6d51aef071ebfa8de0e5da8",
+      "thumbnailBlurHash": "eQBhy~pIIwoyNIA1k7%Mj=s,K8adadWAjY~jogM{aiRl9PkBxraht7",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "8c0fd7db-ff29-4e7d-8dd2-688efc39bb3b",
+      "name": "Sevens Fire",
+      "slug": "gamomat-sevens-fire",
+      "thumbnailUrl": "https://mediumrare.imgix.net/d5775d819fe3845c2915e4f1287d45c4a3e31490cd3680232e238e0d40e50b71",
+      "thumbnailBlurHash": "ejNQ[FbI9dsoRS18bIOtn%bIMojuxGfjtPGwo2rrX7oHN0oLt7WBjG",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "16e940fa-c3d4-4264-b5af-60a671b88d31",
+      "name": "Sevens & Books",
+      "slug": "gamomat-sevens-books",
+      "thumbnailUrl": "https://mediumrare.imgix.net/9a3a234ffce4bb7bee28363401d81c2f76434dc8f2684a40e1830f3fda1267f3",
+      "thumbnailBlurHash": "eJI=|cWY0^xZICv1WZpcoKrxHIR-T0WVwNEYNaD$j[W953j==zobtk",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "e68f3988-4b14-453c-bd70-1bf48916d8f9",
+      "name": "Fruit Mania",
+      "slug": "gamomat-fruit-mania",
+      "thumbnailUrl": "https://mediumrare.imgix.net/bbdda734717e18ca35e4b17d7ccd6532c45de2a8530ea4c2cfaf742cc315f850",
+      "thumbnailBlurHash": "eOO1_cV{q]Vurprmsm%3epxu-gxWNyf8oM_Nt6IUR+IVVCocx[R,Nf",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "2fe67109-be3b-4f22-88df-fc5a50d3696f",
+      "name": "40 Finest XXL",
+      "slug": "gamomat-40-finest-xxl",
+      "thumbnailUrl": "https://mediumrare.imgix.net/cfd7e80737dc1eefec37f1d9ed09fbd68e58f80ea13cba41e791303eb53a6e25",
+      "thumbnailBlurHash": "eKP3hYoLHZbapFF-j[XUWCbqu+fko_aeW?cuWVoYofVwM0WByVoeVu",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "39745bb4-173a-4393-8314-18903d55cd37",
+      "name": "Win Blaster",
+      "slug": "gamomat-win-blaster",
+      "thumbnailUrl": "https://mediumrare.imgix.net/23effb14d03b66728aaa7406de9db959d859007e4fb770e4b497a4e64a57d358",
+      "thumbnailBlurHash": "enIESqRoIzofNOrTa#kYayWsNPjst1azjrt:WEjEofjD9lWYxrj[s+",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "e8075e61-ae5c-497c-a919-3b0c049123ef",
+      "name": "Sunny Sevens",
+      "slug": "gamomat-sunny-sevens",
+      "thumbnailUrl": "https://mediumrare.imgix.net/61751c77e477a2e0d25a631537e8e239d011976066351e15b50123956812f0d8",
+      "thumbnailBlurHash": "eTRT#{XS%Cr?+apQkUt$aLxY%WskS|WEO=uiaeVZozN?ZyR-sEt5oz",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "7188e5f4-a4bb-4995-b597-05c1efa223d3",
+      "name": "5 Flaring Fruits",
+      "slug": "gamomat-5-flaring-fruits",
+      "thumbnailUrl": "https://mediumrare.imgix.net/e0c45dc33252ab8eab03380ef032d989d5cd1c4e58a7624743ee58d4d4839190",
+      "thumbnailBlurHash": "ekQFz8r?R9oIniRdNLkDW.t6rLais+ahWXpJs+awjbRkqxXOkpW.kV",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "092ef0bd-c943-4c5d-b6de-232503a6e5b6",
+      "name": "Win Blaster Christmas Edition",
+      "slug": "gamomat-win-blaster-christmas-edition",
+      "thumbnailUrl": "https://mediumrare.imgix.net/2ff97858d36950d201e90789b9c8f4983446154007261ac3a18d6bb30d29e91a",
+      "thumbnailBlurHash": "eqIFY_s:KLj]kW*#j]bwoJogLdWYxWs8kDk]jF$dn$axFyn$xVWrs9",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "b99638f4-19cd-427b-97ec-098bc2d75cbb",
+      "name": "20 Flaring Fruits",
+      "slug": "gamomat-20-flaring-fruits",
+      "thumbnailUrl": "https://mediumrare.imgix.net/b50326f0c7909d20fb19baee7dba9e9929b9ebe89363bd9430a43392b4d0580d",
+      "thumbnailBlurHash": "eVSLxroevEnjoakhWWnWaykoqyagXfj?W;g+jGb-f+VZunWBk.W;W:",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "27c33d94-2701-4051-b4ce-802a957b239d",
+      "name": "Wild Rubies Christmas Edition",
+      "slug": "gamomat-wild-rubies-christmas-edition",
+      "thumbnailUrl": "https://mediumrare.imgix.net/f5b4b3faf954f00a25b6ace64b7bf2a65f36c7b26fdc559c16bc7aee1175ece1",
+      "thumbnailBlurHash": "eOPpWut7_+VsxuGaxb#;WBX7zokCJ5o}I.,[R%V@ozSzQSoMuNWBof",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "54092b5f-5dca-445f-a93d-f114e59f7cc4",
+      "name": "50 Flaring Fruits",
+      "slug": "gamomat-50-flaring-fruits",
+      "thumbnailUrl": "https://mediumrare.imgix.net/227330548618002711de5bc1e3763c6a9c5f4c587c7b1edaad3faef7b4abee32",
+      "thumbnailBlurHash": "edNIQMN2D*a#kR04rwS%V]oxorwf$~RkjcIyt2w@oxRQVFxWbwtNWD",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "b2cb484f-9fa1-4654-a4ed-91da86005390",
+      "name": "Fruit Love",
+      "slug": "gamomat-fruit-love",
+      "thumbnailUrl": "https://mediumrare.imgix.net/1882c8c6b65298a4f55db2e244568892d07f113967ca524d45788e18f597af09",
+      "thumbnailBlurHash": "eLRS7aN2rCS%zp0}RnpbN{wIvqsl#pS6kS%jxC*zWFawu*t2XmeoXl",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    }
+  ]
+}

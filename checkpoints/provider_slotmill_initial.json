@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-08-06T01:19:22.925684",
+  "provider_slug": "slotmill",
+  "provider_name": "Slotmill",
+  "status": "initial_completed",
+  "total_games": 36,
+  "games_fetched": 36,
+  "is_complete": true,
+  "needs_pagination": false,
+  "output_dir": "stake_thumbnails\\Slotmill",
+  "games_data_file": "stake_thumbnails\\Slotmill\\initial_games.json",
+  "source": "initial_html_fetch"
+}

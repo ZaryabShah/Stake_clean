@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-08-06T18:57:27.208Z",
+  "provider_slug": "playn-go",
+  "provider_name": "Playn Go",
+  "status": "in_progress",
+  "total_games": 199,
+  "games_fetched": 198,
+  "is_complete": false,
+  "needs_pagination": true,
+  "output_dir": "stake_thumbnails\\Playn_Go",
+  "games_data_file": "stake_thumbnails\\Playn_Go\\initial_games.json",
+  "source": "parallel_graphql_fetch",
+  "completed_offsets": [
+    0,
+    39,
+    78,
+    117,
+    156,
+    195
+  ],
+  "failed_offsets": [],
+  "retry_counts": {},
+  "last_successful_offset": 195
+}

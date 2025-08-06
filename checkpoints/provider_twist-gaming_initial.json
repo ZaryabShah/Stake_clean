@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-08-06T01:09:45.549577",
+  "provider_slug": "twist-gaming",
+  "provider_name": "Twist Gaming",
+  "status": "initial_completed",
+  "total_games": 24,
+  "games_fetched": 24,
+  "is_complete": true,
+  "needs_pagination": false,
+  "output_dir": "stake_thumbnails\\Twist_Gaming",
+  "games_data_file": "stake_thumbnails\\Twist_Gaming\\initial_games.json",
+  "source": "initial_html_fetch"
+}

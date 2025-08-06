@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-08-06T22:35:23.715056",
+  "provider_slug": "just-slots",
+  "provider_name": "Just Slots",
+  "status": "initial_completed",
+  "total_games": 4,
+  "games_fetched": 4,
+  "is_complete": true,
+  "needs_pagination": false,
+  "output_dir": "stake_thumbnails\\Just_Slots",
+  "games_data_file": "stake_thumbnails\\Just_Slots\\initial_games.json",
+  "source": "initial_html_fetch"
+}

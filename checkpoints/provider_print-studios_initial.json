@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-08-06T01:05:22.905765",
+  "provider_slug": "print-studios",
+  "provider_name": "Print Studios",
+  "status": "initial_completed",
+  "total_games": 22,
+  "games_fetched": 22,
+  "is_complete": true,
+  "needs_pagination": false,
+  "output_dir": "stake_thumbnails\\Print_Studios",
+  "games_data_file": "stake_thumbnails\\Print_Studios\\initial_games.json",
+  "source": "initial_html_fetch"
+}

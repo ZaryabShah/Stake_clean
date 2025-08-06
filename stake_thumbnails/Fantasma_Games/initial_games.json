@@ -1,0 +1,272 @@
+{
+  "provider": "Fantasma Games",
+  "provider_slug": "fantasma-games",
+  "total_games": 26,
+  "games_fetched": 26,
+  "is_complete": true,
+  "needs_pagination": false,
+  "games": [
+    {
+      "game_id": "fantasma-gold-pigger",
+      "title": "Gold Pigger",
+      "slug": "fantasma-gold-pigger",
+      "provider": "Fantasma Games",
+      "thumbnail_url": "https://mediumrare.imgix.net/132cdbe810671631fdb3323797955d33e15304739f9f9214a29dbf2ca14b14fc",
+      "expected_filename": "Fantasma Games - Gold Pigger.webp",
+      "game_url": "https://stake.com/casino/games/fantasma-gold-pigger",
+      "extracted_at": "2025-08-06T00:58:22.571948"
+    },
+    {
+      "game_id": "fantasma-coins-of-thor-hold-and-win",
+      "title": "Coins of Thor - Hold and Win",
+      "slug": "fantasma-coins-of-thor-hold-and-win",
+      "provider": "Fantasma Games",
+      "thumbnail_url": "https://mediumrare.imgix.net/3e79b1d1af57e02446a559594fc6f7193be38a59ea9e10ae51c242a10a14f59f",
+      "expected_filename": "Fantasma Games - Coins of Thor - Hold and Win.webp",
+      "game_url": "https://stake.com/casino/games/fantasma-coins-of-thor-hold-and-win",
+      "extracted_at": "2025-08-06T00:58:22.571948"
+    },
+    {
+      "game_id": "fantasma-wild-west-buffalo-blast",
+      "title": "Wild West Buffalo Blast",
+      "slug": "fantasma-wild-west-buffalo-blast",
+      "provider": "Fantasma Games",
+      "thumbnail_url": "https://mediumrare.imgix.net/fd87dbf1982db6edb6c2b4ee8f1c22ccc6102c6b177b1d26c83831fb09641cc8",
+      "expected_filename": "Fantasma Games - Wild West Buffalo Blast.webp",
+      "game_url": "https://stake.com/casino/games/fantasma-wild-west-buffalo-blast",
+      "extracted_at": "2025-08-06T00:58:22.571948"
+    },
+    {
+      "game_id": "fantasma-1001-nights-of-riches",
+      "title": "1001 Nights of Riches",
+      "slug": "fantasma-1001-nights-of-riches",
+      "provider": "Fantasma Games",
+      "thumbnail_url": "https://mediumrare.imgix.net/ae45dbaa79aac5409a35010f7a1ef8165fffb700ac1be36e76dfbd76d8b2e87b",
+      "expected_filename": "Fantasma Games - 1001 Nights of Riches.webp",
+      "game_url": "https://stake.com/casino/games/fantasma-1001-nights-of-riches",
+      "extracted_at": "2025-08-06T00:58:22.571948"
+    },
+    {
+      "game_id": "fantasma-hades-river-of-souls",
+      "title": "Hades River of Souls",
+      "slug": "fantasma-hades-river-of-souls",
+      "provider": "Fantasma Games",
+      "thumbnail_url": "https://mediumrare.imgix.net/31eb2663af96476a851f5e42c584cc4978842d39772cc0c4cd0921c62da9ac29",
+      "expected_filename": "Fantasma Games - Hades River of Souls.webp",
+      "game_url": "https://stake.com/casino/games/fantasma-hades-river-of-souls",
+      "extracted_at": "2025-08-06T00:58:22.571948"
+    },
+    {
+      "game_id": "fantasma-santas-golden-christmas",
+      "title": "Santa's Golden Christmas",
+      "slug": "fantasma-santas-golden-christmas",
+      "provider": "Fantasma Games",
+      "thumbnail_url": "https://mediumrare.imgix.net/8b4e178a48831d1e6a49f8b1a53683425f403eaadc6d8b84170826bc1b08c6a2",
+      "expected_filename": "Fantasma Games - Santa's Golden Christmas.webp",
+      "game_url": "https://stake.com/casino/games/fantasma-santas-golden-christmas",
+      "extracted_at": "2025-08-06T00:58:22.571948"
+    },
+    {
+      "game_id": "fantasma-serpent-gold-coins",
+      "title": "Serpent Gold Coins",
+      "slug": "fantasma-serpent-gold-coins",
+      "provider": "Fantasma Games",
+      "thumbnail_url": "https://mediumrare.imgix.net/d94300a9a649897d1544d5f8f5a5385eed54c8e583adc70cf61621d1a7f0bb60",
+      "expected_filename": "Fantasma Games - Serpent Gold Coins.webp",
+      "game_url": "https://stake.com/casino/games/fantasma-serpent-gold-coins",
+      "extracted_at": "2025-08-06T00:58:22.571948"
+    },
+    {
+      "game_id": "fantasma-vulcans-gold",
+      "title": "Vulcan's Gold",
+      "slug": "fantasma-vulcans-gold",
+      "provider": "Fantasma Games",
+      "thumbnail_url": "https://mediumrare.imgix.net/2c961cd8a7b00c9e9cf39efd504749e60ded7bd41fea16773b4f5ebeaf2b85fc",
+      "expected_filename": "Fantasma Games - Vulcan's Gold.webp",
+      "game_url": "https://stake.com/casino/games/fantasma-vulcans-gold",
+      "extracted_at": "2025-08-06T00:58:22.571948"
+    },
+    {
+      "game_id": "fantasma-shadow-summoner-elementals",
+      "title": "Shadow Summoner Elementals",
+      "slug": "fantasma-shadow-summoner-elementals",
+      "provider": "Fantasma Games",
+      "thumbnail_url": "https://mediumrare.imgix.net/3160d0f77ff85c516319428b512250c5424b552a571d142030c5e970ff98215f",
+      "expected_filename": "Fantasma Games - Shadow Summoner Elementals.webp",
+      "game_url": "https://stake.com/casino/games/fantasma-shadow-summoner-elementals",
+      "extracted_at": "2025-08-06T00:58:22.571948"
+    },
+    {
+      "game_id": "fantasma-medallion",
+      "title": "Medallion",
+      "slug": "fantasma-medallion",
+      "provider": "Fantasma Games",
+      "thumbnail_url": "https://mediumrare.imgix.net/792b671f6724831fad304ab4ba75fd7bfdb6bf8a3d9933b4b3f9d1bc9affc488",
+      "expected_filename": "Fantasma Games - Medallion.webp",
+      "game_url": "https://stake.com/casino/games/fantasma-medallion",
+      "extracted_at": "2025-08-06T00:58:22.571948"
+    },
+    {
+      "game_id": "fantasma-seven-and-gems",
+      "title": "Seven and Gems",
+      "slug": "fantasma-seven-and-gems",
+      "provider": "Fantasma Games",
+      "thumbnail_url": "https://mediumrare.imgix.net/879badf6190dfd985567885a502c56ff12a11c45864d67ca3ece9ba5827d69b9",
+      "expected_filename": "Fantasma Games - Seven and Gems.webp",
+      "game_url": "https://stake.com/casino/games/fantasma-seven-and-gems",
+      "extracted_at": "2025-08-06T00:58:22.571948"
+    },
+    {
+      "game_id": "fantasma-payday-express",
+      "title": "Payday Express",
+      "slug": "fantasma-payday-express",
+      "provider": "Fantasma Games",
+      "thumbnail_url": "https://mediumrare.imgix.net/cefeeef9a6dc4f66ec4e0044f4552506a7758c806b8b59de5c5bedf44b978396",
+      "expected_filename": "Fantasma Games - Payday Express.webp",
+      "game_url": "https://stake.com/casino/games/fantasma-payday-express",
+      "extracted_at": "2025-08-06T00:58:22.571948"
+    },
+    {
+      "game_id": "fantasma-wicked-kitty",
+      "title": "Wicked Kitty",
+      "slug": "fantasma-wicked-kitty",
+      "provider": "Fantasma Games",
+      "thumbnail_url": "https://mediumrare.imgix.net/379edc67c765e41909712c4f87d3d88895d99f7ac5d08ad402276aa14eef99ac",
+      "expected_filename": "Fantasma Games - Wicked Kitty.webp",
+      "game_url": "https://stake.com/casino/games/fantasma-wicked-kitty",
+      "extracted_at": "2025-08-06T00:58:22.571948"
+    },
+    {
+      "game_id": "fantasma-24-star-dream",
+      "title": "24 Star Dream",
+      "slug": "fantasma-24-star-dream",
+      "provider": "Fantasma Games",
+      "thumbnail_url": "https://mediumrare.imgix.net/27d66b3d0b731e7c2412713946c6135372d298bde30c0352ee2d9a220ffdacf9",
+      "expected_filename": "Fantasma Games - 24 Star Dream.webp",
+      "game_url": "https://stake.com/casino/games/fantasma-24-star-dream",
+      "extracted_at": "2025-08-06T00:58:22.571948"
+    },
+    {
+      "game_id": "fantasma-lucky-otter",
+      "title": "Lucky Otter",
+      "slug": "fantasma-lucky-otter",
+      "provider": "Fantasma Games",
+      "thumbnail_url": "https://mediumrare.imgix.net/ab056b3fef1058e89c90a1b9b94af303603e5124afb204582ddc24ec1d413398",
+      "expected_filename": "Fantasma Games - Lucky Otter.webp",
+      "game_url": "https://stake.com/casino/games/fantasma-lucky-otter",
+      "extracted_at": "2025-08-06T00:58:22.571948"
+    },
+    {
+      "game_id": "fantasma-fortune-llama-hyper-heist",
+      "title": "Fortune Llama Hyper Heist",
+      "slug": "fantasma-fortune-llama-hyper-heist",
+      "provider": "Fantasma Games",
+      "thumbnail_url": "https://mediumrare.imgix.net/43919b6c5711c0510d64e05dffd169a5cfb14ea3c8876d5bbca67e7a6faeb4bd",
+      "expected_filename": "Fantasma Games - Fortune Llama Hyper Heist.webp",
+      "game_url": "https://stake.com/casino/games/fantasma-fortune-llama-hyper-heist",
+      "extracted_at": "2025-08-06T00:58:22.571948"
+    },
+    {
+      "game_id": "fantasma-circle-of-sylvan",
+      "title": "Circle of Sylvan",
+      "slug": "fantasma-circle-of-sylvan",
+      "provider": "Fantasma Games",
+      "thumbnail_url": "https://mediumrare.imgix.net/e13ec40a43bd4b14beca815c373d5df6912780fcaad28dee80c724c5e5e0f0e6",
+      "expected_filename": "Fantasma Games - Circle of Sylvan.webp",
+      "game_url": "https://stake.com/casino/games/fantasma-circle-of-sylvan",
+      "extracted_at": "2025-08-06T00:58:22.571948"
+    },
+    {
+      "game_id": "fantasma-divine-dynasty-princess",
+      "title": "Divine Dynasty Princess ",
+      "slug": "fantasma-divine-dynasty-princess",
+      "provider": "Fantasma Games",
+      "thumbnail_url": "https://mediumrare.imgix.net/6e1eb26817f245846a7a9de3a27d90c53e1eb650bae1346d1dd7324501388d8d",
+      "expected_filename": "Fantasma Games - Divine Dynasty Princess.webp",
+      "game_url": "https://stake.com/casino/games/fantasma-divine-dynasty-princess",
+      "extracted_at": "2025-08-06T00:58:22.571948"
+    },
+    {
+      "game_id": "fantasma-fortuna-gold",
+      "title": "Fortuna Gold",
+      "slug": "fantasma-fortuna-gold",
+      "provider": "Fantasma Games",
+      "thumbnail_url": "https://mediumrare.imgix.net/f169478187b9da00ba6da2c9c5460e2fe513276def2d3ffa52dd849ab12c23ae",
+      "expected_filename": "Fantasma Games - Fortuna Gold.webp",
+      "game_url": "https://stake.com/casino/games/fantasma-fortuna-gold",
+      "extracted_at": "2025-08-06T00:58:22.571948"
+    },
+    {
+      "game_id": "fantasma-miss-rainbow",
+      "title": "Miss Rainbow ",
+      "slug": "fantasma-miss-rainbow",
+      "provider": "Fantasma Games",
+      "thumbnail_url": "https://mediumrare.imgix.net/0b66574a32e31c07cc5c9386ddedf0248b17bd69c5dd5177a18e24f83d979aef",
+      "expected_filename": "Fantasma Games - Miss Rainbow.webp",
+      "game_url": "https://stake.com/casino/games/fantasma-miss-rainbow",
+      "extracted_at": "2025-08-06T00:58:22.571948"
+    },
+    {
+      "game_id": "fantasma-cloud-corsairs",
+      "title": "Cloud Corsairs",
+      "slug": "fantasma-cloud-corsairs",
+      "provider": "Fantasma Games",
+      "thumbnail_url": "https://mediumrare.imgix.net/cafbe86cf9fb86eb6817c0429828b86c0b544451d1d3e97ac1b494235be22cb8",
+      "expected_filename": "Fantasma Games - Cloud Corsairs.webp",
+      "game_url": "https://stake.com/casino/games/fantasma-cloud-corsairs",
+      "extracted_at": "2025-08-06T00:58:22.571948"
+    },
+    {
+      "game_id": "fantasma-wins-of-nautilus",
+      "title": "Wins of Nautilus",
+      "slug": "fantasma-wins-of-nautilus",
+      "provider": "Fantasma Games",
+      "thumbnail_url": "https://mediumrare.imgix.net/56bb9697312dfe7be446d9318d2e2f8ff056f89cb84c99ffd653648b7f6b3445",
+      "expected_filename": "Fantasma Games - Wins of Nautilus.webp",
+      "game_url": "https://stake.com/casino/games/fantasma-wins-of-nautilus",
+      "extracted_at": "2025-08-06T00:58:22.571948"
+    },
+    {
+      "game_id": "fantasma-shadow-summoner-egypt",
+      "title": "Shadow Summoner Egypt",
+      "slug": "fantasma-shadow-summoner-egypt",
+      "provider": "Fantasma Games",
+      "thumbnail_url": "https://mediumrare.imgix.net/c16e624aefa987612ad2fa4bc24fff8e69e2a339fb90149120cea80b74e2d6c8",
+      "expected_filename": "Fantasma Games - Shadow Summoner Egypt.webp",
+      "game_url": "https://stake.com/casino/games/fantasma-shadow-summoner-egypt",
+      "extracted_at": "2025-08-06T00:58:22.571948"
+    },
+    {
+      "game_id": "fantasma-aphrodites-fortune",
+      "title": "Aphrodite's Fortune",
+      "slug": "fantasma-aphrodites-fortune",
+      "provider": "Fantasma Games",
+      "thumbnail_url": "https://mediumrare.imgix.net/b51f53280201d37944633dd72fbadd0363621f6e461fbb16eaacacffa80e8696",
+      "expected_filename": "Fantasma Games - Aphrodite's Fortune.webp",
+      "game_url": "https://stake.com/casino/games/fantasma-aphrodites-fortune",
+      "extracted_at": "2025-08-06T00:58:22.571948"
+    },
+    {
+      "game_id": "fantasma-prometheus-titan-of-fire",
+      "title": "Prometheus: Titan Of Fire",
+      "slug": "fantasma-prometheus-titan-of-fire",
+      "provider": "Fantasma Games",
+      "thumbnail_url": "https://mediumrare.imgix.net/67ef55924066c760443fa6e793d92bdf965af232a2e020ab318d2d1792dc7741",
+      "expected_filename": "Fantasma Games - Prometheus Titan Of Fire.webp",
+      "game_url": "https://stake.com/casino/games/fantasma-prometheus-titan-of-fire",
+      "extracted_at": "2025-08-06T00:58:22.571948"
+    },
+    {
+      "game_id": "fantasma-caravan-of-riches",
+      "title": "Caravan of Riches",
+      "slug": "fantasma-caravan-of-riches",
+      "provider": "Fantasma Games",
+      "thumbnail_url": "https://mediumrare.imgix.net/603d326afe9fee02e71d060a63d08603aa52e2cb37285bf4c87f4bc2b4108306",
+      "expected_filename": "Fantasma Games - Caravan of Riches.webp",
+      "game_url": "https://stake.com/casino/games/fantasma-caravan-of-riches",
+      "extracted_at": "2025-08-06T00:58:22.571948"
+    }
+  ],
+  "timestamp": "2025-08-06T00:58:22.571948",
+  "source": "initial_html_fetch"
+}

@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-08-06T01:13:33.302925",
+  "provider_slug": "backseat-gaming",
+  "provider_name": "Backseat Gaming",
+  "status": "initial_completed",
+  "total_games": 26,
+  "games_fetched": 26,
+  "is_complete": true,
+  "needs_pagination": false,
+  "output_dir": "stake_thumbnails\\Backseat_Gaming",
+  "games_data_file": "stake_thumbnails\\Backseat_Gaming\\initial_games.json",
+  "source": "initial_html_fetch"
+}

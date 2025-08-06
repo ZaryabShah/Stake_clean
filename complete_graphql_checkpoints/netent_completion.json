@@ -1,0 +1,11 @@
+{
+  "provider_name": "Netent",
+  "provider_slug": "netent",
+  "completion_status": "completed",
+  "games_to_fetch": 51,
+  "batches_needed": 2,
+  "simulation_mode": true,
+  "completion_timestamp": "2025-08-06T05:20:49.273045",
+  "last_updated": "2025-08-06T05:20:49.273045",
+  "checkpoint_type": "complete_graphql"
+}
