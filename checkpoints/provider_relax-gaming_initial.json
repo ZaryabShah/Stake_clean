@@ -1,26 +1,13 @@
 {
-  "timestamp": "2025-08-06T19:13:08.346Z",
+  "timestamp": "2025-08-07T02:09:39.682669",
   "provider_slug": "relax-gaming",
   "provider_name": "Relax Gaming",
-  "status": "in_progress",
+  "status": "initial_completed",
   "total_games": 132,
-  "games_fetched": 93,
+  "games_fetched": 39,
   "is_complete": false,
   "needs_pagination": true,
   "output_dir": "stake_thumbnails\\Relax_Gaming",
   "games_data_file": "stake_thumbnails\\Relax_Gaming\\initial_games.json",
-  "source": "parallel_graphql_fetch",
-  "completed_offsets": [
-    0,
-    39,
-    117
-  ],
-  "failed_offsets": [
-    78
-  ],
-  "retry_counts": {
-    "78": 4,
-    "117": 3
-  },
-  "last_successful_offset": 117
+  "source": "initial_html_fetch"
 }

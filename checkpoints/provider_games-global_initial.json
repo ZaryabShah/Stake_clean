@@ -1,13 +1,13 @@
 {
-  "timestamp": "2025-08-06T05:33:55.034Z",
+  "timestamp": "2025-08-07T02:18:22.653764",
   "provider_slug": "games-global",
   "provider_name": "Games Global",
-  "status": "completed",
+  "status": "initial_completed",
   "total_games": 95,
-  "games_fetched": 95,
-  "is_complete": true,
-  "needs_pagination": false,
+  "games_fetched": 39,
+  "is_complete": false,
+  "needs_pagination": true,
   "output_dir": "stake_thumbnails\\Games_Global",
   "games_data_file": "stake_thumbnails\\Games_Global\\initial_games.json",
-  "source": "parallel_graphql_fetch"
+  "source": "initial_html_fetch"
 }

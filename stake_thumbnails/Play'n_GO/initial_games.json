@@ -1,0 +1,402 @@
+{
+  "provider": "Play'n GO",
+  "provider_slug": "playn-go",
+  "total_games": 199,
+  "games_fetched": 39,
+  "is_complete": false,
+  "needs_pagination": true,
+  "games": [
+    {
+      "game_id": "playngo-rise-of-orpheus",
+      "title": " Rise of Orpheus",
+      "slug": "playngo-rise-of-orpheus",
+      "provider": "Play'n Go",
+      "thumbnail_url": "https://mediumrare.imgix.net/9f39d74bb6b4ab63d08076585febd46f867cf415b834935a43430266e0f15c17",
+      "expected_filename": "Play'n Go - Rise of Orpheus.webp",
+      "game_url": "https://stake.com/casino/games/playngo-rise-of-orpheus",
+      "extracted_at": "2025-08-07T02:12:16.207973"
+    },
+    {
+      "game_id": "playngo-moon-princess-stargazing",
+      "title": "Moon Princess Stargazing",
+      "slug": "playngo-moon-princess-stargazing",
+      "provider": "Play'n Go",
+      "thumbnail_url": "https://mediumrare.imgix.net/0cb73479ada84f5ad676705bd1b4dead5deac473eff774d8b5fb71c6c68bda7a",
+      "expected_filename": "Play'n Go - Moon Princess Stargazing.webp",
+      "game_url": "https://stake.com/casino/games/playngo-moon-princess-stargazing",
+      "extracted_at": "2025-08-07T02:12:16.207973"
+    },
+    {
+      "game_id": "playngo-the-green-knight-oath-of-thorns",
+      "title": "The Green Knight Oath of Thorns",
+      "slug": "playngo-the-green-knight-oath-of-thorns",
+      "provider": "Play'n Go",
+      "thumbnail_url": "https://mediumrare.imgix.net/590d40b598ab3af498b06ae76e81e2b5b1fce443d976ff4faa0b25ebbe1116ba",
+      "expected_filename": "Play'n Go - The Green Knight Oath of Thorns.webp",
+      "game_url": "https://stake.com/casino/games/playngo-the-green-knight-oath-of-thorns",
+      "extracted_at": "2025-08-07T02:12:16.207973"
+    },
+    {
+      "game_id": "playngo-tome-of-madness",
+      "title": "Rich Wilde and the Tome of Madness",
+      "slug": "playngo-tome-of-madness",
+      "provider": "Play'n Go",
+      "thumbnail_url": "https://mediumrare.imgix.net/e0cb64ebb8d0260c3047454e94412c1b57946e16f5079da8f42c7290906604ab",
+      "expected_filename": "Play'n Go - Rich Wilde and the Tome of Madness.webp",
+      "game_url": "https://stake.com/casino/games/playngo-tome-of-madness",
+      "extracted_at": "2025-08-07T02:12:16.207973"
+    },
+    {
+      "game_id": "playngo-cashin-joker",
+      "title": "Cashin' Joker",
+      "slug": "playngo-cashin-joker",
+      "provider": "Play'n Go",
+      "thumbnail_url": "https://mediumrare.imgix.net/99fa91c9404e0f9eaaaaa58a142d8839842b7b77d8f234c4e4973a636c25646d",
+      "expected_filename": "Play'n Go - Cashin' Joker.webp",
+      "game_url": "https://stake.com/casino/games/playngo-cashin-joker",
+      "extracted_at": "2025-08-07T02:12:16.207973"
+    },
+    {
+      "game_id": "playngo-big-win-777",
+      "title": "Big Win 777",
+      "slug": "playngo-big-win-777",
+      "provider": "Play'n Go",
+      "thumbnail_url": "https://mediumrare.imgix.net/43da999226a7e25e49ff9d73d7b1989150e1692c3e7e6cb0f53e1bcbd9c70a39",
+      "expected_filename": "Play'n Go - Big Win 777.webp",
+      "game_url": "https://stake.com/casino/games/playngo-big-win-777",
+      "extracted_at": "2025-08-07T02:12:16.207973"
+    },
+    {
+      "game_id": "playngo-super-flip-deluxe",
+      "title": "Super Flip Deluxe",
+      "slug": "playngo-super-flip-deluxe",
+      "provider": "Play'n Go",
+      "thumbnail_url": "https://mediumrare.imgix.net/de24367ae552522c0a5ef3c44b651c10091ab767ae1cdffff73d1ec1bde6d474",
+      "expected_filename": "Play'n Go - Super Flip Deluxe.webp",
+      "game_url": "https://stake.com/casino/games/playngo-super-flip-deluxe",
+      "extracted_at": "2025-08-07T02:12:16.207973"
+    },
+    {
+      "game_id": "playngo-rise-of-olympus-100",
+      "title": "Rise of Olympus 100",
+      "slug": "playngo-rise-of-olympus-100",
+      "provider": "Play'n Go",
+      "thumbnail_url": "https://mediumrare.imgix.net/1faa25f2efd695c65f53756ee1310283b4c944a8db5020d5e7e0b273135ffc21",
+      "expected_filename": "Play'n Go - Rise of Olympus 100.webp",
+      "game_url": "https://stake.com/casino/games/playngo-rise-of-olympus-100",
+      "extracted_at": "2025-08-07T02:12:16.207973"
+    },
+    {
+      "game_id": "playngo-tomb-of-gold-ii",
+      "title": "Tomb of Gold II",
+      "slug": "playngo-tomb-of-gold-ii",
+      "provider": "Play'n Go",
+      "thumbnail_url": "https://mediumrare.imgix.net/1f73a2b9fe7aeda7b6bcf5cb8e7737c76ddd38bc8ffeee6f7e6ceac76b2d5ee7",
+      "expected_filename": "Play'n Go - Tomb of Gold II.webp",
+      "game_url": "https://stake.com/casino/games/playngo-tomb-of-gold-ii",
+      "extracted_at": "2025-08-07T02:12:16.207973"
+    },
+    {
+      "game_id": "playngo-rise-of-merlin",
+      "title": "Rise of Merlin",
+      "slug": "playngo-rise-of-merlin",
+      "provider": "Play'n Go",
+      "thumbnail_url": "https://mediumrare.imgix.net/b3602cadc02b5a1834be0de831603ce243cc82123640e17d38e2fc0761832fee",
+      "expected_filename": "Play'n Go - Rise of Merlin.webp",
+      "game_url": "https://stake.com/casino/games/playngo-rise-of-merlin",
+      "extracted_at": "2025-08-07T02:12:16.207973"
+    },
+    {
+      "game_id": "playngo-gold-volcano",
+      "title": "Gold Volcano",
+      "slug": "playngo-gold-volcano",
+      "provider": "Play'n Go",
+      "thumbnail_url": "https://mediumrare.imgix.net/bc6f636597df7688ce83211f7051369ae1064d3c5fd200ede8b437108d6d415f",
+      "expected_filename": "Play'n Go - Gold Volcano.webp",
+      "game_url": "https://stake.com/casino/games/playngo-gold-volcano",
+      "extracted_at": "2025-08-07T02:12:16.207973"
+    },
+    {
+      "game_id": "playngo-honey-rush",
+      "title": "Honey Rush",
+      "slug": "playngo-honey-rush",
+      "provider": "Play'n Go",
+      "thumbnail_url": "https://mediumrare.imgix.net/017cec0df3977caafb70cb71d1de88d10d7491619f6677a1771891c7f8f853ff",
+      "expected_filename": "Play'n Go - Honey Rush.webp",
+      "game_url": "https://stake.com/casino/games/playngo-honey-rush",
+      "extracted_at": "2025-08-07T02:12:16.207973"
+    },
+    {
+      "game_id": "playngo-reactoonz",
+      "title": "Reactoonz",
+      "slug": "playngo-reactoonz",
+      "provider": "Play'n Go",
+      "thumbnail_url": "https://mediumrare.imgix.net/12ac60e770d5d5cbac85e1d61f089124feb4d634a08d54edd78dcd8d57d1360e",
+      "expected_filename": "Play'n Go - Reactoonz.webp",
+      "game_url": "https://stake.com/casino/games/playngo-reactoonz",
+      "extracted_at": "2025-08-07T02:12:16.207973"
+    },
+    {
+      "game_id": "playngo-moon-princess-hundred",
+      "title": "Moon Princess 100",
+      "slug": "playngo-moon-princess-hundred",
+      "provider": "Play'n Go",
+      "thumbnail_url": "https://mediumrare.imgix.net/5ec3bed7d1c0a2a5f5287eac7fabf5e86f404c09806268970012dc4b52574eff",
+      "expected_filename": "Play'n Go - Moon Princess 100.webp",
+      "game_url": "https://stake.com/casino/games/playngo-moon-princess-hundred",
+      "extracted_at": "2025-08-07T02:12:16.207973"
+    },
+    {
+      "game_id": "playngo-rich-wilde-and-the-tome-of-dead",
+      "title": "Rich Wilde and the Tome of Dead",
+      "slug": "playngo-rich-wilde-and-the-tome-of-dead",
+      "provider": "Play'n Go",
+      "thumbnail_url": "https://mediumrare.imgix.net/7a8a9980da4f8906aa6b666a8f59190594357467032d2990f05ede6a7720d761",
+      "expected_filename": "Play'n Go - Rich Wilde and the Tome of Dead.webp",
+      "game_url": "https://stake.com/casino/games/playngo-rich-wilde-and-the-tome-of-dead",
+      "extracted_at": "2025-08-07T02:12:16.207973"
+    },
+    {
+      "game_id": "playngo-legacy-of-egypt",
+      "title": "Legacy of Egypt",
+      "slug": "playngo-legacy-of-egypt",
+      "provider": "Play'n Go",
+      "thumbnail_url": "https://mediumrare.imgix.net/b725ed3a6f261f98594f5cd7c5536ddf5f1c3ccb9817a13591caa8aa3fc3ecf5",
+      "expected_filename": "Play'n Go - Legacy of Egypt.webp",
+      "game_url": "https://stake.com/casino/games/playngo-legacy-of-egypt",
+      "extracted_at": "2025-08-07T02:12:16.207973"
+    },
+    {
+      "game_id": "playngo-rich-wilde-and-the-tome-of-insanity",
+      "title": "Rich Wilde and the Tome of Insanity",
+      "slug": "playngo-rich-wilde-and-the-tome-of-insanity",
+      "provider": "Play'n Go",
+      "thumbnail_url": "https://mediumrare.imgix.net/274d55ea0d7b72c6d0b31fed6424d63b10800fec30807bbf2e5ee566adc4f406",
+      "expected_filename": "Play'n Go - Rich Wilde and the Tome of Insanity.webp",
+      "game_url": "https://stake.com/casino/games/playngo-rich-wilde-and-the-tome-of-insanity",
+      "extracted_at": "2025-08-07T02:12:16.207973"
+    },
+    {
+      "game_id": "playngo-viper-city-heist",
+      "title": "Viper City Heist",
+      "slug": "playngo-viper-city-heist",
+      "provider": "Play'n Go",
+      "thumbnail_url": "https://mediumrare.imgix.net/ef2f02428c4ad95dde7d348b8807809bbda8388ee05bd3fa8d8b1fbab6f710eb",
+      "expected_filename": "Play'n Go - Viper City Heist.webp",
+      "game_url": "https://stake.com/casino/games/playngo-viper-city-heist",
+      "extracted_at": "2025-08-07T02:12:16.207973"
+    },
+    {
+      "game_id": "playngo-wild-frames",
+      "title": "Wild Frames",
+      "slug": "playngo-wild-frames",
+      "provider": "Play'n Go",
+      "thumbnail_url": "https://mediumrare.imgix.net/c66f3240ef781d30bddbefcd2f4b33818c3cf22020cb615835550993f336e47b",
+      "expected_filename": "Play'n Go - Wild Frames.webp",
+      "game_url": "https://stake.com/casino/games/playngo-wild-frames",
+      "extracted_at": "2025-08-07T02:12:16.207973"
+    },
+    {
+      "game_id": "playngo-fire-joker",
+      "title": "Fire Joker",
+      "slug": "playngo-fire-joker",
+      "provider": "Play'n Go",
+      "thumbnail_url": "https://mediumrare.imgix.net/a163540d42af8d46c2efb744c5fff28b50a27768e7f9413e8c51cee5ae382119",
+      "expected_filename": "Play'n Go - Fire Joker.webp",
+      "game_url": "https://stake.com/casino/games/playngo-fire-joker",
+      "extracted_at": "2025-08-07T02:12:16.207973"
+    },
+    {
+      "game_id": "playngo-king-of-sweets",
+      "title": "King of Sweets",
+      "slug": "playngo-king-of-sweets",
+      "provider": "Play'n Go",
+      "thumbnail_url": "https://mediumrare.imgix.net/6052b8bbf60c5ca18cac16b67d951a9c82e71f5fe9393d5d3588abfa1c048f3a",
+      "expected_filename": "Play'n Go - King of Sweets.webp",
+      "game_url": "https://stake.com/casino/games/playngo-king-of-sweets",
+      "extracted_at": "2025-08-07T02:12:16.207973"
+    },
+    {
+      "game_id": "playngo-fire-joker-100",
+      "title": "Fire Joker 100",
+      "slug": "playngo-fire-joker-100",
+      "provider": "Play'n Go",
+      "thumbnail_url": "https://mediumrare.imgix.net/ef7001ac016290356daff2862b2a68920ad4870b9f520900c30136770cf5fa57",
+      "expected_filename": "Play'n Go - Fire Joker 100.webp",
+      "game_url": "https://stake.com/casino/games/playngo-fire-joker-100",
+      "extracted_at": "2025-08-07T02:12:16.207973"
+    },
+    {
+      "game_id": "playngo-medusas-madness",
+      "title": "Medusa's Madness",
+      "slug": "playngo-medusas-madness",
+      "provider": "Play'n Go",
+      "thumbnail_url": "https://mediumrare.imgix.net/e73195c4e827bf1e2ac51f881646eca72846585d5aad453207e0664574662f5d",
+      "expected_filename": "Play'n Go - Medusa's Madness.webp",
+      "game_url": "https://stake.com/casino/games/playngo-medusas-madness",
+      "extracted_at": "2025-08-07T02:12:16.207973"
+    },
+    {
+      "game_id": "playngo-wild-north",
+      "title": "Wild North",
+      "slug": "playngo-wild-north",
+      "provider": "Play'n Go",
+      "thumbnail_url": "https://mediumrare.imgix.net/33e9282f636e7057b46b257661dba5972a0aa217dcaa2681fafef455d3b03efe",
+      "expected_filename": "Play'n Go - Wild North.webp",
+      "game_url": "https://stake.com/casino/games/playngo-wild-north",
+      "extracted_at": "2025-08-07T02:12:16.207973"
+    },
+    {
+      "game_id": "playngo-24k-dragon",
+      "title": "24K Dragon",
+      "slug": "playngo-24k-dragon",
+      "provider": "Play'n Go",
+      "thumbnail_url": "https://mediumrare.imgix.net/b01b5cb06baa640f1ee31e6cab5368ae5de59e3ed3c885b004c6a458e95b3a42",
+      "expected_filename": "Play'n Go - 24K Dragon.webp",
+      "game_url": "https://stake.com/casino/games/playngo-24k-dragon",
+      "extracted_at": "2025-08-07T02:12:16.207973"
+    },
+    {
+      "game_id": "playngo-naughty-nicks-book",
+      "title": "Naughty Nick's Book",
+      "slug": "playngo-naughty-nicks-book",
+      "provider": "Play'n Go",
+      "thumbnail_url": "https://mediumrare.imgix.net/fbdd19d6127f96b23ebbfb0c8bac465332468abb7b01b8ec48f14004d5ef7d3e",
+      "expected_filename": "Play'n Go - Naughty Nick's Book.webp",
+      "game_url": "https://stake.com/casino/games/playngo-naughty-nicks-book",
+      "extracted_at": "2025-08-07T02:12:16.207973"
+    },
+    {
+      "game_id": "playngo-pimped",
+      "title": "Pimped",
+      "slug": "playngo-pimped",
+      "provider": "Play'n Go",
+      "thumbnail_url": "https://mediumrare.imgix.net/e29c1c8a7c3e34a28d9a50066f0b9c18864666a70d0048d49c18610ac147d0b1",
+      "expected_filename": "Play'n Go - Pimped.webp",
+      "game_url": "https://stake.com/casino/games/playngo-pimped",
+      "extracted_at": "2025-08-07T02:12:16.207973"
+    },
+    {
+      "game_id": "playngo-return-of-the-green-knight",
+      "title": "Return of the Green Knight",
+      "slug": "playngo-return-of-the-green-knight",
+      "provider": "Play'n Go",
+      "thumbnail_url": "https://mediumrare.imgix.net/a315abcf3af9bcdbac0897e283ec054a425438d7ac2798605f4c1bd7e6f01411",
+      "expected_filename": "Play'n Go - Return of the Green Knight.webp",
+      "game_url": "https://stake.com/casino/games/playngo-return-of-the-green-knight",
+      "extracted_at": "2025-08-07T02:12:16.207973"
+    },
+    {
+      "game_id": "playngo-sweet-alchemy-100",
+      "title": "Sweet Alchemy 100",
+      "slug": "playngo-sweet-alchemy-100",
+      "provider": "Play'n Go",
+      "thumbnail_url": "https://mediumrare.imgix.net/7baf7257bf20524a6e25760fe034bbd129797f8ff2905ab22c5adc0c740319c6",
+      "expected_filename": "Play'n Go - Sweet Alchemy 100.webp",
+      "game_url": "https://stake.com/casino/games/playngo-sweet-alchemy-100",
+      "extracted_at": "2025-08-07T02:12:16.207973"
+    },
+    {
+      "game_id": "playngo-ghost-of-dead",
+      "title": "Ghost of Dead",
+      "slug": "playngo-ghost-of-dead",
+      "provider": "Play'n Go",
+      "thumbnail_url": "https://mediumrare.imgix.net/88ab55ee4492c747960d647161ab316a1e89579d2280ca32e550ed89a74be443",
+      "expected_filename": "Play'n Go - Ghost of Dead.webp",
+      "game_url": "https://stake.com/casino/games/playngo-ghost-of-dead",
+      "extracted_at": "2025-08-07T02:12:16.207973"
+    },
+    {
+      "game_id": "playngo-moon-princess",
+      "title": "Moon Princess",
+      "slug": "playngo-moon-princess",
+      "provider": "Play'n Go",
+      "thumbnail_url": "https://mediumrare.imgix.net/840f35831af5d46762a0caa877d6c9031570da75a9cdb7acc8bca27497680255",
+      "expected_filename": "Play'n Go - Moon Princess.webp",
+      "game_url": "https://stake.com/casino/games/playngo-moon-princess",
+      "extracted_at": "2025-08-07T02:12:16.207973"
+    },
+    {
+      "game_id": "playngo-ankh-of-anubis",
+      "title": "Ankh of Anubis",
+      "slug": "playngo-ankh-of-anubis",
+      "provider": "Play'n Go",
+      "thumbnail_url": "https://mediumrare.imgix.net/e3b516f8b87bfd4a0a216907540c031c395c5010b33472d3638122e515fc04e3",
+      "expected_filename": "Play'n Go - Ankh of Anubis.webp",
+      "game_url": "https://stake.com/casino/games/playngo-ankh-of-anubis",
+      "extracted_at": "2025-08-07T02:12:16.207973"
+    },
+    {
+      "game_id": "playngo-reactoonz-2",
+      "title": "Reactoonz 2",
+      "slug": "playngo-reactoonz-2",
+      "provider": "Play'n Go",
+      "thumbnail_url": "https://mediumrare.imgix.net/e46236aa305386f83285672c4195274959f53697f8beae36bc713016fff1f40d",
+      "expected_filename": "Play'n Go - Reactoonz 2.webp",
+      "game_url": "https://stake.com/casino/games/playngo-reactoonz-2",
+      "extracted_at": "2025-08-07T02:12:16.207973"
+    },
+    {
+      "game_id": "playngo-the-sword-and-the-grail",
+      "title": "The Sword and The Grail",
+      "slug": "playngo-the-sword-and-the-grail",
+      "provider": "Play'n Go",
+      "thumbnail_url": "https://mediumrare.imgix.net/a3bd70e6606f841eddae1e38d9af475ef685345960ea1281a383ff5eead011d4",
+      "expected_filename": "Play'n Go - The Sword and The Grail.webp",
+      "game_url": "https://stake.com/casino/games/playngo-the-sword-and-the-grail",
+      "extracted_at": "2025-08-07T02:12:16.207973"
+    },
+    {
+      "game_id": "playngo-joker-flip",
+      "title": "Joker Flip",
+      "slug": "playngo-joker-flip",
+      "provider": "Play'n Go",
+      "thumbnail_url": "https://mediumrare.imgix.net/98e73a58153b41840829cbc3a1bc0a30977c84ca97e6209a13a0e02ec4903449",
+      "expected_filename": "Play'n Go - Joker Flip.webp",
+      "game_url": "https://stake.com/casino/games/playngo-joker-flip",
+      "extracted_at": "2025-08-07T02:12:16.207973"
+    },
+    {
+      "game_id": "playngo-rise-of-olympus",
+      "title": "Rise of Olympus",
+      "slug": "playngo-rise-of-olympus",
+      "provider": "Play'n Go",
+      "thumbnail_url": "https://mediumrare.imgix.net/f9a8e77f84e1f93c4561960033fcf226e34838e9c1738519c73e7fdfcbc2a358",
+      "expected_filename": "Play'n Go - Rise of Olympus.webp",
+      "game_url": "https://stake.com/casino/games/playngo-rise-of-olympus",
+      "extracted_at": "2025-08-07T02:12:16.207973"
+    },
+    {
+      "game_id": "playngo-gigantoonz",
+      "title": "Gigantoonz",
+      "slug": "playngo-gigantoonz",
+      "provider": "Play'n Go",
+      "thumbnail_url": "https://mediumrare.imgix.net/f2e7ba1c6537963448788f8b8d16293ca988dd674354f699af9cc7ab3bbfc751",
+      "expected_filename": "Play'n Go - Gigantoonz.webp",
+      "game_url": "https://stake.com/casino/games/playngo-gigantoonz",
+      "extracted_at": "2025-08-07T02:12:16.207973"
+    },
+    {
+      "game_id": "playngo-whispering-winds",
+      "title": "Whispering Winds",
+      "slug": "playngo-whispering-winds",
+      "provider": "Play'n Go",
+      "thumbnail_url": "https://mediumrare.imgix.net/1d9215eb46adce66f9fe3a9ba266653fd3c091d2e1329bae57e706916dcb9091",
+      "expected_filename": "Play'n Go - Whispering Winds.webp",
+      "game_url": "https://stake.com/casino/games/playngo-whispering-winds",
+      "extracted_at": "2025-08-07T02:12:16.207973"
+    },
+    {
+      "game_id": "playngo-hotel-yeti-way",
+      "title": "Hotel Yeti-Way",
+      "slug": "playngo-hotel-yeti-way",
+      "provider": "Play'n Go",
+      "thumbnail_url": "https://mediumrare.imgix.net/ce12b2bac026a2ada926ec00a41a2d2d42a3f33362ecb0b2951569dde1074e44",
+      "expected_filename": "Play'n Go - Hotel Yeti-Way.webp",
+      "game_url": "https://stake.com/casino/games/playngo-hotel-yeti-way",
+      "extracted_at": "2025-08-07T02:12:16.207973"
+    }
+  ],
+  "timestamp": "2025-08-07T02:12:16.207973",
+  "source": "initial_html_fetch"
+}

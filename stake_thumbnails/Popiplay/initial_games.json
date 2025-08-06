@@ -1,17 +1,10 @@
 {
-  "timestamp": "2025-08-06T04:14:08.169Z",
-  "provider": {
-    "id": "popiplay",
-    "name": "Popiplay",
-    "slug": "popiplay"
-  },
-  "summary": {
-    "totalGames": 60,
-    "fetchedGames": 60,
-    "remainingGames": 0,
-    "isComplete": true,
-    "currentOffset": 60
-  },
+  "provider": "Popiplay",
+  "provider_slug": "popiplay",
+  "total_games": 60,
+  "games_fetched": 39,
+  "is_complete": false,
+  "needs_pagination": true,
   "games": [
     {
       "game_id": "popiplay-curse-of-echnaton",
@@ -21,7 +14,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/0d4bc50d98bb62d17c179fe99321b8b87bee60104406eef9ca3f0f3aba9efd30",
       "expected_filename": "Popiplay - Curse of Echnaton.webp",
       "game_url": "https://stake.com/casino/games/popiplay-curse-of-echnaton",
-      "extracted_at": "2025-08-06T01:28:16.805288"
+      "extracted_at": "2025-08-07T02:12:45.188012"
     },
     {
       "game_id": "popiplay-tiki-trip",
@@ -31,7 +24,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/f20490bdacef202d01b5418f91640683ec6d341ba1843660a803fd7e6d757a7a",
       "expected_filename": "Popiplay - Tiki Trip.webp",
       "game_url": "https://stake.com/casino/games/popiplay-tiki-trip",
-      "extracted_at": "2025-08-06T01:28:16.805288"
+      "extracted_at": "2025-08-07T02:12:45.188012"
     },
     {
       "game_id": "popiplay-veracruz-wild",
@@ -41,7 +34,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/b84479bf7d196a8f6afb3151e017638d7b2dfbbf7f3b146c72f2ac7c5d489347",
       "expected_filename": "Popiplay - Veracruz Wild.webp",
       "game_url": "https://stake.com/casino/games/popiplay-veracruz-wild",
-      "extracted_at": "2025-08-06T01:28:16.805288"
+      "extracted_at": "2025-08-07T02:12:45.188012"
     },
     {
       "game_id": "popiplay-neon-fruits",
@@ -51,7 +44,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/3e5aa2716aec7518fab161849b1b97a06960ba1f1aa9f724dd778668ce02c0c9",
       "expected_filename": "Popiplay - Neon Fruits.webp",
       "game_url": "https://stake.com/casino/games/popiplay-neon-fruits",
-      "extracted_at": "2025-08-06T01:28:16.805288"
+      "extracted_at": "2025-08-07T02:12:45.188012"
     },
     {
       "game_id": "popiplay-detective-donut-kickback",
@@ -61,7 +54,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/f28ed9358f2d97e58faa07d8906ec69947a306d75c56398766ee5c2b8d3eaabe",
       "expected_filename": "Popiplay - Detective Donut Kickback.webp",
       "game_url": "https://stake.com/casino/games/popiplay-detective-donut-kickback",
-      "extracted_at": "2025-08-06T01:28:16.805288"
+      "extracted_at": "2025-08-07T02:12:45.188012"
     },
     {
       "game_id": "popiplay-junkrat-max",
@@ -71,7 +64,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/cc65dc9b4cb0a469d90ccdb655ab60d6ec8173eb8a282044294bcb8095871cc1",
       "expected_filename": "Popiplay - Junkrat Max.webp",
       "game_url": "https://stake.com/casino/games/popiplay-junkrat-max",
-      "extracted_at": "2025-08-06T01:28:16.805288"
+      "extracted_at": "2025-08-07T02:12:45.188012"
     },
     {
       "game_id": "popiplay-bison-horizon-hold-and-win",
@@ -81,7 +74,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/401a579ab6322ce1be7afd75428b12f436da5a896fdfe83173f397680d488824",
       "expected_filename": "Popiplay - Bison Horizon Hold and Win.webp",
       "game_url": "https://stake.com/casino/games/popiplay-bison-horizon-hold-and-win",
-      "extracted_at": "2025-08-06T01:28:16.805288"
+      "extracted_at": "2025-08-07T02:12:45.188012"
     },
     {
       "game_id": "popiplay-area-69",
@@ -91,7 +84,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/d4cf79dd8bc83ed2920f056d00072efef52ce1567a62af9b718fa5df393120b7",
       "expected_filename": "Popiplay - Area 69.webp",
       "game_url": "https://stake.com/casino/games/popiplay-area-69",
-      "extracted_at": "2025-08-06T01:28:16.805288"
+      "extracted_at": "2025-08-07T02:12:45.188012"
     },
     {
       "game_id": "popiplay-sweet-punks",
@@ -101,7 +94,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/8cbf57e0707b6e655deccad110b3d6c8c316112bc1589f7aa0d1916c7bc8166c",
       "expected_filename": "Popiplay - Sweet Punks.webp",
       "game_url": "https://stake.com/casino/games/popiplay-sweet-punks",
-      "extracted_at": "2025-08-06T01:28:16.805288"
+      "extracted_at": "2025-08-07T02:12:45.188012"
     },
     {
       "game_id": "popiplay-gates-of-anubis",
@@ -111,7 +104,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/21edb5bb6774a53e447ff7537c81add78aa5ec923c1213cd75ed2a069aca6f9c",
       "expected_filename": "Popiplay - Gates Of Anubis.webp",
       "game_url": "https://stake.com/casino/games/popiplay-gates-of-anubis",
-      "extracted_at": "2025-08-06T01:28:16.805288"
+      "extracted_at": "2025-08-07T02:12:45.188012"
     },
     {
       "game_id": "popiplay-xmas-crash",
@@ -121,7 +114,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/0a146c132a5e43d6f3c1f2ddd6f2ae4d127d21f231708454ac7aafe07bb1f33d",
       "expected_filename": "Popiplay - Xmas Crash.webp",
       "game_url": "https://stake.com/casino/games/popiplay-xmas-crash",
-      "extracted_at": "2025-08-06T01:28:16.805288"
+      "extracted_at": "2025-08-07T02:12:45.188012"
     },
     {
       "game_id": "popiplay-wild-witches",
@@ -131,7 +124,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/bf1a82d7a7a30ab3326c70d46a6cc05deb13d012c3f603b0346e61037f5d0cde",
       "expected_filename": "Popiplay - Wild Witches.webp",
       "game_url": "https://stake.com/casino/games/popiplay-wild-witches",
-      "extracted_at": "2025-08-06T01:28:16.805288"
+      "extracted_at": "2025-08-07T02:12:45.188012"
     },
     {
       "game_id": "popiplay-maxzilla",
@@ -141,7 +134,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/e6a7b69a468eaecd0d8d729acf78032f6ed89921ebe433d7611d5d65ef8c530b",
       "expected_filename": "Popiplay - Maxzilla.webp",
       "game_url": "https://stake.com/casino/games/popiplay-maxzilla",
-      "extracted_at": "2025-08-06T01:28:16.805288"
+      "extracted_at": "2025-08-07T02:12:45.188012"
     },
     {
       "game_id": "popiplay-wild-wild-steel",
@@ -151,7 +144,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/c55a7707105d3f5d72c36d49961b043c27a465a25936307f8c6784f9196153fd",
       "expected_filename": "Popiplay - Wild Wild Steel.webp",
       "game_url": "https://stake.com/casino/games/popiplay-wild-wild-steel",
-      "extracted_at": "2025-08-06T01:28:16.805288"
+      "extracted_at": "2025-08-07T02:12:45.188012"
     },
     {
       "game_id": "popiplay-detective-donut",
@@ -161,17 +154,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/5eb4d94e2574fc45ed78027279d5b8c6de8836998d45b3e4600a706a84623116",
       "expected_filename": "Popiplay - Detective Donut.webp",
       "game_url": "https://stake.com/casino/games/popiplay-detective-donut",
-      "extracted_at": "2025-08-06T01:28:16.805288"
-    },
-    {
-      "game_id": "popiplay-dogmasons",
-      "title": "Dogmasons",
-      "slug": "popiplay-dogmasons",
-      "provider": "Popiplay",
-      "thumbnail_url": "https://mediumrare.imgix.net/d84f5190f6748b18196598097eb2cc36048a84c22d39e05c94fdd6ad282d22a7",
-      "expected_filename": "Popiplay - Dogmasons.webp",
-      "game_url": "https://stake.com/casino/games/popiplay-dogmasons",
-      "extracted_at": "2025-08-06T01:28:16.805288"
+      "extracted_at": "2025-08-07T02:12:45.188012"
     },
     {
       "game_id": "popiplay-sons-of-monarchy",
@@ -181,7 +164,17 @@
       "thumbnail_url": "https://mediumrare.imgix.net/db5861e76f8ad9dd644123e468a885b5956e04c573c2a5eca099cbbb8a2f586b",
       "expected_filename": "Popiplay - Sons of Monarchy.webp",
       "game_url": "https://stake.com/casino/games/popiplay-sons-of-monarchy",
-      "extracted_at": "2025-08-06T01:28:16.805288"
+      "extracted_at": "2025-08-07T02:12:45.188012"
+    },
+    {
+      "game_id": "popiplay-dogmasons",
+      "title": "Dogmasons",
+      "slug": "popiplay-dogmasons",
+      "provider": "Popiplay",
+      "thumbnail_url": "https://mediumrare.imgix.net/d84f5190f6748b18196598097eb2cc36048a84c22d39e05c94fdd6ad282d22a7",
+      "expected_filename": "Popiplay - Dogmasons.webp",
+      "game_url": "https://stake.com/casino/games/popiplay-dogmasons",
+      "extracted_at": "2025-08-07T02:12:45.188012"
     },
     {
       "game_id": "popiplay-wild-piggy-bank",
@@ -191,17 +184,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/2e31818fac1db54219537657f08aa56a4367e960b6751f3544f3190e49a12e90",
       "expected_filename": "Popiplay - Wild Piggy Bank.webp",
       "game_url": "https://stake.com/casino/games/popiplay-wild-piggy-bank",
-      "extracted_at": "2025-08-06T01:28:16.805288"
-    },
-    {
-      "game_id": "popiplay-double-diamond-night",
-      "title": "Double Diamond Night",
-      "slug": "popiplay-double-diamond-night",
-      "provider": "Popiplay",
-      "thumbnail_url": "https://mediumrare.imgix.net/7503d0734ed59b03628e03b8c596df6ccc3465d0c995e7391570faca1c925538",
-      "expected_filename": "Popiplay - Double Diamond Night.webp",
-      "game_url": "https://stake.com/casino/games/popiplay-double-diamond-night",
-      "extracted_at": "2025-08-06T01:28:16.805288"
+      "extracted_at": "2025-08-07T02:12:45.188012"
     },
     {
       "game_id": "popiplay-master-of-lightning",
@@ -211,7 +194,17 @@
       "thumbnail_url": "https://mediumrare.imgix.net/7087bfbd7d534cd32cc1ac78976e7822dc5ff1136c6d3ad5029bb0ae2cf50f1e",
       "expected_filename": "Popiplay - Master of Lightning.webp",
       "game_url": "https://stake.com/casino/games/popiplay-master-of-lightning",
-      "extracted_at": "2025-08-06T01:28:16.805288"
+      "extracted_at": "2025-08-07T02:12:45.188012"
+    },
+    {
+      "game_id": "popiplay-double-diamond-night",
+      "title": "Double Diamond Night",
+      "slug": "popiplay-double-diamond-night",
+      "provider": "Popiplay",
+      "thumbnail_url": "https://mediumrare.imgix.net/7503d0734ed59b03628e03b8c596df6ccc3465d0c995e7391570faca1c925538",
+      "expected_filename": "Popiplay - Double Diamond Night.webp",
+      "game_url": "https://stake.com/casino/games/popiplay-double-diamond-night",
+      "extracted_at": "2025-08-07T02:12:45.188012"
     },
     {
       "game_id": "popiplay-dream-diner",
@@ -221,7 +214,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/536ac6e10fdb9fafd98847ab46a74029f5b8c0c656c750ecc43245f2139b5c36",
       "expected_filename": "Popiplay - Dream Diner.webp",
       "game_url": "https://stake.com/casino/games/popiplay-dream-diner",
-      "extracted_at": "2025-08-06T01:28:16.805288"
+      "extracted_at": "2025-08-07T02:12:45.188012"
     },
     {
       "game_id": "popiplay-money-fest",
@@ -231,7 +224,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/aea6534ac73b8237b7ac5ff2206b4c21ac1f712a2a6e8e18269b4796d3ca8d5f",
       "expected_filename": "Popiplay - Moneyfest.webp",
       "game_url": "https://stake.com/casino/games/popiplay-money-fest",
-      "extracted_at": "2025-08-06T01:28:16.805288"
+      "extracted_at": "2025-08-07T02:12:45.188012"
     },
     {
       "game_id": "popiplay-ruby-royal",
@@ -241,17 +234,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/3e1e7afce332ed0d14f739a318b2227b7478046dd7cab74c77ffa3146d6d9fa5",
       "expected_filename": "Popiplay - Ruby Royal.webp",
       "game_url": "https://stake.com/casino/games/popiplay-ruby-royal",
-      "extracted_at": "2025-08-06T01:28:16.805288"
-    },
-    {
-      "game_id": "popiplay-ninja-frog",
-      "title": "Ninja Frog",
-      "slug": "popiplay-ninja-frog",
-      "provider": "Popiplay",
-      "thumbnail_url": "https://mediumrare.imgix.net/f869cf773829f2f6956fb66653bd1f4c9b36cc7a640ae46d6e6e369a7e2324a7",
-      "expected_filename": "Popiplay - Ninja Frog.webp",
-      "game_url": "https://stake.com/casino/games/popiplay-ninja-frog",
-      "extracted_at": "2025-08-06T01:28:16.805288"
+      "extracted_at": "2025-08-07T02:12:45.188012"
     },
     {
       "game_id": "popiplay-money-mansion",
@@ -261,17 +244,17 @@
       "thumbnail_url": "https://mediumrare.imgix.net/db70e949c7d742881504e7d88953fca4e49689aeeb1b8156e815ab0e1e983c7d",
       "expected_filename": "Popiplay - Money Mansion.webp",
       "game_url": "https://stake.com/casino/games/popiplay-money-mansion",
-      "extracted_at": "2025-08-06T01:28:16.805288"
+      "extracted_at": "2025-08-07T02:12:45.188012"
     },
     {
-      "game_id": "popiplay-dogmasons-megawoof",
-      "title": "Dogmasons MegaWOOF",
-      "slug": "popiplay-dogmasons-megawoof",
+      "game_id": "popiplay-ninja-frog",
+      "title": "Ninja Frog",
+      "slug": "popiplay-ninja-frog",
       "provider": "Popiplay",
-      "thumbnail_url": "https://mediumrare.imgix.net/71dd5c3c78f436782be4922aff8c3a8c0800bf0a3e2c52d978cacef8c18cb384",
-      "expected_filename": "Popiplay - Dogmasons MegaWOOF.webp",
-      "game_url": "https://stake.com/casino/games/popiplay-dogmasons-megawoof",
-      "extracted_at": "2025-08-06T01:28:16.805288"
+      "thumbnail_url": "https://mediumrare.imgix.net/f869cf773829f2f6956fb66653bd1f4c9b36cc7a640ae46d6e6e369a7e2324a7",
+      "expected_filename": "Popiplay - Ninja Frog.webp",
+      "game_url": "https://stake.com/casino/games/popiplay-ninja-frog",
+      "extracted_at": "2025-08-07T02:12:45.188012"
     },
     {
       "game_id": "popiplay-lime-time",
@@ -281,7 +264,17 @@
       "thumbnail_url": "https://mediumrare.imgix.net/6c01275c5bbd9bb84fab7891bc962573acc52e55d0e28914d818a1fa3916e24d",
       "expected_filename": "Popiplay - Lime Time.webp",
       "game_url": "https://stake.com/casino/games/popiplay-lime-time",
-      "extracted_at": "2025-08-06T01:28:16.805288"
+      "extracted_at": "2025-08-07T02:12:45.188012"
+    },
+    {
+      "game_id": "popiplay-dogmasons-megawoof",
+      "title": "Dogmasons MegaWOOF",
+      "slug": "popiplay-dogmasons-megawoof",
+      "provider": "Popiplay",
+      "thumbnail_url": "https://mediumrare.imgix.net/71dd5c3c78f436782be4922aff8c3a8c0800bf0a3e2c52d978cacef8c18cb384",
+      "expected_filename": "Popiplay - Dogmasons MegaWOOF.webp",
+      "game_url": "https://stake.com/casino/games/popiplay-dogmasons-megawoof",
+      "extracted_at": "2025-08-07T02:12:45.188012"
     },
     {
       "game_id": "popiplay-gamba-mamba",
@@ -291,7 +284,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/af661fdf43b261e5a1515b95fa532bfceeb376463eb6ff5554043212143dbdbd",
       "expected_filename": "Popiplay - Gamba Mamba.webp",
       "game_url": "https://stake.com/casino/games/popiplay-gamba-mamba",
-      "extracted_at": "2025-08-06T01:28:16.805288"
+      "extracted_at": "2025-08-07T02:12:45.188012"
     },
     {
       "game_id": "popiplay-traders-fortune",
@@ -301,17 +294,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/833e3110c60742c49ef54c6c04b748e78e911e44721549aa8cd112e6dd82f613",
       "expected_filename": "Popiplay - Traders Fortune.webp",
       "game_url": "https://stake.com/casino/games/popiplay-traders-fortune",
-      "extracted_at": "2025-08-06T01:28:16.805288"
-    },
-    {
-      "game_id": "popiplay-wild-wild-bank",
-      "title": "Wild Wild Bank",
-      "slug": "popiplay-wild-wild-bank",
-      "provider": "Popiplay",
-      "thumbnail_url": "https://mediumrare.imgix.net/97f77d1f0fb8602e9301c9e3bdb94b87defc66d493e7f4e7c874c68391bddbfa",
-      "expected_filename": "Popiplay - Wild Wild Bank.webp",
-      "game_url": "https://stake.com/casino/games/popiplay-wild-wild-bank",
-      "extracted_at": "2025-08-06T01:28:16.805288"
+      "extracted_at": "2025-08-07T02:12:45.188012"
     },
     {
       "game_id": "popiplay-keys-to-the-sea",
@@ -321,7 +304,17 @@
       "thumbnail_url": "https://mediumrare.imgix.net/77f14e925f2eea0aaa832836d885f7362516ef515a929a49542dab6902873e14",
       "expected_filename": "Popiplay - Keys To The Sea.webp",
       "game_url": "https://stake.com/casino/games/popiplay-keys-to-the-sea",
-      "extracted_at": "2025-08-06T01:28:16.805288"
+      "extracted_at": "2025-08-07T02:12:45.188012"
+    },
+    {
+      "game_id": "popiplay-wild-wild-bank",
+      "title": "Wild Wild Bank",
+      "slug": "popiplay-wild-wild-bank",
+      "provider": "Popiplay",
+      "thumbnail_url": "https://mediumrare.imgix.net/97f77d1f0fb8602e9301c9e3bdb94b87defc66d493e7f4e7c874c68391bddbfa",
+      "expected_filename": "Popiplay - Wild Wild Bank.webp",
+      "game_url": "https://stake.com/casino/games/popiplay-wild-wild-bank",
+      "extracted_at": "2025-08-07T02:12:45.188012"
     },
     {
       "game_id": "popiplay-baba-jam",
@@ -331,7 +324,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/d4cc8df99e9ae60fbc7b8973c1ad059df883894a55e03cb974c6878434d7a196",
       "expected_filename": "Popiplay - Baba Jam.webp",
       "game_url": "https://stake.com/casino/games/popiplay-baba-jam",
-      "extracted_at": "2025-08-06T01:28:16.805288"
+      "extracted_at": "2025-08-07T02:12:45.188012"
     },
     {
       "game_id": "popiplay-wild-wild-gold",
@@ -341,17 +334,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/10801984c6ecfd9796448fe4ef67a4f9fe5eb25843fe766d5b36105d05db875f",
       "expected_filename": "Popiplay - Wild Wild Gold.webp",
       "game_url": "https://stake.com/casino/games/popiplay-wild-wild-gold",
-      "extracted_at": "2025-08-06T01:28:16.805288"
-    },
-    {
-      "game_id": "popiplay-roxdogs",
-      "title": "RoxDogs",
-      "slug": "popiplay-roxdogs",
-      "provider": "Popiplay",
-      "thumbnail_url": "https://mediumrare.imgix.net/595bde2eeb8279fe15126d6fb9734733879249871b21a6eb43dfed0a6603d52c",
-      "expected_filename": "Popiplay - RoxDogs.webp",
-      "game_url": "https://stake.com/casino/games/popiplay-roxdogs",
-      "extracted_at": "2025-08-06T01:28:16.805288"
+      "extracted_at": "2025-08-07T02:12:45.188012"
     },
     {
       "game_id": "popiplay-zoodiac",
@@ -361,7 +344,17 @@
       "thumbnail_url": "https://mediumrare.imgix.net/f2eb055d01cb72b5de6d8e4e8f26deeb8c5c3b0eccc2caeb676d5a3fcfe5cb17",
       "expected_filename": "Popiplay - Zoodiac.webp",
       "game_url": "https://stake.com/casino/games/popiplay-zoodiac",
-      "extracted_at": "2025-08-06T01:28:16.805288"
+      "extracted_at": "2025-08-07T02:12:45.188012"
+    },
+    {
+      "game_id": "popiplay-roxdogs",
+      "title": "RoxDogs",
+      "slug": "popiplay-roxdogs",
+      "provider": "Popiplay",
+      "thumbnail_url": "https://mediumrare.imgix.net/595bde2eeb8279fe15126d6fb9734733879249871b21a6eb43dfed0a6603d52c",
+      "expected_filename": "Popiplay - RoxDogs.webp",
+      "game_url": "https://stake.com/casino/games/popiplay-roxdogs",
+      "extracted_at": "2025-08-07T02:12:45.188012"
     },
     {
       "game_id": "popiplay-bubbles",
@@ -371,7 +364,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/f91e7ced320b6982e575dc4d454e322cf611d6a3282884f7df23cd63fbf3ece8",
       "expected_filename": "Popiplay - Bubbles.webp",
       "game_url": "https://stake.com/casino/games/popiplay-bubbles",
-      "extracted_at": "2025-08-06T01:28:16.805288"
+      "extracted_at": "2025-08-07T02:12:45.188012"
     },
     {
       "game_id": "popiplay-cultist",
@@ -381,7 +374,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/c5ca3904317568a7df6959ffbaebbea4e381ad45bba41ed33cf772dacf9bf24e",
       "expected_filename": "Popiplay - Cultist.webp",
       "game_url": "https://stake.com/casino/games/popiplay-cultist",
-      "extracted_at": "2025-08-06T01:28:16.805288"
+      "extracted_at": "2025-08-07T02:12:45.188012"
     },
     {
       "game_id": "popiplay-guns-and-dragons",
@@ -391,7 +384,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/7771380c2f3c1456c46dc5693a352da97c1b8b1f6b45da96da9216eb6ea73f49",
       "expected_filename": "Popiplay - Guns And Dragons.webp",
       "game_url": "https://stake.com/casino/games/popiplay-guns-and-dragons",
-      "extracted_at": "2025-08-06T01:28:16.805288"
+      "extracted_at": "2025-08-07T02:12:45.188012"
     },
     {
       "game_id": "popiplay-hanafuda",
@@ -401,238 +394,9 @@
       "thumbnail_url": "https://mediumrare.imgix.net/4a04af038d5a1b81dbf12efa88066ff83a2916ee0d1972837ab5674237621df9",
       "expected_filename": "Popiplay - Hanafuda.webp",
       "game_url": "https://stake.com/casino/games/popiplay-hanafuda",
-      "extracted_at": "2025-08-06T01:28:16.805288"
-    },
-    {
-      "id": "1ea52e33-e070-4bdd-89a4-728fdf88d818",
-      "name": "Clover Castle",
-      "slug": "popiplay-clover-castle",
-      "thumbnailUrl": "https://mediumrare.imgix.net/480bef56bfde628cced55393464bcd298403a30753a467b3c2cad638ab78ba78",
-      "thumbnailBlurHash": "edL4yBRkO@xZbY*rafpJofW?8qs.t7S2NH-?a|jDWWVsNnW=e.oJwK",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "8b76985a-f14b-4db4-b969-0a4395431712",
-      "name": "Queen of the Nile",
-      "slug": "popiplay-queen-of-the-nile",
-      "thumbnailUrl": "https://mediumrare.imgix.net/98fc3f60f0e3412c79161fc73e04e7b8a413189919ada9ea6540188f5ae0f832",
-      "thumbnailBlurHash": "eZKwzvE2TfaeVr2{D*pJjYjE^KIAV?oKk9%#RjR4s:R+I9ofn$t7oz",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "213158a1-d092-4d6d-afbd-86eab77efdb4",
-      "name": "Amazon City Of Gold",
-      "slug": "popiplay-amazon-city-of-gold",
-      "thumbnailUrl": "https://mediumrare.imgix.net/b173be229752d734bcbf05524e93ed501947a8074c791d829f0048bd36f6ecba",
-      "thumbnailBlurHash": "eqJjYfa~I:a$R*2Tj]X8WXkW#kbHbHoet6lSj[WBj@aee,jsofWCa#",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "bd8fedad-0dd0-4bad-b384-6d6eb4e3d02c",
-      "name": "Angry Fruits Xpress",
-      "slug": "popiplay-angry-fruits-xpress",
-      "thumbnailUrl": "https://mediumrare.imgix.net/756a3849f70f6fd5de670568ad9dc8f5e42b72534960e66cde37e45faa51ee8e",
-      "thumbnailBlurHash": "egOxs]Kuv%nASZ3OS_XAjcXP:knBI[o_jK?HebNFovnPrCW=bvX3kS",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "c99a2f38-27db-479e-aacf-f424ca77c6bb",
-      "name": "Store Wars",
-      "slug": "popiplay-store-wars",
-      "thumbnailUrl": "https://mediumrare.imgix.net/5552768b0afa2108e7b3f84f43a1e7a577945f0d43413825bbeca3466bfe9c4b",
-      "thumbnailBlurHash": "eYI5#Wo}9bWBIpqGj[OZjFjcB$SLN[s.#p=NV@RPf*enBNo2$*R+XR",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "2be09ef5-e1f6-40c5-bc08-269060e3d794",
-      "name": "UFO Joe",
-      "slug": "popiplay-ufo-joe",
-      "thumbnailUrl": "https://mediumrare.imgix.net/18eecb71c1767fe22fea71ed5abaea95bc84e86c4b9484331ec53b4716822f12",
-      "thumbnailBlurHash": "ehGuM2RiI1t7jK78WAnVt7jcv?WUoMs:oc-rWnNGobWCMloftPf6j[",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "e2ce2262-8339-4c01-8b6c-74cc8c19ef19",
-      "name": "Xperiment Gold",
-      "slug": "popiplay-xperiment-gold",
-      "thumbnailUrl": "https://mediumrare.imgix.net/4a6c982f04ca93a73b530889ce5692ee775cc7cd6b9bb0c512947aa15f18cec0",
-      "thumbnailBlurHash": "eUM5|v*07ztMS~3:u4Y5oGWqAvTJ#Rn3r=*JWXm,nNnOmln$kpjYR.",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "b4dd1ddf-8d2d-4987-9e7e-16ccb0fc1fb7",
-      "name": "Fish and Cash",
-      "slug": "popiplay-fish-and-cash",
-      "thumbnailUrl": "https://mediumrare.imgix.net/b9c95c5cce912f1f68695d1791ad13f5a419ff7010f70c9572751d7449648f9b",
-      "thumbnailBlurHash": "eJEEZy9K5K$~IdmSNM%Ms:V|1jx@$^R*xV+kxtIpnNNHDtS#$|xCW-",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "a6589c39-e886-49e7-a671-e40409c782aa",
-      "name": "Moneyscript",
-      "slug": "popiplay-moneyscript",
-      "thumbnailUrl": "https://mediumrare.imgix.net/d3ec484fb8eada1fe966219b58c33c6ed37f4a6dd25f3cd820529983f9a64425",
-      "thumbnailBlurHash": "eSDKlFo;L2kPnhD=S?cGX2xHKzbpr^kBRP.9ozv}ogIU0wWXxYWEtQ",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "8dbd43e4-0a92-4435-bb35-e0183f2a6e21",
-      "name": "Fish And Cash Arctic",
-      "slug": "popiplay-fish-and-cash-arctic",
-      "thumbnailUrl": "https://mediumrare.imgix.net/674b2c1eef0bda758ef372e3a4da71807ba27a200ed7999815dd9c6a0df6c08f",
-      "thumbnailBlurHash": "elHDEjkC5YoyNf?OWqOsobS5CAWqo|aew]GckBV[WEwIAIoI$$bJr=",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "405a72b7-4673-48c4-ad3d-25b680e3ee54",
-      "name": "Five Guys",
-      "slug": "popiplay-five-guys",
-      "thumbnailUrl": "https://mediumrare.imgix.net/a24e4fe54f442d59c8f7befaa1d7ab8d61038a2e58c674e349b64456ccc68602",
-      "thumbnailBlurHash": "eMQtPVadMwVuxTBNRjT1e.xu9ORkRpobahYkRkZ#oya0Dje.tRoeo}",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "8890de79-3e09-455f-b839-3a3d9f969c17",
-      "name": "Axe Max",
-      "slug": "popiplay-axe-max",
-      "thumbnailUrl": "https://mediumrare.imgix.net/6544b4c7f2017ce9478ce94e6e03380a18acfc9a51f72b91c604d455f2766de0",
-      "thumbnailBlurHash": "efE|=1RPOZtlxa#MRP%ftSs;PXnio|kWbIt*s:IpWobFE1oIs+j?fO",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "7b5b73d0-1c5e-4039-b782-71d7ed116055",
-      "name": "Emotions",
-      "slug": "popiplay-emotions",
-      "thumbnailUrl": "https://mediumrare.imgix.net/fae4df41a45fa0517df27fa249fa17797930063f81d25c7698dbad3dc38aef16",
-      "thumbnailBlurHash": "efJ8xJS6AdodN4v4WGoyj?sq1QnmwGjYWFs]jbRkoJNID=S1tRoLxV",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "e985ae5d-55e1-41a5-872a-26d88be0c3e3",
-      "name": "Raven Bjorn",
-      "slug": "popiplay-raven-bjorn",
-      "thumbnailUrl": "https://mediumrare.imgix.net/bd3e43f8b143781f6f265aa912ab67242c1287e54d36906795b88c1418f122f6",
-      "thumbnailBlurHash": "e#MX$8s.r;Wqw[1GoLg2WVoz+vWVSOj@bIyDWVV[ofaKR5oLX8jskC",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "fc000e6e-2657-4757-885b-ead5db52ef4e",
-      "name": "Tik Tak Toad",
-      "slug": "popiplay-tik-tak-toad",
-      "thumbnailUrl": "https://mediumrare.imgix.net/855cb3d933496f3fa41443dbf8d0d8493b87683170b9fd1c3c68c0bd1a294409",
-      "thumbnailBlurHash": "eeIX?,ShB9v~I:3@S#Tbrsk9gSbrsmnTwwYOk8aKaiVuM$oKtMWUoz",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "86537b69-7a2a-4e52-b21c-0edaaca0e720",
-      "name": "Unipopcorn",
-      "slug": "popiplay-unipopcorn",
-      "thumbnailUrl": "https://mediumrare.imgix.net/3812176fafdaf5e31e965ff82fca9dc4eec4a565f94b1887138aac52bf433660",
-      "thumbnailBlurHash": "eUNJItWG%3tPof$]fOo}t3Rp0WWENGadN2xmjZRiWAX39Ja%ocoet1",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "17d410c9-5fc6-431e-9b12-c1749126b045",
-      "name": "Mythos",
-      "slug": "popiplay-mythos",
-      "thumbnailUrl": "https://mediumrare.imgix.net/ba566fc4726b7c0539a6e3b6ecebf8df19341ade7d408714fe52d62b312c2886",
-      "thumbnailBlurHash": "edO{8U-nXTxuS%22xVXAxaXAVZr;t6t7n~cts+s,SiskVtt7jFNGoz",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "1558045f-444f-406f-8f92-5f595c684b79",
-      "name": "Creepy Ink",
-      "slug": "popiplay-creepy-ink",
-      "thumbnailUrl": "https://mediumrare.imgix.net/d444ae8f20e377dc80f9a9148e75f6edc4b53804b3f4b71582a9014bd63d629f",
-      "thumbnailBlurHash": "eUG-0VnPC7W.TJ.;RjtSkCSyCjSgibofn4*0gNMwkCn49vkqxYa|WC",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "978de3bb-aa0d-4504-9097-00a1bb9802f7",
-      "name": "Cipollino",
-      "slug": "popiplay-cipollino",
-      "thumbnailUrl": "https://mediumrare.imgix.net/d630dd21beb91455944d237ece08c1f81b133678452a41ffa3ad529332f1a8fd",
-      "thumbnailBlurHash": "etLDvBX8IfbaRRK?bHW@bFn%5ef8s,fis*Tea#jEjZV@N2ayoajtkC",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "963961d7-0165-44ff-b99f-931dfd507b8c",
-      "name": "Slotham City",
-      "slug": "popiplay-slotham-city",
-      "thumbnailUrl": "https://mediumrare.imgix.net/50acbb21fd00c47ba3a6a85dcb59535443c05cc3fda238d5cb1865fcafdfa64e",
-      "thumbnailBlurHash": "eWIN;Or:DH%1x1CCRiRkt6n.#LbIkkf9Nr^,ogsrn,M|D-bb%LR*V{",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "40ad8e2a-8b97-4485-9903-9a7f108b022b",
-      "name": "Spinguin",
-      "slug": "popiplay-spinguin",
-      "thumbnailUrl": "https://mediumrare.imgix.net/e0b81fba8f02c2543a61c675c38e770d4650ac9353703f1583ab77f3c1722b39",
-      "thumbnailBlurHash": "eNI$jXrz75NsNOD$jLyFjEtS1ANd,2wtoz?qR*IAs*IU4:aKSzN|r:",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
+      "extracted_at": "2025-08-07T02:12:45.188012"
     }
-  ]
+  ],
+  "timestamp": "2025-08-07T02:12:45.188012",
+  "source": "initial_html_fetch"
 }

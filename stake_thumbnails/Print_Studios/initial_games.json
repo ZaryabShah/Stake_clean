@@ -14,7 +14,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/0468864985b15d2622eed6ead4d5bf0eb08811bd6e4d3269db2fea31195dd747",
       "expected_filename": "Print Studios - Pine Of Plinko 2.webp",
       "game_url": "https://stake.com/casino/games/print-pine-of-plinko-2",
-      "extracted_at": "2025-08-06T01:05:22.905765"
+      "extracted_at": "2025-08-07T02:14:18.343324"
     },
     {
       "game_id": "print-eldritch-dungeon",
@@ -24,7 +24,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/2740cf8880e283cacaf6a6e7bd8795df9aa2c16fd093d4ff63bbbc28befa4b24",
       "expected_filename": "Print Studios - Eldritch Dungeon.webp",
       "game_url": "https://stake.com/casino/games/print-eldritch-dungeon",
-      "extracted_at": "2025-08-06T01:05:22.905765"
+      "extracted_at": "2025-08-07T02:14:18.343324"
     },
     {
       "game_id": "print-pond-of-plinko",
@@ -34,17 +34,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/65b03986150edc524709bfd82e95ef50b6666f4bb37eeb0af601bfca5c06eaf7",
       "expected_filename": "Print Studios - Pond Of Plinko.webp",
       "game_url": "https://stake.com/casino/games/print-pond-of-plinko",
-      "extracted_at": "2025-08-06T01:05:22.905765"
-    },
-    {
-      "game_id": "print-uncle-profit",
-      "title": "Uncle Profit",
-      "slug": "print-uncle-profit",
-      "provider": "Print Studios",
-      "thumbnail_url": "https://mediumrare.imgix.net/d79af202475cfb163549cbb8e99762519cd5f4e7f5b3373f546029fa2c917240",
-      "expected_filename": "Print Studios - Uncle Profit.webp",
-      "game_url": "https://stake.com/casino/games/print-uncle-profit",
-      "extracted_at": "2025-08-06T01:05:22.905765"
+      "extracted_at": "2025-08-07T02:14:18.343324"
     },
     {
       "game_id": "print-holy-hand-grenade",
@@ -54,7 +44,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/d17ad47efd3ebe3815a0e6ffcca8fb4fe9a14be51261342bebf36c02c5c59c42",
       "expected_filename": "Print Studios - Holy Hand Grenade.webp",
       "game_url": "https://stake.com/casino/games/print-holy-hand-grenade",
-      "extracted_at": "2025-08-06T01:05:22.905765"
+      "extracted_at": "2025-08-07T02:14:18.343324"
     },
     {
       "game_id": "print-royal-potato-2",
@@ -64,7 +54,17 @@
       "thumbnail_url": "https://mediumrare.imgix.net/be7cc40dfa6c13e5f58a8073e994ffd78599845fa725210bc148783972038562",
       "expected_filename": "Print Studios - Royal Potato 2.webp",
       "game_url": "https://stake.com/casino/games/print-royal-potato-2",
-      "extracted_at": "2025-08-06T01:05:22.905765"
+      "extracted_at": "2025-08-07T02:14:18.343324"
+    },
+    {
+      "game_id": "print-uncle-profit",
+      "title": "Uncle Profit",
+      "slug": "print-uncle-profit",
+      "provider": "Print Studios",
+      "thumbnail_url": "https://mediumrare.imgix.net/d79af202475cfb163549cbb8e99762519cd5f4e7f5b3373f546029fa2c917240",
+      "expected_filename": "Print Studios - Uncle Profit.webp",
+      "game_url": "https://stake.com/casino/games/print-uncle-profit",
+      "extracted_at": "2025-08-07T02:14:18.343324"
     },
     {
       "game_id": "print-darkness",
@@ -74,7 +74,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/d5b0109489f88fc22f6fe55de9c57803a174f2a0dceb0b6df14a398a31b8b3d1",
       "expected_filename": "Print Studios - Darkness.webp",
       "game_url": "https://stake.com/casino/games/print-darkness",
-      "extracted_at": "2025-08-06T01:05:22.905765"
+      "extracted_at": "2025-08-07T02:14:18.343324"
     },
     {
       "game_id": "print-pine-of-plinko",
@@ -84,7 +84,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/e4c7b2c6cc82654ba05abe96daa0673cb8f5f147ffe243609d03c69b7ed097df",
       "expected_filename": "Print Studios - Pine Of Plinko.webp",
       "game_url": "https://stake.com/casino/games/print-pine-of-plinko",
-      "extracted_at": "2025-08-06T01:05:22.905765"
+      "extracted_at": "2025-08-07T02:14:18.343324"
     },
     {
       "game_id": "print-big-stack-lumberjack",
@@ -94,7 +94,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/48abffaf9f372cbd0f78f051e3c8097f31f5d2d89643463736a893536a026ecc",
       "expected_filename": "Print Studios - Big Stack Lumberjack.webp",
       "game_url": "https://stake.com/casino/games/print-big-stack-lumberjack",
-      "extracted_at": "2025-08-06T01:05:22.905765"
+      "extracted_at": "2025-08-07T02:14:18.343324"
     },
     {
       "game_id": "print-royal-potato",
@@ -104,7 +104,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/bd7876240874ff3751d9e245d096300e856f5b7a7d9e0ab54e888838c45b4216",
       "expected_filename": "Print Studios - Royal Potato.webp",
       "game_url": "https://stake.com/casino/games/print-royal-potato",
-      "extracted_at": "2025-08-06T01:05:22.905765"
+      "extracted_at": "2025-08-07T02:14:18.343324"
     },
     {
       "game_id": "print-dreadworks",
@@ -114,7 +114,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/89ba62c501915eb58b008aa277ac7a895ef84fd03160987d3d7cfd55381962a0",
       "expected_filename": "Print Studios - Dreadworks.webp",
       "game_url": "https://stake.com/casino/games/print-dreadworks",
-      "extracted_at": "2025-08-06T01:05:22.905765"
+      "extracted_at": "2025-08-07T02:14:18.343324"
     },
     {
       "game_id": "print-cash-defense",
@@ -124,7 +124,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/cea1554822d4515f9b003a3feeb7442e3c21106f8069102bbaf3cff2e8eb0efd",
       "expected_filename": "Print Studios - Cash Defense.webp",
       "game_url": "https://stake.com/casino/games/print-cash-defense",
-      "extracted_at": "2025-08-06T01:05:22.905765"
+      "extracted_at": "2025-08-07T02:14:18.343324"
     },
     {
       "game_id": "print-book-of-destiny",
@@ -134,7 +134,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/c05fabafc32843dfb31e900de5c9cf8bafee499b3264ae4a16aa0dd0db23d447",
       "expected_filename": "Print Studios - Book Of Destiny.webp",
       "game_url": "https://stake.com/casino/games/print-book-of-destiny",
-      "extracted_at": "2025-08-06T01:05:22.905765"
+      "extracted_at": "2025-08-07T02:14:18.343324"
     },
     {
       "game_id": "print-tarasque",
@@ -144,7 +144,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/5c51ea9276f850a8210075e02ba11e379c4d8821b2d8690a333cd337e54900eb",
       "expected_filename": "Print Studios - Tarasque.webp",
       "game_url": "https://stake.com/casino/games/print-tarasque",
-      "extracted_at": "2025-08-06T01:05:22.905765"
+      "extracted_at": "2025-08-07T02:14:18.343324"
     },
     {
       "game_id": "print-honey-hunters",
@@ -154,7 +154,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/76dcfe5f96b942647f6fae92f9b5e6e5154380283636671a29e193465ff392c7",
       "expected_filename": "Print Studios - Honey Hunters.webp",
       "game_url": "https://stake.com/casino/games/print-honey-hunters",
-      "extracted_at": "2025-08-06T01:05:22.905765"
+      "extracted_at": "2025-08-07T02:14:18.343324"
     },
     {
       "game_id": "print-chomplings",
@@ -164,7 +164,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/c5eae7a28fc00ff77e5cc73b32e9c975c95433da62067df014beaba01128d938",
       "expected_filename": "Print Studios - Chomplings.webp",
       "game_url": "https://stake.com/casino/games/print-chomplings",
-      "extracted_at": "2025-08-06T01:05:22.905765"
+      "extracted_at": "2025-08-07T02:14:18.343324"
     },
     {
       "game_id": "print-shinobi-spirit",
@@ -174,7 +174,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/4b42430645f4fbbcb299af4ebcf92ae73dfea1f62fd047cb9c02d949e6ecad9e",
       "expected_filename": "Print Studios - Shinobi Spirit.webp",
       "game_url": "https://stake.com/casino/games/print-shinobi-spirit",
-      "extracted_at": "2025-08-06T01:05:22.905765"
+      "extracted_at": "2025-08-07T02:14:18.343324"
     },
     {
       "game_id": "print-reapers",
@@ -184,7 +184,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/46e9eb85d7cb291f0cddb8d02b649aac4a8d395007eecd492a4d15f9c5701e94",
       "expected_filename": "Print Studios - Reapers.webp",
       "game_url": "https://stake.com/casino/games/print-reapers",
-      "extracted_at": "2025-08-06T01:05:22.905765"
+      "extracted_at": "2025-08-07T02:14:18.343324"
     },
     {
       "game_id": "print-win-o-mart",
@@ -194,7 +194,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/11b11bc1bf954faabafbbcc252b55a60b9f0e776a031ba3289d29f5fe2a34cbe",
       "expected_filename": "Print Studios - Win-O-Mart.webp",
       "game_url": "https://stake.com/casino/games/print-win-o-mart",
-      "extracted_at": "2025-08-06T01:05:22.905765"
+      "extracted_at": "2025-08-07T02:14:18.343324"
     },
     {
       "game_id": "print-out-of-the-ice",
@@ -204,7 +204,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/f55b9ae108410ce90a13189e65a6e5b3707ab9adaec764030259e85266ab696d",
       "expected_filename": "Print Studios - Out Of The Ice.webp",
       "game_url": "https://stake.com/casino/games/print-out-of-the-ice",
-      "extracted_at": "2025-08-06T01:05:22.905765"
+      "extracted_at": "2025-08-07T02:14:18.343324"
     },
     {
       "game_id": "print-huntress-wild-vengeance",
@@ -214,7 +214,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/207dfde45a25b5fc05bf2421fcb897c83fbb7b1561a5f5f15c6a01e27d5137f3",
       "expected_filename": "Print Studios - Huntress Wild Vengeance.webp",
       "game_url": "https://stake.com/casino/games/print-huntress-wild-vengeance",
-      "extracted_at": "2025-08-06T01:05:22.905765"
+      "extracted_at": "2025-08-07T02:14:18.343324"
     },
     {
       "game_id": "print-crystal-golem",
@@ -224,9 +224,9 @@
       "thumbnail_url": "https://mediumrare.imgix.net/2ac2d4a2a1d207fe59108c41e8d22de1e82918dee17ca1e52abfdca51581d79e",
       "expected_filename": "Print Studios - Crystal Golem.webp",
       "game_url": "https://stake.com/casino/games/print-crystal-golem",
-      "extracted_at": "2025-08-06T01:05:22.905765"
+      "extracted_at": "2025-08-07T02:14:18.343324"
     }
   ],
-  "timestamp": "2025-08-06T01:05:22.905765",
+  "timestamp": "2025-08-07T02:14:18.343324",
   "source": "initial_html_fetch"
 }

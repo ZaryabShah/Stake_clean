@@ -1,13 +1,13 @@
 {
-  "timestamp": "2025-08-06T06:04:33.812Z",
+  "timestamp": "2025-08-07T02:08:38.788695",
   "provider_slug": "b-gaming",
   "provider_name": "B Gaming",
-  "status": "completed",
+  "status": "initial_completed",
   "total_games": 153,
-  "games_fetched": 153,
-  "is_complete": true,
-  "needs_pagination": false,
+  "games_fetched": 39,
+  "is_complete": false,
+  "needs_pagination": true,
   "output_dir": "stake_thumbnails\\B_Gaming",
   "games_data_file": "stake_thumbnails\\B_Gaming\\initial_games.json",
-  "source": "parallel_graphql_fetch"
+  "source": "initial_html_fetch"
 }

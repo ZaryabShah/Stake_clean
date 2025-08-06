@@ -1,17 +1,10 @@
 {
-  "timestamp": "2025-08-06T03:50:05.316Z",
-  "provider": {
-    "id": "red-rake-gaming",
-    "name": "Red Rake Gaming",
-    "slug": "red-rake-gaming"
-  },
-  "summary": {
-    "totalGames": 45,
-    "fetchedGames": 45,
-    "remainingGames": 0,
-    "isComplete": true,
-    "currentOffset": 45
-  },
+  "provider": "Red Rake Gaming",
+  "provider_slug": "red-rake-gaming",
+  "total_games": 45,
+  "games_fetched": 39,
+  "is_complete": false,
+  "needs_pagination": true,
   "games": [
     {
       "game_id": "redrake-beating-alcatraz",
@@ -21,7 +14,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/35281e44a0dd8306eaa7661e674300d14c55796380d77c7541eab8df764b8e52",
       "expected_filename": "Red Rake Gaming - Beating Alcatraz.webp",
       "game_url": "https://stake.com/casino/games/redrake-beating-alcatraz",
-      "extracted_at": "2025-08-06T01:17:36.561966"
+      "extracted_at": "2025-08-07T02:21:47.565142"
     },
     {
       "game_id": "redrake-super-60-stars",
@@ -31,7 +24,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/92f76201ea09403d38a62229b67b4dbd5c62b88012ff4f570785d7499fdccfb3",
       "expected_filename": "Red Rake Gaming - Super 60 Stars.webp",
       "game_url": "https://stake.com/casino/games/redrake-super-60-stars",
-      "extracted_at": "2025-08-06T01:17:36.561966"
+      "extracted_at": "2025-08-07T02:21:47.565142"
     },
     {
       "game_id": "redrake-sugar-burst",
@@ -41,7 +34,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/25724ca43a096165ab8a109c6b48f64fda218ff4e70b9484fb476e4af2da4c21",
       "expected_filename": "Red Rake Gaming - Sugar Burst.webp",
       "game_url": "https://stake.com/casino/games/redrake-sugar-burst",
-      "extracted_at": "2025-08-06T01:17:36.561966"
+      "extracted_at": "2025-08-07T02:21:47.565142"
     },
     {
       "game_id": "redrake-million-777-wheel",
@@ -51,7 +44,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/5536a597207e7ebc95e48fd97bfb7cd72d6b6b57cf4ff4f6e7e47088795bb88c",
       "expected_filename": "Red Rake Gaming - Million 777 Wheel.webp",
       "game_url": "https://stake.com/casino/games/redrake-million-777-wheel",
-      "extracted_at": "2025-08-06T01:17:36.561966"
+      "extracted_at": "2025-08-07T02:21:47.565142"
     },
     {
       "game_id": "redrake-midas-wins",
@@ -61,7 +54,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/13731a207463703586a125c2e53920dc1c054e8c752e8714179de04b67011d01",
       "expected_filename": "Red Rake Gaming - Midas Wins.webp",
       "game_url": "https://stake.com/casino/games/redrake-midas-wins",
-      "extracted_at": "2025-08-06T01:17:36.561966"
+      "extracted_at": "2025-08-07T02:21:47.565142"
     },
     {
       "game_id": "redrake-million-zeus-2",
@@ -71,7 +64,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/b37f94d07f143cb2792ed4985235cadbdfe35b42400be3de491725e69e7bd0e3",
       "expected_filename": "Red Rake Gaming - Million Zeus 2.webp",
       "game_url": "https://stake.com/casino/games/redrake-million-zeus-2",
-      "extracted_at": "2025-08-06T01:17:36.561966"
+      "extracted_at": "2025-08-07T02:21:47.565142"
     },
     {
       "game_id": "redrake-million-777-bells",
@@ -81,7 +74,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/b6794f0ea65740f6fae752816cf95e49f8bf5b2d65b9d7353f1dabf6f211b736",
       "expected_filename": "Red Rake Gaming - Million 777 Bells.webp",
       "game_url": "https://stake.com/casino/games/redrake-million-777-bells",
-      "extracted_at": "2025-08-06T01:17:36.561966"
+      "extracted_at": "2025-08-07T02:21:47.565142"
     },
     {
       "game_id": "redrake-million-irish",
@@ -91,7 +84,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/a133a5358efaf50472216a3a4ecbf74a6b9c1286246cb08925daa2534a77cc9d",
       "expected_filename": "Red Rake Gaming - Million Irish.webp",
       "game_url": "https://stake.com/casino/games/redrake-million-irish",
-      "extracted_at": "2025-08-06T01:17:36.561966"
+      "extracted_at": "2025-08-07T02:21:47.565142"
     },
     {
       "game_id": "redrake-grand-bison",
@@ -101,7 +94,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/8cba1f031c81969328d0a746803e4040afbd72c686a575f47019f8bb9db8fe11",
       "expected_filename": "Red Rake Gaming - Grand Bison.webp",
       "game_url": "https://stake.com/casino/games/redrake-grand-bison",
-      "extracted_at": "2025-08-06T01:17:36.561966"
+      "extracted_at": "2025-08-07T02:21:47.565142"
     },
     {
       "game_id": "redrake-buffalo-on-fire",
@@ -111,7 +104,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/312b67670201d652afc5befdef92b872fc90f9119eeaac74eaa454501951b245",
       "expected_filename": "Red Rake Gaming - Buffalo on fire!.webp",
       "game_url": "https://stake.com/casino/games/redrake-buffalo-on-fire",
-      "extracted_at": "2025-08-06T01:17:36.561966"
+      "extracted_at": "2025-08-07T02:21:47.565142"
     },
     {
       "game_id": "redrake-million-zeus",
@@ -121,7 +114,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/7cac52f66b8bd80b07b659e90d1020ca8875e03007811831ed105cb5db0a87f3",
       "expected_filename": "Red Rake Gaming - Million Zeus.webp",
       "game_url": "https://stake.com/casino/games/redrake-million-zeus",
-      "extracted_at": "2025-08-06T01:17:36.561966"
+      "extracted_at": "2025-08-07T02:21:47.565142"
     },
     {
       "game_id": "redrake-super-50-stars",
@@ -131,7 +124,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/a04d1bc35bdd8f0ad3cb50ef512ad16650e71d31fab11e16861f56700cad6d85",
       "expected_filename": "Red Rake Gaming - Super 50 Stars.webp",
       "game_url": "https://stake.com/casino/games/redrake-super-50-stars",
-      "extracted_at": "2025-08-06T01:17:36.561966"
+      "extracted_at": "2025-08-07T02:21:47.565142"
     },
     {
       "game_id": "redrake-gold-rush-riches",
@@ -141,7 +134,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/ae564c5047f10aa9a8f9defe971cf75775bb22c97f14aba53cdd7eba7808655b",
       "expected_filename": "Red Rake Gaming - Gold Rush Riches.webp",
       "game_url": "https://stake.com/casino/games/redrake-gold-rush-riches",
-      "extracted_at": "2025-08-06T01:17:36.561966"
+      "extracted_at": "2025-08-07T02:21:47.565142"
     },
     {
       "game_id": "redrake-legacy-of-athena",
@@ -151,7 +144,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/bf0ed37b35631f55c3d56fbe86012511bdf908f11c124a5ccf47c310185298a2",
       "expected_filename": "Red Rake Gaming - Legacy Of Athena.webp",
       "game_url": "https://stake.com/casino/games/redrake-legacy-of-athena",
-      "extracted_at": "2025-08-06T01:17:36.561966"
+      "extracted_at": "2025-08-07T02:21:47.565142"
     },
     {
       "game_id": "redrake-bigger-size-fishin",
@@ -161,7 +154,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/b95e6b71b6c48c3300ea8fafe700d179d40cfeddd043e6108c9ca13fb0ee347b",
       "expected_filename": "Red Rake Gaming - Bigger Size Fishin.webp",
       "game_url": "https://stake.com/casino/games/redrake-bigger-size-fishin",
-      "extracted_at": "2025-08-06T01:17:36.561966"
+      "extracted_at": "2025-08-07T02:21:47.565142"
     },
     {
       "game_id": "redrake-cleo-team",
@@ -171,7 +164,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/6bd4e37ab9633aad8ca365ec876d30d3042b2f79bbb758e734aa5491890036a5",
       "expected_filename": "Red Rake Gaming - Cleo Team.webp",
       "game_url": "https://stake.com/casino/games/redrake-cleo-team",
-      "extracted_at": "2025-08-06T01:17:36.561966"
+      "extracted_at": "2025-08-07T02:21:47.565142"
     },
     {
       "game_id": "redrake-big-size-fishin",
@@ -181,7 +174,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/b4e960c70ee053a0d9806e4fff1a43622772c2164253cefa1047f9ec6a81a3e0",
       "expected_filename": "Red Rake Gaming - Big Size Fishin.webp",
       "game_url": "https://stake.com/casino/games/redrake-big-size-fishin",
-      "extracted_at": "2025-08-06T01:17:36.561966"
+      "extracted_at": "2025-08-07T02:21:47.565142"
     },
     {
       "game_id": "redrake-boomerang-jacks-lost-mines",
@@ -191,17 +184,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/441da47d6488f3501b3897eb189fbfb45e5b9eff526f341192f2b6cfcbfe3b41",
       "expected_filename": "Red Rake Gaming - Boomerang Jack's Lost Mines.webp",
       "game_url": "https://stake.com/casino/games/redrake-boomerang-jacks-lost-mines",
-      "extracted_at": "2025-08-06T01:17:36.561966"
-    },
-    {
-      "game_id": "redrake-20000-waves",
-      "title": "20,000 Waves",
-      "slug": "redrake-20000-waves",
-      "provider": "Red Rake Gaming",
-      "thumbnail_url": "https://mediumrare.imgix.net/e5b714fdaad20e85930cf03c34a8f687ff310f997f56d0c43f1944948dffc48e",
-      "expected_filename": "Red Rake Gaming - 20,000 Waves.webp",
-      "game_url": "https://stake.com/casino/games/redrake-20000-waves",
-      "extracted_at": "2025-08-06T01:17:36.561966"
+      "extracted_at": "2025-08-07T02:21:47.565142"
     },
     {
       "game_id": "redrake-777-heist-2-the-art-forger",
@@ -211,7 +194,17 @@
       "thumbnail_url": "https://mediumrare.imgix.net/bc954c82da4fc042044624b7ea480730a97bbf2b52bd893b5abc824285ace6ad",
       "expected_filename": "Red Rake Gaming - 777 Heist 2 The Art Forger.webp",
       "game_url": "https://stake.com/casino/games/redrake-777-heist-2-the-art-forger",
-      "extracted_at": "2025-08-06T01:17:36.561966"
+      "extracted_at": "2025-08-07T02:21:47.565142"
+    },
+    {
+      "game_id": "redrake-20000-waves",
+      "title": "20,000 Waves",
+      "slug": "redrake-20000-waves",
+      "provider": "Red Rake Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/e5b714fdaad20e85930cf03c34a8f687ff310f997f56d0c43f1944948dffc48e",
+      "expected_filename": "Red Rake Gaming - 20,000 Waves.webp",
+      "game_url": "https://stake.com/casino/games/redrake-20000-waves",
+      "extracted_at": "2025-08-07T02:21:47.565142"
     },
     {
       "game_id": "redrake-1st-of-the-irish",
@@ -221,7 +214,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/c38293cf5b3dc9f805c38494c96095adf0e359f64495b557fd9decc9eac2e8d1",
       "expected_filename": "Red Rake Gaming - 1st of the Irish.webp",
       "game_url": "https://stake.com/casino/games/redrake-1st-of-the-irish",
-      "extracted_at": "2025-08-06T01:17:36.561966"
+      "extracted_at": "2025-08-07T02:21:47.565142"
     },
     {
       "game_id": "redrake-guardian-of-ra",
@@ -231,7 +224,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/25738c9187aaaa5ff8f9090295469e8e8e6501c659c7f1b64a2603512669eb23",
       "expected_filename": "Red Rake Gaming - Guardian of Ra.webp",
       "game_url": "https://stake.com/casino/games/redrake-guardian-of-ra",
-      "extracted_at": "2025-08-06T01:17:36.561966"
+      "extracted_at": "2025-08-07T02:21:47.565142"
     },
     {
       "game_id": "redrake-arabian-wins",
@@ -241,7 +234,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/d44cd2a5e77a7251f380bb7ac231717f41146d9ec53bc172756c59fc823ab1e9",
       "expected_filename": "Red Rake Gaming - Arabian Wins.webp",
       "game_url": "https://stake.com/casino/games/redrake-arabian-wins",
-      "extracted_at": "2025-08-06T01:17:36.561966"
+      "extracted_at": "2025-08-07T02:21:47.565142"
     },
     {
       "game_id": "redrake-ramses-legacy",
@@ -251,7 +244,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/ed6861ef9f9dab2ce6a5a276c9a3466f4aef8f12ade4fd743536e53e7f3b614a",
       "expected_filename": "Red Rake Gaming - Ramses Legacy.webp",
       "game_url": "https://stake.com/casino/games/redrake-ramses-legacy",
-      "extracted_at": "2025-08-06T01:17:36.561966"
+      "extracted_at": "2025-08-07T02:21:47.565142"
     },
     {
       "game_id": "redrake-guardians-of-luxor-3",
@@ -261,7 +254,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/df575da4bbc1ab9c6b702e75eecca24d9951104251ef399276acd907c668768e",
       "expected_filename": "Red Rake Gaming - Guardians Of Luxor 3.webp",
       "game_url": "https://stake.com/casino/games/redrake-guardians-of-luxor-3",
-      "extracted_at": "2025-08-06T01:17:36.561966"
+      "extracted_at": "2025-08-07T02:21:47.565142"
     },
     {
       "game_id": "redrake-mystic-spirits",
@@ -271,7 +264,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/851ccd7e0118997c3770e148d03db78503be58529abed838ca10e3098d5a5dc8",
       "expected_filename": "Red Rake Gaming - Mystic Spirits.webp",
       "game_url": "https://stake.com/casino/games/redrake-mystic-spirits",
-      "extracted_at": "2025-08-06T01:17:36.561966"
+      "extracted_at": "2025-08-07T02:21:47.565142"
     },
     {
       "game_id": "redrake-triple-irish",
@@ -281,7 +274,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/d7caecf3003b54847cd1cab06982a4f85ef79c27ccb80e79740630522b70df4d",
       "expected_filename": "Red Rake Gaming - Triple Irish.webp",
       "game_url": "https://stake.com/casino/games/redrake-triple-irish",
-      "extracted_at": "2025-08-06T01:17:36.561966"
+      "extracted_at": "2025-08-07T02:21:47.565142"
     },
     {
       "game_id": "redrake-2-kings-of-africa",
@@ -291,7 +284,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/82fbd25cf2efcb2ac5cfe15a5589a9f11d1ebff473ee2e48dfce511ee5951927",
       "expected_filename": "Red Rake Gaming - 2 Kings of Africa.webp",
       "game_url": "https://stake.com/casino/games/redrake-2-kings-of-africa",
-      "extracted_at": "2025-08-06T01:17:36.561966"
+      "extracted_at": "2025-08-07T02:21:47.565142"
     },
     {
       "game_id": "redrake-hawaiitopia",
@@ -301,7 +294,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/80bb572dcf8d47bea877934e6e54422101af5a0f68bbfe3418e6436635580959",
       "expected_filename": "Red Rake Gaming - Hawaiitopia.webp",
       "game_url": "https://stake.com/casino/games/redrake-hawaiitopia",
-      "extracted_at": "2025-08-06T01:17:36.561966"
+      "extracted_at": "2025-08-07T02:21:47.565142"
     },
     {
       "game_id": "redrake-super-30-stars",
@@ -311,7 +304,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/a3b291f1d92db5127389c17b1459cee7ec8359966d4e03b9867ed18123f67f6d",
       "expected_filename": "Red Rake Gaming - Super 30 Stars.webp",
       "game_url": "https://stake.com/casino/games/redrake-super-30-stars",
-      "extracted_at": "2025-08-06T01:17:36.561966"
+      "extracted_at": "2025-08-07T02:21:47.565142"
     },
     {
       "game_id": "redrake-halloween-wins-2",
@@ -321,7 +314,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/18fc80920226e6237b5757b6308b28d8a14e515106e99028fc6fae7ca46dda71",
       "expected_filename": "Red Rake Gaming - Halloween Wins 2.webp",
       "game_url": "https://stake.com/casino/games/redrake-halloween-wins-2",
-      "extracted_at": "2025-08-06T01:17:36.561966"
+      "extracted_at": "2025-08-07T02:21:47.565142"
     },
     {
       "game_id": "redrake-christmas-wins",
@@ -331,7 +324,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/ac396ece4f84decfa65cd7f6d23aa7b3695ad94a1306530a0118a22043896666",
       "expected_filename": "Red Rake Gaming - Christmas Wins.webp",
       "game_url": "https://stake.com/casino/games/redrake-christmas-wins",
-      "extracted_at": "2025-08-06T01:17:36.561966"
+      "extracted_at": "2025-08-07T02:21:47.565142"
     },
     {
       "game_id": "redrake-guardians-of-luxor-2",
@@ -341,17 +334,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/6bcb674ab5db4f00ef10da5017daf14bfd1bc38f71a3a684fa266360b8baa712",
       "expected_filename": "Red Rake Gaming - Guardians Of Luxor 2.webp",
       "game_url": "https://stake.com/casino/games/redrake-guardians-of-luxor-2",
-      "extracted_at": "2025-08-06T01:17:36.561966"
-    },
-    {
-      "game_id": "redrake-captain-wild",
-      "title": "Captain Wild",
-      "slug": "redrake-captain-wild",
-      "provider": "Red Rake Gaming",
-      "thumbnail_url": "https://mediumrare.imgix.net/583dfe53ffd50f870d70ed14459171e03d6e0c5a8a9697f53a73404073135376",
-      "expected_filename": "Red Rake Gaming - Captain Wild.webp",
-      "game_url": "https://stake.com/casino/games/redrake-captain-wild",
-      "extracted_at": "2025-08-06T01:17:36.561966"
+      "extracted_at": "2025-08-07T02:21:47.565142"
     },
     {
       "game_id": "redrake-musketeers-1-wild-for-all",
@@ -361,27 +344,17 @@
       "thumbnail_url": "https://mediumrare.imgix.net/9f947a2a1f5a635ede03cdb10936c49cf454aed2501e4012f42adb91a4945512",
       "expected_filename": "Red Rake Gaming - Musketeers 1 Wild For All.webp",
       "game_url": "https://stake.com/casino/games/redrake-musketeers-1-wild-for-all",
-      "extracted_at": "2025-08-06T01:17:36.561966"
+      "extracted_at": "2025-08-07T02:21:47.565142"
     },
     {
-      "game_id": "redrake-age-of-olympus-apollo",
-      "title": "Age of Olympus: Apollo",
-      "slug": "redrake-age-of-olympus-apollo",
+      "game_id": "redrake-captain-wild",
+      "title": "Captain Wild",
+      "slug": "redrake-captain-wild",
       "provider": "Red Rake Gaming",
-      "thumbnail_url": "https://mediumrare.imgix.net/343fa6301860f1d43d5f277d28024f14cc7ad6f21d7f4dd0b23a1c565014fabf",
-      "expected_filename": "Red Rake Gaming - Age of Olympus Apollo.webp",
-      "game_url": "https://stake.com/casino/games/redrake-age-of-olympus-apollo",
-      "extracted_at": "2025-08-06T01:17:36.561966"
-    },
-    {
-      "game_id": "redrake-gods-of-ireland",
-      "title": "Gods of Ireland",
-      "slug": "redrake-gods-of-ireland",
-      "provider": "Red Rake Gaming",
-      "thumbnail_url": "https://mediumrare.imgix.net/39e12e8e863be36cf1fd72d791c9f1429c4c0ed4d699f0081cd8e2c33fc756ce",
-      "expected_filename": "Red Rake Gaming - Gods of Ireland.webp",
-      "game_url": "https://stake.com/casino/games/redrake-gods-of-ireland",
-      "extracted_at": "2025-08-06T01:17:36.561966"
+      "thumbnail_url": "https://mediumrare.imgix.net/583dfe53ffd50f870d70ed14459171e03d6e0c5a8a9697f53a73404073135376",
+      "expected_filename": "Red Rake Gaming - Captain Wild.webp",
+      "game_url": "https://stake.com/casino/games/redrake-captain-wild",
+      "extracted_at": "2025-08-07T02:21:47.565142"
     },
     {
       "game_id": "redrake-million-christmas-2",
@@ -391,7 +364,17 @@
       "thumbnail_url": "https://mediumrare.imgix.net/698a5bfa9f09cf40de7e0b7c49dc8b94490d96470fdf72a9f5d1cde367d815a5",
       "expected_filename": "Red Rake Gaming - Million Christmas 2.webp",
       "game_url": "https://stake.com/casino/games/redrake-million-christmas-2",
-      "extracted_at": "2025-08-06T01:17:36.561966"
+      "extracted_at": "2025-08-07T02:21:47.565142"
+    },
+    {
+      "game_id": "redrake-gods-of-ireland",
+      "title": "Gods of Ireland",
+      "slug": "redrake-gods-of-ireland",
+      "provider": "Red Rake Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/39e12e8e863be36cf1fd72d791c9f1429c4c0ed4d699f0081cd8e2c33fc756ce",
+      "expected_filename": "Red Rake Gaming - Gods of Ireland.webp",
+      "game_url": "https://stake.com/casino/games/redrake-gods-of-ireland",
+      "extracted_at": "2025-08-07T02:21:47.565142"
     },
     {
       "game_id": "redrake-ways-of-the-samurai",
@@ -401,73 +384,19 @@
       "thumbnail_url": "https://mediumrare.imgix.net/631a991635422d3ed795498cc6398fb15b6438899c5c39061b7d3958ecc37b90",
       "expected_filename": "Red Rake Gaming - Ways Of The Samurai.webp",
       "game_url": "https://stake.com/casino/games/redrake-ways-of-the-samurai",
-      "extracted_at": "2025-08-06T01:17:36.561966"
+      "extracted_at": "2025-08-07T02:21:47.565142"
     },
     {
-      "id": "8429270a-3d3c-4b61-bd62-db9cad8d523d",
-      "name": "Vikings Journey",
-      "slug": "redrake-vikings-journey",
-      "thumbnailUrl": "https://mediumrare.imgix.net/c972a9b49e8cc677030a73184765799a315e39ded6c5edb4959f540e99fa381c",
-      "thumbnailBlurHash": "ehIqmCt9NNRkRQ%UbHtRRis.%6Rjj@RjWU~pjZV[a#M|R:t7%2kCbI",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "883ca3af-4cf5-4da7-900c-12486b0fae50",
-      "name": "Lotus Dynasty",
-      "slug": "redrake-lotus-dynasty",
-      "thumbnailUrl": "https://mediumrare.imgix.net/1bd6649a93820cc6150754923362374052358b7e111a092a745ed21f0a568ce4",
-      "thumbnailBlurHash": "ecMi~axZpJM|r_3$kCPANHX8NQs.EfoxXRGXbaicozjbM+Rk,@bIS$",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "2bcdf10e-7eb5-4ed6-97fa-16ecd9f45017",
-      "name": "Gustav Minebuster",
-      "slug": "redrake-gustav-minebuster",
-      "thumbnailUrl": "https://mediumrare.imgix.net/a660b541ef6665068478ac3aae3d1708a6ba3bf4737ec47c9e6cf820f0918f74",
-      "thumbnailBlurHash": "eVOw[_WF#lI=eUM[aN%0R+S6+ti|xVsAI[.mV]s*R+NGq@jFkWNKt7",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "91e40689-05a7-4cd3-a0bc-f0ef7a9887d4",
-      "name": "Million Christmas",
-      "slug": "redrake-million-christmas",
-      "thumbnailUrl": "https://mediumrare.imgix.net/393846bc5f6229870e6cd16664ff884351d899f4bb478a02502ff7e24ac3e145",
-      "thumbnailBlurHash": "eXLMriQ,9zxZIB7+VWJBWAoHN9i^nhM{xY.7ozwHWGV[H[XAw@s;bu",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "18ba26d4-2089-41c8-b4b4-bfebde79d7e4",
-      "name": "Jungle Break",
-      "slug": "redrake-jungle-break",
-      "thumbnailUrl": "https://mediumrare.imgix.net/fd279c251eb495eaed20ba88390189cdde07f1e716ef765d736296c17021ce28",
-      "thumbnailBlurHash": "eYGT4SrsAnRlNFz@s,o}kCnkuHoyi{t7M|~WoeMxWXIUI,jFnnV_oM",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "73a41230-c731-4d99-adb0-aebe8cc8dfcc",
-      "name": "Space Wins",
-      "slug": "redrake-space-wins",
-      "thumbnailUrl": "https://mediumrare.imgix.net/7f43099a7cd0c632ab2ea7a52697bc163f0ab5b2aa9456136201acddf12a8d37",
-      "thumbnailBlurHash": "eQLzHjxaXnI[MdG^W=.TofNLm-aexaoMS$lnskI9WCR%D%n$o}WBt7",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
+      "game_id": "redrake-age-of-olympus-apollo",
+      "title": "Age of Olympus: Apollo",
+      "slug": "redrake-age-of-olympus-apollo",
+      "provider": "Red Rake Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/343fa6301860f1d43d5f277d28024f14cc7ad6f21d7f4dd0b23a1c565014fabf",
+      "expected_filename": "Red Rake Gaming - Age of Olympus Apollo.webp",
+      "game_url": "https://stake.com/casino/games/redrake-age-of-olympus-apollo",
+      "extracted_at": "2025-08-07T02:21:47.565142"
     }
-  ]
+  ],
+  "timestamp": "2025-08-07T02:21:47.565142",
+  "source": "initial_html_fetch"
 }

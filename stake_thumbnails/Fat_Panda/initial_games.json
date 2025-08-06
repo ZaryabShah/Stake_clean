@@ -14,7 +14,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/4e16392521d9eda14f5d8f685c775c7ce2b65153b351c559fa09b05cd7c29507",
       "expected_filename": "Fat Panda - Fortune of Aztec.webp",
       "game_url": "https://stake.com/casino/games/fatpanda-fortune-of-aztec",
-      "extracted_at": "2025-08-06T01:26:12.882915"
+      "extracted_at": "2025-08-07T02:11:44.719557"
     },
     {
       "game_id": "fatpanda-master-gems",
@@ -24,7 +24,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/b038957f94e108b9d35309d3e1601203b638a17828c6534a9cd94ebe2a2de6a9",
       "expected_filename": "Fat Panda - Master Gems.webp",
       "game_url": "https://stake.com/casino/games/fatpanda-master-gems",
-      "extracted_at": "2025-08-06T01:26:12.882915"
+      "extracted_at": "2025-08-07T02:11:44.719557"
     },
     {
       "game_id": "fatpanda-pig-farm",
@@ -34,7 +34,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/afba96561c1c120b29e40061347ce59943e03a20add205ef0bf400a73c6f0ad3",
       "expected_filename": "Fat Panda - Pig Farm.webp",
       "game_url": "https://stake.com/casino/games/fatpanda-pig-farm",
-      "extracted_at": "2025-08-06T01:26:12.882915"
+      "extracted_at": "2025-08-07T02:11:44.719557"
     },
     {
       "game_id": "fatpanda-lucky-phoenix",
@@ -44,17 +44,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/a6cc6240b8e2070fc600ec9d881924460d49b58b3fbcffca9a7bcb8bf3712f80",
       "expected_filename": "Fat Panda - Lucky Phoenix.webp",
       "game_url": "https://stake.com/casino/games/fatpanda-lucky-phoenix",
-      "extracted_at": "2025-08-06T01:26:12.882915"
-    },
-    {
-      "game_id": "fatpanda-lucky-tiger-1000",
-      "title": "Lucky Tiger 1000",
-      "slug": "fatpanda-lucky-tiger-1000",
-      "provider": "Fat Panda",
-      "thumbnail_url": "https://mediumrare.imgix.net/9442f92296d33d88dca31264056406f754c54c82cc47fa50df1be7eaa3008523",
-      "expected_filename": "Fat Panda - Lucky Tiger 1000.webp",
-      "game_url": "https://stake.com/casino/games/fatpanda-lucky-tiger-1000",
-      "extracted_at": "2025-08-06T01:26:12.882915"
+      "extracted_at": "2025-08-07T02:11:44.719557"
     },
     {
       "game_id": "fatpanda-starlight-wins",
@@ -64,7 +54,17 @@
       "thumbnail_url": "https://mediumrare.imgix.net/7d6fff6397946a67d318f57e6cf524c6225c095ca5b3dad9a3054fbaeb62324a",
       "expected_filename": "Fat Panda - Starlight Wins.webp",
       "game_url": "https://stake.com/casino/games/fatpanda-starlight-wins",
-      "extracted_at": "2025-08-06T01:26:12.882915"
+      "extracted_at": "2025-08-07T02:11:44.719557"
+    },
+    {
+      "game_id": "fatpanda-lucky-tiger-1000",
+      "title": "Lucky Tiger 1000",
+      "slug": "fatpanda-lucky-tiger-1000",
+      "provider": "Fat Panda",
+      "thumbnail_url": "https://mediumrare.imgix.net/9442f92296d33d88dca31264056406f754c54c82cc47fa50df1be7eaa3008523",
+      "expected_filename": "Fat Panda - Lucky Tiger 1000.webp",
+      "game_url": "https://stake.com/casino/games/fatpanda-lucky-tiger-1000",
+      "extracted_at": "2025-08-07T02:11:44.719557"
     },
     {
       "game_id": "fatpanda-plushie-wins",
@@ -74,7 +74,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/b37534f36f7e69902e4bd8fc8193b953cc7b9c9e2a5d863f24c5f1aab9c78a92",
       "expected_filename": "Fat Panda - Plushie Wins.webp",
       "game_url": "https://stake.com/casino/games/fatpanda-plushie-wins",
-      "extracted_at": "2025-08-06T01:26:12.882915"
+      "extracted_at": "2025-08-07T02:11:44.719557"
     },
     {
       "game_id": "fatpanda-wealthy-frog",
@@ -84,7 +84,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/795cc87f14b677ce2a328d4071b74f2b668a094bc98d901db78a8d41570a7479",
       "expected_filename": "Fat Panda - Wealthy Frog.webp",
       "game_url": "https://stake.com/casino/games/fatpanda-wealthy-frog",
-      "extracted_at": "2025-08-06T01:26:12.882915"
+      "extracted_at": "2025-08-07T02:11:44.719557"
     },
     {
       "game_id": "fatpanda-lucky-monkey",
@@ -94,7 +94,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/c358a27d00e97a6ff41e043bcfd9a86e380e30b1455305fe68c37ccc6e991ba8",
       "expected_filename": "Fat Panda - Lucky Monkey.webp",
       "game_url": "https://stake.com/casino/games/fatpanda-lucky-monkey",
-      "extracted_at": "2025-08-06T01:26:12.882915"
+      "extracted_at": "2025-08-07T02:11:44.719557"
     },
     {
       "game_id": "fatpanda-lucky-dog",
@@ -104,7 +104,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/c32d452aa90ab70829c89c645ff021ead11e306a1cf25c21738bc84b3b1413c9",
       "expected_filename": "Fat Panda - Lucky Dog.webp",
       "game_url": "https://stake.com/casino/games/fatpanda-lucky-dog",
-      "extracted_at": "2025-08-06T01:26:12.882915"
+      "extracted_at": "2025-08-07T02:11:44.719557"
     },
     {
       "game_id": "fatpanda-jelly-candy",
@@ -114,7 +114,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/845cb56222f6a79b30701fa9dc999f42df960553c113081913d645b2a7a1c4b3",
       "expected_filename": "Fat Panda - Jelly Candy.webp",
       "game_url": "https://stake.com/casino/games/fatpanda-jelly-candy",
-      "extracted_at": "2025-08-06T01:26:12.882915"
+      "extracted_at": "2025-08-07T02:11:44.719557"
     },
     {
       "game_id": "fatpanda-lucky-ox",
@@ -124,7 +124,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/c0c049d3604796edb66a1daaddb9f0b3bb3ce32ca86b12201be2398394aa8092",
       "expected_filename": "Fat Panda - Lucky Ox.webp",
       "game_url": "https://stake.com/casino/games/fatpanda-lucky-ox",
-      "extracted_at": "2025-08-06T01:26:12.882915"
+      "extracted_at": "2025-08-07T02:11:44.719557"
     },
     {
       "game_id": "fatpanda-lucky-mouse",
@@ -134,17 +134,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/1cb8793e8d149415d259690c7115f0448756c13d5acd85e13c8561f117ecff15",
       "expected_filename": "Fat Panda - Lucky Mouse.webp",
       "game_url": "https://stake.com/casino/games/fatpanda-lucky-mouse",
-      "extracted_at": "2025-08-06T01:26:12.882915"
-    },
-    {
-      "game_id": "fatpanda-lucky-tiger",
-      "title": "Lucky Tiger",
-      "slug": "fatpanda-lucky-tiger",
-      "provider": "Fat Panda",
-      "thumbnail_url": "https://mediumrare.imgix.net/d08c9f2327d702afe9f169cf310b80935d9e177eb5518da93d5bf34e4e28a1cc",
-      "expected_filename": "Fat Panda - Lucky Tiger.webp",
-      "game_url": "https://stake.com/casino/games/fatpanda-lucky-tiger",
-      "extracted_at": "2025-08-06T01:26:12.882915"
+      "extracted_at": "2025-08-07T02:11:44.719557"
     },
     {
       "game_id": "fatpanda-emotiwins",
@@ -154,9 +144,19 @@
       "thumbnail_url": "https://mediumrare.imgix.net/e16246bfa6e7d02dae7d7c30072e89e393cd57d88a878a8ff1cd7403c012ecf9",
       "expected_filename": "Fat Panda - Emotiwins.webp",
       "game_url": "https://stake.com/casino/games/fatpanda-emotiwins",
-      "extracted_at": "2025-08-06T01:26:12.882915"
+      "extracted_at": "2025-08-07T02:11:44.719557"
+    },
+    {
+      "game_id": "fatpanda-lucky-tiger",
+      "title": "Lucky Tiger",
+      "slug": "fatpanda-lucky-tiger",
+      "provider": "Fat Panda",
+      "thumbnail_url": "https://mediumrare.imgix.net/d08c9f2327d702afe9f169cf310b80935d9e177eb5518da93d5bf34e4e28a1cc",
+      "expected_filename": "Fat Panda - Lucky Tiger.webp",
+      "game_url": "https://stake.com/casino/games/fatpanda-lucky-tiger",
+      "extracted_at": "2025-08-07T02:11:44.719557"
     }
   ],
-  "timestamp": "2025-08-06T01:26:12.882915",
+  "timestamp": "2025-08-07T02:11:44.719557",
   "source": "initial_html_fetch"
 }

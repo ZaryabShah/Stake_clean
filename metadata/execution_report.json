@@ -1,0 +1,24 @@
+{
+  "execution_summary": {
+    "start_time": "2025-08-07T02:04:01.563899",
+    "end_time": "2025-08-07T02:22:42.659548",
+    "total_duration_seconds": 1121.095649,
+    "scraping_duration": 1120.6083240509033,
+    "completion_duration": 0.1101071834564209,
+    "download_duration": null
+  },
+  "data_summary": {
+    "total_providers": 48,
+    "total_games": 0,
+    "total_thumbnails": 0,
+    "success_rate": 0
+  },
+  "errors": [],
+  "output_directories": {
+    "checkpoints": "C:\\Users\\Zaryab Jibu\\Desktop\\Python\\Stake_clean\\checkpoints",
+    "metadata": "C:\\Users\\Zaryab Jibu\\Desktop\\Python\\Stake_clean\\metadata",
+    "game_data": "C:\\Users\\Zaryab Jibu\\Desktop\\Python\\Stake_clean\\stake_thumbnails",
+    "final_thumbnails": "C:\\Users\\Zaryab Jibu\\Desktop\\Python\\Stake_clean\\stake_thumbnails_final",
+    "logs": "C:\\Users\\Zaryab Jibu\\Desktop\\Python\\Stake_clean\\logs"
+  }
+}

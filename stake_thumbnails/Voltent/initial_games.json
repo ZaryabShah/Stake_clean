@@ -1,9 +1,10 @@
 {
-  "timestamp": "2025-08-06T19:06:57.120Z",
+  "provider": "VoltEnt",
   "provider_slug": "voltent",
-  "provider_name": "Voltent",
   "total_games": 121,
-  "games_fetched": 155,
+  "games_fetched": 39,
+  "is_complete": false,
+  "needs_pagination": true,
   "games": [
     {
       "game_id": "voltent-15-coins-grand-diamond-edition",
@@ -13,17 +14,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/04c5fc4c85eb7de129f22fd3443c1ddf31c52ccbe6b20f36c6bb9e33f58b275d",
       "expected_filename": "VoltEnt - 15 Coins Grand Diamond Edition.webp",
       "game_url": "https://stake.com/casino/games/voltent-15-coins-grand-diamond-edition",
-      "extracted_at": "2025-08-06T01:10:33.329746"
-    },
-    {
-      "game_id": "voltent-bells-of-fortune",
-      "title": "Bells of Fortune",
-      "slug": "voltent-bells-of-fortune",
-      "provider": "VoltEnt",
-      "thumbnail_url": "https://mediumrare.imgix.net/d363e1ed59ebceb8052dfe1d34d42eb00f46f995c8f9a7aa4b7289770d8e44d0",
-      "expected_filename": "VoltEnt - Bells of Fortune.webp",
-      "game_url": "https://stake.com/casino/games/voltent-bells-of-fortune",
-      "extracted_at": "2025-08-06T01:10:33.329746"
+      "extracted_at": "2025-08-07T02:19:07.416553"
     },
     {
       "game_id": "voltent-16-coins",
@@ -33,7 +24,17 @@
       "thumbnail_url": "https://mediumrare.imgix.net/794b87902f57a9e2c504e4fa76dce13d244a1fc71abe5afbc2af5bfe88827c87",
       "expected_filename": "VoltEnt - 16 Coins.webp",
       "game_url": "https://stake.com/casino/games/voltent-16-coins",
-      "extracted_at": "2025-08-06T01:10:33.329746"
+      "extracted_at": "2025-08-07T02:19:07.416553"
+    },
+    {
+      "game_id": "voltent-bells-of-fortune",
+      "title": "Bells of Fortune",
+      "slug": "voltent-bells-of-fortune",
+      "provider": "VoltEnt",
+      "thumbnail_url": "https://mediumrare.imgix.net/d363e1ed59ebceb8052dfe1d34d42eb00f46f995c8f9a7aa4b7289770d8e44d0",
+      "expected_filename": "VoltEnt - Bells of Fortune.webp",
+      "game_url": "https://stake.com/casino/games/voltent-bells-of-fortune",
+      "extracted_at": "2025-08-07T02:19:07.416553"
     },
     {
       "game_id": "voltent-hot-777",
@@ -43,7 +44,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/976c58780551d7387c76562d42a88ad0183f2cf00c5ce5cdfcda75a2d66636b1",
       "expected_filename": "VoltEnt - Hot 777.webp",
       "game_url": "https://stake.com/casino/games/voltent-hot-777",
-      "extracted_at": "2025-08-06T01:10:33.329746"
+      "extracted_at": "2025-08-07T02:19:07.416553"
     },
     {
       "game_id": "voltent-eggs-of-fortune",
@@ -53,7 +54,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/8482456c30b31e8935f3dbe32a9f6f4159fb8b2559330d97d411e07c79a4305b",
       "expected_filename": "VoltEnt - Eggs of Fortune.webp",
       "game_url": "https://stake.com/casino/games/voltent-eggs-of-fortune",
-      "extracted_at": "2025-08-06T01:10:33.329746"
+      "extracted_at": "2025-08-07T02:19:07.416553"
     },
     {
       "game_id": "voltent-36-coins",
@@ -63,7 +64,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/1701fc3923e895463ee2db2c8c51498a74859a0dc82729e5062cf693860ca664",
       "expected_filename": "VoltEnt - 36 Coins.webp",
       "game_url": "https://stake.com/casino/games/voltent-36-coins",
-      "extracted_at": "2025-08-06T01:10:33.329746"
+      "extracted_at": "2025-08-07T02:19:07.416553"
     },
     {
       "game_id": "voltent-9-lions-hold-the-jackpot",
@@ -73,7 +74,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/770e164e28b4e5d6777ba94d665f8078c0e5422be10f841f92a9879e8c2eba24",
       "expected_filename": "VoltEnt - 9 Lions Hold the Jackpot.webp",
       "game_url": "https://stake.com/casino/games/voltent-9-lions-hold-the-jackpot",
-      "extracted_at": "2025-08-06T01:10:33.329746"
+      "extracted_at": "2025-08-07T02:19:07.416553"
     },
     {
       "game_id": "voltent-power-of-gods-hades",
@@ -83,7 +84,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/efc07d26020f3a30bff7a1479cb52df03021b1e81a99e87e3f456ed8b87b8c54",
       "expected_filename": "VoltEnt - Power of Gods Hades.webp",
       "game_url": "https://stake.com/casino/games/voltent-power-of-gods-hades",
-      "extracted_at": "2025-08-06T01:10:33.329746"
+      "extracted_at": "2025-08-07T02:19:07.416553"
     },
     {
       "game_id": "voltent-9-coins-1000x-edition",
@@ -93,7 +94,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/1075c6a244a97e2a81c913abe788d0b06163ce916942c0270fd86960f061c00b",
       "expected_filename": "VoltEnt - 9 Coins 1000x Edition.webp",
       "game_url": "https://stake.com/casino/games/voltent-9-coins-1000x-edition",
-      "extracted_at": "2025-08-06T01:10:33.329746"
+      "extracted_at": "2025-08-07T02:19:07.416553"
     },
     {
       "game_id": "voltent-9-lions",
@@ -103,7 +104,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/9efdf4f1156ea81a801e9f34bd9ca2c0174e520ac0297df05661bc9fa50a06ad",
       "expected_filename": "VoltEnt - 9 Lions.webp",
       "game_url": "https://stake.com/casino/games/voltent-9-lions",
-      "extracted_at": "2025-08-06T01:10:33.329746"
+      "extracted_at": "2025-08-07T02:19:07.416553"
     },
     {
       "game_id": "voltent-hot-slot-777-hold-the-jackpot",
@@ -113,7 +114,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/48a48378329a9b1b7a56c148c7ebe615d10c1834d5a493958fe3036bda415f4e",
       "expected_filename": "VoltEnt - Hot Slot 777 Hold the Jackpot.webp",
       "game_url": "https://stake.com/casino/games/voltent-hot-slot-777-hold-the-jackpot",
-      "extracted_at": "2025-08-06T01:10:33.329746"
+      "extracted_at": "2025-08-07T02:19:07.416553"
     },
     {
       "game_id": "voltent-9-coins",
@@ -123,7 +124,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/82a490673a4502b006b2760a93d6b27931fbe28f9c6ddd4630c9c38fd1080366",
       "expected_filename": "VoltEnt - 9 Coins.webp",
       "game_url": "https://stake.com/casino/games/voltent-9-coins",
-      "extracted_at": "2025-08-06T01:10:33.329746"
+      "extracted_at": "2025-08-07T02:19:07.416553"
     },
     {
       "game_id": "voltent-black-horse",
@@ -133,7 +134,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/ab51de7b969e24ee4a1d3a63849aa48768b0533b26c3222ddf898ce753ae9f05",
       "expected_filename": "VoltEnt - Black Horse.webp",
       "game_url": "https://stake.com/casino/games/voltent-black-horse",
-      "extracted_at": "2025-08-06T01:10:33.329746"
+      "extracted_at": "2025-08-07T02:19:07.416553"
     },
     {
       "game_id": "voltent-power-of-gods-medusa",
@@ -143,7 +144,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/1a475c0767df9fe1552c46dc059cf6deef738eeaa26d4e48be61445f228c2994",
       "expected_filename": "VoltEnt - Power of Gods Medusa.webp",
       "game_url": "https://stake.com/casino/games/voltent-power-of-gods-medusa",
-      "extracted_at": "2025-08-06T01:10:33.329746"
+      "extracted_at": "2025-08-07T02:19:07.416553"
     },
     {
       "game_id": "voltent-25-coins",
@@ -153,7 +154,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/7490cc9986bda4aec4e5618d3a5e38c59ce1db435b3e2f44832c14ce4c69e28f",
       "expected_filename": "VoltEnt - 25 Coins.webp",
       "game_url": "https://stake.com/casino/games/voltent-25-coins",
-      "extracted_at": "2025-08-06T01:10:33.329746"
+      "extracted_at": "2025-08-07T02:19:07.416553"
     },
     {
       "game_id": "voltent-choco-reels",
@@ -163,7 +164,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/9205dac6fb64f13ce6b9495ccc3aa0659bb6a4875042449fef66e15207413caf",
       "expected_filename": "VoltEnt - Choco Reels.webp",
       "game_url": "https://stake.com/casino/games/voltent-choco-reels",
-      "extracted_at": "2025-08-06T01:10:33.329746"
+      "extracted_at": "2025-08-07T02:19:07.416553"
     },
     {
       "game_id": "voltent-football-mania-deluxe",
@@ -173,7 +174,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/3f06b3f1321465faa67a79380bd1d1921272716f538c7e7bc970e4a2124e609c",
       "expected_filename": "VoltEnt - Football Mania Deluxe.webp",
       "game_url": "https://stake.com/casino/games/voltent-football-mania-deluxe",
-      "extracted_at": "2025-08-06T01:10:33.329746"
+      "extracted_at": "2025-08-07T02:19:07.416553"
     },
     {
       "game_id": "voltent-hot-slot-777-cashout",
@@ -183,17 +184,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/19ca397e2eeb5ed0746b3ee0c4bc7a21433d64c89988000c7399b89d9e5ac008",
       "expected_filename": "VoltEnt - Hot Slot 777 Cash Out.webp",
       "game_url": "https://stake.com/casino/games/voltent-hot-slot-777-cashout",
-      "extracted_at": "2025-08-06T01:10:33.329746"
-    },
-    {
-      "game_id": "voltent-crazy-cars",
-      "title": "Crazy Cars",
-      "slug": "voltent-crazy-cars",
-      "provider": "VoltEnt",
-      "thumbnail_url": "https://mediumrare.imgix.net/8a41841fb1f3e6fa4864b82eaaf49b1c75faf017c297dbc36ca3ee1138fb9099",
-      "expected_filename": "VoltEnt - Crazy Cars.webp",
-      "game_url": "https://stake.com/casino/games/voltent-crazy-cars",
-      "extracted_at": "2025-08-06T01:10:33.329746"
+      "extracted_at": "2025-08-07T02:19:07.416553"
     },
     {
       "game_id": "voltent-9-lions-xmas-edition",
@@ -203,7 +194,17 @@
       "thumbnail_url": "https://mediumrare.imgix.net/a5edb9fc49ca2969dfcb29043366eb57bcb7fa3300bb5de4f78c672a5c7fea8c",
       "expected_filename": "VoltEnt - 9 Lions Xmas Edition.webp",
       "game_url": "https://stake.com/casino/games/voltent-9-lions-xmas-edition",
-      "extracted_at": "2025-08-06T01:10:33.329746"
+      "extracted_at": "2025-08-07T02:19:07.416553"
+    },
+    {
+      "game_id": "voltent-crazy-cars",
+      "title": "Crazy Cars",
+      "slug": "voltent-crazy-cars",
+      "provider": "VoltEnt",
+      "thumbnail_url": "https://mediumrare.imgix.net/8a41841fb1f3e6fa4864b82eaaf49b1c75faf017c297dbc36ca3ee1138fb9099",
+      "expected_filename": "VoltEnt - Crazy Cars.webp",
+      "game_url": "https://stake.com/casino/games/voltent-crazy-cars",
+      "extracted_at": "2025-08-07T02:19:07.416553"
     },
     {
       "game_id": "voltent-burning-sun",
@@ -213,7 +214,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/6718de0ee27c84a2f7185a2baf0235234bf108f0205d857b24ceb462a46b6be6",
       "expected_filename": "VoltEnt - Burning Sun.webp",
       "game_url": "https://stake.com/casino/games/voltent-burning-sun",
-      "extracted_at": "2025-08-06T01:10:33.329746"
+      "extracted_at": "2025-08-07T02:19:07.416553"
     },
     {
       "game_id": "voltent-20-coins",
@@ -223,17 +224,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/879c6b880ea3b38101d74dcd3c40b920940c7a3b3ad3eb1333eadac141499a4f",
       "expected_filename": "VoltEnt - 20 Coins.webp",
       "game_url": "https://stake.com/casino/games/voltent-20-coins",
-      "extracted_at": "2025-08-06T01:10:33.329746"
-    },
-    {
-      "game_id": "voltent-36-coins-grand-gold-edition",
-      "title": "36 Coins Grand Gold Edition",
-      "slug": "voltent-36-coins-grand-gold-edition",
-      "provider": "VoltEnt",
-      "thumbnail_url": "https://mediumrare.imgix.net/a811871ac69cdf9857be3e0316cd2922344f4816067ef73b0c9f3fd6ffc66ff3",
-      "expected_filename": "VoltEnt - 36 Coins Grand Gold Edition.webp",
-      "game_url": "https://stake.com/casino/games/voltent-36-coins-grand-gold-edition",
-      "extracted_at": "2025-08-06T01:10:33.329746"
+      "extracted_at": "2025-08-07T02:19:07.416553"
     },
     {
       "game_id": "voltent-sizzling-eggs-grand-platinum-edition",
@@ -243,7 +234,17 @@
       "thumbnail_url": "https://mediumrare.imgix.net/5d0268ee28a39fc9063937b692803d55e0c297c637a1762a43f91f607403a331",
       "expected_filename": "VoltEnt - Sizzling Eggs Grand Platinum Edition.webp",
       "game_url": "https://stake.com/casino/games/voltent-sizzling-eggs-grand-platinum-edition",
-      "extracted_at": "2025-08-06T01:10:33.329746"
+      "extracted_at": "2025-08-07T02:19:07.416553"
+    },
+    {
+      "game_id": "voltent-36-coins-grand-gold-edition",
+      "title": "36 Coins Grand Gold Edition",
+      "slug": "voltent-36-coins-grand-gold-edition",
+      "provider": "VoltEnt",
+      "thumbnail_url": "https://mediumrare.imgix.net/a811871ac69cdf9857be3e0316cd2922344f4816067ef73b0c9f3fd6ffc66ff3",
+      "expected_filename": "VoltEnt - 36 Coins Grand Gold Edition.webp",
+      "game_url": "https://stake.com/casino/games/voltent-36-coins-grand-gold-edition",
+      "extracted_at": "2025-08-07T02:19:07.416553"
     },
     {
       "game_id": "voltent-hot-slot-777-platinum-crown",
@@ -253,7 +254,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/ae46094858351290924e4ed4278cf6e7465c526bd006f143151075596ca99de7",
       "expected_filename": "VoltEnt - Hot Slot 777 Platinum Crown.webp",
       "game_url": "https://stake.com/casino/games/voltent-hot-slot-777-platinum-crown",
-      "extracted_at": "2025-08-06T01:10:33.329746"
+      "extracted_at": "2025-08-07T02:19:07.416553"
     },
     {
       "game_id": "voltent-fenix-play-27",
@@ -263,7 +264,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/d03c98f8780908f9981b031f39d82856df9e624da6f6ad7608f42e74c962cb09",
       "expected_filename": "VoltEnt - Fenix Play 27.webp",
       "game_url": "https://stake.com/casino/games/voltent-fenix-play-27",
-      "extracted_at": "2025-08-06T01:10:33.329746"
+      "extracted_at": "2025-08-07T02:19:07.416553"
     },
     {
       "game_id": "voltent-mighty-wild-panther-grand-diamond-edition-halloween-jackpots",
@@ -273,7 +274,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/be9e3c0587c74b130fd5b481925eae57ca5f48c0c4a1bf8c0580478bddd29015",
       "expected_filename": "VoltEnt - Mighty Wild Panther Grand Diamond Edition Halloween Jackpots.webp",
       "game_url": "https://stake.com/casino/games/voltent-mighty-wild-panther-grand-diamond-edition-halloween-jackpots",
-      "extracted_at": "2025-08-06T01:10:33.329746"
+      "extracted_at": "2025-08-07T02:19:07.416553"
     },
     {
       "game_id": "voltent-9-coins-love-the-jackpot",
@@ -283,7 +284,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/74285f950817dd8e6da903c1b839aaffd7da99f32aefcc6b30d0d9730db7abb4",
       "expected_filename": "VoltEnt - 9 Coins Love the Jackpot.webp",
       "game_url": "https://stake.com/casino/games/voltent-9-coins-love-the-jackpot",
-      "extracted_at": "2025-08-06T01:10:33.329746"
+      "extracted_at": "2025-08-07T02:19:07.416553"
     },
     {
       "game_id": "voltent-12-bells",
@@ -293,7 +294,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/4f3f50d775d95ef69e1619e458e869e09c6e91427c5d519db4d61205f409986b",
       "expected_filename": "VoltEnt - 12 Bells.webp",
       "game_url": "https://stake.com/casino/games/voltent-12-bells",
-      "extracted_at": "2025-08-06T01:10:33.329746"
+      "extracted_at": "2025-08-07T02:19:07.416553"
     },
     {
       "game_id": "voltent-mighty-fish-blue-marlin",
@@ -303,7 +304,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/4df7bfd262cacf082675befbae1ed842f2223a3e279cca558541fc2daefc3ec3",
       "expected_filename": "VoltEnt - Mighty Fish Blue Marlin.webp",
       "game_url": "https://stake.com/casino/games/voltent-mighty-fish-blue-marlin",
-      "extracted_at": "2025-08-06T01:10:33.329746"
+      "extracted_at": "2025-08-07T02:19:07.416553"
     },
     {
       "game_id": "voltent-dino-reels-81",
@@ -313,7 +314,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/9ed59f886c6cae530b2c920786ff0c656494684f6d6d3c58c6e1f9e208c7e381",
       "expected_filename": "VoltEnt - Dino Reels 81.webp",
       "game_url": "https://stake.com/casino/games/voltent-dino-reels-81",
-      "extracted_at": "2025-08-06T01:10:33.329746"
+      "extracted_at": "2025-08-07T02:19:07.416553"
     },
     {
       "game_id": "voltent-hot-slot-777-crown",
@@ -323,7 +324,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/bd3c700415d503d7b70731da595eef66c7e5a9fe84cc620f7512bb8827d6cfaa",
       "expected_filename": "VoltEnt - Hot Slot 777 Crown.webp",
       "game_url": "https://stake.com/casino/games/voltent-hot-slot-777-crown",
-      "extracted_at": "2025-08-06T01:10:33.329746"
+      "extracted_at": "2025-08-07T02:19:07.416553"
     },
     {
       "game_id": "voltent-25-coins-grand-gold-edition",
@@ -333,7 +334,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/b85f0543ae8ca698029a8ce79148366851391156e54f773b5a82eaef668cfcb4",
       "expected_filename": "VoltEnt - 25 Coins Grand Gold Edition.webp",
       "game_url": "https://stake.com/casino/games/voltent-25-coins-grand-gold-edition",
-      "extracted_at": "2025-08-06T01:10:33.329746"
+      "extracted_at": "2025-08-07T02:19:07.416553"
     },
     {
       "game_id": "voltent-mighty-symbols-jokers",
@@ -343,27 +344,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/2a9961e68937811e56266e895afaa67dc3cf9200fb4780e276e19d36fd035d4c",
       "expected_filename": "VoltEnt - Mighty Symbols Jokers.webp",
       "game_url": "https://stake.com/casino/games/voltent-mighty-symbols-jokers",
-      "extracted_at": "2025-08-06T01:10:33.329746"
-    },
-    {
-      "game_id": "voltent-30-coins-grand-gold-edition",
-      "title": "30 Coins Grand Gold Edition",
-      "slug": "voltent-30-coins-grand-gold-edition",
-      "provider": "VoltEnt",
-      "thumbnail_url": "https://mediumrare.imgix.net/a8f0b09622e4729e03f0c827dc25531a1777cd390e24f9f4124d48afe6cd0dc0",
-      "expected_filename": "VoltEnt - 30 Coins Grand Gold Edition.webp",
-      "game_url": "https://stake.com/casino/games/voltent-30-coins-grand-gold-edition",
-      "extracted_at": "2025-08-06T01:10:33.329746"
-    },
-    {
-      "game_id": "voltent-one-coin",
-      "title": "One Coin",
-      "slug": "voltent-one-coin",
-      "provider": "VoltEnt",
-      "thumbnail_url": "https://mediumrare.imgix.net/12fb113c5b59e43ce6bc33fa5bfbad61548e8f253fde65c2a216bd849f4a4641",
-      "expected_filename": "VoltEnt - One Coin.webp",
-      "game_url": "https://stake.com/casino/games/voltent-one-coin",
-      "extracted_at": "2025-08-06T01:10:33.329746"
+      "extracted_at": "2025-08-07T02:19:07.416553"
     },
     {
       "game_id": "voltent-sizzling-777-deluxe",
@@ -373,17 +354,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/e0cdfa17771d94d86a36aad3de1d0da59cdb8fe6286adf416a62dee45051108b",
       "expected_filename": "VoltEnt - Sizzling 777 Deluxe.webp",
       "game_url": "https://stake.com/casino/games/voltent-sizzling-777-deluxe",
-      "extracted_at": "2025-08-06T01:10:33.329746"
-    },
-    {
-      "game_id": "voltent-hot-slot-777-rubies",
-      "title": "Hot Slot: 777 Rubies",
-      "slug": "voltent-hot-slot-777-rubies",
-      "provider": "VoltEnt",
-      "thumbnail_url": "https://mediumrare.imgix.net/6904a9d6cdff6c4af64dec7ce9b8f04aff9390afdb9274c498d1abb7534e67c9",
-      "expected_filename": "VoltEnt - Hot Slot 777 Rubies.webp",
-      "game_url": "https://stake.com/casino/games/voltent-hot-slot-777-rubies",
-      "extracted_at": "2025-08-06T01:10:33.329746"
+      "extracted_at": "2025-08-07T02:19:07.416553"
     },
     {
       "game_id": "voltent-12-coins-grand-diamond-edition",
@@ -393,1283 +364,39 @@
       "thumbnail_url": "https://mediumrare.imgix.net/bc8d303096c8dd5ec0dcf5fab66af0181a48f437fa3f31034a8ff1b5f8d15072",
       "expected_filename": "VoltEnt - 12 Coins Grand Diamond Edition.webp",
       "game_url": "https://stake.com/casino/games/voltent-12-coins-grand-diamond-edition",
-      "extracted_at": "2025-08-06T01:10:33.329746"
-    },
-    {
-      "id": "d173485d-0c5c-4a89-b209-295a1969f438",
-      "name": "Hot Slot: 777 Cash Out Easter",
-      "slug": "voltent-hot-slot-777-cash-out-easter",
-      "thumbnailUrl": "https://mediumrare.imgix.net/89b5264033acb543a32f6eeb59ca66e76b68756b52f6c2459484fba6c3da7c75",
-      "thumbnailBlurHash": "eTHM|iNtK=V{E2qvSwxuj0V{1YoyZ:nPxH$-oMIVW,obImaxsFtOxa",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "210dad8d-69b2-45d0-935b-2fa9550f50e0",
-      "name": "Mighty Wild: Panther",
-      "slug": "voltent-mighty-wild-panther",
-      "thumbnailUrl": "https://mediumrare.imgix.net/3e34c91fb0755c240222105de06fc9f94b573d0638642a5a942618dfc141d4f2",
-      "thumbnailBlurHash": "eRCbJFX~TVpEO*8_XhbaoekUU4kmVvaMnm_MtiRQayV@0^knnlWCs;",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "352b58c2-f38e-4c71-ba02-5436945a4aa7",
-      "name": "Hot Slot: 777 Gold Crown",
-      "slug": "voltent-hot-slot-777-gold-crown",
-      "thumbnailUrl": "https://mediumrare.imgix.net/5f940558d96ceb308b052fb2b4388997a877f356fbc13604158282b79ba4176e",
-      "thumbnailBlurHash": "eOOA@i5-8#S}e.8{ahNNoJWF=Ysm%dnli}IzODwHS4oIwFjbV|W.bu",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "91580d68-385f-4618-a62f-938bf23235f5",
-      "name": "Wild Girls",
-      "slug": "voltent-wild-girls",
-      "thumbnailUrl": "https://mediumrare.imgix.net/931c781bc155153c8a3cffd44e6d75f24add42ad5968876f54ed9124ae12d889",
-      "thumbnailBlurHash": "enOBosR-M{s.ayO9jFX9j@kC}qnikCR*WC-;WBadWBWBMxjYt7R,fl",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "124573a6-c5b3-42c0-9380-4368b1af9c4b",
-      "name": "Sizzling Kingdom: Bison",
-      "slug": "voltent-sizzling-kingdom-bison",
-      "thumbnailUrl": "https://mediumrare.imgix.net/7e2a8356b6ac08d92efca687c7b45f16b397b994b2fb0bd0b10150f52ad2ef29",
-      "thumbnailBlurHash": "eqIFZ0WAEXogI_,6ayXUj@S6EWogR+ads%x_odE8a#nhNgf5WEfls+",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "36a33a8c-07cd-4c3f-88e8-f94e069aaa82",
-      "name": "Sizzling Moon",
-      "slug": "voltent-sizzling-moon",
-      "thumbnailUrl": "https://mediumrare.imgix.net/73cc9d2a9f9d0aaaf1216e88d5bc2a5ddd0cfce289f16aa1d077e2bb69a88197",
-      "thumbnailBlurHash": "eQM|{6WX9ta#My0ejZKja#kqicS2spoJkCLzSgRPocVYU^WCTJoKt7",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "fa4cb45b-c7bd-466a-b412-4a02a5e19040",
-      "name": "Power of Gods: Medusa Easter",
-      "slug": "voltent-power-of-gods-medusa-easter",
-      "thumbnailUrl": "https://mediumrare.imgix.net/ac5e5dc3321b076e3e25850b8b8153a068304467df90c88cc81aa16d58f5c3a4",
-      "thumbnailBlurHash": "eLHVLmmbKGIo%F96VMyCWAx-CGbcO;tMOkOxtkIUbq9sjTt7%LS^In",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "6ae54efa-b536-49f1-aacd-c69fa8e8fd82",
-      "name": "Hot Party Deluxe",
-      "slug": "voltent-hot-party-deluxe",
-      "thumbnailUrl": "https://mediumrare.imgix.net/8a644e3278555096614201e4477a6d512bc7d86e6c14052a9ea7ade68e9012d2",
-      "thumbnailBlurHash": "eQF*45tL3=XTxC$noaPVXmrX3rnhv$S~rX:+n%rDR-oeq]bIxajaS~",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "115c4dcb-f7e9-46f7-b9f3-c00ad774b4c8",
-      "name": "Lucky Fish",
-      "slug": "voltent-lucky-fish",
-      "thumbnailUrl": "https://mediumrare.imgix.net/504a99451604665a50f41a284ad8b9ebe2d33d8a5861acaee7a63e84628a85d2",
-      "thumbnailBlurHash": "enKdo5kCIpsmRj3qayb^n%aKkrjYsCe.r=G]kCZ~WVnhNaShs:X8bH",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "1cdd782d-7100-4e61-ae74-f3d99f7987fc",
-      "name": "SIzzling Bells",
-      "slug": "voltent-sizzling-bells",
-      "thumbnailUrl": "https://mediumrare.imgix.net/9fde1db5312236fe9a883bf8e695731049b606b792ad46e6a7cf42bffc77d388",
-      "thumbnailBlurHash": "eTRAKfkp:~i^s%lsoftjV@pG*}ahNLV[S6yYWoeTs:Q:m*WUx]tQRp",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "11be930f-9664-4b41-83f7-1db8dd875e89",
-      "name": "Power of Gods: Medusa Extremely Light",
-      "slug": "voltent-power-of-gods-medusa-extremely-light",
-      "thumbnailUrl": "https://mediumrare.imgix.net/0252de0cd691fb12c271d066d39bdb043ea703df9430b8b7283748b8a26ceac0",
-      "thumbnailBlurHash": "eLGJcNV^0xRR5l:5RktSi~OG7Vj?k;oewKu6t6ASk9iv0_k9xuoy%2",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "5fbbb67e-9432-4745-a5bd-5945beeada05",
-      "name": "Power of Gods: Hades Football Edition",
-      "slug": "voltent-power-of-gods-hades-football-edition",
-      "thumbnailUrl": "https://mediumrare.imgix.net/a422946d23fdedf779443f828f59153988d2ff790483ac510dd022325c4cfded",
-      "thumbnailBlurHash": "enKSI#KiVtt7n$1JK5o#ofoe;2WBjZWBfkcEniVsayaeMykCt7aybb",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "d39a6d0e-fbba-45aa-b1fe-3d8db8dd98a3",
-      "name": "Sizzling 777",
-      "slug": "voltent-sizzling-777",
-      "thumbnailUrl": "https://mediumrare.imgix.net/9935fb0c759d2c49cdbe0efcdd6922b306b8d54d5c6cd1857debe7808256aa52",
-      "thumbnailBlurHash": "emNjY5R*9[s:I;0_R+OrsoRkm-W;s:r?ofTxoeVsS4oJM|soX8OXn%",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "1c75b301-b454-4dca-aaf0-b3a5dd56d271",
-      "name": "12 Coins Grand Gold Edition",
-      "slug": "voltent-12-coins-grand-gold-edition",
-      "thumbnailUrl": "https://mediumrare.imgix.net/f89b04a80408d57cbc8665b18ad102869e23bb17fd09579e4c38bd49ab0ab960",
-      "thumbnailBlurHash": "eWNl@zt674V{F3J{baKQWES$x7kBrVoc$dL4jsVtj@rqaIaeo~WDa*",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "4c86b22c-a7aa-493e-abea-aa2864ed320d",
-      "name": "15 Coins",
-      "slug": "voltent-15-coins",
-      "thumbnailUrl": "https://mediumrare.imgix.net/e05ebce6d049313ccdaa294e3150b8403386483459c2cb50b7528265efe83cc3",
-      "thumbnailBlurHash": "ePR]4hocunRV#qHHkVjfV]soz^oeXRodR%nEoJrWbbSOQnahtkaeR.",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "8ae9f39c-1cce-4119-a5a4-7ce63a4e9828",
-      "name": "Fire Bird",
-      "slug": "voltent-fire-bird",
-      "thumbnailUrl": "https://mediumrare.imgix.net/c2e8b4fae2a684e8b10219f679e7e0ffa7ccbd9a93dea98d745e7281c3a2bc63",
-      "thumbnailBlurHash": "eVMz:WoL9Gj?xY57j[xuWVsmELax-nS5nl21ofMxR+a#V=oLS%WVNu",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "79d1f236-ae49-4221-a743-8db8c2b79e20",
-      "name": "Hot Slot: Magic Bombs Halloween",
-      "slug": "voltent-hot-slot-magic-bombs-halloween",
-      "thumbnailUrl": "https://mediumrare.imgix.net/247d4bf04875a77dec68c0529ebacd92c16e5138d3a1f9487a0d344498eeb040",
-      "thumbnailBlurHash": "eOOAVtX9z:RjMLzVtQ%1RPw|z;xZE%i{xrLfnhE2xaI:HXrs%Lt6T0",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "45e8db0a-a5b6-4270-9961-cf6d49e34e4d",
-      "name": "Hot Slot: 777 Stars",
-      "slug": "voltent-hot-slot-777-stars",
-      "thumbnailUrl": "https://mediumrare.imgix.net/c0ee4c420caede0c70406c34e57b0abc365b693dad1a3aa9d89b52255351d9e5",
-      "thumbnailBlurHash": "eUPW{DX50Oa$IV8yofESaLb]R~r?tPoKtQJan+oaofnNDPbIXSaxt7",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "6a82fb16-cea4-4c3c-8132-f8364bec3d62",
-      "name": "Captain Shark",
-      "slug": "voltent-captain-shark",
-      "thumbnailUrl": "https://mediumrare.imgix.net/7eb59846fd70604e5453c81c0d82292ad6141dab4ec3517e8a100064318712ad",
-      "thumbnailBlurHash": "ehG[:WWX9bs:M|FlWCW-jut6RXawsla{of%ej]RkbHV^Dlogt7WBxt",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "48375ad1-799a-4356-81cf-9265b1845bd3",
-      "name": "Black Horse Cash Out",
-      "slug": "voltent-black-horse-cash-out",
-      "thumbnailUrl": "https://mediumrare.imgix.net/029e48aef7104568aca37c6be5747a3e45c66650c3f9be3bca08a34d0129a45c",
-      "thumbnailBlurHash": "ecP:@JW=iIWC$z1@WWt8jaxZz=WBxts.of?Hafr;s.Rk+@j[o}bGNI",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "1738473e-3396-42c1-b32c-d96f8959939a",
-      "name": "Hot Slot: 777 Cash Out Grand Gold Edition",
-      "slug": "voltent-hot-slot-777-cash-out-grand-gold-edition",
-      "thumbnailUrl": "https://mediumrare.imgix.net/496b1c1e084018782768218e994777b24db335d35f0c68e1563e95f26b66b326",
-      "thumbnailBlurHash": "efI}p~bZ0|jZJj*Nj[NyaeX8GlkBw|aysAKkayRPj@xDEvj[kDayxa",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "10d22ad6-11f8-462c-8a54-a975f6d55412",
-      "name": "12 Coins",
-      "slug": "voltent-12-coins",
-      "thumbnailUrl": "https://mediumrare.imgix.net/4dea96242e2b1c45f8f9679aa04028fac0b22b1b75963b3287f901937640ffc6",
-      "thumbnailBlurHash": "ewPEL@jYtPf8tP3ObHbvafkVOYazS5jZR-YPaeWEj[RkI.kCn+jZnk",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "e2984dfa-36f9-45af-ad88-d4baf1c85d3a",
-      "name": "25 Coins Easter",
-      "slug": "voltent-25-coins-easter",
-      "thumbnailUrl": "https://mediumrare.imgix.net/585bdefba9d120bfa3af54789016a5ff2436a0a5e76224d92519e8ed288dbfd0",
-      "thumbnailBlurHash": "esM#;_Rkr{xtIcAiR%t6s+S6inj;WUR+j@pajuRkR-afM%j]ovayoy",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "ee2a0b08-36d5-4ac0-a2ed-feac0c487b5d",
-      "name": "15 Coins: Grand Platinum Edition",
-      "slug": "voltent-15-coins-grand-platinum-edition",
-      "thumbnailUrl": "https://mediumrare.imgix.net/b0255758dbd7b476a7cca3e96693aca0b35354f681348bb8834240923b381ece",
-      "thumbnailBlurHash": "ecI6T-V^GujbOtlrn*Tvjbb]4}e:WBWVs+%yWCM}a{nOESn%ofj?s8",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "a11834b2-8414-4874-9334-f3790a50dd9c",
-      "name": "Magic Spins",
-      "slug": "voltent-magic-spins",
-      "thumbnailUrl": "https://mediumrare.imgix.net/cfd7f94851cf113f2b13e733ca00f0335d78842e34eda252db6afca78c5f1af7",
-      "thumbnailBlurHash": "eRLf9kOAKOt9V*x$NtTVs=tSI~aj9%oHNxLtsr9SR~IWDrn,xbWT$^",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "41ba54a1-5ff3-4f2a-bc05-65e5a9250c79",
-      "name": "Win & Replay",
-      "slug": "voltent-win-replay",
-      "thumbnailUrl": "https://mediumrare.imgix.net/49f8725df23423fc5006a062cdc7aee31ef9932664c403d8837a2a572e5afb09",
-      "thumbnailBlurHash": "epFE?CkBRVRjWAEZa}tPofj?Rna#W,ofa#tfj?M{WAa$Mlafxbofj?",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "838a4e4c-fa55-4086-8189-04f2649e8924",
-      "name": "Jackpot Builders",
-      "slug": "voltent-jackpot-builders",
-      "thumbnailUrl": "https://mediumrare.imgix.net/67d4d5342455dd6a044ec2818979900e26200641d89968a9a74576df30184462",
-      "thumbnailBlurHash": "eeHVMnR.Eot6ETvvWXbxocXAEqs:skWUof-zofV?WYRj9daexaWYof",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "65fb3e57-b5b6-4b59-a192-f1f69ac0a7ba",
-      "name": "16 Coins Grand Gold Edition",
-      "slug": "voltent-16-coins-grand-gold-edition",
-      "thumbnailUrl": "https://mediumrare.imgix.net/d56a49d56c703bbc715e3445e0b69768da6046f03eea6ac965f42e17164a818f",
-      "thumbnailBlurHash": "ebI?6#ox1djvI:*{j@EkWCW=B|jbwKaxxGNRaywJofwI5#j?oLWCwg",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "b17992e4-826c-4a29-8108-9122525f9780",
-      "name": "9 Coins Grand Diamond Edition",
-      "slug": "voltent-9-coins-grand-diamond-edition",
-      "thumbnailUrl": "https://mediumrare.imgix.net/dde08048b881b9b9567613e8a93af0e038f09a9c10df691ef15f609b5302f4c7",
-      "thumbnailBlurHash": "eePrQ}k9b@RnOa3VkBXnWCT0I]oxJXj=s+ctbFI^a|nzIUWDSjjGs,",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "09db9aee-a5e1-4483-be1b-b1763fe3ac15",
-      "name": "Mighty Wild: Panther Grand Diamond Edition",
-      "slug": "voltent-mighty-wild-panther-grand-diamond-edition",
-      "thumbnailUrl": "https://mediumrare.imgix.net/8c6a572a4e4c410621aac1a1258bcc46bd63b252ccc979046784b21ca22cc4cf",
-      "thumbnailBlurHash": "eXCbJ8VxJ4s;NFQWaOxus:WWYrs:a#kBj[-Yt7IUayaeEvkUxIW-s;",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "d3031d55-a97e-4ff5-93e4-f206c1577040",
-      "name": "Mystery Kingdom: Mystery Bells",
-      "slug": "voltent-mystery-kingdom-mystery-bells",
-      "thumbnailUrl": "https://mediumrare.imgix.net/5f629ad9bea2668a62b616ffbf61f0500d766d5079c21f223810d6843882e2bc",
-      "thumbnailBlurHash": "ecNb7Jt69IRlsk5Qj@SjWCtPw4WCt5odW;Kna#VsoeM|R5oKbuWWX8",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "129cab43-7002-491a-b29f-ecb8bc077dc4",
-      "name": "20 Coins Grand Gold Edition",
-      "slug": "voltent-20-coins-grand-gold-edition",
-      "thumbnailUrl": "https://mediumrare.imgix.net/ae491d7514f07b32a13c8acd38b02914ad546b570b87f1341cca3307adae9ddf",
-      "thumbnailBlurHash": "ekNIjLs:J.s:K6C3ayT0fkS$rZWBiwWVi{P;n%aJjsnORQaybvjtt6",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "b4f55750-6dc8-4c5b-879a-02cf55567e79",
-      "name": "9 Coins: Grand Gold Edition",
-      "slug": "voltent-9-coins-grand-gold-edition",
-      "thumbnailUrl": "https://mediumrare.imgix.net/abc12a78a90c492eb54e803ac4466fa440f2e7d915e8f8a2f9d5ff17517c59d0",
-      "thumbnailBlurHash": "eTRceoi{?8ofxrCYah%ffkof*$a$M%ayM*-@aeMgkCVumSj[T0j[of",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "b2babd63-ccd4-4b0e-854d-c72d5a2dece0",
-      "name": "9 Bells",
-      "slug": "voltent-9-bells",
-      "thumbnailUrl": "https://mediumrare.imgix.net/40838fb040ead6a8080e57f76f7fd644cdaae4ab5ea7fa7731a9319e67ffdacf",
-      "thumbnailBlurHash": "efIY9ANg5E$xNxqsNKI]${W=AfRo$yt6V[x]f9xUaxV[58jYt5f8of",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "49eb0e7c-207c-4f2e-b86c-6e03d7fe26c8",
-      "name": "Sizzling Eggs",
-      "slug": "voltent-sizzling-eggs",
-      "thumbnailUrl": "https://mediumrare.imgix.net/43635cd67326528f8281b3cd41122f33ff896a310e7f91c8c484bf9a35e45111",
-      "thumbnailBlurHash": "eaHMl.NYTzozNLO8ScyEozoMLgofxFozVs%#nii_kDRO9Gi_ofR+xD",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "d5ff0347-4e1e-4a21-8c6b-d91ac9573ae3",
-      "name": "Hot Slot: 777 Cash Out Extremely Light",
-      "slug": "voltent-hot-slot-777-cash-out-extremely-light",
-      "thumbnailUrl": "https://mediumrare.imgix.net/b44f3e8246c55c47549ffca7d870dc9527d0cda67c83bdb7f88bd4df9c3b330e",
-      "thumbnailBlurHash": "eVOA;%R8MLozR61EaLRoa$bcrDbuWXVut7TfkoX4jFnOL$oecDs+XS",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "f5ac2c6e-3e5f-454d-8b5d-919816ee2cd9",
-      "name": "Mighty Wild: Panther Grand Platinum Edition Santa's Jackpots",
-      "slug": "voltent-mighty-wild-panther-grand-platinum-edition-santas-jackpots",
-      "thumbnailUrl": "https://mediumrare.imgix.net/d47654d46853b557d35c3521f6772e6d1acc39fe72f6ac8b18ed824de6d2f0ff",
-      "thumbnailBlurHash": "eVDd]sr1AlNaNGtJrKX%S3t8c}oeS1Xkxb?uo^IVbui{A8XhxbbYs:",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "ee6ecf25-bc66-4b15-ab7f-8f8be92ac02b",
-      "name": "Burning Stars 3",
-      "slug": "voltent-burning-stars-3",
-      "thumbnailUrl": "https://mediumrare.imgix.net/b5180ce7d568b5c93b76e661d29f49ba1d3e6a320e0528f74fd12b6c3e30d05c",
-      "thumbnailBlurHash": "edLo4=oM59oMIW0_n%OYj]WYq{n~xVa#t3GvoJr;fSxUDkjrt7f8t6",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "ac7cf086-a58c-4089-bc77-7157116aca47",
-      "name": "Power of Sun: Svarog",
-      "slug": "voltent-power-of-sun-svarog",
-      "thumbnailUrl": "https://mediumrare.imgix.net/dde650beb87918f27480f31d8374e97753929c84d32275ae213a721b81de8f62",
-      "thumbnailBlurHash": "epK0.?o}ofWAsn16xttSaKt7-Ts:kCWAWByER.nNR+RjRQoft8j[kC",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "15b6348e-8aa4-4529-8951-4228588d323c",
-      "name": "Power of Gods: Egypt",
-      "slug": "voltent-power-of-gods-egypt",
-      "thumbnailUrl": "https://mediumrare.imgix.net/367fd9e77bd905c07f761490b0869c0ccd9301cf5bb39a7ebcf46ee2f279e56d",
-      "thumbnailBlurHash": "ebNa^yoyIBM}M{1EWUbcRlkC;$a#kCoJs:u3j]RPj?jEMdjYkCoJtQ",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "ca0835a3-b2d3-4462-a098-4dfc4e8185c8",
-      "name": "Hot Slot: Gold Coins",
-      "slug": "voltent-hot-slot-gold-coins",
-      "thumbnailUrl": "https://mediumrare.imgix.net/526b6ba59a306038cb6413ff276ef5612d9b57e764025c84b0d8ad8af43fe019",
-      "thumbnailBlurHash": "eSP4J8ofMMs:D*FmbHVyaeSi@ubFnjV[xs.AkCIpbIs%m7a#NxjFcC",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "e464d6b3-634c-44b9-9417-ce1c792e261c",
-      "name": "Juicy Reels",
-      "slug": "voltent-juicy-reels",
-      "thumbnailUrl": "https://mediumrare.imgix.net/32a5e29296b23af16a03151cbb304677872ab4af57d6c292db85d79c98f574f1",
-      "thumbnailBlurHash": "eSPDhb^H9OrrnS4pwuTLsUozzWIrtgoeXRGKr;RiwuadFVsikFWUxG",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "40c58f6f-eb16-47c9-a837-8c85a0a0f956",
-      "name": "Mighty Wild: Panther Grand Gold Edition",
-      "slug": "voltent-mighty-wild-panther-grand-gold-edition",
-      "thumbnailUrl": "https://mediumrare.imgix.net/bf9f8f91955ee725364082324a00eb773f2f3ccbe8bf60d4c2726038df191c34",
-      "thumbnailBlurHash": "eQD-$3yAU4R%N=Ebt6t~RkoflaVvnmV^nm~XWVMgjbRQ5Nbri%n+xb",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "fafcaaf9-32b8-4cfc-b054-c7e2f0b0ce26",
-      "name": "Sun of Fortune",
-      "slug": "voltent-sun-of-fortune",
-      "thumbnailUrl": "https://mediumrare.imgix.net/efbde9979d2ca7d09b4af4a047d686f3446061ac897eff69a1e6797992f0ca41",
-      "thumbnailBlurHash": "eMQZJnRTH@obMz4UV]S*kBW?wHt3R:WYobOdo_Q.aLobQ+bHtknko}",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "ac637f37-6591-456e-8d56-cea005cf10ad",
-      "name": "Infinity Hero",
-      "slug": "voltent-infinity-hero",
-      "thumbnailUrl": "https://mediumrare.imgix.net/7856ffa10f239ac0b974678e898342f26ee058ff284ed50038dd07b492d5cfdc",
-      "thumbnailBlurHash": "epJHCNj[9wazV[IjayX9azs,Iyj?r_a#xptjodadWXjYj0ayxsfkWE",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "0a88cac8-813a-4fb9-88e6-5fda6e0ce6aa",
-      "name": "Book of Faith",
-      "slug": "voltent-book-of-faith",
-      "thumbnailUrl": "https://mediumrare.imgix.net/c90a97d466049ef43a16c9151002cab34a217de77a523f67f947a21f3f751c7d",
-      "thumbnailBlurHash": "eeEzyijYTfs.t7m~WByDn~t6Tha}tQazWA?aofs.W=R*IqkC%1bIoc",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "ee9a6feb-d08f-4cb2-bfa8-e8d39b5b0d43",
-      "name": "Jelly Reels",
-      "slug": "voltent-jelly-reels",
-      "thumbnailUrl": "https://mediumrare.imgix.net/fa35495b29527494cb6dfa97735649956c0e450c67f88fc838a52a8a8d1d5ca6",
-      "thumbnailBlurHash": "erN99RkE5]n#xC19kBK8j[s-R6jEv}R:aeO[afv|WCWCR6S6o{oIX9",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "086ec8f6-07c6-49c7-881f-3e92f15372fa",
-      "name": "Mighty Symbols: Sevens",
-      "slug": "voltent-mighty-symbols-sevens",
-      "thumbnailUrl": "https://mediumrare.imgix.net/f90ba81f907158035e06299a72e7ebca63d1c27b9a493abbeddce2ec81320003",
-      "thumbnailBlurHash": "eYOdCejcD-oMreDzazS$afogVxayxWayX4Gua}nQkBnPH?j[ozjaxu",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "e9bb69bd-0f62-4008-96c1-7ffe2459409a",
-      "name": "Double Tigers",
-      "slug": "voltent-double-tigers",
-      "thumbnailUrl": "https://mediumrare.imgix.net/4c2598048a692e8506f7f513b2913ec08c0065fb668c37f0333da6e1c0002670",
-      "thumbnailBlurHash": "eeEzH0F#IUr;M{Z2JDtRs+s:S]i^S%t7od$ixBIpa$ad9vslt6flt7",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "8f3ba9e4-3477-43fb-9957-36b378cc8200",
-      "name": "Burning Stars 3 Xmas Edition",
-      "slug": "voltent-burning-stars-3-xmas-edition",
-      "thumbnailUrl": "https://mediumrare.imgix.net/3128f19e1906075eef57d181422119bc19efb3db15d7fa7af67d852fac6bcc64",
-      "thumbnailBlurHash": "eSPq+UI=U}o{R*7+Nuj1oyXR4YS^$yr^s,80S_$xn*r?#5S}tQkpS~",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "0afd0130-91e7-46e2-a144-1dc9d38e9c2e",
-      "name": "9 Coins Grand Platinum Edition",
-      "slug": "voltent-9-coins-grand-platinum-edition",
-      "thumbnailUrl": "https://mediumrare.imgix.net/8fb49ba82878f75fed06dcaa8506848788998d49cdf2a6f61dab8bada86cd181",
-      "thumbnailBlurHash": "eVHVZHogo$j=M|$@og%gWBa#0EoMM}WVt7x_axD+ofRkD[oIogWEja",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "453bc7be-ee0c-4dc6-bc48-305a98fdae08",
-      "name": "30 Coins",
-      "slug": "voltent-30-coins",
-      "thumbnailUrl": "https://mediumrare.imgix.net/dcf398987e580f1f1727a450428336e9aba69d3aa1fea9942f61db3cee98d2a0",
-      "thumbnailBlurHash": "emIF;SVs0-s,NL:ij]NgjZR,GGkCwIWXs8K8aeVsbaw[ENbbt7a|sS",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "3c67c026-c961-486a-9050-60ee3117feea",
-      "name": "12 Coins: Grand Platinum Edition",
-      "slug": "voltent-12-coins-grand-platinum-edition",
-      "thumbnailUrl": "https://mediumrare.imgix.net/3d24dc3edb4a9d3c2a7a22aaaf3f928bcdb681b5fc6c15c4ca08f7771d4a143e",
-      "thumbnailBlurHash": "ebH.~wkE4=bJIq#zj[M{a#WU0WoLs:af%0Wnj[ofjus:D;WCt2j[WA",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "b4c736df-5943-4dc3-b562-e3b727904410",
-      "name": "Magic of the Ring Deluxe",
-      "slug": "voltent-magic-of-the-ring-deluxe",
-      "thumbnailUrl": "https://mediumrare.imgix.net/c18c18b09b54b7c50bc0bdf0ffc488d972d326f8e958c3c86727dc2a0afd4a4e",
-      "thumbnailBlurHash": "eWGkL|R$0Ls=oG9rWAtSogs*D{ac?Ga%awyCoHROR.M{r|j;obbHW=",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "d7506bd5-a892-42a6-af0f-17c29a2fbcc4",
-      "name": "Sun Of Fortune Xmas Edition",
-      "slug": "voltent-sun-of-fortune-xmas-edition",
-      "thumbnailUrl": "https://mediumrare.imgix.net/c93a188890fa190600b4b8b0cdfbf09e8fd02550297ad71eb41d087f2390844b",
-      "thumbnailBlurHash": "eKQHH=oeQmxpDmn0o0NfoyN3,mn%SjR-oI5doxIDM}V@vJbaNNi|Ny",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "048ec39c-e4b0-49cd-b1db-8214801866d7",
-      "name": "Magic Eggs",
-      "slug": "voltent-magic-eggs",
-      "thumbnailUrl": "https://mediumrare.imgix.net/235596ee7036131af59f98c30b6e4d485fce8ba8afac5a0715fd2f0c5f18726c",
-      "thumbnailBlurHash": "ebGT8exWFjNyXBD7obXUW?s+5_RkVrn*wG-XWXROWBWAE1og$~R*XT",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "c8d97aa5-9316-474c-a1b3-6e34b28c37ff",
-      "name": "Moon of Fortune",
-      "slug": "voltent-moon-of-fortune",
-      "thumbnailUrl": "https://mediumrare.imgix.net/62395b4bea4ab30163e5578f209b5c0f80af61121328657d390fa398c8b37c2a",
-      "thumbnailBlurHash": "e$JH|DkD5JkCNN,ikDNgfkkCI^jrs*afoIbyj?n#aejEE9a|t7j?xV",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "e81ce146-e04d-42df-bf05-7a2103736f7c",
-      "name": "Jelly Reels Xmas Edition",
-      "slug": "voltent-jelly-reels-xmas-edition",
-      "thumbnailUrl": "https://mediumrare.imgix.net/18858740a228adf3249e36c42e4b2ae7a8e2c36527936990b6a6fc3e84f1b787",
-      "thumbnailBlurHash": "eWFjZNv{OIRhtSH]r:xwoHogIjafnLspV?^lW@iurxW9I-R;%3rxoz",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "4294f605-df21-4d79-986d-15f5a7f02f2a",
-      "name": "Mighty Symbols: Diamonds",
-      "slug": "voltent-mighty-symbols-diamonds",
-      "thumbnailUrl": "https://mediumrare.imgix.net/d62ab26ef876c638e58e39853ca840bc057894114ed77f6f3b01bba17ea4ea0b",
-      "thumbnailBlurHash": "ePD_~#kqNNW;OF4sbbnTV@oyF#afVsnOt1:qadWGtQR*0OjEx]kqr?",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "9fbe3799-946e-495f-a986-66aa8e63faef",
-      "name": "Fortune Reels",
-      "slug": "voltent-fortune-reels",
-      "thumbnailUrl": "https://mediumrare.imgix.net/25c53707ea7b20e8ed2a85374ca19f8b0a46324b59b60c1d916f57f002e2d750",
-      "thumbnailBlurHash": "eiH:2aj[Aca}JW:NazXnj@S$CTazsWjujYK+j[a0ayaxA;a|-5j[t5",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "4d445bbc-b7e5-429e-a700-63042485eeaf",
-      "name": "Prosperity Pearls",
-      "slug": "voltent-prosperity-pearls",
-      "thumbnailUrl": "https://mediumrare.imgix.net/71b4048bf4446852d87cbbc030ca4a3f6081ee7290e65065f65f1b07bad2a165",
-      "thumbnailBlurHash": "eeDKr:pJTLV@WFA6bvpHaeoeW]aJW.kCkB%dniRjkCV[Nfaes.aynh",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "60b2b5ad-8b56-4ef5-a8c5-d671470d282e",
-      "name": "Mighty Wild: Panther Grand Platinum Edition",
-      "slug": "voltent-mighty-wild-panther-grand-platinum-edition",
-      "thumbnailUrl": "https://mediumrare.imgix.net/51f6cee035160e3dac77c2a45d5c2d87b3ca3d3c652b8740ed2b83cc12ff15e3",
-      "thumbnailBlurHash": "eREqvRt7ueR*TanAoL.7R*ogUQVtVuWCa2~XbHIBafM{FokVsqaysp",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "a3bd210f-7408-4ec1-80c4-0b3926702938",
-      "name": "Hot Slot: Great Book of Magic",
-      "slug": "voltent-hot-slot-great-book-of-magic",
-      "thumbnailUrl": "https://mediumrare.imgix.net/a8d8ea9d7544277b0341dcde0c153557d6139e57e7a78545bf460af54827d80c",
-      "thumbnailBlurHash": "evE:7EfkRQj[S6mij[xZa{bbOvjubaa#bHxaa~Rkj]WCI;fRt6j[oe",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "e0ce1ade-18b7-4919-86c1-682e5c14cb6e",
-      "name": "Burning Sun Extremely Light",
-      "slug": "voltent-burning-sun-extremely-light",
-      "thumbnailUrl": "https://mediumrare.imgix.net/05e58f3ff619310eb26e29d355039c503bcfb041771c7d2406913117eb8ec8d9",
-      "thumbnailBlurHash": "ebRc7UORHnWBRYK^ScRZa#ajQgWUtKoMo?IhS0j.j[kPMgSJb?bFW,",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "6f9a460f-c199-497d-9a32-1cf99be6b865",
-      "name": "Hot Slot: 777 Coins Extremely Light",
-      "slug": "voltent-hot-slot-777-coins-extremely-light",
-      "thumbnailUrl": "https://mediumrare.imgix.net/d835ae0b30b983e4c4cf6b80c2e7f063160a2c17e47c93ff986e1d70053905df",
-      "thumbnailBlurHash": "eQOUeFV[xBV_rsY,jIofa}t5IVoJIbovbt-?oIMzj[RRI8oMWCepRU",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "883038ca-e3cf-46ac-bc92-f39ee97d69e2",
-      "name": "Burning Sun Easter",
-      "slug": "voltent-burning-sun-easter",
-      "thumbnailUrl": "https://mediumrare.imgix.net/60a8634f00ef94160dfcf7c9c594b8bc8ec84b4f98304571f26802ba7b52b568",
-      "thumbnailBlurHash": "eTOnm_ni[nV{Q.1Fr?$fRnV_ZOs.IpbFWV.ToME3ocW:L~e.R.oeo}",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "9856fdc2-16fb-4139-9e4f-f2e50bc7cc85",
-      "name": "Hot Slot: 777 Crown Halloween",
-      "slug": "voltent-hot-slot-777-crown-halloween",
-      "thumbnailUrl": "https://mediumrare.imgix.net/640f2d34fc0dd8babea01dae5c843eaae5079ff3186e5968a3e35d634bc19260",
-      "thumbnailBlurHash": "eUPMH-=avOwMrr0_xZr_rsof+IR+njn%S#PWV[wbofRj8yr^xtoJkC",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "e779d78b-4c38-46b6-b108-786e05081ee2",
-      "name": "Hot Slot: 777 Cash Out Grand Diamond Edition",
-      "slug": "voltent-hot-slot-777-cash-out-grand-diamond-edition",
-      "thumbnailUrl": "https://mediumrare.imgix.net/e63e3f04109cb1a9698fe7f766f3244a79a1dbf492702e14b6de415364715578",
-      "thumbnailBlurHash": "eQNZ@Hof5Rn$M{9EbGK5fRS$+ajs$iWXoey?ofnOWVnOhzayg3bGxa",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "d8d79082-18ff-4ef4-ad8d-c434988cc209",
-      "name": "Midnight in Tokyo",
-      "slug": "voltent-midnight-in-tokyo",
-      "thumbnailUrl": "https://mediumrare.imgix.net/dfb2dc896d7c641beabfbc320a2ab76de095c6b81f0155a723b26856f106d137",
-      "thumbnailBlurHash": "eWJixaR%9JW=V?0wkAo$WBt5+nofxHjFg1u3jbROfkNGmtjbtPX8bI",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "4cdea2e2-1348-4f51-94f4-8866e739bc65",
-      "name": "Power of Gods: Valhalla Extremely Light",
-      "slug": "voltent-power-of-gods-valhalla-extremely-light",
-      "thumbnailUrl": "https://mediumrare.imgix.net/a2dddf91508a22989774d49f4cc29295b313069d423bacd19a706a98ddecf583",
-      "thumbnailBlurHash": "e]I}e+j[IYazjZ,~bHX7jZoeadfQt5aya~%Kj@WBa#RlIvayoJj[jY",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "fdb05dd9-84c7-4448-8859-a1e1efd04398",
-      "name": "9 Coins Halloween",
-      "slug": "voltent-9-coins-halloween",
-      "thumbnailUrl": "https://mediumrare.imgix.net/5bbe183348e86615e660878f91bf9a9f54d329b69c7682bd7d840372da782a7a",
-      "thumbnailBlurHash": "e+Gvk]bYTBkRWUKok8o]W-odRYbEj1bFjJ%KWCVyj[V_I.juobWCjb",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "04e0f1f1-2447-42cf-a71d-864a855c36f9",
-      "name": "Mighty Wild: Panther Easter",
-      "slug": "voltent-mighty-wild-panther-easter",
-      "thumbnailUrl": "https://mediumrare.imgix.net/4b06957f06b40ea30718d6c9a74e5805c38a50da604f59ab4d184574f1c366f1",
-      "thumbnailBlurHash": "ecF@nAf67CtPM{RfjHb^oer_0|f*+~WBr_tnbYn4WCS0InjsnUahoy",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "eae9c1bb-a626-4b19-bd5a-94dbce9d1e47",
-      "name": "Reel Joke",
-      "slug": "voltent-reel-joke",
-      "thumbnailUrl": "https://mediumrare.imgix.net/991df0857b68df70a08ec61796d189d85ab923b82a20178aa0ec6196426ca908",
-      "thumbnailBlurHash": "eXF?3Wk856aLM_l:j=tLafa~BXaxxpjbbw-Ft7RQaxRjNXogozocen",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "79db2912-588c-465b-8a81-9435d62271e2",
-      "name": "Prosperity Reels",
-      "slug": "voltent-prosperity-reels",
-      "thumbnailUrl": "https://mediumrare.imgix.net/a547d40f412ba79e1e3558359c3880aed8e9be8945232a7635ea1bdf0ae85a00",
-      "thumbnailBlurHash": "e,K^mDt6AIs9j=16S4XTWXofobo0$LbHbITKkBrqo0R+NGWDkDbHj[",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "4af325d2-ffbd-4cb6-b6fb-acd36fc4d2d6",
-      "name": "Dragons Lucky 8",
-      "slug": "voltent-dragons-lucky-8",
-      "thumbnailUrl": "https://mediumrare.imgix.net/0ff48fbbb01604b16812bbe1227f46f4b1a196c17687502041f3e5d070b0dfe5",
-      "thumbnailBlurHash": "eSPEYVt7s8V@RSF-owxuWpV]:-t6xufRkCuPofi^afWTL~oJoMWFWB",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "9b37e7f1-e9c7-444d-8dc7-de44c2f24ad3",
-      "name": "9 Coins Xmas Edition",
-      "slug": "voltent-9-coins-xmas-edition",
-      "thumbnailUrl": "https://mediumrare.imgix.net/e028772e4a1dad0e27c4f8fb6e581383bde8db8d51571837173907a129de3d6b",
-      "thumbnailBlurHash": "ecKvz+WDDj%2W?,$ofR:s:oy52oMT3V[V[b{WES%afRQ4#j^bcWCs,",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "a968f653-61b7-4ceb-85ae-6590503124ac",
-      "name": "Hot Slot: 777 Cash Out Grand Platinum Edition",
-      "slug": "voltent-hot-slot-777-cash-out-grand-platinum-edition",
-      "thumbnailUrl": "https://mediumrare.imgix.net/74f05749eb074ffb05ecc7672f1f32b992bf143b30fae12d66ad082c1d8d1c3c",
-      "thumbnailBlurHash": "eUOBJos.TUWVVt1=s.OpazbZHuWDRVj?o_.lWEnPbYe.r-bGxZWpaQ",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "ac7cf086-a58c-4089-bc77-7157116aca47",
-      "name": "Power of Sun: Svarog",
-      "slug": "voltent-power-of-sun-svarog",
-      "thumbnailUrl": "https://mediumrare.imgix.net/dde650beb87918f27480f31d8374e97753929c84d32275ae213a721b81de8f62",
-      "thumbnailBlurHash": "epK0.?o}ofWAsn16xttSaKt7-Ts:kCWAWByER.nNR+RjRQoft8j[kC",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "15b6348e-8aa4-4529-8951-4228588d323c",
-      "name": "Power of Gods: Egypt",
-      "slug": "voltent-power-of-gods-egypt",
-      "thumbnailUrl": "https://mediumrare.imgix.net/367fd9e77bd905c07f761490b0869c0ccd9301cf5bb39a7ebcf46ee2f279e56d",
-      "thumbnailBlurHash": "ebNa^yoyIBM}M{1EWUbcRlkC;$a#kCoJs:u3j]RPj?jEMdjYkCoJtQ",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "ca0835a3-b2d3-4462-a098-4dfc4e8185c8",
-      "name": "Hot Slot: Gold Coins",
-      "slug": "voltent-hot-slot-gold-coins",
-      "thumbnailUrl": "https://mediumrare.imgix.net/526b6ba59a306038cb6413ff276ef5612d9b57e764025c84b0d8ad8af43fe019",
-      "thumbnailBlurHash": "eSP4J8ofMMs:D*FmbHVyaeSi@ubFnjV[xs.AkCIpbIs%m7a#NxjFcC",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "e464d6b3-634c-44b9-9417-ce1c792e261c",
-      "name": "Juicy Reels",
-      "slug": "voltent-juicy-reels",
-      "thumbnailUrl": "https://mediumrare.imgix.net/32a5e29296b23af16a03151cbb304677872ab4af57d6c292db85d79c98f574f1",
-      "thumbnailBlurHash": "eSPDhb^H9OrrnS4pwuTLsUozzWIrtgoeXRGKr;RiwuadFVsikFWUxG",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "40c58f6f-eb16-47c9-a837-8c85a0a0f956",
-      "name": "Mighty Wild: Panther Grand Gold Edition",
-      "slug": "voltent-mighty-wild-panther-grand-gold-edition",
-      "thumbnailUrl": "https://mediumrare.imgix.net/bf9f8f91955ee725364082324a00eb773f2f3ccbe8bf60d4c2726038df191c34",
-      "thumbnailBlurHash": "eQD-$3yAU4R%N=Ebt6t~RkoflaVvnmV^nm~XWVMgjbRQ5Nbri%n+xb",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "fafcaaf9-32b8-4cfc-b054-c7e2f0b0ce26",
-      "name": "Sun of Fortune",
-      "slug": "voltent-sun-of-fortune",
-      "thumbnailUrl": "https://mediumrare.imgix.net/efbde9979d2ca7d09b4af4a047d686f3446061ac897eff69a1e6797992f0ca41",
-      "thumbnailBlurHash": "eMQZJnRTH@obMz4UV]S*kBW?wHt3R:WYobOdo_Q.aLobQ+bHtknko}",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "ac637f37-6591-456e-8d56-cea005cf10ad",
-      "name": "Infinity Hero",
-      "slug": "voltent-infinity-hero",
-      "thumbnailUrl": "https://mediumrare.imgix.net/7856ffa10f239ac0b974678e898342f26ee058ff284ed50038dd07b492d5cfdc",
-      "thumbnailBlurHash": "epJHCNj[9wazV[IjayX9azs,Iyj?r_a#xptjodadWXjYj0ayxsfkWE",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "0a88cac8-813a-4fb9-88e6-5fda6e0ce6aa",
-      "name": "Book of Faith",
-      "slug": "voltent-book-of-faith",
-      "thumbnailUrl": "https://mediumrare.imgix.net/c90a97d466049ef43a16c9151002cab34a217de77a523f67f947a21f3f751c7d",
-      "thumbnailBlurHash": "eeEzyijYTfs.t7m~WByDn~t6Tha}tQazWA?aofs.W=R*IqkC%1bIoc",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "ee9a6feb-d08f-4cb2-bfa8-e8d39b5b0d43",
-      "name": "Jelly Reels",
-      "slug": "voltent-jelly-reels",
-      "thumbnailUrl": "https://mediumrare.imgix.net/fa35495b29527494cb6dfa97735649956c0e450c67f88fc838a52a8a8d1d5ca6",
-      "thumbnailBlurHash": "erN99RkE5]n#xC19kBK8j[s-R6jEv}R:aeO[afv|WCWCR6S6o{oIX9",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "086ec8f6-07c6-49c7-881f-3e92f15372fa",
-      "name": "Mighty Symbols: Sevens",
-      "slug": "voltent-mighty-symbols-sevens",
-      "thumbnailUrl": "https://mediumrare.imgix.net/f90ba81f907158035e06299a72e7ebca63d1c27b9a493abbeddce2ec81320003",
-      "thumbnailBlurHash": "eYOdCejcD-oMreDzazS$afogVxayxWayX4Gua}nQkBnPH?j[ozjaxu",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "e9bb69bd-0f62-4008-96c1-7ffe2459409a",
-      "name": "Double Tigers",
-      "slug": "voltent-double-tigers",
-      "thumbnailUrl": "https://mediumrare.imgix.net/4c2598048a692e8506f7f513b2913ec08c0065fb668c37f0333da6e1c0002670",
-      "thumbnailBlurHash": "eeEzH0F#IUr;M{Z2JDtRs+s:S]i^S%t7od$ixBIpa$ad9vslt6flt7",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "8f3ba9e4-3477-43fb-9957-36b378cc8200",
-      "name": "Burning Stars 3 Xmas Edition",
-      "slug": "voltent-burning-stars-3-xmas-edition",
-      "thumbnailUrl": "https://mediumrare.imgix.net/3128f19e1906075eef57d181422119bc19efb3db15d7fa7af67d852fac6bcc64",
-      "thumbnailBlurHash": "eSPq+UI=U}o{R*7+Nuj1oyXR4YS^$yr^s,80S_$xn*r?#5S}tQkpS~",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "0afd0130-91e7-46e2-a144-1dc9d38e9c2e",
-      "name": "9 Coins Grand Platinum Edition",
-      "slug": "voltent-9-coins-grand-platinum-edition",
-      "thumbnailUrl": "https://mediumrare.imgix.net/8fb49ba82878f75fed06dcaa8506848788998d49cdf2a6f61dab8bada86cd181",
-      "thumbnailBlurHash": "eVHVZHogo$j=M|$@og%gWBa#0EoMM}WVt7x_axD+ofRkD[oIogWEja",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "453bc7be-ee0c-4dc6-bc48-305a98fdae08",
-      "name": "30 Coins",
-      "slug": "voltent-30-coins",
-      "thumbnailUrl": "https://mediumrare.imgix.net/dcf398987e580f1f1727a450428336e9aba69d3aa1fea9942f61db3cee98d2a0",
-      "thumbnailBlurHash": "emIF;SVs0-s,NL:ij]NgjZR,GGkCwIWXs8K8aeVsbaw[ENbbt7a|sS",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "3c67c026-c961-486a-9050-60ee3117feea",
-      "name": "12 Coins: Grand Platinum Edition",
-      "slug": "voltent-12-coins-grand-platinum-edition",
-      "thumbnailUrl": "https://mediumrare.imgix.net/3d24dc3edb4a9d3c2a7a22aaaf3f928bcdb681b5fc6c15c4ca08f7771d4a143e",
-      "thumbnailBlurHash": "ebH.~wkE4=bJIq#zj[M{a#WU0WoLs:af%0Wnj[ofjus:D;WCt2j[WA",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "b4c736df-5943-4dc3-b562-e3b727904410",
-      "name": "Magic of the Ring Deluxe",
-      "slug": "voltent-magic-of-the-ring-deluxe",
-      "thumbnailUrl": "https://mediumrare.imgix.net/c18c18b09b54b7c50bc0bdf0ffc488d972d326f8e958c3c86727dc2a0afd4a4e",
-      "thumbnailBlurHash": "eWGkL|R$0Ls=oG9rWAtSogs*D{ac?Ga%awyCoHROR.M{r|j;obbHW=",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "d7506bd5-a892-42a6-af0f-17c29a2fbcc4",
-      "name": "Sun Of Fortune Xmas Edition",
-      "slug": "voltent-sun-of-fortune-xmas-edition",
-      "thumbnailUrl": "https://mediumrare.imgix.net/c93a188890fa190600b4b8b0cdfbf09e8fd02550297ad71eb41d087f2390844b",
-      "thumbnailBlurHash": "eKQHH=oeQmxpDmn0o0NfoyN3,mn%SjR-oI5doxIDM}V@vJbaNNi|Ny",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "048ec39c-e4b0-49cd-b1db-8214801866d7",
-      "name": "Magic Eggs",
-      "slug": "voltent-magic-eggs",
-      "thumbnailUrl": "https://mediumrare.imgix.net/235596ee7036131af59f98c30b6e4d485fce8ba8afac5a0715fd2f0c5f18726c",
-      "thumbnailBlurHash": "ebGT8exWFjNyXBD7obXUW?s+5_RkVrn*wG-XWXROWBWAE1og$~R*XT",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "c8d97aa5-9316-474c-a1b3-6e34b28c37ff",
-      "name": "Moon of Fortune",
-      "slug": "voltent-moon-of-fortune",
-      "thumbnailUrl": "https://mediumrare.imgix.net/62395b4bea4ab30163e5578f209b5c0f80af61121328657d390fa398c8b37c2a",
-      "thumbnailBlurHash": "e$JH|DkD5JkCNN,ikDNgfkkCI^jrs*afoIbyj?n#aejEE9a|t7j?xV",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "e81ce146-e04d-42df-bf05-7a2103736f7c",
-      "name": "Jelly Reels Xmas Edition",
-      "slug": "voltent-jelly-reels-xmas-edition",
-      "thumbnailUrl": "https://mediumrare.imgix.net/18858740a228adf3249e36c42e4b2ae7a8e2c36527936990b6a6fc3e84f1b787",
-      "thumbnailBlurHash": "eWFjZNv{OIRhtSH]r:xwoHogIjafnLspV?^lW@iurxW9I-R;%3rxoz",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "4294f605-df21-4d79-986d-15f5a7f02f2a",
-      "name": "Mighty Symbols: Diamonds",
-      "slug": "voltent-mighty-symbols-diamonds",
-      "thumbnailUrl": "https://mediumrare.imgix.net/d62ab26ef876c638e58e39853ca840bc057894114ed77f6f3b01bba17ea4ea0b",
-      "thumbnailBlurHash": "ePD_~#kqNNW;OF4sbbnTV@oyF#afVsnOt1:qadWGtQR*0OjEx]kqr?",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "9fbe3799-946e-495f-a986-66aa8e63faef",
-      "name": "Fortune Reels",
-      "slug": "voltent-fortune-reels",
-      "thumbnailUrl": "https://mediumrare.imgix.net/25c53707ea7b20e8ed2a85374ca19f8b0a46324b59b60c1d916f57f002e2d750",
-      "thumbnailBlurHash": "eiH:2aj[Aca}JW:NazXnj@S$CTazsWjujYK+j[a0ayaxA;a|-5j[t5",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "4d445bbc-b7e5-429e-a700-63042485eeaf",
-      "name": "Prosperity Pearls",
-      "slug": "voltent-prosperity-pearls",
-      "thumbnailUrl": "https://mediumrare.imgix.net/71b4048bf4446852d87cbbc030ca4a3f6081ee7290e65065f65f1b07bad2a165",
-      "thumbnailBlurHash": "eeDKr:pJTLV@WFA6bvpHaeoeW]aJW.kCkB%dniRjkCV[Nfaes.aynh",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "60b2b5ad-8b56-4ef5-a8c5-d671470d282e",
-      "name": "Mighty Wild: Panther Grand Platinum Edition",
-      "slug": "voltent-mighty-wild-panther-grand-platinum-edition",
-      "thumbnailUrl": "https://mediumrare.imgix.net/51f6cee035160e3dac77c2a45d5c2d87b3ca3d3c652b8740ed2b83cc12ff15e3",
-      "thumbnailBlurHash": "eREqvRt7ueR*TanAoL.7R*ogUQVtVuWCa2~XbHIBafM{FokVsqaysp",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "a3bd210f-7408-4ec1-80c4-0b3926702938",
-      "name": "Hot Slot: Great Book of Magic",
-      "slug": "voltent-hot-slot-great-book-of-magic",
-      "thumbnailUrl": "https://mediumrare.imgix.net/a8d8ea9d7544277b0341dcde0c153557d6139e57e7a78545bf460af54827d80c",
-      "thumbnailBlurHash": "evE:7EfkRQj[S6mij[xZa{bbOvjubaa#bHxaa~Rkj]WCI;fRt6j[oe",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "e0ce1ade-18b7-4919-86c1-682e5c14cb6e",
-      "name": "Burning Sun Extremely Light",
-      "slug": "voltent-burning-sun-extremely-light",
-      "thumbnailUrl": "https://mediumrare.imgix.net/05e58f3ff619310eb26e29d355039c503bcfb041771c7d2406913117eb8ec8d9",
-      "thumbnailBlurHash": "ebRc7UORHnWBRYK^ScRZa#ajQgWUtKoMo?IhS0j.j[kPMgSJb?bFW,",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "6f9a460f-c199-497d-9a32-1cf99be6b865",
-      "name": "Hot Slot: 777 Coins Extremely Light",
-      "slug": "voltent-hot-slot-777-coins-extremely-light",
-      "thumbnailUrl": "https://mediumrare.imgix.net/d835ae0b30b983e4c4cf6b80c2e7f063160a2c17e47c93ff986e1d70053905df",
-      "thumbnailBlurHash": "eQOUeFV[xBV_rsY,jIofa}t5IVoJIbovbt-?oIMzj[RRI8oMWCepRU",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "883038ca-e3cf-46ac-bc92-f39ee97d69e2",
-      "name": "Burning Sun Easter",
-      "slug": "voltent-burning-sun-easter",
-      "thumbnailUrl": "https://mediumrare.imgix.net/60a8634f00ef94160dfcf7c9c594b8bc8ec84b4f98304571f26802ba7b52b568",
-      "thumbnailBlurHash": "eTOnm_ni[nV{Q.1Fr?$fRnV_ZOs.IpbFWV.ToME3ocW:L~e.R.oeo}",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "9856fdc2-16fb-4139-9e4f-f2e50bc7cc85",
-      "name": "Hot Slot: 777 Crown Halloween",
-      "slug": "voltent-hot-slot-777-crown-halloween",
-      "thumbnailUrl": "https://mediumrare.imgix.net/640f2d34fc0dd8babea01dae5c843eaae5079ff3186e5968a3e35d634bc19260",
-      "thumbnailBlurHash": "eUPMH-=avOwMrr0_xZr_rsof+IR+njn%S#PWV[wbofRj8yr^xtoJkC",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "e779d78b-4c38-46b6-b108-786e05081ee2",
-      "name": "Hot Slot: 777 Cash Out Grand Diamond Edition",
-      "slug": "voltent-hot-slot-777-cash-out-grand-diamond-edition",
-      "thumbnailUrl": "https://mediumrare.imgix.net/e63e3f04109cb1a9698fe7f766f3244a79a1dbf492702e14b6de415364715578",
-      "thumbnailBlurHash": "eQNZ@Hof5Rn$M{9EbGK5fRS$+ajs$iWXoey?ofnOWVnOhzayg3bGxa",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "d8d79082-18ff-4ef4-ad8d-c434988cc209",
-      "name": "Midnight in Tokyo",
-      "slug": "voltent-midnight-in-tokyo",
-      "thumbnailUrl": "https://mediumrare.imgix.net/dfb2dc896d7c641beabfbc320a2ab76de095c6b81f0155a723b26856f106d137",
-      "thumbnailBlurHash": "eWJixaR%9JW=V?0wkAo$WBt5+nofxHjFg1u3jbROfkNGmtjbtPX8bI",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "4cdea2e2-1348-4f51-94f4-8866e739bc65",
-      "name": "Power of Gods: Valhalla Extremely Light",
-      "slug": "voltent-power-of-gods-valhalla-extremely-light",
-      "thumbnailUrl": "https://mediumrare.imgix.net/a2dddf91508a22989774d49f4cc29295b313069d423bacd19a706a98ddecf583",
-      "thumbnailBlurHash": "e]I}e+j[IYazjZ,~bHX7jZoeadfQt5aya~%Kj@WBa#RlIvayoJj[jY",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "fdb05dd9-84c7-4448-8859-a1e1efd04398",
-      "name": "9 Coins Halloween",
-      "slug": "voltent-9-coins-halloween",
-      "thumbnailUrl": "https://mediumrare.imgix.net/5bbe183348e86615e660878f91bf9a9f54d329b69c7682bd7d840372da782a7a",
-      "thumbnailBlurHash": "e+Gvk]bYTBkRWUKok8o]W-odRYbEj1bFjJ%KWCVyj[V_I.juobWCjb",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "04e0f1f1-2447-42cf-a71d-864a855c36f9",
-      "name": "Mighty Wild: Panther Easter",
-      "slug": "voltent-mighty-wild-panther-easter",
-      "thumbnailUrl": "https://mediumrare.imgix.net/4b06957f06b40ea30718d6c9a74e5805c38a50da604f59ab4d184574f1c366f1",
-      "thumbnailBlurHash": "ecF@nAf67CtPM{RfjHb^oer_0|f*+~WBr_tnbYn4WCS0InjsnUahoy",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "eae9c1bb-a626-4b19-bd5a-94dbce9d1e47",
-      "name": "Reel Joke",
-      "slug": "voltent-reel-joke",
-      "thumbnailUrl": "https://mediumrare.imgix.net/991df0857b68df70a08ec61796d189d85ab923b82a20178aa0ec6196426ca908",
-      "thumbnailBlurHash": "eXF?3Wk856aLM_l:j=tLafa~BXaxxpjbbw-Ft7RQaxRjNXogozocen",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "79db2912-588c-465b-8a81-9435d62271e2",
-      "name": "Prosperity Reels",
-      "slug": "voltent-prosperity-reels",
-      "thumbnailUrl": "https://mediumrare.imgix.net/a547d40f412ba79e1e3558359c3880aed8e9be8945232a7635ea1bdf0ae85a00",
-      "thumbnailBlurHash": "e,K^mDt6AIs9j=16S4XTWXofobo0$LbHbITKkBrqo0R+NGWDkDbHj[",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "4af325d2-ffbd-4cb6-b6fb-acd36fc4d2d6",
-      "name": "Dragons Lucky 8",
-      "slug": "voltent-dragons-lucky-8",
-      "thumbnailUrl": "https://mediumrare.imgix.net/0ff48fbbb01604b16812bbe1227f46f4b1a196c17687502041f3e5d070b0dfe5",
-      "thumbnailBlurHash": "eSPEYVt7s8V@RSF-owxuWpV]:-t6xufRkCuPofi^afWTL~oJoMWFWB",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "9b37e7f1-e9c7-444d-8dc7-de44c2f24ad3",
-      "name": "9 Coins Xmas Edition",
-      "slug": "voltent-9-coins-xmas-edition",
-      "thumbnailUrl": "https://mediumrare.imgix.net/e028772e4a1dad0e27c4f8fb6e581383bde8db8d51571837173907a129de3d6b",
-      "thumbnailBlurHash": "ecKvz+WDDj%2W?,$ofR:s:oy52oMT3V[V[b{WES%afRQ4#j^bcWCs,",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "a968f653-61b7-4ceb-85ae-6590503124ac",
-      "name": "Hot Slot: 777 Cash Out Grand Platinum Edition",
-      "slug": "voltent-hot-slot-777-cash-out-grand-platinum-edition",
-      "thumbnailUrl": "https://mediumrare.imgix.net/74f05749eb074ffb05ecc7672f1f32b992bf143b30fae12d66ad082c1d8d1c3c",
-      "thumbnailBlurHash": "eUOBJos.TUWVVt1=s.OpazbZHuWDRVj?o_.lWEnPbYe.r-bGxZWpaQ",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
+      "extracted_at": "2025-08-07T02:19:07.416553"
+    },
+    {
+      "game_id": "voltent-30-coins-grand-gold-edition",
+      "title": "30 Coins Grand Gold Edition",
+      "slug": "voltent-30-coins-grand-gold-edition",
+      "provider": "VoltEnt",
+      "thumbnail_url": "https://mediumrare.imgix.net/a8f0b09622e4729e03f0c827dc25531a1777cd390e24f9f4124d48afe6cd0dc0",
+      "expected_filename": "VoltEnt - 30 Coins Grand Gold Edition.webp",
+      "game_url": "https://stake.com/casino/games/voltent-30-coins-grand-gold-edition",
+      "extracted_at": "2025-08-07T02:19:07.416553"
+    },
+    {
+      "game_id": "voltent-one-coin",
+      "title": "One Coin",
+      "slug": "voltent-one-coin",
+      "provider": "VoltEnt",
+      "thumbnail_url": "https://mediumrare.imgix.net/12fb113c5b59e43ce6bc33fa5bfbad61548e8f253fde65c2a216bd849f4a4641",
+      "expected_filename": "VoltEnt - One Coin.webp",
+      "game_url": "https://stake.com/casino/games/voltent-one-coin",
+      "extracted_at": "2025-08-07T02:19:07.416553"
+    },
+    {
+      "game_id": "voltent-hot-slot-777-rubies",
+      "title": "Hot Slot: 777 Rubies",
+      "slug": "voltent-hot-slot-777-rubies",
+      "provider": "VoltEnt",
+      "thumbnail_url": "https://mediumrare.imgix.net/6904a9d6cdff6c4af64dec7ce9b8f04aff9390afdb9274c498d1abb7534e67c9",
+      "expected_filename": "VoltEnt - Hot Slot 777 Rubies.webp",
+      "game_url": "https://stake.com/casino/games/voltent-hot-slot-777-rubies",
+      "extracted_at": "2025-08-07T02:19:07.416553"
     }
-  ]
+  ],
+  "timestamp": "2025-08-07T02:19:07.416553",
+  "source": "initial_html_fetch"
 }

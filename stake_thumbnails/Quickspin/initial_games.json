@@ -1,20 +1,11 @@
 {
-  "timestamp": "2025-08-06T05:47:31.827Z",
+  "provider": "Quickspin",
   "provider_slug": "quickspin",
-  "provider_name": "Quickspin",
   "total_games": 116,
-  "games_fetched": 116,
+  "games_fetched": 39,
+  "is_complete": false,
+  "needs_pagination": true,
   "games": [
-    {
-      "game_id": "quickspin-cash-truck-begins",
-      "title": "Cash Truck Begins",
-      "slug": "quickspin-cash-truck-begins",
-      "provider": "Quickspin",
-      "thumbnail_url": "https://mediumrare.imgix.net/33e26526b78b9caea9a0ab08bcab321f1f00065ee394cb987553485c0a123a63",
-      "expected_filename": "Quickspin - Cash Truck Begins.webp",
-      "game_url": "https://stake.com/casino/games/quickspin-cash-truck-begins",
-      "extracted_at": "2025-08-06T01:05:59.006140"
-    },
     {
       "game_id": "quickspin-dog-town-deal",
       "title": "Dog Town Deal",
@@ -23,7 +14,17 @@
       "thumbnail_url": "https://mediumrare.imgix.net/5a31b2ca623e7f5179ef25ca88c5e29a7473f0b7074de9be6d1ee10b8869d353",
       "expected_filename": "Quickspin - Dog Town Deal.webp",
       "game_url": "https://stake.com/casino/games/quickspin-dog-town-deal",
-      "extracted_at": "2025-08-06T01:05:59.006140"
+      "extracted_at": "2025-08-07T02:21:19.530150"
+    },
+    {
+      "game_id": "quickspin-cash-truck-begins",
+      "title": "Cash Truck Begins",
+      "slug": "quickspin-cash-truck-begins",
+      "provider": "Quickspin",
+      "thumbnail_url": "https://mediumrare.imgix.net/33e26526b78b9caea9a0ab08bcab321f1f00065ee394cb987553485c0a123a63",
+      "expected_filename": "Quickspin - Cash Truck Begins.webp",
+      "game_url": "https://stake.com/casino/games/quickspin-cash-truck-begins",
+      "extracted_at": "2025-08-07T02:21:19.530150"
     },
     {
       "game_id": "quickspin-big-bad-wolf-megaways",
@@ -33,7 +34,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/b0c38b2dc7acb46ad8f3c76ae659238c9e36446eecb24d066a7741c156c65554",
       "expected_filename": "Quickspin - Big Bad Wolf Megaways.webp",
       "game_url": "https://stake.com/casino/games/quickspin-big-bad-wolf-megaways",
-      "extracted_at": "2025-08-06T01:05:59.006140"
+      "extracted_at": "2025-08-07T02:21:19.530150"
     },
     {
       "game_id": "quickspin-diamond-duke",
@@ -43,7 +44,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/85a23223cc682e4aad2fabc8c37a0fa451fa2aab77a99957bd61dc78c8b4c2ea",
       "expected_filename": "Quickspin - Diamond Duke.webp",
       "game_url": "https://stake.com/casino/games/quickspin-diamond-duke",
-      "extracted_at": "2025-08-06T01:05:59.006140"
+      "extracted_at": "2025-08-07T02:21:19.530150"
     },
     {
       "game_id": "quickspin-volcano-riches",
@@ -53,7 +54,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/93116ad3c7093110cbf16f0a116a270f35d9a753ab3d1240bada96d9584c9c02",
       "expected_filename": "Quickspin - Volcano Riches.webp",
       "game_url": "https://stake.com/casino/games/quickspin-volcano-riches",
-      "extracted_at": "2025-08-06T01:05:59.006140"
+      "extracted_at": "2025-08-07T02:21:19.530150"
     },
     {
       "game_id": "quickspin-eastern-emeralds-megaways",
@@ -63,7 +64,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/deb09bbd22ae12d173844ad4297f9db8c7068ac8e1fb4c9930dd2caf8f488c6c",
       "expected_filename": "Quickspin - Eastern Emeralds Megaways.webp",
       "game_url": "https://stake.com/casino/games/quickspin-eastern-emeralds-megaways",
-      "extracted_at": "2025-08-06T01:05:59.006140"
+      "extracted_at": "2025-08-07T02:21:19.530150"
     },
     {
       "game_id": "quickspin-big-bad-wolf-pigs-of-steel",
@@ -73,7 +74,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/2f5a725fb3878559a24ef505c801ef39d6aa2de84e0b6de91c500b8266107069",
       "expected_filename": "Quickspin - Big Bad Wolf Pigs of Steel.webp",
       "game_url": "https://stake.com/casino/games/quickspin-big-bad-wolf-pigs-of-steel",
-      "extracted_at": "2025-08-06T01:05:59.006140"
+      "extracted_at": "2025-08-07T02:21:19.530150"
     },
     {
       "game_id": "quickspin-sakura-fortune",
@@ -83,7 +84,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/92fcf49173a517fa785a9aa3d27661d56744b23a6ec6e6c3a8396b79d6aef072",
       "expected_filename": "Quickspin - Sakura Fortune.webp",
       "game_url": "https://stake.com/casino/games/quickspin-sakura-fortune",
-      "extracted_at": "2025-08-06T01:05:59.006140"
+      "extracted_at": "2025-08-07T02:21:19.530150"
     },
     {
       "game_id": "quickspin-skulls-up",
@@ -93,7 +94,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/4e976d548de9144c9479fdf87301ca68a818c190604243cba188074f6ccaf5b6",
       "expected_filename": "Quickspin - Skulls UP!.webp",
       "game_url": "https://stake.com/casino/games/quickspin-skulls-up",
-      "extracted_at": "2025-08-06T01:05:59.006140"
+      "extracted_at": "2025-08-07T02:21:19.530150"
     },
     {
       "game_id": "quickspin-sticky-bandits-3-most-wanted",
@@ -103,17 +104,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/53dcdde1a8402ed6605e7f36a1232a9b9a628aacc83b89904368821e7e7d7020",
       "expected_filename": "Quickspin - Sticky Bandits 3 Most Wanted.webp",
       "game_url": "https://stake.com/casino/games/quickspin-sticky-bandits-3-most-wanted",
-      "extracted_at": "2025-08-06T01:05:59.006140"
-    },
-    {
-      "game_id": "quickspin-mayana",
-      "title": "Mayana",
-      "slug": "quickspin-mayana",
-      "provider": "Quickspin",
-      "thumbnail_url": "https://mediumrare.imgix.net/53a18048ffac3da66c391a50b6b1f79798a9c530dae222ad0c397c501305cec2",
-      "expected_filename": "Quickspin - Mayana.webp",
-      "game_url": "https://stake.com/casino/games/quickspin-mayana",
-      "extracted_at": "2025-08-06T01:05:59.006140"
+      "extracted_at": "2025-08-07T02:21:19.530150"
     },
     {
       "game_id": "quickspin-big-bad-wolf",
@@ -123,7 +114,17 @@
       "thumbnail_url": "https://mediumrare.imgix.net/3c845236abd20e306f585f57ab4c4e6425a78f6d5adbc99b21a8c9387608d56b",
       "expected_filename": "Quickspin - Big Bad Wolf.webp",
       "game_url": "https://stake.com/casino/games/quickspin-big-bad-wolf",
-      "extracted_at": "2025-08-06T01:05:59.006140"
+      "extracted_at": "2025-08-07T02:21:19.530150"
+    },
+    {
+      "game_id": "quickspin-mayana",
+      "title": "Mayana",
+      "slug": "quickspin-mayana",
+      "provider": "Quickspin",
+      "thumbnail_url": "https://mediumrare.imgix.net/53a18048ffac3da66c391a50b6b1f79798a9c530dae222ad0c397c501305cec2",
+      "expected_filename": "Quickspin - Mayana.webp",
+      "game_url": "https://stake.com/casino/games/quickspin-mayana",
+      "extracted_at": "2025-08-07T02:21:19.530150"
     },
     {
       "game_id": "quickspin-hammer-of-vulcan",
@@ -133,7 +134,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/57112f19140803e1b5eb94668d9e10a80210fbdb8b2f1735964fd1e3f9c18424",
       "expected_filename": "Quickspin - Hammer of Vulcan.webp",
       "game_url": "https://stake.com/casino/games/quickspin-hammer-of-vulcan",
-      "extracted_at": "2025-08-06T01:05:59.006140"
+      "extracted_at": "2025-08-07T02:21:19.530150"
     },
     {
       "game_id": "quickspin-cabin-crashers",
@@ -143,7 +144,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/e01f21790cb64501b0f5ab5a82cafcb065fa37796865f175f412884e1cfab9f0",
       "expected_filename": "Quickspin - Cabin Crashers.webp",
       "game_url": "https://stake.com/casino/games/quickspin-cabin-crashers",
-      "extracted_at": "2025-08-06T01:05:59.006140"
+      "extracted_at": "2025-08-07T02:21:19.530150"
     },
     {
       "game_id": "quickspin-treasure-island",
@@ -153,7 +154,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/6048474fe25943258d8e87e2b33e9c679ed963a814eb6640962fb7257b9cc03a",
       "expected_filename": "Quickspin - Treasure Island.webp",
       "game_url": "https://stake.com/casino/games/quickspin-treasure-island",
-      "extracted_at": "2025-08-06T01:05:59.006140"
+      "extracted_at": "2025-08-07T02:21:19.530150"
     },
     {
       "game_id": "quickspin-sticky-bandits-thunder-rail",
@@ -163,7 +164,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/3b5e34aba39021ce1ed9a959dac7b50e629297f54d376a2d433d8926f954b3ba",
       "expected_filename": "Quickspin - Sticky Bandits Thunder Rail.webp",
       "game_url": "https://stake.com/casino/games/quickspin-sticky-bandits-thunder-rail",
-      "extracted_at": "2025-08-06T01:05:59.006140"
+      "extracted_at": "2025-08-07T02:21:19.530150"
     },
     {
       "game_id": "quickspin-big-bad-wolf-christmas-special",
@@ -173,17 +174,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/5c31f0d776b09a9cb3a2992ad21800be155b971e187f713da8d05ea060261702",
       "expected_filename": "Quickspin - Big Bad Wolf Christmas Special.webp",
       "game_url": "https://stake.com/casino/games/quickspin-big-bad-wolf-christmas-special",
-      "extracted_at": "2025-08-06T01:05:59.006140"
-    },
-    {
-      "game_id": "quickspin-loco-the-monkey",
-      "title": "Loco the Monkey",
-      "slug": "quickspin-loco-the-monkey",
-      "provider": "Quickspin",
-      "thumbnail_url": "https://mediumrare.imgix.net/023496d97f88d9d04cafcd55c0b8242a14073ef1ccdd9ff8b6d47354947480e4",
-      "expected_filename": "Quickspin - Loco the Monkey.webp",
-      "game_url": "https://stake.com/casino/games/quickspin-loco-the-monkey",
-      "extracted_at": "2025-08-06T01:05:59.006140"
+      "extracted_at": "2025-08-07T02:21:19.530150"
     },
     {
       "game_id": "quickspin-brawlers-bar-cash-collect",
@@ -193,7 +184,17 @@
       "thumbnail_url": "https://mediumrare.imgix.net/74150260d7201494a2cb1a96a1ed5092239e8e399e597d3aff3b66bf3f176399",
       "expected_filename": "Quickspin - Brawlers Bar Cash Collect.webp",
       "game_url": "https://stake.com/casino/games/quickspin-brawlers-bar-cash-collect",
-      "extracted_at": "2025-08-06T01:05:59.006140"
+      "extracted_at": "2025-08-07T02:21:19.530150"
+    },
+    {
+      "game_id": "quickspin-loco-the-monkey",
+      "title": "Loco the Monkey",
+      "slug": "quickspin-loco-the-monkey",
+      "provider": "Quickspin",
+      "thumbnail_url": "https://mediumrare.imgix.net/023496d97f88d9d04cafcd55c0b8242a14073ef1ccdd9ff8b6d47354947480e4",
+      "expected_filename": "Quickspin - Loco the Monkey.webp",
+      "game_url": "https://stake.com/casino/games/quickspin-loco-the-monkey",
+      "extracted_at": "2025-08-07T02:21:19.530150"
     },
     {
       "game_id": "quickspin-artemisvs-medusa",
@@ -203,7 +204,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/4bc6f71b557327d33c1ef17ee6c98ad47d842ab88856342ebc21e90922427d2a",
       "expected_filename": "Quickspin - Artemis vs Medusa.webp",
       "game_url": "https://stake.com/casino/games/quickspin-artemisvs-medusa",
-      "extracted_at": "2025-08-06T01:05:59.006140"
+      "extracted_at": "2025-08-07T02:21:19.530150"
     },
     {
       "game_id": "quickspin-dinosaur-rage",
@@ -213,7 +214,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/086d662adad2859478a89e09ed0ac2651a38c5dbf80c29fe7bf55f56a3fef9db",
       "expected_filename": "Quickspin - Dinosaur Rage.webp",
       "game_url": "https://stake.com/casino/games/quickspin-dinosaur-rage",
-      "extracted_at": "2025-08-06T01:05:59.006140"
+      "extracted_at": "2025-08-07T02:21:19.530150"
     },
     {
       "game_id": "quickspin-leprechaun-hills",
@@ -223,7 +224,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/0ca9a0d7f84852d5f85e12a6f087769d5d27075b0ec3928a0264e5825cade193",
       "expected_filename": "Quickspin - Leprechaun Hills.webp",
       "game_url": "https://stake.com/casino/games/quickspin-leprechaun-hills",
-      "extracted_at": "2025-08-06T01:05:59.006140"
+      "extracted_at": "2025-08-07T02:21:19.530150"
     },
     {
       "game_id": "quickspin-eastern-emeralds",
@@ -233,7 +234,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/514f2e6a86115ae256af354b618746d0cef4c5691def6e9d55fa1c8749f5676c",
       "expected_filename": "Quickspin - Eastern Emeralds.webp",
       "game_url": "https://stake.com/casino/games/quickspin-eastern-emeralds",
-      "extracted_at": "2025-08-06T01:05:59.006140"
+      "extracted_at": "2025-08-07T02:21:19.530150"
     },
     {
       "game_id": "quickspin-cash-truck",
@@ -243,7 +244,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/65dcd2a425d5c5925a719739cb2a9e4756faccdb44e44427da97e4738f831dca",
       "expected_filename": "Quickspin - Cash Truck.webp",
       "game_url": "https://stake.com/casino/games/quickspin-cash-truck",
-      "extracted_at": "2025-08-06T01:05:59.006140"
+      "extracted_at": "2025-08-07T02:21:19.530150"
     },
     {
       "game_id": "quickspin-golden-glyph",
@@ -253,37 +254,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/c1d0b6c0120715c954767d15ce04341ba53d09e3200f99f1e03e20409adb5b7f",
       "expected_filename": "Quickspin - Golden Glyph.webp",
       "game_url": "https://stake.com/casino/games/quickspin-golden-glyph",
-      "extracted_at": "2025-08-06T01:05:59.006140"
-    },
-    {
-      "game_id": "quickspin-sevens-high-ultra",
-      "title": "Sevens High Ultra",
-      "slug": "quickspin-sevens-high-ultra",
-      "provider": "Quickspin",
-      "thumbnail_url": "https://mediumrare.imgix.net/656ff71bf2cd574f8efd9fb36d3751aacdba8aa940c680e4259bec796b21fd58",
-      "expected_filename": "Quickspin - Sevens High Ultra.webp",
-      "game_url": "https://stake.com/casino/games/quickspin-sevens-high-ultra",
-      "extracted_at": "2025-08-06T01:05:59.006140"
-    },
-    {
-      "game_id": "quickspin-adventures-beyond-wonderland-magical-maze",
-      "title": "Adventures Beyond Wonderland Magical Maze",
-      "slug": "quickspin-adventures-beyond-wonderland-magical-maze",
-      "provider": "Quickspin",
-      "thumbnail_url": "https://mediumrare.imgix.net/6101b223756bbaa6832141e4696052c7bea678bff11e36f90e2adab3c94794ca",
-      "expected_filename": "Quickspin - Adventures Beyond Wonderland Magical Maze.webp",
-      "game_url": "https://stake.com/casino/games/quickspin-adventures-beyond-wonderland-magical-maze",
-      "extracted_at": "2025-08-06T01:05:59.006140"
-    },
-    {
-      "game_id": "quickspin-sakura-fortune-2",
-      "title": "Sakura Fortune 2",
-      "slug": "quickspin-sakura-fortune-2",
-      "provider": "Quickspin",
-      "thumbnail_url": "https://mediumrare.imgix.net/d1b639c5d9614697bfd8d91648e228f71ae802cdbb8f2413447f369d43995ea0",
-      "expected_filename": "Quickspin - Sakura Fortune 2.webp",
-      "game_url": "https://stake.com/casino/games/quickspin-sakura-fortune-2",
-      "extracted_at": "2025-08-06T01:05:59.006140"
+      "extracted_at": "2025-08-07T02:21:19.530150"
     },
     {
       "game_id": "quickspin-tigers-glory",
@@ -293,27 +264,37 @@
       "thumbnail_url": "https://mediumrare.imgix.net/4c8fee2cda706f6fd0bc56bf9266bbc990da6e091c792dffd5a54f1ad56e2352",
       "expected_filename": "Quickspin - Tiger's Glory.webp",
       "game_url": "https://stake.com/casino/games/quickspin-tigers-glory",
-      "extracted_at": "2025-08-06T01:05:59.006140"
+      "extracted_at": "2025-08-07T02:21:19.530150"
     },
     {
-      "game_id": "quickspin-spinions-beach-party",
-      "title": "Spinions",
-      "slug": "quickspin-spinions-beach-party",
+      "game_id": "quickspin-sevens-high-ultra",
+      "title": "Sevens High Ultra",
+      "slug": "quickspin-sevens-high-ultra",
       "provider": "Quickspin",
-      "thumbnail_url": "https://mediumrare.imgix.net/bbe326980c20907bfd581efcdb1a3703b9c4670b546a4aabe6466cf4749cb255",
-      "expected_filename": "Quickspin - Spinions.webp",
-      "game_url": "https://stake.com/casino/games/quickspin-spinions-beach-party",
-      "extracted_at": "2025-08-06T01:05:59.006140"
+      "thumbnail_url": "https://mediumrare.imgix.net/656ff71bf2cd574f8efd9fb36d3751aacdba8aa940c680e4259bec796b21fd58",
+      "expected_filename": "Quickspin - Sevens High Ultra.webp",
+      "game_url": "https://stake.com/casino/games/quickspin-sevens-high-ultra",
+      "extracted_at": "2025-08-07T02:21:19.530150"
     },
     {
-      "game_id": "quickspin-sticky-bandits",
-      "title": "Sticky Bandits",
-      "slug": "quickspin-sticky-bandits",
+      "game_id": "quickspin-sakura-fortune-2",
+      "title": "Sakura Fortune 2",
+      "slug": "quickspin-sakura-fortune-2",
       "provider": "Quickspin",
-      "thumbnail_url": "https://mediumrare.imgix.net/21d70bbf2bb4625ac07df74f0abe3ef184ac125ffe400f7f9075ad272cf1a3e9",
-      "expected_filename": "Quickspin - Sticky Bandits.webp",
-      "game_url": "https://stake.com/casino/games/quickspin-sticky-bandits",
-      "extracted_at": "2025-08-06T01:05:59.006140"
+      "thumbnail_url": "https://mediumrare.imgix.net/d1b639c5d9614697bfd8d91648e228f71ae802cdbb8f2413447f369d43995ea0",
+      "expected_filename": "Quickspin - Sakura Fortune 2.webp",
+      "game_url": "https://stake.com/casino/games/quickspin-sakura-fortune-2",
+      "extracted_at": "2025-08-07T02:21:19.530150"
+    },
+    {
+      "game_id": "quickspin-adventures-beyond-wonderland-magical-maze",
+      "title": "Adventures Beyond Wonderland Magical Maze",
+      "slug": "quickspin-adventures-beyond-wonderland-magical-maze",
+      "provider": "Quickspin",
+      "thumbnail_url": "https://mediumrare.imgix.net/6101b223756bbaa6832141e4696052c7bea678bff11e36f90e2adab3c94794ca",
+      "expected_filename": "Quickspin - Adventures Beyond Wonderland Magical Maze.webp",
+      "game_url": "https://stake.com/casino/games/quickspin-adventures-beyond-wonderland-magical-maze",
+      "extracted_at": "2025-08-07T02:21:19.530150"
     },
     {
       "game_id": "quickspin-candy-glyph",
@@ -323,37 +304,27 @@
       "thumbnail_url": "https://mediumrare.imgix.net/5171f7bce573c10e5d8b17ffceeae28511c2bf6fab673ad0ce8b3bb99a969eaa",
       "expected_filename": "Quickspin - Candy Glyph.webp",
       "game_url": "https://stake.com/casino/games/quickspin-candy-glyph",
-      "extracted_at": "2025-08-06T01:05:59.006140"
+      "extracted_at": "2025-08-07T02:21:19.530150"
     },
     {
-      "game_id": "quickspin-crystal-queen",
-      "title": "Crystal Queen",
-      "slug": "quickspin-crystal-queen",
+      "game_id": "quickspin-spinions-beach-party",
+      "title": "Spinions",
+      "slug": "quickspin-spinions-beach-party",
       "provider": "Quickspin",
-      "thumbnail_url": "https://mediumrare.imgix.net/1431017a5f0274c6423e3b4cdf84cc322d04db23971dc17a884266b9200b43d2",
-      "expected_filename": "Quickspin - Crystal Queen.webp",
-      "game_url": "https://stake.com/casino/games/quickspin-crystal-queen",
-      "extracted_at": "2025-08-06T01:05:59.006140"
+      "thumbnail_url": "https://mediumrare.imgix.net/bbe326980c20907bfd581efcdb1a3703b9c4670b546a4aabe6466cf4749cb255",
+      "expected_filename": "Quickspin - Spinions.webp",
+      "game_url": "https://stake.com/casino/games/quickspin-spinions-beach-party",
+      "extracted_at": "2025-08-07T02:21:19.530150"
     },
     {
-      "game_id": "quickspin-scatter-monsters",
-      "title": "Scatter Monsters",
-      "slug": "quickspin-scatter-monsters",
+      "game_id": "quickspin-sticky-bandits",
+      "title": "Sticky Bandits",
+      "slug": "quickspin-sticky-bandits",
       "provider": "Quickspin",
-      "thumbnail_url": "https://mediumrare.imgix.net/28e67d2b9423113e1d5a6a260ef397fab1f6cd6728cd64d1fecc360ea629a4bf",
-      "expected_filename": "Quickspin - Scatter Monsters.webp",
-      "game_url": "https://stake.com/casino/games/quickspin-scatter-monsters",
-      "extracted_at": "2025-08-06T01:05:59.006140"
-    },
-    {
-      "game_id": "quickspin-guardian-of-athens",
-      "title": "Guardian of Athens",
-      "slug": "quickspin-guardian-of-athens",
-      "provider": "Quickspin",
-      "thumbnail_url": "https://mediumrare.imgix.net/3db298b422710f913f00d1c3778f837dda41c3c0f82e4c5dfe677cfe29737884",
-      "expected_filename": "Quickspin - Guardian of Athens.webp",
-      "game_url": "https://stake.com/casino/games/quickspin-guardian-of-athens",
-      "extracted_at": "2025-08-06T01:05:59.006140"
+      "thumbnail_url": "https://mediumrare.imgix.net/21d70bbf2bb4625ac07df74f0abe3ef184ac125ffe400f7f9075ad272cf1a3e9",
+      "expected_filename": "Quickspin - Sticky Bandits.webp",
+      "game_url": "https://stake.com/casino/games/quickspin-sticky-bandits",
+      "extracted_at": "2025-08-07T02:21:19.530150"
     },
     {
       "game_id": "quickspin-mountain-king",
@@ -363,7 +334,37 @@
       "thumbnail_url": "https://mediumrare.imgix.net/fdd1560c3d7c573c442c3b513a5333804bfd41db45cea5a9db2c2d4d594ff05a",
       "expected_filename": "Quickspin - Hall of the Mountain King.webp",
       "game_url": "https://stake.com/casino/games/quickspin-mountain-king",
-      "extracted_at": "2025-08-06T01:05:59.006140"
+      "extracted_at": "2025-08-07T02:21:19.530150"
+    },
+    {
+      "game_id": "quickspin-scatter-monsters",
+      "title": "Scatter Monsters",
+      "slug": "quickspin-scatter-monsters",
+      "provider": "Quickspin",
+      "thumbnail_url": "https://mediumrare.imgix.net/28e67d2b9423113e1d5a6a260ef397fab1f6cd6728cd64d1fecc360ea629a4bf",
+      "expected_filename": "Quickspin - Scatter Monsters.webp",
+      "game_url": "https://stake.com/casino/games/quickspin-scatter-monsters",
+      "extracted_at": "2025-08-07T02:21:19.530150"
+    },
+    {
+      "game_id": "quickspin-crystal-queen",
+      "title": "Crystal Queen",
+      "slug": "quickspin-crystal-queen",
+      "provider": "Quickspin",
+      "thumbnail_url": "https://mediumrare.imgix.net/1431017a5f0274c6423e3b4cdf84cc322d04db23971dc17a884266b9200b43d2",
+      "expected_filename": "Quickspin - Crystal Queen.webp",
+      "game_url": "https://stake.com/casino/games/quickspin-crystal-queen",
+      "extracted_at": "2025-08-07T02:21:19.530150"
+    },
+    {
+      "game_id": "quickspin-guardian-of-athens",
+      "title": "Guardian of Athens",
+      "slug": "quickspin-guardian-of-athens",
+      "provider": "Quickspin",
+      "thumbnail_url": "https://mediumrare.imgix.net/3db298b422710f913f00d1c3778f837dda41c3c0f82e4c5dfe677cfe29737884",
+      "expected_filename": "Quickspin - Guardian of Athens.webp",
+      "game_url": "https://stake.com/casino/games/quickspin-guardian-of-athens",
+      "extracted_at": "2025-08-07T02:21:19.530150"
     },
     {
       "game_id": "quickspin-big-bot-crew",
@@ -373,7 +374,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/b13e39f654dfa8c3617ca536c073aeedd5f1c669d6b3a0bc55d6313f8b97dac3",
       "expected_filename": "Quickspin - Big Bot Crew.webp",
       "game_url": "https://stake.com/casino/games/quickspin-big-bot-crew",
-      "extracted_at": "2025-08-06T01:05:59.006140"
+      "extracted_at": "2025-08-07T02:21:19.530150"
     },
     {
       "game_id": "quickspin-pineapple-crush",
@@ -383,7 +384,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/5b002c6e1d62a395891341aa18c53868238738658f479feda42522686f4614b2",
       "expected_filename": "Quickspin - Pineapple Crush.webp",
       "game_url": "https://stake.com/casino/games/quickspin-pineapple-crush",
-      "extracted_at": "2025-08-06T01:05:59.006140"
+      "extracted_at": "2025-08-07T02:21:19.530150"
     },
     {
       "game_id": "quickspin-cash-truck-3-turbo",
@@ -393,854 +394,9 @@
       "thumbnail_url": "https://mediumrare.imgix.net/7da9b44a4e34fb561d4f5bbe6639a57abab178f0689fe7a20bd0bfe9c1c88fbc",
       "expected_filename": "Quickspin - Cash Truck 3 Turbo.webp",
       "game_url": "https://stake.com/casino/games/quickspin-cash-truck-3-turbo",
-      "extracted_at": "2025-08-06T01:05:59.006140"
-    },
-    {
-      "id": "18d60224-a7e7-4309-85db-c6b91fa2df04",
-      "name": "Flip Royale",
-      "slug": "quickspin-flip-royale",
-      "thumbnailUrl": "https://mediumrare.imgix.net/b33ae4a1acded015826642e49e591f9dbda99edb2aa14ad0d729072b0fa27035",
-      "thumbnailBlurHash": "eHMi#}xt8|jFWB8^ocWtoJof4WWB%ftPf8cIa~ROoeaenJodM$Rkof",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "8afc6ebb-872f-4c70-a0fc-6dce9d7089ff",
-      "name": "Titan Thunder Wrath of Hades",
-      "slug": "quickspin-titan-thunder-wrath-of-hades",
-      "thumbnailUrl": "https://mediumrare.imgix.net/75f30fb98de44ff1c9615008d509aa37eff6c50f3db6998d1b9ccbbd0aee5368",
-      "thumbnailBlurHash": "eqM#t@M|-BR%WC1hRjtSRjbIixaeNHWVbHTKofRPofWBQ.t7ozs:bb",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "0768c024-f6e8-47f9-a6fe-d41c337b74e2",
-      "name": "Wild Luchador",
-      "slug": "quickspin-wild-luchador",
-      "thumbnailUrl": "https://mediumrare.imgix.net/d08c8fe44d10a5c1c5134af67441579f19cd8b87dd377ba4a598c10dfd536d25",
-      "thumbnailBlurHash": "eWNj%.tQDkRQR5D*ozNfV[t5{Oayt7oft7PCV[oHoyRQUvV[tkoyX9",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "295899fe-1941-4c53-b714-51d58fe801ea",
-      "name": "Book of Duat",
-      "slug": "quickspin-book-of-duat",
-      "thumbnailUrl": "https://mediumrare.imgix.net/d97e5e83d9eae6aa42f140812643f00c0c8884b962ea098776e4b541aea57363",
-      "thumbnailBlurHash": "eUMrMZWCicI=R65jM|tRNaog{fM~%KoxSh%~I@WTSzM{zoRjOZR-Sh",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "c3a6d98b-919e-4f6a-ba95-455898aba46b",
-      "name": "Goldilocks",
-      "slug": "quickspin-goldilocks",
-      "thumbnailUrl": "https://mediumrare.imgix.net/39a319fb2fcaf5841f227c955f079bc3bc570f7c0fea542d5611207f8daf1417",
-      "thumbnailBlurHash": "egM~%^a#Emj[OY1Aa#ObjYo#R.a|sCn$s87PbHn3oenNM,f7s+bHbF",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "18c05f0f-971c-469c-9237-343a5ea9dab1",
-      "name": "Feasting Fox",
-      "slug": "quickspin-feasting-fox",
-      "thumbnailUrl": "https://mediumrare.imgix.net/9f9b41bd108d776d6fc2287e724c4324320b792a237855ab02a465cce56a0629",
-      "thumbnailBlurHash": "efOT%+ofV=ofaJ1ZayS~jtbIm,soaiaybbu3ofnOjZaeR5aetRoeX9",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "6c3fdbc5-2c4d-4fee-b196-6c50110fba2e",
-      "name": "Sevens High",
-      "slug": "quickspin-sevens-high",
-      "thumbnailUrl": "https://mediumrare.imgix.net/efd2a5c2a0a072905ee0afea9509961fe38da0c0bda5382a9096ef495bfe8478",
-      "thumbnailBlurHash": "eUFtE4ozKbofE^XGs:%FoMSuILxHr^sDaK^axHRWoLM|I_og-pbabt",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "8532720a-037c-43cd-a189-d16c819f2da8",
-      "name": "The Grand",
-      "slug": "quickspin-the-grand",
-      "thumbnailUrl": "https://mediumrare.imgix.net/f275c8819c1dca345cb2e7c612ce4c5b28a164209a876ac7189920e09a75d1b1",
-      "thumbnailBlurHash": "ejG7Zys:I-WBRlMtjuX3WUofNhWVbIbGoetJbFV|oMaxD%f6s=oMkB",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "af8eb985-cb1b-4c9f-b594-7eb884f88777",
-      "name": "Slugger Time",
-      "slug": "quickspin-slugger-time",
-      "thumbnailUrl": "https://mediumrare.imgix.net/c8c9fb6a8ee2e9e5d60f16fe9e06cdeb038779941e81e0084a93d54bc5d4c596",
-      "thumbnailBlurHash": "eWFZwLII1m-Rn2x,M#O@${Z}EDaOj;t7ax-*bcembcWtE9a#xrayWY",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "9374f8a4-b111-47b6-baff-a30d5270e738",
-      "name": "Mine & Melt",
-      "slug": "quickspin-mine-and-melt",
-      "thumbnailUrl": "https://mediumrare.imgix.net/342dc58b96d42e683188afad8e23993db6a4869193d5bde4f21cb61e47c90ec6",
-      "thumbnailBlurHash": "eLMrb#9$D5-P#+9FRmo#X8-p4Wt1%1EQ%L.TocMwIrVrDga}XnxXSh",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "ed6c6316-dbe4-47bb-874e-e923bee3840d",
-      "name": "Divine Dreams",
-      "slug": "quickspin-divine-dreams",
-      "thumbnailUrl": "https://mediumrare.imgix.net/117016b5d66b517529774882481ef58ae468c3e80afa80ace5f65c51bd26ae58",
-      "thumbnailBlurHash": "eXL:oUs.0fj[E20OoLEObGj^p8azspayxaEoWCRPWWr=V;j@WYaytR",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "17fedba2-9447-47f7-90c2-e9204959f4c3",
-      "name": "Scepter of Anubis",
-      "slug": "quickspin-scepter-of-anubis",
-      "thumbnailUrl": "https://mediumrare.imgix.net/c387480929eafdbaf9b154b58d2896f0bb8de32cb86bba93bd6ab412ed33106a",
-      "thumbnailBlurHash": "ebJ6,hNaVhogaKVBScxJWXoy9obEa%bIbF%xjXIof6VtICoIkVaexa",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "abdc4252-9103-42a7-9553-b417d8e3061d",
-      "name": "Raven Rising",
-      "slug": "quickspin-raven-rising",
-      "thumbnailUrl": "https://mediumrare.imgix.net/7c77a040ef50f5091a8a46da24eb8c04c4a131775fc58e22c6acb14388bb3f1a",
-      "thumbnailBlurHash": "eWHfhkxaOYx]M_:]oMx^tRsSYOR,kWS4i^-?R+NGM{Mx0eV@xHM{xa",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "e74f869d-b5b2-4497-bae1-a12e2fb44763",
-      "name": "Cash Truck 2",
-      "slug": "quickspin-cash-truck-2",
-      "thumbnailUrl": "https://mediumrare.imgix.net/8496233fd774ea9eb1042e3657bfd493f12c5e93602dabb7fd7e47ff12ef040c",
-      "thumbnailBlurHash": "eROm?Kf+:$V[bc30j?${WEtR#UoeShWCt7_2j[MybHRQdWaexvkCI;",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "202a2770-fa54-4c1f-b24d-f85bd7aa8b40",
-      "name": "Reno 7's",
-      "slug": "quickspin-reno-7s",
-      "thumbnailUrl": "https://mediumrare.imgix.net/92e92593d25207b0b4dfa93cad0c0192bc2f4b0bccf44db957b7368656ca7539",
-      "thumbnailBlurHash": "eZP:uQS}9tRPM|xJR*O?W;S~:[ni$jbuoyT}xHrXkBrqrFn+XSs;r[",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "08756a81-12d6-4aa3-a6bb-96a557d93006",
-      "name": "Durian Dynamite",
-      "slug": "quickspin-durian-dynamite",
-      "thumbnailUrl": "https://mediumrare.imgix.net/dd3685cc0ccbf226d515acc2f939cfdb4cc705f82957fb3d0c43ba513695cd93",
-      "thumbnailBlurHash": "eZHDB2R+5Fs:N_Y-WVN3f8og5|oe$wWBn#MXoexnaxV?56a#%2j?xa",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "656c9851-caad-47e5-befe-6a4fab4782e8",
-      "name": "Polar Paws",
-      "slug": "quickspin-polar-paws",
-      "thumbnailUrl": "https://mediumrare.imgix.net/e35e4e1f4ce3f89e619e776f7c1459960b1117cd8bb4ec403be33b934fd65335",
-      "thumbnailBlurHash": "eZG0%*M}EmbIIp{eNIkYWXNGt-S5RlRkxW%4WYIVV[xrM{WYs:afxZ",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "ebbb3a65-d668-41d2-98a8-145f36d52475",
-      "name": "Sticky Bandits Trail of Blood",
-      "slug": "quickspin-sticky-bandits-trail-of-blood",
-      "thumbnailUrl": "https://mediumrare.imgix.net/5b78ec48c8b99f32dd024d6d975806e1abb589b55086ca8a495f4f641d9edf71",
-      "thumbnailBlurHash": "eWMYA]X8VrRkr=2,jFtRoJxtQUR*s;s:oe6,j[Myj[V@Z#jutRofX8",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "421c4600-4b5e-4a50-bc5b-a669f773f659",
-      "name": "Dragon Shrine",
-      "slug": "quickspin-dragon-shrine",
-      "thumbnailUrl": "https://mediumrare.imgix.net/3768b8ea1015bf369ee77bd339a4ecc17840a257bfbeb3a6d551024ea4812caf",
-      "thumbnailBlurHash": "e$NkxIoeV[jIou[jkAoJjHt6F}aza}fia#%JahWUkAafRjf7kVfjoe",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "1309ab69-e396-47cd-b0bf-46f5021d310a",
-      "name": "Rapunzel's Tower",
-      "slug": "quickspin-rapunzels-tower",
-      "thumbnailUrl": "https://mediumrare.imgix.net/7231daa82224178f6548dd147151818689c3a6ce3c134a1053fa7860fbbb6dfd",
-      "thumbnailBlurHash": "ekOwz9V?V{WCkDKVWAbcWCj],2bHV_bGk9XmWXV]a#awIWRlkWWCjY",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "03cf2f75-9036-4379-88a4-c225a8204eab",
-      "name": "Hidden Valley 120",
-      "slug": "quickspin-hidden-valley-120",
-      "thumbnailUrl": "https://mediumrare.imgix.net/9d9cec948dab0afd1639856797f27d5a296a27cb9379ab6446c86d8f7b75710d",
-      "thumbnailBlurHash": "eOI}:t%dEKnhE2|}%dIqV[M}?UxtMzRQWE-qjuRQRRaxNXjuohaft6",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "90bbfee9-21f6-45cc-8989-23dc0ac4756b",
-      "name": "Warp Wreckers Power Glyph",
-      "slug": "quickspin-warp-wreckers-power-glyph",
-      "thumbnailUrl": "https://mediumrare.imgix.net/50d361ec41c725bbd0c85df33404eeb5a4479fe7a77f1e4bdbddde60dfda537c",
-      "thumbnailBlurHash": "eROdFGw{^1S2xZ0fo0xvW;X9*$WVIYn%NHysWWIUayr=:jWoX,W;oy",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "391658da-5ec3-4ea9-a235-6df735f96207",
-      "name": "Phoenix Sun",
-      "slug": "quickspin-phoenix-sun",
-      "thumbnailUrl": "https://mediumrare.imgix.net/30f8768db1e601694a0d6b2f297938502577b088504e51660f3b22db968c41eb",
-      "thumbnailBlurHash": "efL2}gjExta~t2^Vaexta$ocD]a~rrayV[t0bIR6j=RRR8bHWFjYWY",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "960f4c08-7427-48fe-871a-4fb33a6e0856",
-      "name": "Pirate's Charm",
-      "slug": "quickspin-pirates-charm",
-      "thumbnailUrl": "https://mediumrare.imgix.net/2f51a4cde7f875c0f4dccea2a63eda016d17486a298cc932d8c9f26efc6dc39c",
-      "thumbnailBlurHash": "eoK_jfaJEeouR$NOa0RkaxoKcpa0i^WCn,T#aKjDR-V[J}n$xZWCsp",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "09a4878a-24b2-4e20-94d7-c822b20db675",
-      "name": "Joker Strike",
-      "slug": "quickspin-joker-strike",
-      "thumbnailUrl": "https://mediumrare.imgix.net/6b12b0055548205cad58befc9bef0b6a48fdd1abcfedae54be8fe6a681c00b3f",
-      "thumbnailBlurHash": "etIiR3WC9]WqNHy[jbS6WVjcB~ofbIWqoeV~jZNGW;n$NZjFxaW;sT",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "1de4b140-1e7e-4258-a227-5f643cb39c0f",
-      "name": "Sticky Bandits: Wild Return",
-      "slug": "quickspin-sticky-bandits-wild-return",
-      "thumbnailUrl": "https://mediumrare.imgix.net/bf530db3f5a584a365279af4daee65b9deb04a4818d2e28f6140b75fe97ba074",
-      "thumbnailBlurHash": "emB:RPS4M|ayafZ_WVxafQoeRra}t6fQay%Kj[RjayWCIVayofj[of",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "3fe9a9a7-f31b-4c49-960a-66331694d02a",
-      "name": "Arcane Gems",
-      "slug": "quickspin-arcane-gems",
-      "thumbnailUrl": "https://mediumrare.imgix.net/ed4584074558470877e55fbd159b77fba6f79f4b4e6b0905f48f70eec4279e4e",
-      "thumbnailBlurHash": "e]Kum@agaPoznn1qaebYkCofrxf5jFbIX5xbk9aLafWUVtj[btjGoc",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "ded05cda-f832-46bd-b16b-a9408318f723",
-      "name": "Fairy Gate",
-      "slug": "quickspin-fairy-gate",
-      "thumbnailUrl": "https://mediumrare.imgix.net/9f3e7422fdc0151850764bb2c248d70494b0e512cbcc905124e2f1f2b6f253eb",
-      "thumbnailBlurHash": "eTF70|af4mX6Z~*NWUshbZi^pHW.tSjbS5;uWDE9oJbwVZWEkWj=oy",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "00c23293-5645-4139-a715-275e8d262136",
-      "name": "Prime Zone",
-      "slug": "quickspin-prime-zone",
-      "thumbnailUrl": "https://mediumrare.imgix.net/5ee2df17954477d6f5a63f626d12a283ce102d93bf706c5fcfdda988fbe941b6",
-      "thumbnailBlurHash": "eaLx_fjbIBayRk}]a}V]a#oz9iaibqoMkA1QjIS]ofRiDkoLxuocof",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "07d0e13f-5d56-42a3-9324-fc20a552f74f",
-      "name": "Northern Sky",
-      "slug": "quickspin-northern-sky",
-      "thumbnailUrl": "https://mediumrare.imgix.net/4c06e5aa2abe608e3db52ce5ebf4c71c2a0a498788d04b7a5728f3a12aa372b9",
-      "thumbnailBlurHash": "eeL2|~RkItt6Nx1haeWEkBR+Zhoe$yV[WBA^ofxrWBniMeofX8bHsm",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "08babfb2-bc30-4ef0-8649-19bbcbd39891",
-      "name": "Vampire Senpai",
-      "slug": "quickspin-vampire-senpai",
-      "thumbnailUrl": "https://mediumrare.imgix.net/787c0d1c0033e96477d8f60520343626745f11fb5143d85cbbc774a9e9a98eba",
-      "thumbnailBlurHash": "ehDmObs*IUjYnh#3slRjjYs,N4jISOa$t6vxWUOZW=WWV?X4o}bHbI",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "d5bc92df-f585-4d1e-81a4-13dcce5479c7",
-      "name": "Midas Coins",
-      "slug": "quickspin-midas-coins",
-      "thumbnailUrl": "https://mediumrare.imgix.net/d19d72140ce956135b85ab61fd1d1c7ab1b38b5e2d36ece86b3545a92be42c95",
-      "thumbnailBlurHash": "eQNlrZ%L%LRPV@2]f,.7Rjs:mjM|RQkCxaA0M|IBt6adDij?tRoebH",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "060ce14c-42c9-440e-b1d4-57cb255ef65e",
-      "name": "Second Strike",
-      "slug": "quickspin-second-strike",
-      "thumbnailUrl": "https://mediumrare.imgix.net/af9c07289874cfac0c22d22cf09ce6e61be54454ee7fb64af63c95c6836c0f6a",
-      "thumbnailBlurHash": "eVGSH1W.qZwMSx:$WV#7sooeRaWCOtt6r=#OjGKQbuWCMKoLo}R+XT",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "31df4214-e719-4a91-af57-3ef0fd462748",
-      "name": "Panther’s Reign",
-      "slug": "quickspin-panthers-reign",
-      "thumbnailUrl": "https://mediumrare.imgix.net/cc2007d8fbf9dd72f34ea5bd995ff040e539523c95fac21854d9a6e27e841d79",
-      "thumbnailBlurHash": "eXEWXSx]ERogNG]^t6M|j]W=.6s:N0WCkC~Us:IWWCR*%LofWFjIWB",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "104e18e9-3645-47b6-8b32-45731d3e2ba3",
-      "name": "Pied Piper",
-      "slug": "quickspin-pied-piper",
-      "thumbnailUrl": "https://mediumrare.imgix.net/287c3c13ea7116d222cce27ede7beca7a35943ee6520f3a8a5211438786e5ccb",
-      "thumbnailBlurHash": "ehL-b_-4IpWFI;}3$LS}kCNwIzniofj[bIb;bFjFRkjZN3axoxWXs:",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "ef341ced-2452-41b3-8330-8ab241257eaf",
-      "name": "Sinbad",
-      "slug": "quickspin-sinbad",
-      "thumbnailUrl": "https://mediumrare.imgix.net/0106ef3e0a451a7f3655ed3125e9ab835304acda5a8aa5629590dd4a68d40dc5",
-      "thumbnailBlurHash": "ePL2b:El56aeR59qOFX-axt7iN$*WBWAX8y=xZD%R%M{MKS2x]R*xa",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "df22669a-2cc9-4661-962c-277070653941",
-      "name": "Nero’s Fortune",
-      "slug": "quickspin-neros-fortune",
-      "thumbnailUrl": "https://mediumrare.imgix.net/3d4aed6a9cd65e5a289f865a407db6ac1e202a876f1c5ed35b974390fa9b8801",
-      "thumbnailBlurHash": "e#H0-[kCVtWCV[rSjst6a|oea9n%kCbHkB%KoLNGayWBM}ayoyj[s.",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "221ed248-b029-45ce-bb37-8cb958633fe8",
-      "name": "Mighty Arthur",
-      "slug": "quickspin-mighty-arthur",
-      "thumbnailUrl": "https://mediumrare.imgix.net/af6ff5a0aceeeafc3e133e0f44a50dbd81ae5baab572ae07a621955823d95758",
-      "thumbnailBlurHash": "elF7j]tPEKbYxZD8owX8a|s;X_ayxtjuRkw7a#axj?R*J4azn+jsog",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "aeecccd0-1a8f-4c52-9a8c-43b77392ff2d",
-      "name": "Azticons Chaos Clusters",
-      "slug": "quickspin-azticons-chaos-clusters",
-      "thumbnailUrl": "https://mediumrare.imgix.net/12f6e872724530d3aa9b167cef2d23e84077d2106476d473288fd178bc4a2f37",
-      "thumbnailBlurHash": "eVMG]~k9yRofy5+GbH%Kayx@%pa$aMWDaO?KWCM|bIRix7a#R-WCoM",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "0a0464dd-d11d-4fcc-a6ed-a0f6f18e9a85",
-      "name": "Ghost Glyph",
-      "slug": "quickspin-ghost-glyph",
-      "thumbnailUrl": "https://mediumrare.imgix.net/8c24042cc310c183283280c704b18cd10f46896ebfdbe5fdd813180d3dde9735",
-      "thumbnailBlurHash": "eRCu-W#PM9rrXdR0rq$ArskQ9%JoXeWEocwAO[EcOWbZ9bo#t7XRog",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "05739443-03f6-41c0-ab63-d36c47106d67",
-      "name": "Tales of Dr. Dolittle",
-      "slug": "quickspin-tales-of-doctor-dolittle",
-      "thumbnailUrl": "https://mediumrare.imgix.net/ea28a7de823927366ec9f11044483f99c587c3f2395407694d1dd7ba257aee7d",
-      "thumbnailBlurHash": "eREgaqoGA0sk$xx6jXo~n#t6Knn,wvoISPyBofR4xXRj4pe.s.t3nh",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "66e7c936-f846-435d-810c-cde20be0f2c1",
-      "name": "Ivan and the Immortal King",
-      "slug": "quickspin-ivanandthe-immortal-king",
-      "thumbnailUrl": "https://mediumrare.imgix.net/7ea29cf6df7c5a04830ec57a6177a142ca04ac2bb3ddb334984da09540ce633e",
-      "thumbnailBlurHash": "erG,6hS%R+ngXT$vW=t6n~o#yZjEozkDt7x]nhRkbJo0I[aejYbHaK",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "b0e54fe5-0584-4990-80ea-f7b6024f43c7",
-      "name": "Book Of Yuletide",
-      "slug": "quickspin-book-of-yuletide",
-      "thumbnailUrl": "https://mediumrare.imgix.net/5e81da9fe645552260679e3b8c4aec8f4b3cfb16e37c9ab1c56b2e1bff5c463c",
-      "thumbnailBlurHash": "eXN8,WWBetWFtT2nR*NeWXo~vRn$E2oLRjlnf+NHn%VsMJoftSayoJ",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "5c0bac56-9f68-445e-bdf3-105c80a4f17d",
-      "name": "Golden Glyph 3",
-      "slug": "quickspin-golden-glyph-3",
-      "thumbnailUrl": "https://mediumrare.imgix.net/10f67f693af08029fa41e6022a53d1ef1bbfdd116e478a7fc019c80f6fa4f568",
-      "thumbnailBlurHash": "eWK1t2s:SxW;RP{Is.%LW;smT{ofs:W;jE~pj[RhfkRO9uWXt7j[w]",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "a7dc3cc4-c505-41ca-8c37-7ff9dfba7a79",
-      "name": "Book of Inferno",
-      "slug": "quickspin-book-of-inferno",
-      "thumbnailUrl": "https://mediumrare.imgix.net/4c12a1613b7984a067f543f0d949d00b1a1b41353d2772c76f7b7bd5a286e982",
-      "thumbnailBlurHash": "ebL{3bS~rWjFVt0yK4kWnio3{{Sexar@nj.8o2VsniRjQmo2XSn$X9",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "87f6e167-5088-47c2-87b5-2813f5d9b799",
-      "name": "Golden Glyph 2",
-      "slug": "quickspin-golden-glyph-2",
-      "thumbnailUrl": "https://mediumrare.imgix.net/e49b755231103085411ecd0a3ef7a31c926225218b2d9005925cb4c04b85d715",
-      "thumbnailBlurHash": "eMJ996%cE0Rlr=*ztMo|Rk%K3_fjxboJob?0WVv$t6MxEIWnxWow#X",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "b2081758-0a91-4aae-a631-612882b7c50a",
-      "name": "Hot Sync",
-      "slug": "quickspin-hot-sync",
-      "thumbnailUrl": "https://mediumrare.imgix.net/44b84cbc36536187484b8d6aa4e814e22557a539921cc6f64f00463059ddfc3d",
-      "thumbnailBlurHash": "eSIzubD?4|=qOrK+IqT2wIo|D,xBteN3s8yZ$MM^SxixMxnPjbXfs;",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "61753f45-d388-4809-a5fb-e9456b4ec3ad",
-      "name": "Reel Nightmare",
-      "slug": "quickspin-reel-nightmare",
-      "thumbnailUrl": "https://mediumrare.imgix.net/3354dc7eb32caf77fd8439931c30fb579ebdba8d990ca88db4420cac5647aab8",
-      "thumbnailBlurHash": "ekFiM$kWNfR+aK3WkCkra#ad%Maxogj[nhyXaeM_axs-ITjZfPjZoz",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "8d1d0a05-b45c-4072-af2e-d1141f31407c",
-      "name": "High Street Heist",
-      "slug": "quickspin-high-street-heist",
-      "thumbnailUrl": "https://mediumrare.imgix.net/b7503d43c708287cb77452569a3c829da78376e8def561fc2512e95e9b243758",
-      "thumbnailBlurHash": "eUL3Mxt6McoLsB5TocS#a}o~|:t6afjakWK*ofIUjuRjR3R*X9WWtR",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "336c06d5-1a73-4dfc-89a6-59758e6df000",
-      "name": "Wild Harlequin",
-      "slug": "quickspin-wild-harlequin",
-      "thumbnailUrl": "https://mediumrare.imgix.net/6b1bb347fa5e2e6d27e68ec51d1e95d2f2e5594c07c0ff20c0ebddf1898f157c",
-      "thumbnailBlurHash": "eXKk~lj[ICnjep0_j[W?jbjv[ufjxaWCNaLLoLM{RkRjMJoeoyR*of",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "ccf6fcf0-64ef-4ff6-a974-782c52126335",
-      "name": "Crown of Valor",
-      "slug": "quickspin-crown-of-valor",
-      "thumbnailUrl": "https://mediumrare.imgix.net/6f22a58d881baaaddf60fd954c7f2d95c8d0f92e0e62115a853a805734d716be",
-      "thumbnailBlurHash": "e$I#76ofRjWWad0*kCkDfloL-PbGoLkCafk?j[WAazWAROj[ogfRoz",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "80dbce2a-5b3a-4e29-b02c-4e8cf1eaba5f",
-      "name": "Dwarfs Gone Wild",
-      "slug": "quickspin-dwarfs-gone-wild",
-      "thumbnailUrl": "https://mediumrare.imgix.net/c76d93e893cfd8a87a270051920babe329d8a34f252942b9ec88f63bcf89006d",
-      "thumbnailBlurHash": "eSJuJ2%J56RkNFY-tMkXj?xtTRR*kVxXxaF7RnRixWNGMwWF$+t6og",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "2281e172-17ac-491a-8f65-5c4b5be354d2",
-      "name": "Epic Fish Adventure",
-      "slug": "quickspin-epic-fish-adventure",
-      "thumbnailUrl": "https://mediumrare.imgix.net/d77c400342be06b3ab059e20414922781d69721ddae91db25cc764ade04a503c",
-      "thumbnailBlurHash": "ejG]?un%R.NyI@iJS$ozSibJK-K7skoNs:-=W=nNn+WUETw[sAWCkD",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "d0381ffa-56c2-402e-9335-6595c145b760",
-      "name": "Betty Bonkers",
-      "slug": "quickspin-betty-bonkers",
-      "thumbnailUrl": "https://mediumrare.imgix.net/abfdd896cfeca2b9e264c03a5cd9cf311899dc108fa7562e18cff2813e926285",
-      "thumbnailBlurHash": "enOBZ#NORVs8r;2_NNS%j=s+a7aeS5bZWVk?sjVroLWBQ-s%jEkCoz",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "9b2d8d99-2a7a-4995-9e0b-3abb5de76bd0",
-      "name": "Cash Truck Xmas Delivery",
-      "slug": "quickspin-cash-truck-xmas-delivery",
-      "thumbnailUrl": "https://mediumrare.imgix.net/229df20b2a290cfe1bce074ce298a1530a08b8b32dcafd4a6dec490384a195d8",
-      "thumbnailBlurHash": "eiOCBWkBACaeS}3qbGK4aLo}rXf6X7jZniYPjsOXkCVsMwayS~kCWX",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "225f3bbf-cd0e-4f9a-8e8a-964790d513cd",
-      "name": "Crystal Prince",
-      "slug": "quickspin-crystal-prince",
-      "thumbnailUrl": "https://mediumrare.imgix.net/8c478510f89707f0c46f19d6742d1b203aafc782e935e8bfc5bdb4e7e734c347",
-      "thumbnailBlurHash": "ecF?bya7D=xaWZz,jInmt6ozI|n$i_kWkV?FaMROo|IpNaV[skoyR%",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "dc627b9e-692a-4d4a-b798-5c21cd1256d4",
-      "name": "Shields of Lambda",
-      "slug": "quickspin-shields-of-lambda",
-      "thumbnailUrl": "https://mediumrare.imgix.net/1958eeadcad326d20a364c87b01ff20fde38473f298c4e86d677f2d10910a7b8",
-      "thumbnailBlurHash": "eZK9=Lj?eSRjRP7cWB%LWVbI}DWBayt6WEuOkCIBt6RjVEazbcoft7",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "3ee51b01-28e4-4e6a-aac3-8f9359a4ea3f",
-      "name": "Wild Tome of the Woods",
-      "slug": "quickspin-wild-tome-of-the-woods",
-      "thumbnailUrl": "https://mediumrare.imgix.net/d0117b0ca91aad510e5f09469838675944fb1b16509af70706e82767ca19f36a",
-      "thumbnailBlurHash": "eQJuJAXQI+s8btDDNd%MsntRchbb-pofW=PDo2NFR*Rje,nlRVNcnl",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "49da8423-75e1-4b95-b9f7-4f82f05de39a",
-      "name": "Catrina's Coins",
-      "slug": "quickspin-catrinas-coins",
-      "thumbnailUrl": "https://mediumrare.imgix.net/2170c3c6a0573c15b1c26e5a2eb6799c4eebc968104e1f0c594f31357d7f3b5d",
-      "thumbnailBlurHash": "eiKI}OWZD+oMoMIjWZS$WXt6IXW?t8a#ax%gognmjuV@R7ogkWa}oy",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "8009d402-c2c0-48f3-a41f-554a3ac0fa27",
-      "name": "The Wild Chase",
-      "slug": "quickspin-the-wild-chase",
-      "thumbnailUrl": "https://mediumrare.imgix.net/758f8760bdb1ea1690a5b532d143bf52098bcb761f8fd6cf7a6d84e565d1ad3f",
-      "thumbnailBlurHash": "ecGcM?R*FfxaoJ;GaecExZt6T4n#X9oeR*kit6M{axRj9ct7xaWBni",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "1f76c476-9bb2-4575-a8d2-a018a37eae18",
-      "name": "Wild Cauldron",
-      "slug": "quickspin-wild-cauldron",
-      "thumbnailUrl": "https://mediumrare.imgix.net/cc23a935c0bbefc3f549eac316be40982183fc95c9ea746b1fd20d96049f17a7",
-      "thumbnailBlurHash": "edG1Uyoc9]baR-Z{njNfW.jILwaLrZafnPxvafmnjInk0yozw4ofog",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "9fca8e40-8b24-4f5a-a27e-56d3cab5edc2",
-      "name": "Wild Chase: Tokyo Go",
-      "slug": "quickspin-wild-chase-tokyo-go",
-      "thumbnailUrl": "https://mediumrare.imgix.net/1d63153d73bcfa229718cd6f167fe4aacebc4f2225e80c61b386b24d847e90da",
-      "thumbnailBlurHash": "eRCtPEM{W1oxRih|j]oiobt2KUo#R%o2k8-gWAROogNK9uadn}kDxu",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "fbf6c6e3-c041-4526-9b44-8a33a75a11af",
-      "name": "Gold Lab",
-      "slug": "quickspin-gold-lab",
-      "thumbnailUrl": "https://mediumrare.imgix.net/b57a27f08b91f192dd2b869f96a6740a342172ad04418aebeb0d66c05fbe99b8",
-      "thumbnailBlurHash": "ebMiNGTXE2J6bI2[oLXoRlNKvMi#xannJCyDNbVXkUR-RPXQkVX4oe",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "8e1ca769-6d5c-49ca-9044-a8577b7bfc2c",
-      "name": "Sticky Bandits Unchained",
-      "slug": "quickspin-sticky-bandits-unchained",
-      "thumbnailUrl": "https://mediumrare.imgix.net/f9257f204b7fdb17f734266e13f4f1d135935d86d3656cf221b24ccc574964c0",
-      "thumbnailBlurHash": "eVPC~{wJ#*I;aK1=r?tlNatQ#7s:S5oexZ%#ozVYs:aKZNS4f,s:Nx",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "f2d0a2a3-87ae-42c2-9349-8455377234c9",
-      "name": "Temple of Paw",
-      "slug": "quickspin-temple-of-paw",
-      "thumbnailUrl": "https://mediumrare.imgix.net/aa327179a94ece95812f3226f34280d04b659c614bccea36fb6b5d68b48ed531",
-      "thumbnailBlurHash": "egM?xat75Rn$S43FkCJVjYo}M$WB$+bIxaX;ae$jflnNICofxZflax",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "3290cc12-7076-4ee8-a8cc-f1e97815e3f7",
-      "name": "Wins of Fortune",
-      "slug": "quickspin-wins-of-fortune",
-      "thumbnailUrl": "https://mediumrare.imgix.net/7e300d6b910094b8bca3bd20e45f99bb8b5fc7e9bb46f9a955d0a16552262bb9",
-      "thumbnailBlurHash": "erJtSZkCNLWYSj2{bbXTWCSi=eX8n$jZWYOtWXaJoeoJI]f6t6oes8",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "dc1b8825-7cb4-4b25-8746-b132d1d7b325",
-      "name": "Brooklyn Bootleggers",
-      "slug": "quickspin-brooklyn-bootleggers",
-      "thumbnailUrl": "https://mediumrare.imgix.net/cca74190711f5b6db564e0ef88d42af1bdf5c0beb803d829e756153303ac8a86",
-      "thumbnailBlurHash": "eXQ$nVkD@ti_r?0_ah=GjFofH@V[%Mt7bILLWWoes:aKquWXaejFS#",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "476415f8-1f8c-431d-a57d-360b89336473",
-      "name": "Epic Fish Net of Fortune",
-      "slug": "quickspin-epic-fish-net-of-fortune",
-      "thumbnailUrl": "https://mediumrare.imgix.net/54eeadc641d3c84b6f7e7c75000ee5f926e11a35e713b020aadb05eda8da6089",
-      "thumbnailBlurHash": "eZG0]jWC2=OXjEmvocPAS$wfCHs,oLa$sm=~n6MynjjXMwa|r_WXt6",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "3174e7ff-193c-413b-aeba-a876c399cc66",
-      "name": "Blue Fortune",
-      "slug": "quickspin-blue-fortune",
-      "thumbnailUrl": "https://mediumrare.imgix.net/1eb8ee3be417f2ea7aab8687519e62e679c3d79626fb86cef9ad651a2fceb154",
-      "thumbnailBlurHash": "efHfV7niETofI.8zWBW@oeofPUWrt5ocw{T3kCR%j=RiXOjanljZs,",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "9f659659-1dcd-44c0-a0a7-df9189ad69df",
-      "name": "Beastwood",
-      "slug": "quickspin-beastwood",
-      "thumbnailUrl": "https://mediumrare.imgix.net/097ce95b627224ddde834ccbaf93c0acdd6e655b14c52b29b82fe7de5799962a",
-      "thumbnailBlurHash": "ehNa$0afg5kB$+A8kBS$f6xa,_ofX3j[ax?^jaj=oyWBZkkCjFbHS2",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "c23c3b03-f432-48d2-aa94-8e41d988c6ff",
-      "name": "Spinions Game Day",
-      "slug": "quickspin-spinions-game-day",
-      "thumbnailUrl": "https://mediumrare.imgix.net/9418107b8e9451ef4afc7fb48fddba4accc6b27d1852813add12ec5e013c28e7",
-      "thumbnailBlurHash": "ecJlpAbbC8ayXk+VWWTMfitR66afwvj?oLO[aenya#W90LaxxGWEt6",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "984a6278-b078-40a9-91e6-afe276527593",
-      "name": "King Colossus",
-      "slug": "quickspin-king-colossus",
-      "thumbnailUrl": "https://mediumrare.imgix.net/46b862e21e8d14b13dc2cce6f47047f1b0b743a58f20d40861d472cfabf43705",
-      "thumbnailBlurHash": "eMEy@oWW0Mofn4L=jbI]ofxFEcbF%3oMozx_ayV?jbNGNYofxYWBWX",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "141dff24-d34d-45c0-9c29-1b19617e7811",
-      "name": "Ark of Mystery",
-      "slug": "quickspin-arkof-mystery",
-      "thumbnailUrl": "https://mediumrare.imgix.net/17d5a15da98d7454e1fd043aee9704d846077c4a8ea82bb1eaaa99147b825de9",
-      "thumbnailBlurHash": "e,F%bo$iNsNbW.qGs,nRWXoMtloLj[j[WWxbj[R*WVSeJ5WVspoLjb",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "c5c50353-b5f2-4319-954b-d01806eeaae5",
-      "name": "Crystal Queen's Coins",
-      "slug": "quickspin-crystal-queens-coins",
-      "thumbnailUrl": "https://mediumrare.imgix.net/8ed5926dfa7245eb175d6596c750810f41f2ba9caee41e0b6a6a67dd37b210c0",
-      "thumbnailBlurHash": "eKH-]BoE0Nt6r.cJx]x@t7s+0bo~s-j=x]t[X5D+M|R.M|n$%dRpM}",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "b97630c4-501c-49e2-b4ac-9878cac61740",
-      "name": "Spinions X-Mas Party",
-      "slug": "quickspin-spinions-xmas-party",
-      "thumbnailUrl": "https://mediumrare.imgix.net/dbdc2c8c257db3b2213a854488969c5d319fba23553145b3f8e14fa1653e4356",
-      "thumbnailBlurHash": "enL:+yxZX.NHb07#t7gNV@kDVaX9nNskW-T}R-a1t7V@IUWAaibbjG",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "f62b9ff3-cec9-424d-b498-16ab32c9f7b1",
-      "name": "Primal Spirits",
-      "slug": "quickspin-primal-spirits",
-      "thumbnailUrl": "https://mediumrare.imgix.net/d0e40f68911e51fc24bc464e8035b726274759a776aed8d3ca42d6606ba914f6",
-      "thumbnailBlurHash": "elFZXmfPj_aeb0EsWBtQaeoyR7WBk8axjq?Yf5RlayRkE7j[oKj@oJ",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "abb0201b-81df-4009-8235-c6082b7ccf1b",
-      "name": "Ticket to the Stars",
-      "slug": "quickspin-ticket-to-the-stars",
-      "thumbnailUrl": "https://mediumrare.imgix.net/aefc94d34a2150e8eefc517b1134b9adc032d12e6f2f7b6f57ea6d295560434d",
-      "thumbnailBlurHash": "eIEz]N%w3G#%vy8acXT|jD#P9SNMrXX8jE^ErEvLogK71nt5-%RnOZ",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
+      "extracted_at": "2025-08-07T02:21:19.530150"
     }
-  ]
+  ],
+  "timestamp": "2025-08-07T02:21:19.530150",
+  "source": "initial_html_fetch"
 }

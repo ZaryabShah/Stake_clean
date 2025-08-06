@@ -1,13 +1,13 @@
 {
-  "timestamp": "2025-08-06T01:02:55.187395",
+  "timestamp": "2025-08-07T02:16:17.123035",
   "provider_slug": "onetouch",
-  "provider_name": "Onetouch",
+  "provider_name": "OneTouch",
   "status": "initial_completed",
   "total_games": 32,
   "games_fetched": 32,
   "is_complete": true,
   "needs_pagination": false,
-  "output_dir": "stake_thumbnails\\Onetouch",
-  "games_data_file": "stake_thumbnails\\Onetouch\\initial_games.json",
+  "output_dir": "stake_thumbnails\\OneTouch",
+  "games_data_file": "stake_thumbnails\\OneTouch\\initial_games.json",
   "source": "initial_html_fetch"
 }

@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-08-06T22:18:01.800740",
+  "timestamp": "2025-08-07T02:04:02.368244",
   "total_providers": 49,
-  "source": "hardcoded_providers_regenerated",
+  "source": "hardcoded_providers",
   "providers": [
     {
       "slug": "pragmatic-play",

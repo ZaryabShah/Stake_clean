@@ -1,9 +1,10 @@
 {
-  "timestamp": "2025-08-06T19:13:08.343Z",
+  "provider": "Relax Gaming",
   "provider_slug": "relax-gaming",
-  "provider_name": "Relax Gaming",
   "total_games": 132,
-  "games_fetched": 93,
+  "games_fetched": 39,
+  "is_complete": false,
+  "needs_pagination": true,
   "games": [
     {
       "game_id": "relax-gold-rush-frenzy-megaways",
@@ -13,7 +14,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/c5e3139e85ab56fbb1d0e66fa096a94b1b11d164c30e1b13ead7ef0aed48c964",
       "expected_filename": "Relax Gaming - Gold Rush Frenzy Megaways.webp",
       "game_url": "https://stake.com/casino/games/relax-gold-rush-frenzy-megaways",
-      "extracted_at": "2025-08-06T01:06:21.539076"
+      "extracted_at": "2025-08-07T02:09:39.666890"
     },
     {
       "game_id": "relax-jumbo-juicy",
@@ -23,7 +24,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/b817089232f48ad8c1b84fc5caa08e1ace9f5e98f1990fd8f84fd77831ef1516",
       "expected_filename": "Relax Gaming - Jumbo Juicy.webp",
       "game_url": "https://stake.com/casino/games/relax-jumbo-juicy",
-      "extracted_at": "2025-08-06T01:06:21.539076"
+      "extracted_at": "2025-08-07T02:09:39.666890"
     },
     {
       "game_id": "relax-money-train-4",
@@ -33,7 +34,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/ad34abbf38a8ec7311b885584fcb20b4aee1a8f693c019ec08f7d37fbc93bac2",
       "expected_filename": "Relax Gaming - Money Train 4.webp",
       "game_url": "https://stake.com/casino/games/relax-money-train-4",
-      "extracted_at": "2025-08-06T01:06:21.539076"
+      "extracted_at": "2025-08-07T02:09:39.666890"
     },
     {
       "game_id": "relax-beast-mode",
@@ -43,7 +44,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/da979678f15a530311e67b32bbb7f1dd55dd898869eea56617edaa05a631a2ed",
       "expected_filename": "Relax Gaming - Beast Mode.webp",
       "game_url": "https://stake.com/casino/games/relax-beast-mode",
-      "extracted_at": "2025-08-06T01:06:21.539076"
+      "extracted_at": "2025-08-07T02:09:39.666890"
     },
     {
       "game_id": "relax-money-train3",
@@ -53,7 +54,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/d10922477f162eb059e058e45154a25f74aba499adbbbeca42297c164d36ad5d",
       "expected_filename": "Relax Gaming - Money Train 3.webp",
       "game_url": "https://stake.com/casino/games/relax-money-train3",
-      "extracted_at": "2025-08-06T01:06:21.539076"
+      "extracted_at": "2025-08-07T02:09:39.666890"
     },
     {
       "game_id": "relax-iron-bank",
@@ -63,7 +64,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/9b92ef4205f60e28afb4e778b2d3e01ba3c964475d321b97dbfc1c467b7f81fa",
       "expected_filename": "Relax Gaming - Iron Bank.webp",
       "game_url": "https://stake.com/casino/games/relax-iron-bank",
-      "extracted_at": "2025-08-06T01:06:21.539076"
+      "extracted_at": "2025-08-07T02:09:39.666890"
     },
     {
       "game_id": "relax-money-train-2",
@@ -73,7 +74,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/be9643be92be81343c1b963329ea6ae31e9d94ef8f46b5ab6af7da6fccb7e1b7",
       "expected_filename": "Relax Gaming - Money Train 2.webp",
       "game_url": "https://stake.com/casino/games/relax-money-train-2",
-      "extracted_at": "2025-08-06T01:06:21.539076"
+      "extracted_at": "2025-08-07T02:09:39.666890"
     },
     {
       "game_id": "relax-banana-town",
@@ -83,7 +84,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/84083613ef950e4bf622c05d0953dbc78592d4983e4c8085671a35295490368b",
       "expected_filename": "Relax Gaming - Banana Town.webp",
       "game_url": "https://stake.com/casino/games/relax-banana-town",
-      "extracted_at": "2025-08-06T01:06:21.539076"
+      "extracted_at": "2025-08-07T02:09:39.666890"
     },
     {
       "game_id": "relax-book-of-99",
@@ -93,147 +94,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/aa47abed968848f4d092d5c5af5b5fa486c09710e4fd725867db84bb9c5fcbf2",
       "expected_filename": "Relax Gaming - Book of 99.webp",
       "game_url": "https://stake.com/casino/games/relax-book-of-99",
-      "extracted_at": "2025-08-06T01:06:21.539076"
-    },
-    {
-      "game_id": "relax-bill-and-coin",
-      "title": "Bill & Coin",
-      "slug": "relax-bill-and-coin",
-      "provider": "Relax Gaming",
-      "thumbnail_url": "https://mediumrare.imgix.net/a1b4d36f5cd9d7fe571a3febefa9bbf9c760e9bf07794d74055ffe16ce4e2f2a",
-      "expected_filename": "Relax Gaming - Bill & Coin.webp",
-      "game_url": "https://stake.com/casino/games/relax-bill-and-coin",
-      "extracted_at": "2025-08-06T01:06:21.539076"
-    },
-    {
-      "game_id": "relax-bounty-county",
-      "title": "Bounty County",
-      "slug": "relax-bounty-county",
-      "provider": "Relax Gaming",
-      "thumbnail_url": "https://mediumrare.imgix.net/9a488ebad49e28f10cde6ce989f0c75b7b3ef7487b9c4c37c3002b5b7b678f89",
-      "expected_filename": "Relax Gaming - Bounty County.webp",
-      "game_url": "https://stake.com/casino/games/relax-bounty-county",
-      "extracted_at": "2025-08-06T01:06:21.539076"
-    },
-    {
-      "game_id": "relax-temple-tumble",
-      "title": "Temple Tumble Megaways",
-      "slug": "relax-temple-tumble",
-      "provider": "Relax Gaming",
-      "thumbnail_url": "https://mediumrare.imgix.net/4264eb41bf0e2240b9766ff9d72828c6daae609f5c63fffe35e78983ba072c24",
-      "expected_filename": "Relax Gaming - Temple Tumble Megaways.webp",
-      "game_url": "https://stake.com/casino/games/relax-temple-tumble",
-      "extracted_at": "2025-08-06T01:06:21.539076"
-    },
-    {
-      "game_id": "relax-10000-wonders-10k-ways",
-      "title": "10,000 Wonders 10K Ways",
-      "slug": "relax-10000-wonders-10k-ways",
-      "provider": "Relax Gaming",
-      "thumbnail_url": "https://mediumrare.imgix.net/9a544461663753cc83750dfdbace0771f48b16592653959e699e077d85a1192f",
-      "expected_filename": "Relax Gaming - 10,000 Wonders 10K Ways.webp",
-      "game_url": "https://stake.com/casino/games/relax-10000-wonders-10k-ways",
-      "extracted_at": "2025-08-06T01:06:21.539076"
-    },
-    {
-      "game_id": "relax-temple-rush",
-      "title": "Temple Rush",
-      "slug": "relax-temple-rush",
-      "provider": "Relax Gaming",
-      "thumbnail_url": "https://mediumrare.imgix.net/abc29ee3da4969390d505eb5bb371c315e26e17e78ad36bf44e83ecf4f2651ae",
-      "expected_filename": "Relax Gaming - Temple Rush.webp",
-      "game_url": "https://stake.com/casino/games/relax-temple-rush",
-      "extracted_at": "2025-08-06T01:06:21.539076"
-    },
-    {
-      "game_id": "relax-net-gains",
-      "title": "Net Gains",
-      "slug": "relax-net-gains",
-      "provider": "Relax Gaming",
-      "thumbnail_url": "https://mediumrare.imgix.net/8b8b3b2633a913c04e66826342ff2130cf39c0c9f3065c1b4d778e19355444ba",
-      "expected_filename": "Relax Gaming - Net Gains.webp",
-      "game_url": "https://stake.com/casino/games/relax-net-gains",
-      "extracted_at": "2025-08-06T01:06:21.539076"
-    },
-    {
-      "game_id": "relax-snake-arena",
-      "title": "Snake Arena",
-      "slug": "relax-snake-arena",
-      "provider": "Relax Gaming",
-      "thumbnail_url": "https://mediumrare.imgix.net/44e608f09cf586fcb4fb487d88c225dc685deac7803ea3982fc35819a38d6947",
-      "expected_filename": "Relax Gaming - Snake Arena.webp",
-      "game_url": "https://stake.com/casino/games/relax-snake-arena",
-      "extracted_at": "2025-08-06T01:06:21.539076"
-    },
-    {
-      "game_id": "relax-tn-t-tumble",
-      "title": "TnT Tumble",
-      "slug": "relax-tn-t-tumble",
-      "provider": "Relax Gaming",
-      "thumbnail_url": "https://mediumrare.imgix.net/5114f77515fbc714f06084cf577bfd500d7d7185bde0615fab91dc58b89b6614",
-      "expected_filename": "Relax Gaming - TnT Tumble.webp",
-      "game_url": "https://stake.com/casino/games/relax-tn-t-tumble",
-      "extracted_at": "2025-08-06T01:06:21.539076"
-    },
-    {
-      "game_id": "relax-wild-chapo-2",
-      "title": "Wild Chapo 2",
-      "slug": "relax-wild-chapo-2",
-      "provider": "Relax Gaming",
-      "thumbnail_url": "https://mediumrare.imgix.net/16f490b63cbdbf981b9205b2c36e808dd60ec1dbfa7e49bd94d82bf11aaa65b5",
-      "expected_filename": "Relax Gaming - Wild Chapo 2.webp",
-      "game_url": "https://stake.com/casino/games/relax-wild-chapo-2",
-      "extracted_at": "2025-08-06T01:06:21.539076"
-    },
-    {
-      "game_id": "relax-10000-years-before-cash",
-      "title": "10000 Years Before Cash",
-      "slug": "relax-10000-years-before-cash",
-      "provider": "Relax Gaming",
-      "thumbnail_url": "https://mediumrare.imgix.net/e63ec5a42a9628a201c06f33c462dc0f9636b620fcde40070a4e91eff7cd70c1",
-      "expected_filename": "Relax Gaming - 10000 Years Before Cash.webp",
-      "game_url": "https://stake.com/casino/games/relax-10000-years-before-cash",
-      "extracted_at": "2025-08-06T01:06:21.539076"
-    },
-    {
-      "game_id": "relax-book-of-power",
-      "title": "Book Of Power",
-      "slug": "relax-book-of-power",
-      "provider": "Relax Gaming",
-      "thumbnail_url": "https://mediumrare.imgix.net/57c17dc1a85162b4f007f6fbed4b0e8a330752a2ccb67269f5c99273e1dfa842",
-      "expected_filename": "Relax Gaming - Book Of Power.webp",
-      "game_url": "https://stake.com/casino/games/relax-book-of-power",
-      "extracted_at": "2025-08-06T01:06:21.539076"
-    },
-    {
-      "game_id": "relax-lucky-lady-leprechaun",
-      "title": "Lucky Lady Leprechaun",
-      "slug": "relax-lucky-lady-leprechaun",
-      "provider": "Relax Gaming",
-      "thumbnail_url": "https://mediumrare.imgix.net/1b9fbc572f707a6816c3854406e51901ae753ec95601fa7ae7fa0d43b9b7bef0",
-      "expected_filename": "Relax Gaming - Lucky Lady Leprechaun.webp",
-      "game_url": "https://stake.com/casino/games/relax-lucky-lady-leprechaun",
-      "extracted_at": "2025-08-06T01:06:21.539076"
-    },
-    {
-      "game_id": "relax-golden-gods",
-      "title": "Golden Gods",
-      "slug": "relax-golden-gods",
-      "provider": "Relax Gaming",
-      "thumbnail_url": "https://mediumrare.imgix.net/7905bb9c8828414ce89bb6c1867aec7c07e204ad0f90c2a7fa012cdb969ab540",
-      "expected_filename": "Relax Gaming - Golden Gods.webp",
-      "game_url": "https://stake.com/casino/games/relax-golden-gods",
-      "extracted_at": "2025-08-06T01:06:21.539076"
-    },
-    {
-      "game_id": "relax-atlantis-megaways",
-      "title": "Atlantis Megaways",
-      "slug": "relax-atlantis-megaways",
-      "provider": "Relax Gaming",
-      "thumbnail_url": "https://mediumrare.imgix.net/35a748f193cbe174fb44451db81c4a8aae50a5c7531dbce5a63b3426299e34c0",
-      "expected_filename": "Relax Gaming - Atlantis Megaways.webp",
-      "game_url": "https://stake.com/casino/games/relax-atlantis-megaways",
-      "extracted_at": "2025-08-06T01:06:21.539076"
+      "extracted_at": "2025-08-07T02:09:39.666890"
     },
     {
       "game_id": "relax-conquer-babylon",
@@ -243,7 +104,147 @@
       "thumbnail_url": "https://mediumrare.imgix.net/f07568dc1f05eaccc7841d573c6a8aaaffab9cf021f16308281de3c5a6d25122",
       "expected_filename": "Relax Gaming - Conquer Babylon.webp",
       "game_url": "https://stake.com/casino/games/relax-conquer-babylon",
-      "extracted_at": "2025-08-06T01:06:21.539076"
+      "extracted_at": "2025-08-07T02:09:39.666890"
+    },
+    {
+      "game_id": "relax-bill-and-coin",
+      "title": "Bill & Coin",
+      "slug": "relax-bill-and-coin",
+      "provider": "Relax Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/a1b4d36f5cd9d7fe571a3febefa9bbf9c760e9bf07794d74055ffe16ce4e2f2a",
+      "expected_filename": "Relax Gaming - Bill & Coin.webp",
+      "game_url": "https://stake.com/casino/games/relax-bill-and-coin",
+      "extracted_at": "2025-08-07T02:09:39.666890"
+    },
+    {
+      "game_id": "relax-bounty-county",
+      "title": "Bounty County",
+      "slug": "relax-bounty-county",
+      "provider": "Relax Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/9a488ebad49e28f10cde6ce989f0c75b7b3ef7487b9c4c37c3002b5b7b678f89",
+      "expected_filename": "Relax Gaming - Bounty County.webp",
+      "game_url": "https://stake.com/casino/games/relax-bounty-county",
+      "extracted_at": "2025-08-07T02:09:39.666890"
+    },
+    {
+      "game_id": "relax-temple-tumble",
+      "title": "Temple Tumble Megaways",
+      "slug": "relax-temple-tumble",
+      "provider": "Relax Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/4264eb41bf0e2240b9766ff9d72828c6daae609f5c63fffe35e78983ba072c24",
+      "expected_filename": "Relax Gaming - Temple Tumble Megaways.webp",
+      "game_url": "https://stake.com/casino/games/relax-temple-tumble",
+      "extracted_at": "2025-08-07T02:09:39.666890"
+    },
+    {
+      "game_id": "relax-10000-wonders-10k-ways",
+      "title": "10,000 Wonders 10K Ways",
+      "slug": "relax-10000-wonders-10k-ways",
+      "provider": "Relax Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/9a544461663753cc83750dfdbace0771f48b16592653959e699e077d85a1192f",
+      "expected_filename": "Relax Gaming - 10,000 Wonders 10K Ways.webp",
+      "game_url": "https://stake.com/casino/games/relax-10000-wonders-10k-ways",
+      "extracted_at": "2025-08-07T02:09:39.666890"
+    },
+    {
+      "game_id": "relax-net-gains",
+      "title": "Net Gains",
+      "slug": "relax-net-gains",
+      "provider": "Relax Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/8b8b3b2633a913c04e66826342ff2130cf39c0c9f3065c1b4d778e19355444ba",
+      "expected_filename": "Relax Gaming - Net Gains.webp",
+      "game_url": "https://stake.com/casino/games/relax-net-gains",
+      "extracted_at": "2025-08-07T02:09:39.666890"
+    },
+    {
+      "game_id": "relax-temple-rush",
+      "title": "Temple Rush",
+      "slug": "relax-temple-rush",
+      "provider": "Relax Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/abc29ee3da4969390d505eb5bb371c315e26e17e78ad36bf44e83ecf4f2651ae",
+      "expected_filename": "Relax Gaming - Temple Rush.webp",
+      "game_url": "https://stake.com/casino/games/relax-temple-rush",
+      "extracted_at": "2025-08-07T02:09:39.666890"
+    },
+    {
+      "game_id": "relax-snake-arena",
+      "title": "Snake Arena",
+      "slug": "relax-snake-arena",
+      "provider": "Relax Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/44e608f09cf586fcb4fb487d88c225dc685deac7803ea3982fc35819a38d6947",
+      "expected_filename": "Relax Gaming - Snake Arena.webp",
+      "game_url": "https://stake.com/casino/games/relax-snake-arena",
+      "extracted_at": "2025-08-07T02:09:39.666890"
+    },
+    {
+      "game_id": "relax-tn-t-tumble",
+      "title": "TnT Tumble",
+      "slug": "relax-tn-t-tumble",
+      "provider": "Relax Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/5114f77515fbc714f06084cf577bfd500d7d7185bde0615fab91dc58b89b6614",
+      "expected_filename": "Relax Gaming - TnT Tumble.webp",
+      "game_url": "https://stake.com/casino/games/relax-tn-t-tumble",
+      "extracted_at": "2025-08-07T02:09:39.666890"
+    },
+    {
+      "game_id": "relax-10000-years-before-cash",
+      "title": "10000 Years Before Cash",
+      "slug": "relax-10000-years-before-cash",
+      "provider": "Relax Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/e63ec5a42a9628a201c06f33c462dc0f9636b620fcde40070a4e91eff7cd70c1",
+      "expected_filename": "Relax Gaming - 10000 Years Before Cash.webp",
+      "game_url": "https://stake.com/casino/games/relax-10000-years-before-cash",
+      "extracted_at": "2025-08-07T02:09:39.666890"
+    },
+    {
+      "game_id": "relax-wild-chapo-2",
+      "title": "Wild Chapo 2",
+      "slug": "relax-wild-chapo-2",
+      "provider": "Relax Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/16f490b63cbdbf981b9205b2c36e808dd60ec1dbfa7e49bd94d82bf11aaa65b5",
+      "expected_filename": "Relax Gaming - Wild Chapo 2.webp",
+      "game_url": "https://stake.com/casino/games/relax-wild-chapo-2",
+      "extracted_at": "2025-08-07T02:09:39.666890"
+    },
+    {
+      "game_id": "relax-book-of-power",
+      "title": "Book Of Power",
+      "slug": "relax-book-of-power",
+      "provider": "Relax Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/57c17dc1a85162b4f007f6fbed4b0e8a330752a2ccb67269f5c99273e1dfa842",
+      "expected_filename": "Relax Gaming - Book Of Power.webp",
+      "game_url": "https://stake.com/casino/games/relax-book-of-power",
+      "extracted_at": "2025-08-07T02:09:39.666890"
+    },
+    {
+      "game_id": "relax-lucky-lady-leprechaun",
+      "title": "Lucky Lady Leprechaun",
+      "slug": "relax-lucky-lady-leprechaun",
+      "provider": "Relax Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/1b9fbc572f707a6816c3854406e51901ae753ec95601fa7ae7fa0d43b9b7bef0",
+      "expected_filename": "Relax Gaming - Lucky Lady Leprechaun.webp",
+      "game_url": "https://stake.com/casino/games/relax-lucky-lady-leprechaun",
+      "extracted_at": "2025-08-07T02:09:39.666890"
+    },
+    {
+      "game_id": "relax-golden-gods",
+      "title": "Golden Gods",
+      "slug": "relax-golden-gods",
+      "provider": "Relax Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/7905bb9c8828414ce89bb6c1867aec7c07e204ad0f90c2a7fa012cdb969ab540",
+      "expected_filename": "Relax Gaming - Golden Gods.webp",
+      "game_url": "https://stake.com/casino/games/relax-golden-gods",
+      "extracted_at": "2025-08-07T02:09:39.666890"
+    },
+    {
+      "game_id": "relax-atlantis-megaways",
+      "title": "Atlantis Megaways",
+      "slug": "relax-atlantis-megaways",
+      "provider": "Relax Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/35a748f193cbe174fb44451db81c4a8aae50a5c7531dbce5a63b3426299e34c0",
+      "expected_filename": "Relax Gaming - Atlantis Megaways.webp",
+      "game_url": "https://stake.com/casino/games/relax-atlantis-megaways",
+      "extracted_at": "2025-08-07T02:09:39.666890"
     },
     {
       "game_id": "relax-space-miners",
@@ -253,7 +254,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/63aa7b6337d92b17c46be16518d24a23a7de0773d8e78c785322976d1fecd441",
       "expected_filename": "Relax Gaming - Space Miners.webp",
       "game_url": "https://stake.com/casino/games/relax-space-miners",
-      "extracted_at": "2025-08-06T01:06:21.539076"
+      "extracted_at": "2025-08-07T02:09:39.666890"
     },
     {
       "game_id": "relax-immortal-5",
@@ -263,27 +264,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/f5e699ea1cd2c2c1e63f0f032e9be29f442d06de37eea0a94478661cee6d557f",
       "expected_filename": "Relax Gaming - Immortal 5.webp",
       "game_url": "https://stake.com/casino/games/relax-immortal-5",
-      "extracted_at": "2025-08-06T01:06:21.539076"
-    },
-    {
-      "game_id": "relax-kingof-kings",
-      "title": "King of Kings",
-      "slug": "relax-kingof-kings",
-      "provider": "Relax Gaming",
-      "thumbnail_url": "https://mediumrare.imgix.net/9fbbe4291e409e6e9308373d6e8f95a18d44d501f6b13426ee93ea98bd4c48b1",
-      "expected_filename": "Relax Gaming - King of Kings.webp",
-      "game_url": "https://stake.com/casino/games/relax-kingof-kings",
-      "extracted_at": "2025-08-06T01:06:21.539076"
-    },
-    {
-      "game_id": "relax-epic-joker",
-      "title": "Epic Joker",
-      "slug": "relax-epic-joker",
-      "provider": "Relax Gaming",
-      "thumbnail_url": "https://mediumrare.imgix.net/23ba1946c4b2e9ef1d928e1fa4ce73d09f62fc0a41118c351dc67e022b73d52d",
-      "expected_filename": "Relax Gaming - Epic Joker.webp",
-      "game_url": "https://stake.com/casino/games/relax-epic-joker",
-      "extracted_at": "2025-08-06T01:06:21.539076"
+      "extracted_at": "2025-08-07T02:09:39.666890"
     },
     {
       "game_id": "relax-joker-split",
@@ -293,7 +274,27 @@
       "thumbnail_url": "https://mediumrare.imgix.net/3eb3e818dfb5e38caa6f7ab14e44358bbcd52371156016b060a360fd25851638",
       "expected_filename": "Relax Gaming - Joker Split.webp",
       "game_url": "https://stake.com/casino/games/relax-joker-split",
-      "extracted_at": "2025-08-06T01:06:21.539076"
+      "extracted_at": "2025-08-07T02:09:39.666890"
+    },
+    {
+      "game_id": "relax-epic-joker",
+      "title": "Epic Joker",
+      "slug": "relax-epic-joker",
+      "provider": "Relax Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/23ba1946c4b2e9ef1d928e1fa4ce73d09f62fc0a41118c351dc67e022b73d52d",
+      "expected_filename": "Relax Gaming - Epic Joker.webp",
+      "game_url": "https://stake.com/casino/games/relax-epic-joker",
+      "extracted_at": "2025-08-07T02:09:39.666890"
+    },
+    {
+      "game_id": "relax-kingof-kings",
+      "title": "King of Kings",
+      "slug": "relax-kingof-kings",
+      "provider": "Relax Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/9fbbe4291e409e6e9308373d6e8f95a18d44d501f6b13426ee93ea98bd4c48b1",
+      "expected_filename": "Relax Gaming - King of Kings.webp",
+      "game_url": "https://stake.com/casino/games/relax-kingof-kings",
+      "extracted_at": "2025-08-07T02:09:39.666890"
     },
     {
       "game_id": "relax-templar-tumble",
@@ -303,7 +304,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/30e6dda01d16afa21ed825e783b46f2d6a42a5a14d4fd305fe66e4e850bdd948",
       "expected_filename": "Relax Gaming - Templar Tumble.webp",
       "game_url": "https://stake.com/casino/games/relax-templar-tumble",
-      "extracted_at": "2025-08-06T01:06:21.539076"
+      "extracted_at": "2025-08-07T02:09:39.666890"
     },
     {
       "game_id": "relax-dead-mans-trail",
@@ -313,7 +314,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/a15bd974971001fa09c60ac4ff6ed74d541ed9feb6ce3e9f3b1a03762504094d",
       "expected_filename": "Relax Gaming - Dead Man's Trail.webp",
       "game_url": "https://stake.com/casino/games/relax-dead-mans-trail",
-      "extracted_at": "2025-08-06T01:06:21.539076"
+      "extracted_at": "2025-08-07T02:09:39.666890"
     },
     {
       "game_id": "relax-money-train",
@@ -323,7 +324,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/04fef35d7d51ab20c864f6464ccffd660e3f9810df175ba22c99f55e61cfa11b",
       "expected_filename": "Relax Gaming - Money Train.webp",
       "game_url": "https://stake.com/casino/games/relax-money-train",
-      "extracted_at": "2025-08-06T01:06:21.539076"
+      "extracted_at": "2025-08-07T02:09:39.666890"
     },
     {
       "game_id": "relax-pay-pig-10k-ways",
@@ -333,7 +334,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/8e103baba6698d128b08db5d152a4d3051debb763cd67f34299e8144b4ec6ec3",
       "expected_filename": "Relax Gaming - Pay Pig 10K Ways.webp",
       "game_url": "https://stake.com/casino/games/relax-pay-pig-10k-ways",
-      "extracted_at": "2025-08-06T01:06:21.539076"
+      "extracted_at": "2025-08-07T02:09:39.666890"
     },
     {
       "game_id": "relax-krakens-cove",
@@ -343,17 +344,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/9d8b7cbb66e20540d03848cf41b2727fbcd2ccc5a8800f29de002ec22531cdea",
       "expected_filename": "Relax Gaming - Kraken's Cove.webp",
       "game_url": "https://stake.com/casino/games/relax-krakens-cove",
-      "extracted_at": "2025-08-06T01:06:21.539076"
-    },
-    {
-      "game_id": "relax-hellcatraz",
-      "title": "Hellcatraz",
-      "slug": "relax-hellcatraz",
-      "provider": "Relax Gaming",
-      "thumbnail_url": "https://mediumrare.imgix.net/532012b84c6cc8e7377cf07f2136a85241b321efe48b8adeb4a2d5a80e7bcd3b",
-      "expected_filename": "Relax Gaming - Hellcatraz.webp",
-      "game_url": "https://stake.com/casino/games/relax-hellcatraz",
-      "extracted_at": "2025-08-06T01:06:21.539076"
+      "extracted_at": "2025-08-07T02:09:39.666890"
     },
     {
       "game_id": "relax-wild-chapo",
@@ -363,7 +354,17 @@
       "thumbnail_url": "https://mediumrare.imgix.net/bf635b35bb739fd56766cab70db89d2b1a58f410ff727dc07755d6f96d47186e",
       "expected_filename": "Relax Gaming - Wild Chapo.webp",
       "game_url": "https://stake.com/casino/games/relax-wild-chapo",
-      "extracted_at": "2025-08-06T01:06:21.539076"
+      "extracted_at": "2025-08-07T02:09:39.666890"
+    },
+    {
+      "game_id": "relax-hellcatraz",
+      "title": "Hellcatraz",
+      "slug": "relax-hellcatraz",
+      "provider": "Relax Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/532012b84c6cc8e7377cf07f2136a85241b321efe48b8adeb4a2d5a80e7bcd3b",
+      "expected_filename": "Relax Gaming - Hellcatraz.webp",
+      "game_url": "https://stake.com/casino/games/relax-hellcatraz",
+      "extracted_at": "2025-08-07T02:09:39.666890"
     },
     {
       "game_id": "relax-midnight-marauder",
@@ -373,7 +374,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/f29cd62292faef983bfb4c68320479530efc47fe67cb8febf884fc8b334fa55a",
       "expected_filename": "Relax Gaming - Midnight Marauder.webp",
       "game_url": "https://stake.com/casino/games/relax-midnight-marauder",
-      "extracted_at": "2025-08-06T01:06:21.539076"
+      "extracted_at": "2025-08-07T02:09:39.666890"
     },
     {
       "game_id": "relax-wild-yield",
@@ -383,7 +384,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/a7d9605df89091c139a40c43485fb41201fb5ad96fd162070fc51ef593a594af",
       "expected_filename": "Relax Gaming - Wild Yield.webp",
       "game_url": "https://stake.com/casino/games/relax-wild-yield",
-      "extracted_at": "2025-08-06T01:06:21.539076"
+      "extracted_at": "2025-08-07T02:09:39.666890"
     },
     {
       "game_id": "relax-curse-of-the-mummies",
@@ -393,601 +394,9 @@
       "thumbnail_url": "https://mediumrare.imgix.net/5fc24dc3631603c78c760853ff8b036b2b2fc942489b24f42363fec360e7422d",
       "expected_filename": "Relax Gaming - Curse Of The Mummies.webp",
       "game_url": "https://stake.com/casino/games/relax-curse-of-the-mummies",
-      "extracted_at": "2025-08-06T01:06:21.539076"
-    },
-    {
-      "id": "f65fbf2f-7b78-4191-bea9-fac1887cfeb2",
-      "name": "Troll's Gold",
-      "slug": "relax-trolls-gold",
-      "thumbnailUrl": "https://mediumrare.imgix.net/142cea2a61251db63f8f32034a4fbd36cd005594709f265246c151cc98b8c279",
-      "thumbnailBlurHash": "ejLypOo0RBofKLRKjZogj[S~#ajvkVWCog-;kCNZafRkVyW;ozofW:",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "06374046-1019-413f-923d-455f2093e665",
-      "name": "Sloth Tumble",
-      "slug": "relax-sloth-tumble",
-      "thumbnailUrl": "https://mediumrare.imgix.net/baccdba95872a0fc31669641417f4afa70a2c6982fd546e9f954fec472c2f5ab",
-      "thumbnailBlurHash": "eZLy%DngJHoyMy3}n$pdozadcHjckobce?.Oa%VrS5RRMyn~${axoZ",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "0a5c8853-0651-4fec-a4ab-3f658922b5b2",
-      "name": "Hex",
-      "slug": "relax-hex",
-      "thumbnailUrl": "https://mediumrare.imgix.net/cd6e6c9b88706b602d6ee2859ff4549e51627bfbb5bf48c52ffeb45ab167eb92",
-      "thumbnailBlurHash": "eWGJ+kofFEj[THQUa{s=ofxvLJbGi~fkWF_4oMM_WCIoB4WBs;oLt8",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "ff862628-db69-4ffb-a243-3aa7fae2acf1",
-      "name": "Top Dawg$",
-      "slug": "relax-top-dawgs",
-      "thumbnailUrl": "https://mediumrare.imgix.net/94df4004182659c318ad33ec73293eaf87de82fc406e8b9df93cbd3e1267dd6f",
-      "thumbnailBlurHash": "ePN06w$z%hNgwHUHr=%~NMs8^,V[NfW?IUGIWB9GbwNH9GadxbkWt7",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "e08ae65c-5eca-4444-a4fb-ab2c81a5f922",
-      "name": "Money Cart 4",
-      "slug": "relax-money-cart-4",
-      "thumbnailUrl": "https://mediumrare.imgix.net/75c78b785eeafed202e859eac7be4e8245312e9ff25c2a7fe358ca6435c0cf2c",
-      "thumbnailBlurHash": "e-J@IFt3R:V?WF1Ok9W?V@o2v~kDenjFoIx^f-Vsj@j=MyRoayjsob",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "4e6477ee-bcaa-44a1-b2a3-201775733215",
-      "name": "Horror Hotel",
-      "slug": "relax-horror-hotel",
-      "thumbnailUrl": "https://mediumrare.imgix.net/2539800a0e40ed68114c6e8aae57e2c1d653841642317dc184a8ab23af2a50f0",
-      "thumbnailBlurHash": "ekK+=[o|E2WVni3WXRTJbFs;xbX7g4oeWXLMofi_oKaKM|o1xaaysm",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "8ec5dee2-7a12-4c43-ac46-b75a7d67b900",
-      "name": "Ancient Tumble",
-      "slug": "relax-ancient-tumble",
-      "thumbnailUrl": "https://mediumrare.imgix.net/3b78d06cf00e9259a5b9fbb8d596e08f470f1de22bcf117d5524f90e7aaa91c4",
-      "thumbnailBlurHash": "eQHMunVZGQVuMf;He=yCWDrwO6X8rvR*tQ}_RjMyV[OSEcWF%1j]j?",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "c93283ae-a43c-4350-861f-30b50933c042",
-      "name": "Santa's Stack",
-      "slug": "relax-santas-stack",
-      "thumbnailUrl": "https://mediumrare.imgix.net/d8f53f8596be6f2c9f64a2b9ca4f35fe79e99d5936739a2a6e5d0daefe713414",
-      "thumbnailBlurHash": "eWJRwD-rB=oNs:{0xbX.bcxVPDM^%gSznN+|M_xaRjNGERX5s.WEfh",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "a0744ae6-6216-4b4c-b439-98bd608513a2",
-      "name": "Cash in Transit",
-      "slug": "relax-cash-in-transit",
-      "thumbnailUrl": "https://mediumrare.imgix.net/bb21537e9b46001b66070ab527f13aee5f3c133e7c389c66fb9136e28a9dc5b6",
-      "thumbnailBlurHash": "eKGJBvw|5dtSItNBt8bxR:s+9-kWR3NGt2~lWVI9oyRo4_f9%2o#t8",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "3e0cc89c-0ac8-4db7-8a13-028a89c60b24",
-      "name": "Zombie Circus",
-      "slug": "relax-zombie-circus",
-      "thumbnailUrl": "https://mediumrare.imgix.net/72c700d10151c8ecdace0f1f29f063ca9e2f324fcaa4dde2d6006f5e5d11be4e",
-      "thumbnailBlurHash": "edL385o3IgbbNiIQWXo~ofo#EXR*g2sojD%zWARof6MyM,ocbvW:W-",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "173aa304-242a-4ff9-adcb-75a428b9e2a9",
-      "name": "Volatile Vikings",
-      "slug": "relax-volatile-vikings",
-      "thumbnailUrl": "https://mediumrare.imgix.net/91e3db80428e6d3731f515888dbf871b4376faecb97118af143e2ea9c29847a0",
-      "thumbnailBlurHash": "eVE:fXt0I[RpJC9DaexsV@t7AzNNnij:xC?7a#IVayRkH]s*t6WGoe",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "62119dbb-ae3f-416d-9183-13589fde8b24",
-      "name": "Marching Legions",
-      "slug": "relax-marching-legions",
-      "thumbnailUrl": "https://mediumrare.imgix.net/a1b32e0ef490554d1b4e9d4edb1f8a81fd73d48d364fd63e89dcf949143aa963",
-      "thumbnailBlurHash": "eNLzZ$X-1uR7XMuktjO@IWxuYExoVvR*er%jSvM{n*ICDhNZtRjFsr",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "17d42ea8-b657-4fdb-a56f-39fb34231448",
-      "name": "Chip Spin",
-      "slug": "relax-chip-spin",
-      "thumbnailUrl": "https://mediumrare.imgix.net/4709bdf9af4129973f34cbeeb9166f7c4bd8de43605f2bb06bf89dba3d85e604",
-      "thumbnailBlurHash": "eKPXLir;MexaT37%r=pdxbb{:-sq%1t8oN?dW?QmX9RR#XR-F{NHRp",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "be9e634a-1bce-4a37-806e-5d696a7c45a4",
-      "name": "La Fiesta",
-      "slug": "relax-la-fiesta",
-      "thumbnailUrl": "https://mediumrare.imgix.net/11aba2a1cc917b69153c42fd057509c2d3bf9ed7daf5ef4983c18f0f95d4bb55",
-      "thumbnailBlurHash": "eWLVzNMeI:t7RiAER+%LsnbFxt%LxZs9oI.Tt6M{oei^r=R-xaR+s-",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "5d09bba5-1e4c-440e-85d3-c4d61b6bf321",
-      "name": "Mega Flip",
-      "slug": "relax-mega-flip",
-      "thumbnailUrl": "https://mediumrare.imgix.net/f8004b6944f5290c5e48564d7d4838a8ae56b6e4eda23fc7f82c3feebec678f5",
-      "thumbnailBlurHash": "edNteJoz9bi_N4]]kDbwaMS6D^ahoOa~o}FrnkIXkWX8ien+pHozRR",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "715176b5-0038-492e-8b8f-3fb41f6177d9",
-      "name": "Multiplier Odyssey",
-      "slug": "relax-multiplier-odyssey",
-      "thumbnailUrl": "https://mediumrare.imgix.net/d7f3bd37a6b75bdb597a3e3761e017504b1516dbbcfcacd5ef065584f62d2410",
-      "thumbnailBlurHash": "eZKleCI.RExCi{0wI.s=s,xZvXs;w#ogw|%{xHR%ahNHIBnlb@R*bv",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "f22ff338-8f5b-4c14-88bf-6d561c3a5494",
-      "name": "Powerspin",
-      "slug": "relax-powerspin",
-      "thumbnailUrl": "https://mediumrare.imgix.net/5f54df590b49da62af5aff9101f086f2f6af7e083ab1dedd2d30b48657d8c2aa",
-      "thumbnailBlurHash": "eVK-*6aLAMN_AN:|nhS8NfS*19t2R.Iw-M%Mo{EUs9#i4sX9Nh-gng",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "be47f176-8a6e-4627-933a-54e2b81918d6",
-      "name": "5 Monsters",
-      "slug": "relax-5-monsters",
-      "thumbnailUrl": "https://mediumrare.imgix.net/f85ad1d26f62214e8d7f5b6d57334f95d216f05342877d2cb9050c228cbe7fec",
-      "thumbnailBlurHash": "eTKJ$*t8OZRjXTznbGtkk8o|AKWBofbENG~AoMNsR*RRH#flf}ofxH",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "fb2047ed-e86e-480b-b038-b551255b541b",
-      "name": "Cluster Tumble",
-      "slug": "relax-cluster-tumble",
-      "thumbnailUrl": "https://mediumrare.imgix.net/8ce0d505064c397afb17ada2071644d0be53dfc1eaed37f643df02f14f9e827d",
-      "thumbnailBlurHash": "eZLWCMxCRjkCs+I-j@tRofx[%ES1smoLtQ?]adV?WVWBR4n,t7WXX9",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "e08d4332-29de-4a94-8398-a0607a441066",
-      "name": "Torii Tumble",
-      "slug": "relax-torii-tumble",
-      "thumbnailUrl": "https://mediumrare.imgix.net/72a0e0bd939882dee7650be2fc2a2b649cc6940c419651407fe153778b4e8afb",
-      "thumbnailBlurHash": "ecH^-+t7IrJ7S$zmt7$$R*oeT3WXr;sAnh%fV@M{s9WDD+nixsWBSh",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "1fed83e0-0224-4e4d-89e5-942278864331",
-      "name": "Money Cart 2",
-      "slug": "relax-money-cart-2",
-      "thumbnailUrl": "https://mediumrare.imgix.net/b3edcd22c01025d6091934df6a9d1cabb1274ffeee0d4ffe84b06c825b96dfc4",
-      "thumbnailBlurHash": "ecM}]{OqMeWFnOGds.NybJbb-?s,R.oLS$.TfPVZj=jHrDRktSbXt8",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "2ab95c95-6afe-46c9-b6e0-a855d9d44df1",
-      "name": "Big Bucks Bison 10K Ways",
-      "slug": "relax-big-bucks-bison-10k-ways",
-      "thumbnailUrl": "https://mediumrare.imgix.net/b88d1c8c5ba62fcc30df1d9a2cc8390f5e4526dbe98517f2a9bd3c9eafb6dd8f",
-      "thumbnailBlurHash": "eUN*:Nn+=@j[$yGDWC.7W:s-}pWWtRkBNcy?t5w[t5IpVrs.%Ms-NI",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "303a4fbe-44d2-4e2d-a379-3c38c7dac291",
-      "name": "Dragons' Awakening",
-      "slug": "relax-dragons-awakening",
-      "thumbnailUrl": "https://mediumrare.imgix.net/6c8b3f0ce6ad446978af2c73a79c56b9b4b178adb9ae50923cf6bc1b46591c8c",
-      "thumbnailBlurHash": "ebKcCtxF9ZNfRP0dn%J5bHs:vkR+ocs.og.SbHWAo0RkMJj?X5WBof",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "40e9d046-fbef-430e-ac85-7ea6956c0347",
-      "name": "Epic Dreams",
-      "slug": "relax-epic-dreams",
-      "thumbnailUrl": "https://mediumrare.imgix.net/f4f37280b6e2b5733d74180e9d3ac7f90c2cb6e4211735814afe724eca3759a6",
-      "thumbnailBlurHash": "eXHL}dozIwRTn3%UkD%1e-s8PEWB$yn#S$.8enM}RjS$9OjGkWS5of",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "2659e6de-9cd9-48a9-a645-19e03c04f584",
-      "name": "Frequent Flyer",
-      "slug": "relax-frequent-flyer",
-      "thumbnailUrl": "https://mediumrare.imgix.net/13b3347f9d90eac74c8e23d8c67aa15aeb19673b57fe2e08f156e6c7b3f3585d",
-      "thumbnailBlurHash": "ePM6q,s;$[s+n5^[n,.6WoR:O7jIj]a}S6*JoNR5WBRPV;og-:f5Rk",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "e72f5086-fb53-4ccd-956f-3d1f8c0ec711",
-      "name": "Shark Wash",
-      "slug": "relax-shark-wash",
-      "thumbnailUrl": "https://mediumrare.imgix.net/b2ff07b5601197a10b3b56f10d9b95ad2e0cb9e6431b045c720f31d62e6f79a3",
-      "thumbnailBlurHash": "ebGmM_wcALRnRp*En#tmV?xCKlS$xTngnM.QT1V?ofM|EQbcxuW?o#",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "43ecabaa-378a-4f35-a61e-742f65101322",
-      "name": "Bone Raiders",
-      "slug": "relax-bone-raiders",
-      "thumbnailUrl": "https://mediumrare.imgix.net/bde5db7d4c7f33984fb83bf4d812c1ac3e8ae308ffc604626ce54835fb37697a",
-      "thumbnailBlurHash": "eRQ?^8rq[FSbxtPRaKp0SwpH{1nPE*XSS0%hr@R5t6Z$u*V[pIxCW=",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "940f583a-fb35-4b25-bde3-534b9ffafdd3",
-      "name": "Dead Riders Trail",
-      "slug": "relax-dead-riders-trail",
-      "thumbnailUrl": "https://mediumrare.imgix.net/f6b8321a1ca83b895bf2007e165823d466e5f0f26d401fa75075e7f91d633dfa",
-      "thumbnailBlurHash": "eNJ@kiS8XVniaK--S*%fs9s8;qyEVsWUoL?upGIANcWX0MWStOW?tQ",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "aab6c488-87e4-434d-852d-2381f4b99502",
-      "name": "Tower Tumble",
-      "slug": "relax-tower-tumble",
-      "thumbnailUrl": "https://mediumrare.imgix.net/3c3e3b98a8c46c8e568988294e22631545594afe7555b78594652ce17870f76e",
-      "thumbnailBlurHash": "eaJRaGaLPDRkg2RtoJt:R*t9MxkCR;flsq-qa%ITa#nNMwoJo|WBn#",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "bd575530-7a5a-43c3-92fd-3e5eeb8e141f",
-      "name": "Sweetopia Royale",
-      "slug": "relax-sweetopia-royale",
-      "thumbnailUrl": "https://mediumrare.imgix.net/62e51dd7418df057d534150f7acd428168d716801fbb786dee7ddbdb7a33fcec",
-      "thumbnailBlurHash": "eZM%f]iwPCtRM}=DnhcEkXah7Qs.NZWCae%zoyRiRkaKIDW=xYaes:",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "3775659a-9ccf-4080-a347-0f4bb0e249c3",
-      "name": "Hot Rod Racers",
-      "slug": "relax-hot-rod-racers",
-      "thumbnailUrl": "https://mediumrare.imgix.net/8dc429ffce31faca09162b9a236cb0044d271c854837ec89a313b30d8e36658f",
-      "thumbnailBlurHash": "eiOAV]$gn4kCRP5iw^ozWVbv{fjvWXWVkC-;S5RkW;V@H@S4XSjFoz",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "d7f7675d-b2d7-40da-9911-d65c1ebc6929",
-      "name": "Thor Infinity Reels",
-      "slug": "relax-thor-infinity-reels",
-      "thumbnailUrl": "https://mediumrare.imgix.net/796fe4ae1ad0ffc07ab3d06dfd4fec538f15cfc1ecfce5e30ab6e2e333fad04e",
-      "thumbnailBlurHash": "eTNk9bjbvysmR:3,R*yBofNK]jS2NGS2RnPBf7DjWBsDDjaeo~spof",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "932fa5ea-1026-47ab-9083-6665cb767778",
-      "name": "Ramses Revenge",
-      "slug": "relax-ramses-revenge",
-      "thumbnailUrl": "https://mediumrare.imgix.net/20b97f18e023ecdc4907232f9b7ce5c1f51af21eafac39d1edb3ac619d0d34a8",
-      "thumbnailBlurHash": "eRMPgqozH@NHs+9FfjVuWCtQ=WRkRkofNe.Ta#RPkBM|Dhays:fPoz",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "ff9cda7e-3a3c-4ffb-a150-ad012ff1eb59",
-      "name": "Mega Heist",
-      "slug": "relax-mega-heist",
-      "thumbnailUrl": "https://mediumrare.imgix.net/2c8498dedf36580834b20c12eced4518ba0f96b0df5d8d5f3853efee281e813b",
-      "thumbnailBlurHash": "eHJ8anMMp6^ixVzXR6?b-ot6B_adw5kUM|_NR*McSdE14-NGxwS3R*",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "66234c8b-311b-45e1-bf8a-0c7f0fab9493",
-      "name": "Kluster Krystals",
-      "slug": "relax-kluster-krystals",
-      "thumbnailUrl": "https://mediumrare.imgix.net/4ec6314ff13bb4433d89ed8e01c0aa7ccbe19797b1a5d7817ebb07e5f5692409",
-      "thumbnailBlurHash": "eWO-NcMpI@TIq^11RrKQS}wMR6xtNeS1xZu5w{r=jErqVDv%tjnhV^",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "cff53c2c-37c6-44c6-bc2a-b03961d771d1",
-      "name": "Purrrminator",
-      "slug": "relax-purrrminator",
-      "thumbnailUrl": "https://mediumrare.imgix.net/cf57ea5fe0158bffa62f965d5840bb4598e7ebcaa6e1e04dc3cf5fe025dbd0a0",
-      "thumbnailBlurHash": "eYH{Z[wbGcJTXSrUs,TLS2t66XbvV@o2s+-.bIZ}sARk4oV[w@niS6",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "0088e233-d7d8-47e2-9345-8d0df81d58ef",
-      "name": "Lure Of Fortune",
-      "slug": "relax-lure-of-fortune",
-      "thumbnailUrl": "https://mediumrare.imgix.net/572c22c06891b8ab0ee1b2ee5ace80077f04bce4e7f33a1fd466ec089436b379",
-      "thumbnailBlurHash": "eLOxE$v~znn4#jo[oL-Trr-o-,O?rXxCkB?wO@M0oIIV:5R:X9aebw",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "b5f9ce46-8edf-4930-ae12-0a7214b229c9",
-      "name": "Tiger Shrine",
-      "slug": "relax-tiger-shrine",
-      "thumbnailUrl": "https://mediumrare.imgix.net/62b4944eceb12313af33ee2df0f8d54b91df48bfa531c7ec91a8c0dc131c80bb",
-      "thumbnailBlurHash": "eTHyaHNHACt7R~r5WETLoekXPLs-NMaxR:-?oJM_WXM|0fof$+WBxZ",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "81aa2dfb-377a-4ffb-a712-38607935667b",
-      "name": "Fang's Inferno",
-      "slug": "relax-fangs-inferno",
-      "thumbnailUrl": "https://mediumrare.imgix.net/0b150a95751fdc143f79363744fb506ef40f9e3a607255524b5c6c0752ebe197",
-      "thumbnailBlurHash": "eaNaJ4ofzqWV:l0{ayxHfQxG{3jZKhj[S}%Oj[J5WVWAqbf6XlfQXS",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "3306cdd6-8bec-499b-9c06-0044a359687e",
-      "name": "Aussies VS Emus",
-      "slug": "relax-aussies-vs-emus",
-      "thumbnailUrl": "https://mediumrare.imgix.net/404904fd96d1c6eb7feccf08f9b1c50ba429f5681c466692411adcc3ccd21aa2",
-      "thumbnailBlurHash": "eUM~hEozogRlnh3=?GyERkjE;}%M%2M{bb*JRjrqROR*$jVYT0jFRj",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "3c9601f4-3e82-4169-954d-cb69eb9098c4",
-      "name": "The Wild Drifter",
-      "slug": "relax-the-wild-drifter",
-      "thumbnailUrl": "https://mediumrare.imgix.net/192651e50313271a8642a6f1d029447473169f62d0d6bcb054f85f35789bdbf7",
-      "thumbnailBlurHash": "ecOo;8niE9xracC8aeJ=t5kWETj[Xmj[jIT#ofx-WEn4ICkCx[aesn",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "96167cfc-787a-49e5-8c75-16425e0ad89f",
-      "name": "Ignite the Night",
-      "slug": "relax-ignitethe-night",
-      "thumbnailUrl": "https://mediumrare.imgix.net/d958d3ad8380b715c54b366479d32fde5674602aa7ec238c11545d8ef5188ed9",
-      "thumbnailBlurHash": "eYLoBWnzD-otwJMHngxwf#xtrjWAxcoJX5.7xHVtspEMIC$*xua$Sd",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "4a06ee7c-6744-4d78-a3c8-a33ea8445267",
-      "name": "Firewins Factory",
-      "slug": "relax-firewins-factory",
-      "thumbnailUrl": "https://mediumrare.imgix.net/f37d904b0207762b8152921cd2d0c9f65307756723b006483e7a7eefc0f78ccb",
-      "thumbnailBlurHash": "eSP4KIz_:^GOZ;71v.-DKGs@QokEJ3WBsFy?XTELnjZ~zzX9kYo0XM",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "1a0b9cfc-0c68-4b8a-9018-fb4fc2d4c936",
-      "name": "Deep Descent",
-      "slug": "relax-deep-descent",
-      "thumbnailUrl": "https://mediumrare.imgix.net/392ba2cf7afeda123f9f1ad1e5edef092da57dbaa0ee7a0ec3e92aaa214092f6",
-      "thumbnailBlurHash": "eVGJ]q$wB=Oat0%ZxTpcOGxUlVxZ$gX9i{.6ozVYt3RV4;WExXt2bc",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "3b3739d6-d85b-44cc-bcb7-6b9bcc2a4c0b",
-      "name": "Super Boost",
-      "slug": "relax-super-boost",
-      "thumbnailUrl": "https://mediumrare.imgix.net/f13fd6376951bfc8c89532b521389fa8a5b9e550d1a4431c1c4d005a92b064b1",
-      "thumbnailBlurHash": "eSM?K2xlm$V[og4-o]StWEkrTLXQT1r@T2yJW8wIw@Ro8xS2-LkSfg",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "266c5a43-122d-41ee-8c8f-19158d6c4c4e",
-      "name": "Sultan Spins",
-      "slug": "relax-sultan-spins",
-      "thumbnailUrl": "https://mediumrare.imgix.net/9271c12032b3bd7d8574b0d1c261b299ed734db3f315f8ed396fc849191b2790",
-      "thumbnailBlurHash": "eLL:cZ%1L2bvElHAf5*JNxXTHYV@$KS5rW.lxZQ+ogq@SxoztmWV$y",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "5187e8b6-fbef-4773-8e4f-e9f8fa1444aa",
-      "name": "Feather Fury",
-      "slug": "relax-feather-fury",
-      "thumbnailUrl": "https://mediumrare.imgix.net/545e20d021a6284b61b79aadee26d850ae24bf617da0cc20fc7502c74285c9aa",
-      "thumbnailBlurHash": "eMQQQ{S1:5xGD+3AV[xtjZRmzVoyJ8RQx[*JoyD*RQt5vLazSjjZbv",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "16ee0ea0-d864-4849-9f91-d2a32da046bc",
-      "name": "Lady Merlin Lightning Chase",
-      "slug": "relax-lady-merlin-lightning-chase",
-      "thumbnailUrl": "https://mediumrare.imgix.net/d6deb5b2552aa4ae72d0aa151ecb1ab2da02217712098c82928e39221a68f928",
-      "thumbnailBlurHash": "eVI:h=oh9laisS0wa~b{f9t1;FoMt7oOoIK]ohM_ogRnQpWYt0obbX",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "d876f2fc-c121-40bb-a142-003a218b7e42",
-      "name": "Giants & Sheep",
-      "slug": "relax-giants-and-sheep",
-      "thumbnailUrl": "https://mediumrare.imgix.net/c75036f46257e9cd7db1ae10551b8082494a079c34d4223473db03e2e9b84ee5",
-      "thumbnailBlurHash": "eTJ+JH%LpGR,r;=7%2yCkCnO1u%3Imt7RP?dxbeSt8jrTAf8-Wxuxb",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "ac894ddf-ae37-4582-8bec-c5d510bdb267",
-      "name": "Bucks And Doe 10K Ways",
-      "slug": "relax-bucks-and-doe-10k-ways",
-      "thumbnailUrl": "https://mediumrare.imgix.net/b10d19c4615824e39501ca1749143e592d5144631fd0f8e562768c1b00457541",
-      "thumbnailBlurHash": "eSLyv1ShROs9nho#oM%NjGog~UsV=|WDWX_Noe$2R*RjnNjYtRWBf,",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "1b7ea2c7-59f8-4c89-8173-072d51f19547",
-      "name": "Quackin' Reels",
-      "slug": "relax-quackin-reels",
-      "thumbnailUrl": "https://mediumrare.imgix.net/a95ea8d4f727664ab530dfb7753ebd0f91cc1e57ee838a33b67aaf82f013eefb",
-      "thumbnailBlurHash": "eoMGqwkVS~RjoK3Wa{TeR+oLv~WqWZoff6TdkCZ~oenhRkjFjYaesl",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "7b6cfef5-1ca1-4219-a42a-da63180fdfc6",
-      "name": "Money Sleigh",
-      "slug": "relax-money-sleigh",
-      "thumbnailUrl": "https://mediumrare.imgix.net/30510ba890329e22ead3a43ceb2cb661c147e49f017ac34e3d4a282c0092ed4a",
-      "thumbnailBlurHash": "eSJIC_aO9Sr]N3c#WFI=niou9CX8NEk8t0.5k8i|oxbD0jjF-oWFtj",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "72c0517a-0aed-4c8d-8774-e41de968ec9e",
-      "name": "Atlantis Crush",
-      "slug": "relax-atlantis-crush",
-      "thumbnailUrl": "https://mediumrare.imgix.net/ecd8b501e8d7e1479f726bef9210c6fe3754b6057f2ca599741bd2d1e5413c89",
-      "thumbnailBlurHash": "eSIhyLjs6~buNZv_juKibaoN33ayjXjZrs?cafv}jbrXD#ayw#fRsq",
-      "isBlocked": true,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "8ec30953-97b0-493a-9377-34c99ec32e37",
-      "name": "St Louis 1904",
-      "slug": "relax-st-louis-1904",
-      "thumbnailUrl": "https://mediumrare.imgix.net/7d086589250990addfd6bd720df4db8af21154a327c1692c57381efedbf868c5",
-      "thumbnailBlurHash": "eGJ?v$%#0fo}-o3pyDlAW=%2zpNdaKjFNH8JM{DiR+IBDOWC%gNGni",
-      "isBlocked": true,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
+      "extracted_at": "2025-08-07T02:09:39.666890"
     }
-  ]
+  ],
+  "timestamp": "2025-08-07T02:09:39.666890",
+  "source": "initial_html_fetch"
 }

@@ -1,17 +1,10 @@
 {
-  "timestamp": "2025-08-06T04:43:10.971Z",
-  "provider": {
-    "id": "pg-soft",
-    "name": "Pg Soft",
-    "slug": "pg-soft"
-  },
-  "summary": {
-    "totalGames": 83,
-    "fetchedGames": 83,
-    "remainingGames": 0,
-    "isComplete": true,
-    "currentOffset": 83
-  },
+  "provider": "PG Soft",
+  "provider_slug": "pg-soft",
+  "total_games": 83,
+  "games_fetched": 39,
+  "is_complete": false,
+  "needs_pagination": true,
   "games": [
     {
       "game_id": "pgsoft-chicky-run",
@@ -21,7 +14,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/231e682dc941d4fee28c159217a85b849a5644174d04a5e7e6cca53c7ffc6559",
       "expected_filename": "PG Soft - Chicky Run.webp",
       "game_url": "https://stake.com/casino/games/pgsoft-chicky-run",
-      "extracted_at": "2025-08-06T01:16:10.449360"
+      "extracted_at": "2025-08-07T02:16:56.415908"
     },
     {
       "game_id": "pgsoft-dragons-treasure-quest",
@@ -31,7 +24,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/5df44a36f199216628bd6e6a29e2c100af4792aec54412eb4243293c98685d44",
       "expected_filename": "PG Soft - Dragon's Treasure Quest.webp",
       "game_url": "https://stake.com/casino/games/pgsoft-dragons-treasure-quest",
-      "extracted_at": "2025-08-06T01:16:10.449360"
+      "extracted_at": "2025-08-07T02:16:56.415908"
     },
     {
       "game_id": "pgsoft-galaxy-miner",
@@ -41,7 +34,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/e682e8740cb65b3620c148693d1aa4cdd90d0b3f1690b98f697fb7e6b072e0ef",
       "expected_filename": "PG Soft - Galaxy Miner.webp",
       "game_url": "https://stake.com/casino/games/pgsoft-galaxy-miner",
-      "extracted_at": "2025-08-06T01:16:10.449360"
+      "extracted_at": "2025-08-07T02:16:56.415908"
     },
     {
       "game_id": "pgsoft-diner-frenzy-spins",
@@ -51,7 +44,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/5767d78a5dad829da3696033c52703effadaeecc63368976a9c819abef7e316a",
       "expected_filename": "PG Soft - Diner Frenzy Spins.webp",
       "game_url": "https://stake.com/casino/games/pgsoft-diner-frenzy-spins",
-      "extracted_at": "2025-08-06T01:16:10.449360"
+      "extracted_at": "2025-08-07T02:16:56.415908"
     },
     {
       "game_id": "pgsoft-wild-bounty-showdown",
@@ -61,7 +54,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/7c31008ca65f8b938d44c6dd4f37083bf4d70eadfd1361d00100bd9849c64886",
       "expected_filename": "PG Soft - Wild Bounty Showdown.webp",
       "game_url": "https://stake.com/casino/games/pgsoft-wild-bounty-showdown",
-      "extracted_at": "2025-08-06T01:16:10.449360"
+      "extracted_at": "2025-08-07T02:16:56.415908"
     },
     {
       "game_id": "pgsoft-mahjong-ways-2",
@@ -71,7 +64,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/bfffecea030a24a526007bbcfc231774dcb7560b421ceef1e9917ce7736ea6bc",
       "expected_filename": "PG Soft - Mahjong Ways 2.webp",
       "game_url": "https://stake.com/casino/games/pgsoft-mahjong-ways-2",
-      "extracted_at": "2025-08-06T01:16:10.449360"
+      "extracted_at": "2025-08-07T02:16:56.415908"
     },
     {
       "game_id": "pgsoft-wild-bandito",
@@ -81,7 +74,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/7dbec5678181612dc2ea2257b42e7244836a24f7758cb48786bd59dd6cde0d8b",
       "expected_filename": "PG Soft - Wild Bandito.webp",
       "game_url": "https://stake.com/casino/games/pgsoft-wild-bandito",
-      "extracted_at": "2025-08-06T01:16:10.449360"
+      "extracted_at": "2025-08-07T02:16:56.415908"
     },
     {
       "game_id": "pgsoft-mahjong-ways",
@@ -91,7 +84,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/b2ea1e9d093897e77ee5cf107213b22591b60a8d221080f698b94718bce53f28",
       "expected_filename": "PG Soft - Mahjong Ways.webp",
       "game_url": "https://stake.com/casino/games/pgsoft-mahjong-ways",
-      "extracted_at": "2025-08-06T01:16:10.449360"
+      "extracted_at": "2025-08-07T02:16:56.415908"
     },
     {
       "game_id": "pgsoft-jack-the-giant-hunter",
@@ -101,7 +94,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/4bef33625ecea66eaec5cbba7af3f87cc0ccd9cf4f5de447f912bc4438f74c77",
       "expected_filename": "PG Soft - Jack the Giant Hunter.webp",
       "game_url": "https://stake.com/casino/games/pgsoft-jack-the-giant-hunter",
-      "extracted_at": "2025-08-06T01:16:10.449360"
+      "extracted_at": "2025-08-07T02:16:56.415908"
     },
     {
       "game_id": "pgsoft-treasures-of-aztec",
@@ -111,7 +104,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/888b90ccd4249552b071c02b9cc37dca8ed19433f45c81ba4a2a6b2d34c2cbd7",
       "expected_filename": "PG Soft - Treasures of Aztec.webp",
       "game_url": "https://stake.com/casino/games/pgsoft-treasures-of-aztec",
-      "extracted_at": "2025-08-06T01:16:10.449360"
+      "extracted_at": "2025-08-07T02:16:56.415908"
     },
     {
       "game_id": "pgsoft-wild-ape",
@@ -121,7 +114,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/8668d1bee3eb2776c5182e32e69134244e75100e8431617d2974ce3bd2059434",
       "expected_filename": "PG Soft - Wild Ape.webp",
       "game_url": "https://stake.com/casino/games/pgsoft-wild-ape",
-      "extracted_at": "2025-08-06T01:16:10.449360"
+      "extracted_at": "2025-08-07T02:16:56.415908"
     },
     {
       "game_id": "pgsoft-lucky-neko",
@@ -131,7 +124,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/f2a4f2677fe5582eee5b8697294e0991027b0b98358828ee4bd6dce909b992a2",
       "expected_filename": "PG Soft - Lucky Neko.webp",
       "game_url": "https://stake.com/casino/games/pgsoft-lucky-neko",
-      "extracted_at": "2025-08-06T01:16:10.449360"
+      "extracted_at": "2025-08-07T02:16:56.415908"
     },
     {
       "game_id": "pgsoft-pinata-wins",
@@ -141,7 +134,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/c5005543fef7245219afa13116b2ff09d9ab3b5cb93f1f299c14fe85141d4895",
       "expected_filename": "PG Soft - Pinata Wins.webp",
       "game_url": "https://stake.com/casino/games/pgsoft-pinata-wins",
-      "extracted_at": "2025-08-06T01:16:10.449360"
+      "extracted_at": "2025-08-07T02:16:56.415908"
     },
     {
       "game_id": "pgsoft-zombie-outbreak",
@@ -151,17 +144,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/8b344c6ddca073c38a6ab5eead9a076b7d71d06d7675f76cd29c1541b465a627",
       "expected_filename": "PG Soft - Zombie Outbreak.webp",
       "game_url": "https://stake.com/casino/games/pgsoft-zombie-outbreak",
-      "extracted_at": "2025-08-06T01:16:10.449360"
-    },
-    {
-      "game_id": "pgsoft-fortune-tiger",
-      "title": "Fortune Tiger",
-      "slug": "pgsoft-fortune-tiger",
-      "provider": "PG Soft",
-      "thumbnail_url": "https://mediumrare.imgix.net/e62c4d7090258f187e207545676fcd3263e970b9361e2c0aba42ac5452e55a53",
-      "expected_filename": "PG Soft - Fortune Tiger.webp",
-      "game_url": "https://stake.com/casino/games/pgsoft-fortune-tiger",
-      "extracted_at": "2025-08-06T01:16:10.449360"
+      "extracted_at": "2025-08-07T02:16:56.415908"
     },
     {
       "game_id": "pgsoft-anubis-wrath",
@@ -171,7 +154,17 @@
       "thumbnail_url": "https://mediumrare.imgix.net/51ac0bac746b4cdd135084f85b6e1907ff5a0bd67788ba29e2259119a13753d1",
       "expected_filename": "PG Soft - Anubis Wrath.webp",
       "game_url": "https://stake.com/casino/games/pgsoft-anubis-wrath",
-      "extracted_at": "2025-08-06T01:16:10.449360"
+      "extracted_at": "2025-08-07T02:16:56.415908"
+    },
+    {
+      "game_id": "pgsoft-fortune-tiger",
+      "title": "Fortune Tiger",
+      "slug": "pgsoft-fortune-tiger",
+      "provider": "PG Soft",
+      "thumbnail_url": "https://mediumrare.imgix.net/e62c4d7090258f187e207545676fcd3263e970b9361e2c0aba42ac5452e55a53",
+      "expected_filename": "PG Soft - Fortune Tiger.webp",
+      "game_url": "https://stake.com/casino/games/pgsoft-fortune-tiger",
+      "extracted_at": "2025-08-07T02:16:56.415908"
     },
     {
       "game_id": "pgsoft-fortune-ox",
@@ -181,7 +174,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/7507b885af9d195893cd37631e014f0d69be500733db6a06563dd1375dfb4b3d",
       "expected_filename": "PG Soft - Fortune Ox.webp",
       "game_url": "https://stake.com/casino/games/pgsoft-fortune-ox",
-      "extracted_at": "2025-08-06T01:16:10.449360"
+      "extracted_at": "2025-08-07T02:16:56.415908"
     },
     {
       "game_id": "pgsoft-dead-mans-riches",
@@ -191,7 +184,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/786b1ff57f062d116e6bbc7a5a64a071c2cc33762540d4fe88537d281e9d362a",
       "expected_filename": "PG Soft - Dead Man's Riches.webp",
       "game_url": "https://stake.com/casino/games/pgsoft-dead-mans-riches",
-      "extracted_at": "2025-08-06T01:16:10.449360"
+      "extracted_at": "2025-08-07T02:16:56.415908"
     },
     {
       "game_id": "pgsoft-yakuza-honor",
@@ -201,7 +194,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/e3aff371bba17c1db7572ff07512aafb8c4ae473f0f0d95d1461e7daf319fe1a",
       "expected_filename": "PG Soft - Yakuza Honor.webp",
       "game_url": "https://stake.com/casino/games/pgsoft-yakuza-honor",
-      "extracted_at": "2025-08-06T01:16:10.449360"
+      "extracted_at": "2025-08-07T02:16:56.415908"
     },
     {
       "game_id": "pgsoft-ganesha-fortune",
@@ -211,7 +204,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/1663801e30484b58dd67ea075ae766eb74bb0943f5bae1ea4d5e6c7ac112fb4c",
       "expected_filename": "PG Soft - Ganesha Fortune.webp",
       "game_url": "https://stake.com/casino/games/pgsoft-ganesha-fortune",
-      "extracted_at": "2025-08-06T01:16:10.449360"
+      "extracted_at": "2025-08-07T02:16:56.415908"
     },
     {
       "game_id": "pgsoft-mystic-potion",
@@ -221,7 +214,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/b733ac0b664b9b0b7aa1faa4ec788a998d79353286062733d19b45f93e80c6de",
       "expected_filename": "PG Soft - Mystic Potion.webp",
       "game_url": "https://stake.com/casino/games/pgsoft-mystic-potion",
-      "extracted_at": "2025-08-06T01:16:10.449360"
+      "extracted_at": "2025-08-07T02:16:56.415908"
     },
     {
       "game_id": "pgsoft-cocktail-nights",
@@ -231,17 +224,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/0783fd411d9e05082875f6a2a09c52ae2cc82e1449b00f7850d8ae37f3d3d2bb",
       "expected_filename": "PG Soft - Cocktail Nights.webp",
       "game_url": "https://stake.com/casino/games/pgsoft-cocktail-nights",
-      "extracted_at": "2025-08-06T01:16:10.449360"
-    },
-    {
-      "game_id": "pgsoft-fortune-rabbit",
-      "title": "Fortune Rabbit",
-      "slug": "pgsoft-fortune-rabbit",
-      "provider": "PG Soft",
-      "thumbnail_url": "https://mediumrare.imgix.net/8f495d55e1cdbef9a5995b7133d6f4ad1b9a332493ade8b29a82f048ecda7388",
-      "expected_filename": "PG Soft - Fortune Rabbit.webp",
-      "game_url": "https://stake.com/casino/games/pgsoft-fortune-rabbit",
-      "extracted_at": "2025-08-06T01:16:10.449360"
+      "extracted_at": "2025-08-07T02:16:56.415908"
     },
     {
       "game_id": "pgsoft-cash-mania",
@@ -251,7 +234,17 @@
       "thumbnail_url": "https://mediumrare.imgix.net/27992dc65d125e58b650a44db23a5564174d9cc4b6193498507c6b43340f9cfe",
       "expected_filename": "PG Soft - Cash Mania.webp",
       "game_url": "https://stake.com/casino/games/pgsoft-cash-mania",
-      "extracted_at": "2025-08-06T01:16:10.449360"
+      "extracted_at": "2025-08-07T02:16:56.415908"
+    },
+    {
+      "game_id": "pgsoft-fortune-rabbit",
+      "title": "Fortune Rabbit",
+      "slug": "pgsoft-fortune-rabbit",
+      "provider": "PG Soft",
+      "thumbnail_url": "https://mediumrare.imgix.net/8f495d55e1cdbef9a5995b7133d6f4ad1b9a332493ade8b29a82f048ecda7388",
+      "expected_filename": "PG Soft - Fortune Rabbit.webp",
+      "game_url": "https://stake.com/casino/games/pgsoft-fortune-rabbit",
+      "extracted_at": "2025-08-07T02:16:56.415908"
     },
     {
       "game_id": "pgsoft-gemstones-gold",
@@ -261,7 +254,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/b4de37d456458c68a628594df3a05c454e5ec4ae61eb7526a5a71fc91f7380af",
       "expected_filename": "PG Soft - Gemstones Gold.webp",
       "game_url": "https://stake.com/casino/games/pgsoft-gemstones-gold",
-      "extracted_at": "2025-08-06T01:16:10.449360"
+      "extracted_at": "2025-08-07T02:16:56.415908"
     },
     {
       "game_id": "pgsoft-speed-winner",
@@ -271,7 +264,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/9687532f7e0035f3acec8dff4f8f19a785178e9d83a30f8710913bad8252352d",
       "expected_filename": "PG Soft - Speed Winner.webp",
       "game_url": "https://stake.com/casino/games/pgsoft-speed-winner",
-      "extracted_at": "2025-08-06T01:16:10.449360"
+      "extracted_at": "2025-08-07T02:16:56.415908"
     },
     {
       "game_id": "pgsoft-mafia-mayhem",
@@ -281,7 +274,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/18a559e861fb310540293ee4191f8d8fd0df4febab7453e80e885f714c6b5bb3",
       "expected_filename": "PG Soft - Mafia Mayhem.webp",
       "game_url": "https://stake.com/casino/games/pgsoft-mafia-mayhem",
-      "extracted_at": "2025-08-06T01:16:10.449360"
+      "extracted_at": "2025-08-07T02:16:56.415908"
     },
     {
       "game_id": "pgsoft-ways-of-the-qilin",
@@ -291,7 +284,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/0f7a0139c997fb49499bdd5fe6d9b3c0b53f839770b12be6fa6467e5cd3d84e2",
       "expected_filename": "PG Soft - Ways of the Qilin.webp",
       "game_url": "https://stake.com/casino/games/pgsoft-ways-of-the-qilin",
-      "extracted_at": "2025-08-06T01:16:10.449360"
+      "extracted_at": "2025-08-07T02:16:56.415908"
     },
     {
       "game_id": "pgsoft-three-crazy-piggies",
@@ -301,27 +294,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/304f08dcb2037f6f48c83d0878bb9495d044019ebe64dae192312b8316921e71",
       "expected_filename": "PG Soft - Three Crazy Piggies.webp",
       "game_url": "https://stake.com/casino/games/pgsoft-three-crazy-piggies",
-      "extracted_at": "2025-08-06T01:16:10.449360"
-    },
-    {
-      "game_id": "pgsoft-jurassic-kingdom",
-      "title": "Jurassic Kingdom",
-      "slug": "pgsoft-jurassic-kingdom",
-      "provider": "PG Soft",
-      "thumbnail_url": "https://mediumrare.imgix.net/8d55964f5a2914be1a72e528febe099432c867db6bcda7c45477c04644ff8722",
-      "expected_filename": "PG Soft - Jurassic Kingdom.webp",
-      "game_url": "https://stake.com/casino/games/pgsoft-jurassic-kingdom",
-      "extracted_at": "2025-08-06T01:16:10.449360"
-    },
-    {
-      "game_id": "pgsoft-midas-fortune",
-      "title": "Midas Fortune",
-      "slug": "pgsoft-midas-fortune",
-      "provider": "PG Soft",
-      "thumbnail_url": "https://mediumrare.imgix.net/f1048986d68bd8492a6ad219afd5f3137561bc8a772594b9deb8a058903d6188",
-      "expected_filename": "PG Soft - Midas Fortune.webp",
-      "game_url": "https://stake.com/casino/games/pgsoft-midas-fortune",
-      "extracted_at": "2025-08-06T01:16:10.449360"
+      "extracted_at": "2025-08-07T02:16:56.415908"
     },
     {
       "game_id": "pgsoft-ganesha-gold",
@@ -331,27 +304,27 @@
       "thumbnail_url": "https://mediumrare.imgix.net/b12988a7565b01014829ad93b4e7019bf75ab3186266c6acfb52139f505f646c",
       "expected_filename": "PG Soft - Ganesha Gold.webp",
       "game_url": "https://stake.com/casino/games/pgsoft-ganesha-gold",
-      "extracted_at": "2025-08-06T01:16:10.449360"
+      "extracted_at": "2025-08-07T02:16:56.415908"
     },
     {
-      "game_id": "pgsoft-geishas-revenge",
-      "title": "Geisha's Revenge",
-      "slug": "pgsoft-geishas-revenge",
+      "game_id": "pgsoft-jurassic-kingdom",
+      "title": "Jurassic Kingdom",
+      "slug": "pgsoft-jurassic-kingdom",
       "provider": "PG Soft",
-      "thumbnail_url": "https://mediumrare.imgix.net/a6e4218c56f254dbc12e2d124f5af070b42247634aa4d045489349218ee5d580",
-      "expected_filename": "PG Soft - Geisha's Revenge.webp",
-      "game_url": "https://stake.com/casino/games/pgsoft-geishas-revenge",
-      "extracted_at": "2025-08-06T01:16:10.449360"
+      "thumbnail_url": "https://mediumrare.imgix.net/8d55964f5a2914be1a72e528febe099432c867db6bcda7c45477c04644ff8722",
+      "expected_filename": "PG Soft - Jurassic Kingdom.webp",
+      "game_url": "https://stake.com/casino/games/pgsoft-jurassic-kingdom",
+      "extracted_at": "2025-08-07T02:16:56.415908"
     },
     {
-      "game_id": "pgsoft-fortune-dragon",
-      "title": "Fortune Dragon",
-      "slug": "pgsoft-fortune-dragon",
+      "game_id": "pgsoft-midas-fortune",
+      "title": "Midas Fortune",
+      "slug": "pgsoft-midas-fortune",
       "provider": "PG Soft",
-      "thumbnail_url": "https://mediumrare.imgix.net/13e8f3e599761b56b46dd50d579de529b0173c35fd90127e841c2abdc04020da",
-      "expected_filename": "PG Soft - Fortune Dragon.webp",
-      "game_url": "https://stake.com/casino/games/pgsoft-fortune-dragon",
-      "extracted_at": "2025-08-06T01:16:10.449360"
+      "thumbnail_url": "https://mediumrare.imgix.net/f1048986d68bd8492a6ad219afd5f3137561bc8a772594b9deb8a058903d6188",
+      "expected_filename": "PG Soft - Midas Fortune.webp",
+      "game_url": "https://stake.com/casino/games/pgsoft-midas-fortune",
+      "extracted_at": "2025-08-07T02:16:56.415908"
     },
     {
       "game_id": "pgsoft-dragon-hatch-2",
@@ -361,7 +334,27 @@
       "thumbnail_url": "https://mediumrare.imgix.net/f90bde94d4c692be0656cb87f4a5b8f5aefae22994a9692bee7d27b752dc9b75",
       "expected_filename": "PG Soft - Dragon Hatch 2.webp",
       "game_url": "https://stake.com/casino/games/pgsoft-dragon-hatch-2",
-      "extracted_at": "2025-08-06T01:16:10.449360"
+      "extracted_at": "2025-08-07T02:16:56.415908"
+    },
+    {
+      "game_id": "pgsoft-geishas-revenge",
+      "title": "Geisha's Revenge",
+      "slug": "pgsoft-geishas-revenge",
+      "provider": "PG Soft",
+      "thumbnail_url": "https://mediumrare.imgix.net/a6e4218c56f254dbc12e2d124f5af070b42247634aa4d045489349218ee5d580",
+      "expected_filename": "PG Soft - Geisha's Revenge.webp",
+      "game_url": "https://stake.com/casino/games/pgsoft-geishas-revenge",
+      "extracted_at": "2025-08-07T02:16:56.415908"
+    },
+    {
+      "game_id": "pgsoft-fortune-dragon",
+      "title": "Fortune Dragon",
+      "slug": "pgsoft-fortune-dragon",
+      "provider": "PG Soft",
+      "thumbnail_url": "https://mediumrare.imgix.net/13e8f3e599761b56b46dd50d579de529b0173c35fd90127e841c2abdc04020da",
+      "expected_filename": "PG Soft - Fortune Dragon.webp",
+      "game_url": "https://stake.com/casino/games/pgsoft-fortune-dragon",
+      "extracted_at": "2025-08-07T02:16:56.415908"
     },
     {
       "game_id": "pgsoft-mr-treasures-fortune",
@@ -371,7 +364,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/36a56c751761daafa24e39f299b9c7514db1e38a6c2974ebe5d8fb0d15c8f974",
       "expected_filename": "PG Soft - Mr. Treasure’s Fortune.webp",
       "game_url": "https://stake.com/casino/games/pgsoft-mr-treasures-fortune",
-      "extracted_at": "2025-08-06T01:16:10.449360"
+      "extracted_at": "2025-08-07T02:16:56.415908"
     },
     {
       "game_id": "pgsoft-asgardian-rising",
@@ -381,7 +374,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/2e34322c98847518039606f308d1387726496d8175fb7f0af65e49209818bf5b",
       "expected_filename": "PG Soft - Asgardian Rising.webp",
       "game_url": "https://stake.com/casino/games/pgsoft-asgardian-rising",
-      "extracted_at": "2025-08-06T01:16:10.449360"
+      "extracted_at": "2025-08-07T02:16:56.415908"
     },
     {
       "game_id": "pgsoft-leprechaun-riches",
@@ -391,7 +384,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/44171610fd2b532cf0359fabc730b90ba9cdc6ce83e5cfc693d28c4118544ff9",
       "expected_filename": "PG Soft - Leprechaun Riches.webp",
       "game_url": "https://stake.com/casino/games/pgsoft-leprechaun-riches",
-      "extracted_at": "2025-08-06T01:16:10.449360"
+      "extracted_at": "2025-08-07T02:16:56.415908"
     },
     {
       "game_id": "pgsoft-knockout-riches",
@@ -401,491 +394,9 @@
       "thumbnail_url": "https://mediumrare.imgix.net/1e0ff105d1f1d9ffca7b826fe3d84d63f24a216f060b2783b5077a3c002f07ce",
       "expected_filename": "PG Soft - Knockout Riches.webp",
       "game_url": "https://stake.com/casino/games/pgsoft-knockout-riches",
-      "extracted_at": "2025-08-06T01:16:10.449360"
-    },
-    {
-      "id": "6cebc8e8-2142-45f2-8be1-6b8402efd53f",
-      "name": "Double Fortune",
-      "slug": "pgsoft-double-fortune",
-      "thumbnailUrl": "https://mediumrare.imgix.net/d10245e2aab6d911a4e3cbb5e3a1463f426313725b4f96cde9879ff4b279a02b",
-      "thumbnailBlurHash": "eJPWaPozu*nhR45OX7%MV@tQukWA-:jIbXHVjZv|s;r=l:sp%gkV%g",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "b5ef323d-39b7-4daa-939b-2ec3d8711808",
-      "name": "Fruity Candy",
-      "slug": "pgsoft-fruity-candy",
-      "thumbnailUrl": "https://mediumrare.imgix.net/81371649118a5aff0f7a48e70b6e70a88276831fbbb8121ede76b0700b73c24a",
-      "thumbnailBlurHash": "ePR1r4V?Dxn4RWccxZJFi{W?MXOYZ~aiobKnjErBWVwaM:t7THt7oa",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "ded4e665-baeb-4760-80ba-86a0ca7cb70a",
-      "name": "Chocolate Deluxe",
-      "slug": "pgsoft-chocolate-deluxe",
-      "thumbnailUrl": "https://mediumrare.imgix.net/a58269307024a4b61d36d2ade5ae82ae20d5d34ab118c52ae1b4a6148e20a2cb",
-      "thumbnailBlurHash": "eSOL.Gn#w[WUxt.RaetSWUtR]eogNIaeRkXnozWAWCRj4UR*x]WFt8",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "7f9556be-6616-40f7-bc5a-6c6cdddf66e1",
-      "name": "Rise of Apollo",
-      "slug": "pgsoft-rise-of-apollo",
-      "thumbnailUrl": "https://mediumrare.imgix.net/aa68cc308dd757091dcd668d3a6c4344b5fe1be285b36953426e6d0ae239274a",
-      "thumbnailBlurHash": "eTQHqLWAV[V?RQ%XoHo~bZXTD5t7xYt7bIY7tReSbIV?Z#ofRokWo}",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "f7a4c0cb-e829-4073-a929-d0472815b86d",
-      "name": "Werewolf's Hunt",
-      "slug": "pgsoft-werewolfs-hunt",
-      "thumbnailUrl": "https://mediumrare.imgix.net/2c7bccf6b837082ce28c2bc78a83c4366f0ba041700059d092bccb9bd8e66219",
-      "thumbnailBlurHash": "enKuf}NvVsoLNG1Hayo}j]bb#9s.WVWVofyDofM{WBV@IBaeozaykC",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "93979192-a429-47a7-a6b3-fa5db15b75ac",
-      "name": "Super Golf Drive",
-      "slug": "pgsoft-super-golf-drive",
-      "thumbnailUrl": "https://mediumrare.imgix.net/8693e6eab04ef6966315f076752f80469a8ee938e01adb247bea3475e64955ef",
-      "thumbnailBlurHash": "eNNmcb^mK=pGIB0u-rpIj_s.S+o}RCVzxUKTNZMvV@i]NoR$%eV@WB",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "f1ca63da-2403-40df-a83d-da9943adbcf6",
-      "name": "Prosperity Fortune Tree",
-      "slug": "pgsoft-prosperity-fortune-tree",
-      "thumbnailUrl": "https://mediumrare.imgix.net/0e266d67bbb5dd084ec7f70bc758b502a52a258692009e6544c2bb61267f7468",
-      "thumbnailBlurHash": "eaFkpPahcGkUs:RcWC%iW.ogXcWCr^WVf+^lofMwjtRPPBt6s:n%Vs",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "62ae876d-49e7-4964-ba4c-5bb368258eba",
-      "name": "Safari Wilds",
-      "slug": "pgsoft-safari-wilds",
-      "thumbnailUrl": "https://mediumrare.imgix.net/8cdd8efbd41092eb47bd902ef4a2b77f4a83b1338b04dbb9f4ab3e004387e55f",
-      "thumbnailBlurHash": "eMI5SgQ,GaIUTKVBMwcFNbn$KPIoMyX8$L_NM{Mys,aKADR*%2t7nh",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "1ada28ef-574b-45c1-83a1-7ca47fe9ffdf",
-      "name": "Oishi Delights",
-      "slug": "pgsoft-oishi-delights",
-      "thumbnailUrl": "https://mediumrare.imgix.net/c227b1bb327a8fd31e90e8eaf1bdf7b61c39f8fc05afa73222c7079ac3f8e6a0",
-      "thumbnailBlurHash": "eaN[N{}-v$bb%10:w[t9j?kCmmRPogn~NGK*n%RPs.WBVZoMkXWXkD",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "247dc2bc-43e9-4619-a0d9-35678f1e8dfb",
-      "name": "Doomsday Rampage",
-      "slug": "pgsoft-doomsday-rampage",
-      "thumbnailUrl": "https://mediumrare.imgix.net/72cdaf43de85c8a1f96b81d590d9917d5c5dd559e3cc105654589fddc581abad",
-      "thumbnailBlurHash": "eYLMLx={aJ$%Vs0y%1xut6og]#xZxas.W;%~t6V@t5RjH=jZt7j@kD",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "2d363b8a-51ad-4586-b50b-506b0d5843f4",
-      "name": "Wild Heist Cashout",
-      "slug": "pgsoft-wild-heist-cashout",
-      "thumbnailUrl": "https://mediumrare.imgix.net/fd93f3d51fa4cdf1b3138263b19a8b83d3107e5c4a5a36f8dd666758cbbfb7a5",
-      "thumbnailBlurHash": "eROx,CRV$IWYE28yn%ETI@S6H?ovNyxYoyPENeX3xqxBDhShxujExu",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "e2dab7e5-1fb8-442a-8b7d-a048fc5068f7",
-      "name": "Dragon Hatch",
-      "slug": "pgsoft-dragon-hatch",
-      "thumbnailUrl": "https://mediumrare.imgix.net/1e5d818e614417f723e793b377c8988b531be669d5916f0066090dcfb547dc7a",
-      "thumbnailBlurHash": "e$LCP]S5NMoeafrlWXS#bHoeECsnR*WEbHpIsmjFWDR-E4fPxXj@kA",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "5e0c5b38-7f9d-432d-9279-6eeb0724feff",
-      "name": "Legend of Perseus",
-      "slug": "pgsoft-legend-of-perseus",
-      "thumbnailUrl": "https://mediumrare.imgix.net/fd2b972e7879166ad09cd693a58ead3b062d5c1b7e598e39670b07729dac90ea",
-      "thumbnailBlurHash": "eUHD4:xtI=X8f#qIn$xbR,soAUR,nhWXRQ?cR-IUofIo9FR*xaoJxa",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "7baa5164-77d2-47b8-b865-60cf8fc33cef",
-      "name": "Ninja vs Samurai",
-      "slug": "pgsoft-ninja-vs-samurai",
-      "thumbnailUrl": "https://mediumrare.imgix.net/cba13601a1b83715abda91a5a6195319192b5b288c878966b9d5bd4a1a87fae8",
-      "thumbnailBlurHash": "eRMPOG%1=r$%NG9sIp?FbGtR;^RjM{ocWF_NxuIUxZIUQmXRo~S6XR",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "0e0f2449-132d-4733-b195-0ae7ef5d4ce2",
-      "name": "Museum Mystery",
-      "slug": "pgsoft-museum-mystery",
-      "thumbnailUrl": "https://mediumrare.imgix.net/08deb9d66196885fae2454833f9976ab2b6f5ed2a514b8178d85ea8798d57167",
-      "thumbnailBlurHash": "euK^T}WBROozV@1Qf6aKayocn4oeR+WBoJ%hj@kCj[jFn3WCt6ofkW",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "5cf47352-3468-446f-bca5-0b1fec978e7c",
-      "name": "Shaolin Soccer",
-      "slug": "pgsoft-shaolin-soccer",
-      "thumbnailUrl": "https://mediumrare.imgix.net/e0ba91c17c2d2b2af5bae040c981e4531ac94406797d5427f199e17ac9eba05c",
-      "thumbnailBlurHash": "elJRzMo}EmWEWB-JbdX8WZs,GKR:s*X9jY.RWYoKkBRjIcn$spoLt3",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "4018c566-9ba5-4d97-8098-c9d6e6c8766e",
-      "name": "Alchemy Gold",
-      "slug": "pgsoft-alchemy-gold",
-      "thumbnailUrl": "https://mediumrare.imgix.net/19b3440364161ede8c85c9cbb3bbe39f0adb8bf53d8ae7ffe4da1a622c340997",
-      "thumbnailBlurHash": "eTP|^HI@DQxrxVEKafN5t3t5[,s,rdWCSi~os,v#R.Na+Fo0b_WESg",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "b54b6810-786e-4196-b209-1c1f93ea0b46",
-      "name": "Graffiti Rush",
-      "slug": "pgsoft-graffiti-rush",
-      "thumbnailUrl": "https://mediumrare.imgix.net/15c15dad7ed21ae72991e66194d0a24651f27f34fe9ca3a32e9ee6aea2c4729e",
-      "thumbnailBlurHash": "edKSShtSQ;aJr^1EflXRn~jZzqNGkCozRjpvS5V]X9RkVXsDxZW;xH",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "dfd519f2-1e6c-43cc-a964-e84274012e0e",
-      "name": "Wild Coaster",
-      "slug": "pgsoft-wild-coaster",
-      "thumbnailUrl": "https://mediumrare.imgix.net/501cfd29c5161aaebc4e74a29a619689d55cf59c04f8ba5450e08fd86e5341c4",
-      "thumbnailBlurHash": "eUJ8-9YQAXOaR*{UPBNcbJw}YMIqR6wHxG?vRkMys7Rj5Ps:xGWDt7",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "61a88a3e-10a1-4d99-9a3a-b366b831ee9f",
-      "name": "The Great Icescape",
-      "slug": "pgsoft-the-great-icescape",
-      "thumbnailUrl": "https://mediumrare.imgix.net/9fd67b536b36a8bb524440f8c51844bff116538ccf53cd4324ac7f0b07c6e2eb",
-      "thumbnailBlurHash": "eSG^9lFf17+tDQ.EJ:K7#QnOMxJWV|rqox?RW?RQngMz4@s.xTs*s9",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "07b12925-f720-4693-a465-a3945246ec49",
-      "name": "Tsar Treasures",
-      "slug": "pgsoft-tsar-treasures",
-      "thumbnailUrl": "https://mediumrare.imgix.net/6d970637c00b524fb7374ae49bb4cb81b8bca04e970822d9b20dc4fc2f3f9342",
-      "thumbnailBlurHash": "eQPzc9xsH?sT$_K?t6IZi{x[+vjHE3i{JD.ToJQ-oJD,QmkVxtaxXT",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "ce700df5-2ea9-43da-8eba-a02e09c68b55",
-      "name": "Mystical Spirits",
-      "slug": "pgsoft-mystical-spirits",
-      "thumbnailUrl": "https://mediumrare.imgix.net/0383908af3539ad060baa90833f03c15742031a906d1c104445d5cdd78e7cdf1",
-      "thumbnailBlurHash": "ehJ[^MxQ1QXS#j:,s6F}X8w{IUbcS#X5NN%2XBR#bFM~J4WGtQjGsD",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "64e990d3-ea91-45ec-b004-a0152c15d149",
-      "name": "Cruise Royale",
-      "slug": "pgsoft-cruise-royale",
-      "thumbnailUrl": "https://mediumrare.imgix.net/28689642bb26ac2711280fd846841fb70c02d4df0ac32215d1ec7ee47287b0c3",
-      "thumbnailBlurHash": "eUNI8h$|;BIom:9skB%NR+W;rXR:Svs;S0_MR*ivs.a1vzt2xus-kD",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "aee64b8a-04ea-458c-95d3-04d4dc523ff9",
-      "name": "Forge of Wealth",
-      "slug": "pgsoft-forge-of-wealth",
-      "thumbnailUrl": "https://mediumrare.imgix.net/4ad6cd019f1a59b142d165ce9bfe46bd082de2e22729d01c5a8072b30a32e6b5",
-      "thumbnailBlurHash": "eiM;q9T1RixFnO1IS$Xmt7t7R6fRNxofbcTxs.RPR*aKVEWBxuR+t7",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "e1b4f176-c9a7-474a-aa29-d117687a83e7",
-      "name": "CaiShen Wins",
-      "slug": "pgsoft-caishen-wins",
-      "thumbnailUrl": "https://mediumrare.imgix.net/6964fb17ccdf0b96df0995bf5ff452bf129fabfbb6513733670c0c6c40ae769d",
-      "thumbnailBlurHash": "ehJ9J6bb0~fkjD;dkBT0afn~BqjZxuf6t7pcaeRkoeaeKiayjwkBnO",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "6f658259-7e72-43b3-ac97-7dfb552c52bf",
-      "name": "Shark Hunter",
-      "slug": "pgsoft-shark-hunter",
-      "thumbnailUrl": "https://mediumrare.imgix.net/00a551e721df0397dec7670b58bdd51707b88f6944451c47fd929e8bfbb97083",
-      "thumbnailBlurHash": "eaJ@|ZIpw}jFRk%SNItRo0oz5_R.JBogW=-:R.M|ofRn9IWY%1s-tQ",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "64b32f4b-911b-4958-8777-2fd04513cafa",
-      "name": "Gladiator's Glory",
-      "slug": "pgsoft-gladiators-glory",
-      "thumbnailUrl": "https://mediumrare.imgix.net/bf60e4e05d738e2cbfbc1b42a46664c3b50e194564ddf63b2350d70f7ec98277",
-      "thumbnailBlurHash": "eVK,Qx%LROjFV@ENShT0WBWC}SWpWBaya}?wofRPbbf6Q,j[x]ozof",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "f9aee6c5-4db0-4e25-99cb-8dc44746106e",
-      "name": "Rave Party Fever",
-      "slug": "pgsoft-rave-party-fever",
-      "thumbnailUrl": "https://mediumrare.imgix.net/206c543474a411164b4955b204fa7ec3b0a28dd260207e9f49e66f42bfa4fc61",
-      "thumbnailBlurHash": "etNkimozNijrrr1rbaT0WVocM-awWEbHW:Y5n~Vtj[RkR7floInlk7",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "2468e8c6-d2b5-4061-856a-cb9bc2ed38d5",
-      "name": "Futebol Fever",
-      "slug": "pgsoft-futebol-fever",
-      "thumbnailUrl": "https://mediumrare.imgix.net/0f471a2be468714d161c9051fb7ff57179252d199f98e92d1e967be9786e2017",
-      "thumbnailBlurHash": "eUPz$5-y#RxoRjk{XypGxYX7L[t5S^SPt4O^xARiV{s8Q-xBpFRVkV",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "88546684-4f53-42ac-8c20-f2885b7f8866",
-      "name": "Songkran Splash",
-      "slug": "pgsoft-songkran-splash",
-      "thumbnailUrl": "https://mediumrare.imgix.net/e7f15a5d4fb512510ce01f7473211aebdbdf5f77545d0091003f1e1335a317bf",
-      "thumbnailBlurHash": "eYKL,ANGcYIma0[AR*yDM{rr7hSxofkERO*0WARkf+J79@rrjJk9t8",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "9e6feae7-d090-4a2a-a2e4-9b7624539639",
-      "name": "Butterfly Blossom",
-      "slug": "pgsoft-butterfly-blossom",
-      "thumbnailUrl": "https://mediumrare.imgix.net/f2cf678febd959e953600562ec6549fd8cd58a882c65d1fd97ce892679fd12d7",
-      "thumbnailBlurHash": "eeQ7nlnOt1x?R%T$Rkk;b[kpvqjFRle:s.u2WVMyn+i_rDV]kDjFXS",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "6b59c28f-9b5e-4fb9-96f4-9559556f1f74",
-      "name": "Genie's 3 Wishes",
-      "slug": "pgsoft-genies-3-wishes",
-      "thumbnailUrl": "https://mediumrare.imgix.net/d3710a8bf2e94dc80524b5b1d8a185f31d414a0eaf9dbdd6b997d2de2a2e5e9a",
-      "thumbnailBlurHash": "ekJQBvocnnagV]Ija#t4j?k89jaiWFkAW.%WoeRkaya$D+bDbaf9s:",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "718bea30-7dea-407d-aaab-a88b395216e3",
-      "name": "Fortune Snake",
-      "slug": "pgsoft-fortune-snake",
-      "thumbnailUrl": "https://mediumrare.imgix.net/a26f08c0aa36c85a565b2c2882f353e695e5802470fa0d9276c35c322a8fc0c5",
-      "thumbnailBlurHash": "eZL{QLRki7s?M|[jWAxafAof4focbYR*tQ-it7eUadNGrLoMxoocSg",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "2a3c6f88-8d58-4ec1-a5ef-a1ab4f2fc866",
-      "name": "Rio Fantasia",
-      "slug": "pgsoft-rio-fantasia",
-      "thumbnailUrl": "https://mediumrare.imgix.net/305c9006b8580e1ed4fd44831fdd6fdcd75308ee1d5e206a4765865c7edbac89",
-      "thumbnailBlurHash": "eZN@jzrqIyRzN@6RS6TKS0j.mlo#I-sqaIXyngITf9W?v0V{tjR:kE",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "dccac168-042a-471f-b261-53971f3d18f9",
-      "name": "Fortune Mouse",
-      "slug": "pgsoft-fortune-mouse",
-      "thumbnailUrl": "https://mediumrare.imgix.net/aac36c1bf318412b6eac985cb6874886c82e34690ce98eb76d07d6e67dfb9869",
-      "thumbnailBlurHash": "eTRmr1XSR*OYSbG,bcWGS}b[Q;aMRVs:j=qFVaRRr]e9VpVtkSnjaz",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "73fcd34f-1f66-4400-a0f8-950f964438e9",
-      "name": "Ninja Raccoon Frenzy",
-      "slug": "pgsoft-ninja-raccoon-frenzy",
-      "thumbnailUrl": "https://mediumrare.imgix.net/4eef0671e220f626402d069eeac75402c276c4d8d2447276921bd23a28127930",
-      "thumbnailBlurHash": "eLKKJxOFMvjExrv#W=o~axxt?l%1S%oet6~W-nVsoyWBISxtt9t6og",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "abb943ae-a294-4133-9dc4-4c62317e28db",
-      "name": "Hawaiian Tiki",
-      "slug": "pgsoft-hawaiian-tiki",
-      "thumbnailUrl": "https://mediumrare.imgix.net/3165842615badb659169b005972d3322c179681b9fa40ed0bd4d4b38240039ff",
-      "thumbnailBlurHash": "eJQZ+OOqz.r[rc86kp?FVuN2..$yn6IrFx.SxCHuN^E|H;jcXDg2NY",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "0a65ff6c-7fea-4c69-b4a2-fd7e3aaf0ec9",
-      "name": "Diner Delights",
-      "slug": "pgsoft-diner-delights",
-      "thumbnailUrl": "https://mediumrare.imgix.net/ab71c0e54d919a05caaf76be86bb5f46743791165c110e1790b3baea94e9839c",
-      "thumbnailBlurHash": "ePPXzcxsz=i_#,O5baalf8tR+?V[9eW;TI*JwJD*a_XQV=V@kXs-o}",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "96e88e08-aadf-4a01-a648-965b95c7b903",
-      "name": "Muay Thai Champion",
-      "slug": "pgsoft-muay-thai-champion",
-      "thumbnailUrl": "https://mediumrare.imgix.net/688e084e49eff7f1ac0db6bb8d947a22b6406604aacfd85749ec163c7c2cbc52",
-      "thumbnailBlurHash": "eVGk;*s?I}IrROI7oHS8WVax52W9WBofod.8WVoJocad03j?s*obt3",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "5c56fa53-b52c-4b0a-9401-1391e33f1850",
-      "name": "Bali Vacation",
-      "slug": "pgsoft-bali-vacation",
-      "thumbnailUrl": "https://mediumrare.imgix.net/dd87c3e26e691394644f73fd585a6110b59f8585f080bbd1e472dbfccf991c26",
-      "thumbnailBlurHash": "eNQ6j^-V*|E2$j7.xtoiNHt7;TjuNNsBR*G^nmIBsAe.DPNMOsjbSO",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "d28eb5a3-3c1e-404b-9dd3-376b9aaf2452",
-      "name": "Incan Wonders",
-      "slug": "pgsoft-incan-wonders",
-      "thumbnailUrl": "https://mediumrare.imgix.net/f8851c0c514b0ae10397f841dfd2b54f563dfd032a5bb23ed06294a3cadf3488",
-      "thumbnailBlurHash": "eXK-y]s.H]f6eB=Goer{ayxbwgoexta|x[?1ofW9a|ScITkBt7WVo#",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "56cc689b-8ca3-448d-aa45-004d45929071",
-      "name": "Wings of Iguazu",
-      "slug": "pgsoft-wings-of-iguazu",
-      "thumbnailUrl": "https://mediumrare.imgix.net/3086b80ed6350fbaeaf265007a8db67018e45bf577f85b46b69e7ab91204b6c1",
-      "thumbnailBlurHash": "eXK-8yPDE,OXR%+TI_k?RkoeYNNGoznhnO?dSzRPbsRjR4V[s;W.o}",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "dbb54224-2e83-4ec0-a1f6-178c2101ad95",
-      "name": "Flirting Scholar",
-      "slug": "pgsoft-flirting-scholar",
-      "thumbnailUrl": "https://mediumrare.imgix.net/36b789a430850114370377fb0a3157a937c9f4537b87e4f51859ec2e3b31e4ca",
-      "thumbnailBlurHash": "eYP|*CIb#ioeM}2,RlV?kCR-ZRt1IWkCXRT}s+RQbFW-QmWEWAkASO",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "829a7bd1-bf08-46b3-a76a-f5bed7540e18",
-      "name": "Totem Wonders",
-      "slug": "pgsoft-totem-wonders",
-      "thumbnailUrl": "https://mediumrare.imgix.net/fda969baceb517b392506ce27e181e3f27a7a093c906e6a2b2080ea14eb9cde1",
-      "thumbnailBlurHash": "ecI=J{xt5co}NbFSt5bfoyoxRtjH$%oct7?FV_RPofRkMfV^Rkjat3",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
+      "extracted_at": "2025-08-07T02:16:56.415908"
     }
-  ]
+  ],
+  "timestamp": "2025-08-07T02:16:56.415908",
+  "source": "initial_html_fetch"
 }

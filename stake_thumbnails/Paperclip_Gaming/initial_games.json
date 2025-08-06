@@ -14,7 +14,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/c7fdc44800d681d555a88873a95efafdcab50f64bb7f675cb1e601319872cc17",
       "expected_filename": "Paperclip Gaming - Candy Party.webp",
       "game_url": "https://stake.com/casino/games/paperclip-candy-party",
-      "extracted_at": "2025-08-06T01:03:21.056112"
+      "extracted_at": "2025-08-07T02:14:10.466120"
     },
     {
       "game_id": "paperclip-crown-conquest",
@@ -24,7 +24,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/a9e47ced695af1e07559161614722f44e47689d11a8072dac28b0c6fc7dafdf9",
       "expected_filename": "Paperclip Gaming - Crown Conquest.webp",
       "game_url": "https://stake.com/casino/games/paperclip-crown-conquest",
-      "extracted_at": "2025-08-06T01:03:21.056112"
+      "extracted_at": "2025-08-07T02:14:10.466120"
     },
     {
       "game_id": "paperclip-pinball-peak",
@@ -34,7 +34,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/832f2e0e6a6560610e4ac714398d2d510b08f25b538c27ab4b5ba4e040372785",
       "expected_filename": "Paperclip Gaming - Pinball Peak.webp",
       "game_url": "https://stake.com/casino/games/paperclip-pinball-peak",
-      "extracted_at": "2025-08-06T01:03:21.056112"
+      "extracted_at": "2025-08-07T02:14:10.466120"
     },
     {
       "game_id": "paperclip-forged-in-fire",
@@ -44,7 +44,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/16d78a4ab09d50c010eaef1b258236a74890856a8ec0267a3a2b8499eb14b1d7",
       "expected_filename": "Paperclip Gaming - Forged in Fire.webp",
       "game_url": "https://stake.com/casino/games/paperclip-forged-in-fire",
-      "extracted_at": "2025-08-06T01:03:21.056112"
+      "extracted_at": "2025-08-07T02:14:10.466120"
     },
     {
       "game_id": "paperclip-scroll-keeper",
@@ -54,7 +54,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/5d062f868666f08d043ca728ca672d28307676dd676b65862e55cabe0ab3e724",
       "expected_filename": "Paperclip Gaming - Scroll Keeper.webp",
       "game_url": "https://stake.com/casino/games/paperclip-scroll-keeper",
-      "extracted_at": "2025-08-06T01:03:21.056112"
+      "extracted_at": "2025-08-07T02:14:10.466120"
     },
     {
       "game_id": "paperclip-borrowed-time",
@@ -64,7 +64,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/db00089cd132b67df9f6858b3f7692bb9c7df575da67027c8d25b0cfc4c22dfb",
       "expected_filename": "Paperclip Gaming - Borrowed Time.webp",
       "game_url": "https://stake.com/casino/games/paperclip-borrowed-time",
-      "extracted_at": "2025-08-06T01:03:21.056112"
+      "extracted_at": "2025-08-07T02:14:10.466120"
     },
     {
       "game_id": "paperclip-bluebeards-ghost",
@@ -74,7 +74,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/2d39ab7c22bc8fed13974be06629999c946267c1ec682e2d494d6ce719ecaa32",
       "expected_filename": "Paperclip Gaming - Bluebeard's Ghost.webp",
       "game_url": "https://stake.com/casino/games/paperclip-bluebeards-ghost",
-      "extracted_at": "2025-08-06T01:03:21.056112"
+      "extracted_at": "2025-08-07T02:14:10.466120"
     },
     {
       "game_id": "paperclip-deadspin-bonanza",
@@ -84,7 +84,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/2350dc72bc55968157fd739760cf59c3658bac84f13ae02f428726214d4f0712",
       "expected_filename": "Paperclip Gaming - Deadspin Bonanza.webp",
       "game_url": "https://stake.com/casino/games/paperclip-deadspin-bonanza",
-      "extracted_at": "2025-08-06T01:03:21.056112"
+      "extracted_at": "2025-08-07T02:14:10.466120"
     },
     {
       "game_id": "paperclip-gaming-balance",
@@ -94,9 +94,9 @@
       "thumbnail_url": "https://mediumrare.imgix.net/5554e42d3f6cb834c54dac70ecf83fc0fae530e94e14f6f2807b5d18e5ba0d5d",
       "expected_filename": "Paperclip Gaming - Balance.webp",
       "game_url": "https://stake.com/casino/games/paperclip-gaming-balance",
-      "extracted_at": "2025-08-06T01:03:21.056112"
+      "extracted_at": "2025-08-07T02:14:10.466120"
     }
   ],
-  "timestamp": "2025-08-06T01:03:21.056112",
+  "timestamp": "2025-08-07T02:14:10.466120",
   "source": "initial_html_fetch"
 }

@@ -1,13 +1,13 @@
 {
-  "timestamp": "2025-08-06T05:38:20.374Z",
+  "timestamp": "2025-08-07T02:22:31.574534",
   "provider_slug": "game-art",
   "provider_name": "Game Art",
-  "status": "completed",
-  "total_games": 98,
-  "games_fetched": 98,
-  "is_complete": true,
-  "needs_pagination": false,
+  "status": "initial_completed",
+  "total_games": 99,
+  "games_fetched": 39,
+  "is_complete": false,
+  "needs_pagination": true,
   "output_dir": "stake_thumbnails\\Game_Art",
   "games_data_file": "stake_thumbnails\\Game_Art\\initial_games.json",
-  "source": "parallel_graphql_fetch"
+  "source": "initial_html_fetch"
 }

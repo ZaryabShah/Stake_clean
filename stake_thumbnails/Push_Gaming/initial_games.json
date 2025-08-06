@@ -1,17 +1,10 @@
 {
-  "timestamp": "2025-08-06T04:10:24.516Z",
-  "provider": {
-    "id": "push-gaming",
-    "name": "Push Gaming",
-    "slug": "push-gaming"
-  },
-  "summary": {
-    "totalGames": 57,
-    "fetchedGames": 57,
-    "remainingGames": 0,
-    "isComplete": true,
-    "currentOffset": 57
-  },
+  "provider": "Push Gaming",
+  "provider_slug": "push-gaming",
+  "total_games": 57,
+  "games_fetched": 39,
+  "is_complete": false,
+  "needs_pagination": true,
   "games": [
     {
       "game_id": "pushgaming-wild-swarm-triple-hive",
@@ -21,7 +14,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/475890bc3e32bc5c5139d1e9b2d59594f891011e1bbe8d032ef3e4ceffe291fb",
       "expected_filename": "Push Gaming - Wild Swarm Triple Hive.webp",
       "game_url": "https://stake.com/casino/games/pushgaming-wild-swarm-triple-hive",
-      "extracted_at": "2025-08-06T01:28:22.458290"
+      "extracted_at": "2025-08-07T02:08:03.024713"
     },
     {
       "game_id": "pushgaming-fish-n-nudge-big-catch",
@@ -31,7 +24,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/2b762756132d8a02effd0a42b0951faa1c3b0fb1fd819cd781bc72add0b263d5",
       "expected_filename": "Push Gaming - Fish 'n' Nudge Big Catch.webp",
       "game_url": "https://stake.com/casino/games/pushgaming-fish-n-nudge-big-catch",
-      "extracted_at": "2025-08-06T01:28:22.458290"
+      "extracted_at": "2025-08-07T02:08:03.024713"
     },
     {
       "game_id": "pushgaming-big-bamboo",
@@ -41,7 +34,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/2dc7799a8e8d3b7f00252686cf1f0cd9fce91114205fab56c4a46f913b6cbab3",
       "expected_filename": "Push Gaming - Big Bamboo.webp",
       "game_url": "https://stake.com/casino/games/pushgaming-big-bamboo",
-      "extracted_at": "2025-08-06T01:28:22.458290"
+      "extracted_at": "2025-08-07T02:08:03.024713"
     },
     {
       "game_id": "pushgaming-retro-sweets",
@@ -51,7 +44,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/e6e9a4c11b1b4c13bfc0b82829223856cf3335f0e9a914473ba7c42fa40bfae2",
       "expected_filename": "Push Gaming - Retro Sweets.webp",
       "game_url": "https://stake.com/casino/games/pushgaming-retro-sweets",
-      "extracted_at": "2025-08-06T01:28:22.458290"
+      "extracted_at": "2025-08-07T02:08:03.024713"
     },
     {
       "game_id": "pushgaming-razor-returns",
@@ -61,7 +54,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/3a1eed2aa20fa6baea392d305342fd520a93270c6633d3084bc2156ed50d71ef",
       "expected_filename": "Push Gaming - Razor Returns.webp",
       "game_url": "https://stake.com/casino/games/pushgaming-razor-returns",
-      "extracted_at": "2025-08-06T01:28:22.458290"
+      "extracted_at": "2025-08-07T02:08:03.024713"
     },
     {
       "game_id": "pushgaming-retro-tapes",
@@ -71,7 +64,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/706aa7d9042d9c473f28e89db6329573fe8713b3f32c244cc480faa8f763c272",
       "expected_filename": "Push Gaming - Retro Tapes.webp",
       "game_url": "https://stake.com/casino/games/pushgaming-retro-tapes",
-      "extracted_at": "2025-08-06T01:28:22.458290"
+      "extracted_at": "2025-08-07T02:08:03.024713"
     },
     {
       "game_id": "pushgaming-iron-phoenix",
@@ -81,7 +74,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/b9ca4b677cf2209fc029ed88ecb4c4cfc9b916d4806e0e16e89ac2522a11e439",
       "expected_filename": "Push Gaming - Iron Phoenix.webp",
       "game_url": "https://stake.com/casino/games/pushgaming-iron-phoenix",
-      "extracted_at": "2025-08-06T01:28:22.458290"
+      "extracted_at": "2025-08-07T02:08:03.024713"
     },
     {
       "game_id": "pushgaming-razor-shark",
@@ -91,7 +84,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/d5f6a92e05f53bcab4e2298e9888ac00b809cbc348f60e1f18769da17c6e2b67",
       "expected_filename": "Push Gaming - Razor Shark.webp",
       "game_url": "https://stake.com/casino/games/pushgaming-razor-shark",
-      "extracted_at": "2025-08-06T01:28:22.458290"
+      "extracted_at": "2025-08-07T02:08:03.024713"
     },
     {
       "game_id": "pushgaming-jammin-jars",
@@ -101,7 +94,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/6f3f8b3d371d09651c3ddc491e3681d0cfdce7c9337e4b2a1d754d4edd907fc9",
       "expected_filename": "Push Gaming - Jammin' Jars.webp",
       "game_url": "https://stake.com/casino/games/pushgaming-jammin-jars",
-      "extracted_at": "2025-08-06T01:28:22.458290"
+      "extracted_at": "2025-08-07T02:08:03.024713"
     },
     {
       "game_id": "pushgaming-fat-banker",
@@ -111,7 +104,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/ca676f746b02f1b8c3f71b97a94ce793d2223ac35aadd4fac62bb37e1a4b59f0",
       "expected_filename": "Push Gaming - Fat Banker.webp",
       "game_url": "https://stake.com/casino/games/pushgaming-fat-banker",
-      "extracted_at": "2025-08-06T01:28:22.458290"
+      "extracted_at": "2025-08-07T02:08:03.024713"
     },
     {
       "game_id": "pushgaming-razor-ways",
@@ -121,7 +114,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/853ac4f429d64e84f65ae44c659e5d624bcf197e5158def28a56345542471fff",
       "expected_filename": "Push Gaming - Razor Ways.webp",
       "game_url": "https://stake.com/casino/games/pushgaming-razor-ways",
-      "extracted_at": "2025-08-06T01:28:22.458290"
+      "extracted_at": "2025-08-07T02:08:03.024713"
     },
     {
       "game_id": "pushgaming-dinopolis",
@@ -131,7 +124,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/745d18cebc7080204d1214791754f7337e10b3fabd8d949d763679a4650b7892",
       "expected_filename": "Push Gaming - Dinopolis.webp",
       "game_url": "https://stake.com/casino/games/pushgaming-dinopolis",
-      "extracted_at": "2025-08-06T01:28:22.458290"
+      "extracted_at": "2025-08-07T02:08:03.024713"
     },
     {
       "game_id": "pushgaming-mystery-museum",
@@ -141,7 +134,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/c2af135396a8884c5a3ddc37cb7f813a30a5e2e57ee25a3f26c234a07489780a",
       "expected_filename": "Push Gaming - Mystery Museum.webp",
       "game_url": "https://stake.com/casino/games/pushgaming-mystery-museum",
-      "extracted_at": "2025-08-06T01:28:22.458290"
+      "extracted_at": "2025-08-07T02:08:03.024713"
     },
     {
       "game_id": "pushgaming-fire-hopper",
@@ -151,7 +144,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/5060e9d94047d8adaee2ac0940adc08fdc2d5ed04da27177acddd9f39dfccc16",
       "expected_filename": "Push Gaming - Fire Hopper.webp",
       "game_url": "https://stake.com/casino/games/pushgaming-fire-hopper",
-      "extracted_at": "2025-08-06T01:28:22.458290"
+      "extracted_at": "2025-08-07T02:08:03.024713"
     },
     {
       "game_id": "pushgaming-candy-blast",
@@ -161,7 +154,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/7e9e4f0178432d7363ca66a4a74b341658d322695e9f3884c44690854eedbc96",
       "expected_filename": "Push Gaming - Candy Blast.webp",
       "game_url": "https://stake.com/casino/games/pushgaming-candy-blast",
-      "extracted_at": "2025-08-06T01:28:22.458290"
+      "extracted_at": "2025-08-07T02:08:03.024713"
     },
     {
       "game_id": "pushgaming-joker-troupe",
@@ -171,7 +164,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/b7ab3795ddc4c2068bbcd44b0f3eb787bb96c81aab4e0b74231dc62de5a8cc6e",
       "expected_filename": "Push Gaming - Joker Troupe.webp",
       "game_url": "https://stake.com/casino/games/pushgaming-joker-troupe",
-      "extracted_at": "2025-08-06T01:28:22.458290"
+      "extracted_at": "2025-08-07T02:08:03.024713"
     },
     {
       "game_id": "pushgaming-the-grand-show",
@@ -181,7 +174,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/2c8a990a498da97951c01e7678e0523c56606b09c1aa454f69b50c5d8efd7296",
       "expected_filename": "Push Gaming - The grand show.webp",
       "game_url": "https://stake.com/casino/games/pushgaming-the-grand-show",
-      "extracted_at": "2025-08-06T01:28:22.458290"
+      "extracted_at": "2025-08-07T02:08:03.024713"
     },
     {
       "game_id": "pushgaming-boss-bear",
@@ -191,7 +184,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/a3feaa21d2a42788eb0f37eaccc5733546bdb0bc333b1f7970bdf7afa1c7298c",
       "expected_filename": "Push Gaming - Boss Bear.webp",
       "game_url": "https://stake.com/casino/games/pushgaming-boss-bear",
-      "extracted_at": "2025-08-06T01:28:22.458290"
+      "extracted_at": "2025-08-07T02:08:03.024713"
     },
     {
       "game_id": "pushgaming-flaming-bisons",
@@ -201,17 +194,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/89ecf4c5a12bb73d8622ef91d597a1bd57b05c7742607b836064ec985a2116b6",
       "expected_filename": "Push Gaming - 10 Flaming Bisons.webp",
       "game_url": "https://stake.com/casino/games/pushgaming-flaming-bisons",
-      "extracted_at": "2025-08-06T01:28:22.458290"
-    },
-    {
-      "game_id": "pushgaming-big-bite-push-ways",
-      "title": "Big Bite Push Ways",
-      "slug": "pushgaming-big-bite-push-ways",
-      "provider": "Push Gaming",
-      "thumbnail_url": "https://mediumrare.imgix.net/74c526242ee4e52c48701c9f9975ed48be663a188f87250f6b4c309450bc2320",
-      "expected_filename": "Push Gaming - Big Bite Push Ways.webp",
-      "game_url": "https://stake.com/casino/games/pushgaming-big-bite-push-ways",
-      "extracted_at": "2025-08-06T01:28:22.458290"
+      "extracted_at": "2025-08-07T02:08:03.024713"
     },
     {
       "game_id": "pushgaming-jammin-jars-2",
@@ -221,7 +204,17 @@
       "thumbnail_url": "https://mediumrare.imgix.net/89959694ba86499de3a60b2ce107f737c9e1ad15b049544b1575a555c989693f",
       "expected_filename": "Push Gaming - Jammin' Jars 2.webp",
       "game_url": "https://stake.com/casino/games/pushgaming-jammin-jars-2",
-      "extracted_at": "2025-08-06T01:28:22.458290"
+      "extracted_at": "2025-08-07T02:08:03.024713"
+    },
+    {
+      "game_id": "pushgaming-big-bite-push-ways",
+      "title": "Big Bite Push Ways",
+      "slug": "pushgaming-big-bite-push-ways",
+      "provider": "Push Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/74c526242ee4e52c48701c9f9975ed48be663a188f87250f6b4c309450bc2320",
+      "expected_filename": "Push Gaming - Big Bite Push Ways.webp",
+      "game_url": "https://stake.com/casino/games/pushgaming-big-bite-push-ways",
+      "extracted_at": "2025-08-07T02:08:03.024713"
     },
     {
       "game_id": "pushgaming-regal-knights",
@@ -231,7 +224,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/46b89ce66b219800c42043f437677cdd3a8a92ae81dd99aa1119b64b0189c325",
       "expected_filename": "Push Gaming - Regal Knights.webp",
       "game_url": "https://stake.com/casino/games/pushgaming-regal-knights",
-      "extracted_at": "2025-08-06T01:28:22.458290"
+      "extracted_at": "2025-08-07T02:08:03.024713"
     },
     {
       "game_id": "pushgaming-dragon-hopper",
@@ -241,7 +234,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/d7ab38ff4e660b85480f61e2919df545b830026d2f5e4afdb89204d3b4cb19e3",
       "expected_filename": "Push Gaming - Dragon Hopper.webp",
       "game_url": "https://stake.com/casino/games/pushgaming-dragon-hopper",
-      "extracted_at": "2025-08-06T01:28:22.458290"
+      "extracted_at": "2025-08-07T02:08:03.024713"
     },
     {
       "game_id": "pushgaming-fat-santa",
@@ -251,7 +244,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/83878699cac72ff0eaf6c64459aacb9c2dc9a5f39ac15e41caef993dcb0fa88e",
       "expected_filename": "Push Gaming - Fat Santa.webp",
       "game_url": "https://stake.com/casino/games/pushgaming-fat-santa",
-      "extracted_at": "2025-08-06T01:28:22.458290"
+      "extracted_at": "2025-08-07T02:08:03.024713"
     },
     {
       "game_id": "pushgaming-10-pharaohs",
@@ -261,7 +254,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/509556d8099cf84b5b95fa1394e8384d429b1db95cbea70c6e1476b3c25692f6",
       "expected_filename": "Push Gaming - 10 Pharaohs.webp",
       "game_url": "https://stake.com/casino/games/pushgaming-10-pharaohs",
-      "extracted_at": "2025-08-06T01:28:22.458290"
+      "extracted_at": "2025-08-07T02:08:03.024713"
     },
     {
       "game_id": "pushgaming-goat-getter",
@@ -271,7 +264,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/472daabde0d6d19ff83dcf5a8f513560baec0b7dde683fe147954d58174bf5f7",
       "expected_filename": "Push Gaming - Goat Getter.webp",
       "game_url": "https://stake.com/casino/games/pushgaming-goat-getter",
-      "extracted_at": "2025-08-06T01:28:22.458290"
+      "extracted_at": "2025-08-07T02:08:03.024713"
     },
     {
       "game_id": "pushgaming-giga-jar",
@@ -281,7 +274,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/9b5912a0b82dec02a19f6c87e6c211c64c4b2972cd6fd9b17e4dfd2022d13e27",
       "expected_filename": "Push Gaming - Giga Jar.webp",
       "game_url": "https://stake.com/casino/games/pushgaming-giga-jar",
-      "extracted_at": "2025-08-06T01:28:22.458290"
+      "extracted_at": "2025-08-07T02:08:03.024713"
     },
     {
       "game_id": "pushgaming-deadly-5",
@@ -291,7 +284,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/c65e3292b3d25f9ac241c8b653e5560cae16235f5e5186901814c1dec43dbc27",
       "expected_filename": "Push Gaming - Deadly 5.webp",
       "game_url": "https://stake.com/casino/games/pushgaming-deadly-5",
-      "extracted_at": "2025-08-06T01:28:22.458290"
+      "extracted_at": "2025-08-07T02:08:03.024713"
     },
     {
       "game_id": "pushgaming-bison-battle",
@@ -301,7 +294,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/1a3633f9c703cd6f79949efeee5255eb3cebb514fbc96b06ee3893aaeecf9a09",
       "expected_filename": "Push Gaming - Bison Battle.webp",
       "game_url": "https://stake.com/casino/games/pushgaming-bison-battle",
-      "extracted_at": "2025-08-06T01:28:22.458290"
+      "extracted_at": "2025-08-07T02:08:03.024713"
     },
     {
       "game_id": "pushgaming-mystery-mission-to-the-moon",
@@ -311,7 +304,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/b4fd8e7c619e470d45e43c436b64c192a8c9f6b2fe21059dfa95debd006725c2",
       "expected_filename": "Push Gaming - Mystery Mission To The Moon.webp",
       "game_url": "https://stake.com/casino/games/pushgaming-mystery-mission-to-the-moon",
-      "extracted_at": "2025-08-06T01:28:22.458290"
+      "extracted_at": "2025-08-07T02:08:03.024713"
     },
     {
       "game_id": "pushgaming-wild-swarm-2",
@@ -321,7 +314,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/0ee760db80e97ad5b863d4ae93cff9792cc3a8d2cab86f53d1c9a01988b591ee",
       "expected_filename": "Push Gaming - Wild Swarm 2.webp",
       "game_url": "https://stake.com/casino/games/pushgaming-wild-swarm-2",
-      "extracted_at": "2025-08-06T01:28:22.458290"
+      "extracted_at": "2025-08-07T02:08:03.024713"
     },
     {
       "game_id": "pushgaming-power-vault",
@@ -331,7 +324,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/578c10fafe31cbfa3b61d1b76d18c7a4c1f57cf41f7756db564d6ccb398d145e",
       "expected_filename": "Push Gaming - Power Vault.webp",
       "game_url": "https://stake.com/casino/games/pushgaming-power-vault",
-      "extracted_at": "2025-08-06T01:28:22.458290"
+      "extracted_at": "2025-08-07T02:08:03.024713"
     },
     {
       "game_id": "pushgaming-big-bam-book",
@@ -341,7 +334,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/c2bea15ac1cee480a332b21f6db95eb209acac920367606382dc61dd4ffffc3b",
       "expected_filename": "Push Gaming - Big Bam-book.webp",
       "game_url": "https://stake.com/casino/games/pushgaming-big-bam-book",
-      "extracted_at": "2025-08-06T01:28:22.458290"
+      "extracted_at": "2025-08-07T02:08:03.024713"
     },
     {
       "game_id": "pushgaming-mystery-of-the-nile",
@@ -351,17 +344,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/65063018bb9ce365bb6c7302ae4a0394c129e0393786ee5ce3174b653aa86eb3",
       "expected_filename": "Push Gaming - Mystery of the Nile.webp",
       "game_url": "https://stake.com/casino/games/pushgaming-mystery-of-the-nile",
-      "extracted_at": "2025-08-06T01:28:22.458290"
-    },
-    {
-      "game_id": "pushgaming-crystal-catcher",
-      "title": "Crystal Catcher",
-      "slug": "pushgaming-crystal-catcher",
-      "provider": "Push Gaming",
-      "thumbnail_url": "https://mediumrare.imgix.net/9fadb36762957ac24047d951bb324cb365d8c70b4f925892f5f911e41dfd4953",
-      "expected_filename": "Push Gaming - Crystal Catcher.webp",
-      "game_url": "https://stake.com/casino/games/pushgaming-crystal-catcher",
-      "extracted_at": "2025-08-06T01:28:22.458290"
+      "extracted_at": "2025-08-07T02:08:03.024713"
     },
     {
       "game_id": "pushgaming-fat-rabbit",
@@ -371,7 +354,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/ea2578ee9b61904fb4692be880ba71c67a105bc3dae5ac6ea8c74c4232047d28",
       "expected_filename": "Push Gaming - Fat Rabbit.webp",
       "game_url": "https://stake.com/casino/games/pushgaming-fat-rabbit",
-      "extracted_at": "2025-08-06T01:28:22.458290"
+      "extracted_at": "2025-08-07T02:08:03.024713"
     },
     {
       "game_id": "pushgaming-fat-drac",
@@ -381,7 +364,17 @@
       "thumbnail_url": "https://mediumrare.imgix.net/bf84043af018e9b05792cdc3085d3024af35b082facbc61086762d6960a46fe3",
       "expected_filename": "Push Gaming - Fat Drac.webp",
       "game_url": "https://stake.com/casino/games/pushgaming-fat-drac",
-      "extracted_at": "2025-08-06T01:28:22.458290"
+      "extracted_at": "2025-08-07T02:08:03.024713"
+    },
+    {
+      "game_id": "pushgaming-crystal-catcher",
+      "title": "Crystal Catcher",
+      "slug": "pushgaming-crystal-catcher",
+      "provider": "Push Gaming",
+      "thumbnail_url": "https://mediumrare.imgix.net/9fadb36762957ac24047d951bb324cb365d8c70b4f925892f5f911e41dfd4953",
+      "expected_filename": "Push Gaming - Crystal Catcher.webp",
+      "game_url": "https://stake.com/casino/games/pushgaming-crystal-catcher",
+      "extracted_at": "2025-08-07T02:08:03.024713"
     },
     {
       "game_id": "pushgaming-big-bite",
@@ -391,7 +384,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/6564c5369703844d6f2cc8e74f95e2ed8277a9f7170bc641cc3aa125b79d3aaf",
       "expected_filename": "Push Gaming - Big Bite.webp",
       "game_url": "https://stake.com/casino/games/pushgaming-big-bite",
-      "extracted_at": "2025-08-06T01:28:22.458290"
+      "extracted_at": "2025-08-07T02:08:03.024713"
     },
     {
       "game_id": "pushgaming-3-magic-pots",
@@ -401,205 +394,9 @@
       "thumbnail_url": "https://mediumrare.imgix.net/c5d60b9c6d56cd07ed94e6fcbce36dd33d7c85e463678a4dd6476db3473c6c47",
       "expected_filename": "Push Gaming - 3 Magic Pots.webp",
       "game_url": "https://stake.com/casino/games/pushgaming-3-magic-pots",
-      "extracted_at": "2025-08-06T01:28:22.458290"
-    },
-    {
-      "id": "6d447854-9ac1-44ee-8cc1-62e7a406620a",
-      "name": "Tiki Tumble",
-      "slug": "pushgaming-tiki-tumble",
-      "thumbnailUrl": "https://mediumrare.imgix.net/2aa270aa1f63f553466a7fe7a2e1661a96d3c50768557bfee8ddb328f10b0bb5",
-      "thumbnailBlurHash": "eLH:Z%kB9ZnlGc:Sozb{oyJEEvozI^ozMy?KoJD%f8aj0yoe#BWCsp",
-      "isBlocked": true,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "15cc3953-be33-47b7-9402-4f7043d72938",
-      "name": "Wild Swarm",
-      "slug": "pushgaming-wild-swarm",
-      "thumbnailUrl": "https://mediumrare.imgix.net/c1958fbfeadd645e6e5e98ec0acb28ac880c7dcfebfd670fc7397e24ff98bff8",
-      "thumbnailBlurHash": "eONbAD%2Q,s,DjLAxugOaxNH:?WYI?NGobL3R*IANHobD4t3x[V]o}",
-      "isBlocked": true,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "28367004-42d6-4a43-8efb-928d7bc9192a",
-      "name": "Olympus Unleashed",
-      "slug": "pushgaming-olympus-unleashed",
-      "thumbnailUrl": "https://mediumrare.imgix.net/e4b362706885ea47521a481063706a10f5675a14095c570820cc5345cf84d09f",
-      "thumbnailBlurHash": "egG9KwjaICoLrrzTf6njj?xDS$fPxZa|oe$+j[WBa}NbD*azoeazbb",
-      "isBlocked": true,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "a35ee1be-4ff0-40ec-9f8b-614637db615e",
-      "name": "Fish 'n' Nudge",
-      "slug": "pushgaming-fish-n-nudge",
-      "thumbnailUrl": "https://mediumrare.imgix.net/70dcdd3752fa8b9d19a443d4953cec494f440f14ce088db21112b576b4eef95c",
-      "thumbnailBlurHash": "edK2IjM}ALkDJB^5V@p0a$oeX:s*$~Rnr:~nkDemR,ROR;W=nnoxjK",
-      "isBlocked": true,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "723d8836-37e2-4e9f-9f5d-098d00e70d3f",
-      "name": "Dino P.D.",
-      "slug": "pushgaming-dino-pd",
-      "thumbnailUrl": "https://mediumrare.imgix.net/12db48236cead00f7e2f157a9991ac6861f5ba89454927c0ef0239024adae910",
-      "thumbnailBlurHash": "enNkhZo{O*wcax3mo{TwsAjZrvofajjYjctTe?R6WCaeVtWBogbIWU",
-      "isBlocked": true,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "030ff22b-23b9-4a4f-baeb-1238979f8cc5",
-      "name": "Mad Blast",
-      "slug": "pushgaming-mad-blast",
-      "thumbnailUrl": "https://mediumrare.imgix.net/c2271203abd4796a2c19948c997a2ca850e5cddba5b05d9dd9e4b041b5f1e554",
-      "thumbnailBlurHash": "e#MX]joJIgWXsEAof6XAa#obvuaznij[R%TIfjROj?R*Vbjbf{f6oy",
-      "isBlocked": true,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "27c86579-6991-491d-9f90-de58e1e8b9fc",
-      "name": "Generous Jack",
-      "slug": "pushgaming-generous-jack",
-      "thumbnailUrl": "https://mediumrare.imgix.net/3c316c18dabd6f7cc0cba928de279f3b46eed0cac4497315660e99447a449aca",
-      "thumbnailBlurHash": "eVNR7C%09GV[V[0y%0bwRkV[rWxZ%0RlR-yYX8r;jZRQIBSgo}j@aL",
-      "isBlocked": true,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "f3d1fe08-d183-4877-959e-975fbe889a1d",
-      "name": "Cats Of Olympuss",
-      "slug": "pushgaming-cats-of-olympuss",
-      "thumbnailUrl": "https://mediumrare.imgix.net/eefb6b665511cd3a028a5f348d0a6493fdb94699c04f187018417c2cd6372d05",
-      "thumbnailBlurHash": "ePMG0@nhKktSyDuBnit+WXx@#2w{v}RPwH.Pw[Q.aKa28|adowkCW.",
-      "isBlocked": true,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "a2e258ff-865c-4b7b-b77b-0092255af7f5",
-      "name": "Jaguar Drop",
-      "slug": "pushgaming-jaguar-drop",
-      "thumbnailUrl": "https://mediumrare.imgix.net/4ae6559c612fd36e260470b1e027fbbeecbfb7cabc7f01c676e8536ee2394329",
-      "thumbnailBlurHash": "eUK9o+s:IAsmE715Wro}j@OG#TflNHWVozPqn*R5jar;D$a#%Mfl$z",
-      "isBlocked": true,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "27b826e0-2ae7-49d8-bf7c-648e23771744",
-      "name": "Rat King",
-      "slug": "pushgaming-rat-king",
-      "thumbnailUrl": "https://mediumrare.imgix.net/c124ea7ad839f2808765c209b249dae07922e93f1b0dda5acba1cd31b57f634c",
-      "thumbnailBlurHash": "ebNSK|j1D7t5Mz^+WFn.ouRlDPWYx[bWtQR7sBRkoItQIUaKo|ofjY",
-      "isBlocked": true,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "f5dc08a6-ec8c-417e-b9c5-3beb832b3a79",
-      "name": "Shamrock Saints",
-      "slug": "pushgaming-shamrock-saints",
-      "thumbnailUrl": "https://mediumrare.imgix.net/0a7cae30e916e894c6b9482dc441e9d3774dee14a5a195889cde08f75df03caa",
-      "thumbnailBlurHash": "eSMPBlIr-4t6-Q0yjs?GxZt6vfoe$%azNHYQbIVsWWV?rBayo$t6t6",
-      "isBlocked": true,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "1653256c-b606-463c-8f66-74972a6fd75e",
-      "name": "10 Swords",
-      "slug": "pushgaming-10-swords",
-      "thumbnailUrl": "https://mediumrare.imgix.net/15b1e08b45d8457cfe16dc391337f728523c11347e42606ad2eae75eae3d2862",
-      "thumbnailBlurHash": "eMJ8YNtRAeW-Me#3o#pJV?aKAMWYiwnhR._0WBIAxtM|0.W9oxWYn#",
-      "isBlocked": true,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "f07ba7cf-0c95-43d1-b707-3327a48020b4",
-      "name": "Mad Cars",
-      "slug": "pushgaming-mad-cars",
-      "thumbnailUrl": "https://mediumrare.imgix.net/d97d73daaf42510f0d10653ba09b7ad066ff52f2652bf20c1797015a1dd5ef69",
-      "thumbnailBlurHash": "eeJO_,s;DuWVr|VnofXSWUoLaCf6t5WnWTpIWVVta{WEIJWoxsn%f$",
-      "isBlocked": true,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "bacc3e9c-f61d-43fc-8d22-3424380551d1",
-      "name": "Blaze of Ra",
-      "slug": "pushgaming-blaze-of-ra",
-      "thumbnailUrl": "https://mediumrare.imgix.net/22a5cb04127933732c8268dde922670f25411f17b159775eec94c947d38b6701",
-      "thumbnailBlurHash": "ehIr1yXlxBW=r=@qbb-Uazw{XnnjV[oJWV-os-IooeNaMyoe%1ayof",
-      "isBlocked": true,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "093448a3-428c-4a12-afde-0e2325d24d51",
-      "name": "Hearts Highway",
-      "slug": "pushgaming-hearts-highway",
-      "thumbnailUrl": "https://mediumrare.imgix.net/7d55133daf956344826393d43c18f8b8b02835e5e94f2469f19afb8f0c1fe3e1",
-      "thumbnailBlurHash": "eWOwa-t75YoMEM1gf8JDazJBq{WYwwWXbJG]bIs8jb$h8~njSxjZ$~",
-      "isBlocked": true,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "8901ce33-0298-467a-9192-af14dcd73b01",
-      "name": "Samurai's Katana",
-      "slug": "pushgaming-samurais-katana",
-      "thumbnailUrl": "https://mediumrare.imgix.net/94f7128d4d0b59ee1cab5e43f36cfaf5c910da34221c970fabf03865fa8d419f",
-      "thumbnailBlurHash": "e+MEkewvaOjdnjVUspbbafoerxfmSej=Sgx[S2WBocR*IEWAocbIj?",
-      "isBlocked": true,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "2f8edc2f-819e-47ee-aa71-5831b0934be5",
-      "name": "DJ Fox",
-      "slug": "pushgaming-dj-fox",
-      "thumbnailUrl": "https://mediumrare.imgix.net/99b0c906e1d59c1fef33f98382c6141d16cfcbfcf93b6ab5452dd1e60d9c56d9",
-      "thumbnailBlurHash": "eYJ7n.VrOxnhRX%AWAtTnjoMI$o#skspR%yUo#V@oKRkD?WVbBRj%1",
-      "isBlocked": true,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "914a0c9c-116a-4aab-973d-2aba640d4d2a",
-      "name": "DJ CAT",
-      "slug": "pushgaming-dj-cat",
-      "thumbnailUrl": "https://mediumrare.imgix.net/db635fa21b59ed0e0367b1cd09a128ed7cc8d5e82446b8b312a5ab41848f6fab",
-      "thumbnailBlurHash": "eVFH9%jXF}ofM|V-jFXTWFr?A4oNnMWXae=;bbVqs+NuIwR*n$oIxu",
-      "isBlocked": true,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
+      "extracted_at": "2025-08-07T02:08:03.024713"
     }
-  ]
+  ],
+  "timestamp": "2025-08-07T02:08:03.024713",
+  "source": "initial_html_fetch"
 }

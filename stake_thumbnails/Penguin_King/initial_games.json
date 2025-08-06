@@ -1,9 +1,10 @@
 {
-  "timestamp": "2025-08-06T17:43:22.539Z",
+  "provider": "Penguin King",
   "provider_slug": "penguin-king",
-  "provider_name": "Penguin King",
   "total_games": 52,
-  "games_fetched": 52,
+  "games_fetched": 39,
+  "is_complete": false,
+  "needs_pagination": true,
   "games": [
     {
       "game_id": "penguinking-anubis-ascension",
@@ -13,7 +14,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/4081bb5a3b303942156a1e914a763046a0d0fd901a794b0c9cdaf33489f7a517",
       "expected_filename": "Penguin King - Anubis Ascension.webp",
       "game_url": "https://stake.com/casino/games/penguinking-anubis-ascension",
-      "extracted_at": "2025-08-06T22:32:27.037820"
+      "extracted_at": "2025-08-07T02:11:22.065022"
     },
     {
       "game_id": "penguinking-key-master",
@@ -23,7 +24,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/a51700787956b8499486f577c124fb599f40727dd69b71b3b062d71e9c26aa90",
       "expected_filename": "Penguin King - Key  Master.webp",
       "game_url": "https://stake.com/casino/games/penguinking-key-master",
-      "extracted_at": "2025-08-06T22:32:27.037820"
+      "extracted_at": "2025-08-07T02:11:22.065022"
     },
     {
       "game_id": "penguinking-roosters-gold-hold-and-win",
@@ -33,7 +34,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/5266907f5fea536e49427087ec5ba4d0aea8a9799b167cdbe6ca2dc383e149b1",
       "expected_filename": "Penguin King - Rooster's Gold Hold and Win.webp",
       "game_url": "https://stake.com/casino/games/penguinking-roosters-gold-hold-and-win",
-      "extracted_at": "2025-08-06T22:32:27.037820"
+      "extracted_at": "2025-08-07T02:11:22.065022"
     },
     {
       "game_id": "penguinking-the-big-bark-golden-jackpots",
@@ -43,7 +44,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/55c55a816c2144afe6315c8860501298bf8cac05e2ec49de01ff0a3ffb6fe5ee",
       "expected_filename": "Penguin King - The Big Bark Golden Jackpots.webp",
       "game_url": "https://stake.com/casino/games/penguinking-the-big-bark-golden-jackpots",
-      "extracted_at": "2025-08-06T22:32:27.037820"
+      "extracted_at": "2025-08-07T02:11:22.065022"
     },
     {
       "game_id": "penguinking-juicy-jewels-supercharged",
@@ -53,7 +54,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/08d9c770cba2c7857a8fe93ed96be8395d7dd53b51cb6315818a469d36cb705b",
       "expected_filename": "Penguin King - Juicy Jewels Supercharged.webp",
       "game_url": "https://stake.com/casino/games/penguinking-juicy-jewels-supercharged",
-      "extracted_at": "2025-08-06T22:32:27.037820"
+      "extracted_at": "2025-08-07T02:11:22.065022"
     },
     {
       "game_id": "penguinking-flaming-chicken-highway-hazard",
@@ -63,7 +64,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/b8d168454f8b4ae06781f7a6543d2649f0dddf1e07487faee91ccc06ba7ba231",
       "expected_filename": "Penguin King - Flaming Chicken Highway Hazard.webp",
       "game_url": "https://stake.com/casino/games/penguinking-flaming-chicken-highway-hazard",
-      "extracted_at": "2025-08-06T22:32:27.037820"
+      "extracted_at": "2025-08-07T02:11:22.065022"
     },
     {
       "game_id": "penguinking-vegas-is-dead-battle-arena",
@@ -73,7 +74,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/4482d6eaeea6d1e627eff7dd44fb11146dfe065ce3037d8881f96f0794823701",
       "expected_filename": "Penguin King - Vegas is Dead Battle Arena.webp",
       "game_url": "https://stake.com/casino/games/penguinking-vegas-is-dead-battle-arena",
-      "extracted_at": "2025-08-06T22:32:27.037820"
+      "extracted_at": "2025-08-07T02:11:22.065022"
     },
     {
       "game_id": "penguinking-mighty-marbles",
@@ -83,7 +84,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/472353a8dcf0850fc119897b6114b48b1004852c91b8c8c9deaf94a6ef6405d3",
       "expected_filename": "Penguin King - Mighty Marbles.webp",
       "game_url": "https://stake.com/casino/games/penguinking-mighty-marbles",
-      "extracted_at": "2025-08-06T22:32:27.037820"
+      "extracted_at": "2025-08-07T02:11:22.065022"
     },
     {
       "game_id": "penguinking-coin-bang-bang-hold-and-win",
@@ -93,7 +94,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/b692c17b8c7a3c70de52910765998bd9cdcd4cb90a8bff476c6c29b87c2c6221",
       "expected_filename": "Penguin King - Coin Bang Bang Hold and Win.webp",
       "game_url": "https://stake.com/casino/games/penguinking-coin-bang-bang-hold-and-win",
-      "extracted_at": "2025-08-06T22:32:27.037820"
+      "extracted_at": "2025-08-07T02:11:22.065022"
     },
     {
       "game_id": "penguinking-fruit-market",
@@ -103,7 +104,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/a29598c5a576e8018cfb048855d9108d677fa7450d03ddf2ab1a06219e016e57",
       "expected_filename": "Penguin King - Fruit Market.webp",
       "game_url": "https://stake.com/casino/games/penguinking-fruit-market",
-      "extracted_at": "2025-08-06T22:32:27.037820"
+      "extracted_at": "2025-08-07T02:11:22.065022"
     },
     {
       "game_id": "penguinking-davey-bones",
@@ -113,7 +114,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/eadc03a8e8dbf2b27626246d9d4940efb89128d91b8ecf670fef1f8321ac6ab8",
       "expected_filename": "Penguin King - Davey Bones.webp",
       "game_url": "https://stake.com/casino/games/penguinking-davey-bones",
-      "extracted_at": "2025-08-06T22:32:27.037820"
+      "extracted_at": "2025-08-07T02:11:22.065022"
     },
     {
       "game_id": "penguinking-sugar-splash",
@@ -123,7 +124,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/adc20af8b4afcf5255c9eca06d63ec0f67838ba637604ce2b633c01722e1cdd5",
       "expected_filename": "Penguin King - Sugar Splash.webp",
       "game_url": "https://stake.com/casino/games/penguinking-sugar-splash",
-      "extracted_at": "2025-08-06T22:32:27.037820"
+      "extracted_at": "2025-08-07T02:11:22.065022"
     },
     {
       "game_id": "penguinking-super-cash-boost-hold-and-win",
@@ -133,7 +134,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/d0f0c84c64a50ecf583c0eb0e24105bc7f4f398b08afb56110ed8111266e0f62",
       "expected_filename": "Penguin King - Super Cash Boost Hold and Win.webp",
       "game_url": "https://stake.com/casino/games/penguinking-super-cash-boost-hold-and-win",
-      "extracted_at": "2025-08-06T22:32:27.037820"
+      "extracted_at": "2025-08-07T02:11:22.065022"
     },
     {
       "game_id": "penguinking-gold-mine-mystery",
@@ -143,7 +144,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/6855f1ca86ecebe205f5df7e03d8b37a3527587d5e3f8c2c5e88b09726ce2136",
       "expected_filename": "Penguin King - Gold Mine Mystery.webp",
       "game_url": "https://stake.com/casino/games/penguinking-gold-mine-mystery",
-      "extracted_at": "2025-08-06T22:32:27.037820"
+      "extracted_at": "2025-08-07T02:11:22.065022"
     },
     {
       "game_id": "penguinking-shaolin-panda-hold-and-win",
@@ -153,7 +154,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/ab0f7ca3b4092f47508f9a160227f8dfcdb7f71a29cec227383249a05a71e109",
       "expected_filename": "Penguin King - Shaolin Panda Hold and Win.webp",
       "game_url": "https://stake.com/casino/games/penguinking-shaolin-panda-hold-and-win",
-      "extracted_at": "2025-08-06T22:32:27.037820"
+      "extracted_at": "2025-08-07T02:11:22.065022"
     },
     {
       "game_id": "penguinking-4-leaf-fortune-hold-and-win",
@@ -163,17 +164,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/03d6dfdb0f1b43e27b2d38d835509abc81521ee00f2dd4e941b550ad169e1352",
       "expected_filename": "Penguin King - 4 Leaf Fortune Hold and Win.webp",
       "game_url": "https://stake.com/casino/games/penguinking-4-leaf-fortune-hold-and-win",
-      "extracted_at": "2025-08-06T22:32:27.037820"
-    },
-    {
-      "game_id": "penguinking-777-hot-reels-supercharged",
-      "title": "777 Hot Reels: Supercharged",
-      "slug": "penguinking-777-hot-reels-supercharged",
-      "provider": "Penguin King ",
-      "thumbnail_url": "https://mediumrare.imgix.net/09712c449f1fe1a50c7d0b9365660c4c39e55193571135fb1568258240ffaa91",
-      "expected_filename": "Penguin King - 777 Hot Reels Supercharged.webp",
-      "game_url": "https://stake.com/casino/games/penguinking-777-hot-reels-supercharged",
-      "extracted_at": "2025-08-06T22:32:27.037820"
+      "extracted_at": "2025-08-07T02:11:22.065022"
     },
     {
       "game_id": "penguinking-shaolin-panda-chaos-reels",
@@ -183,7 +174,17 @@
       "thumbnail_url": "https://mediumrare.imgix.net/8b30c9938b0db1cc7a371120f67ae8a49a73c5a9736729123a2ba6fb035e497f",
       "expected_filename": "Penguin King - Shaolin Panda Chaos Reels.webp",
       "game_url": "https://stake.com/casino/games/penguinking-shaolin-panda-chaos-reels",
-      "extracted_at": "2025-08-06T22:32:27.037820"
+      "extracted_at": "2025-08-07T02:11:22.065022"
+    },
+    {
+      "game_id": "penguinking-777-hot-reels-supercharged",
+      "title": "777 Hot Reels: Supercharged",
+      "slug": "penguinking-777-hot-reels-supercharged",
+      "provider": "Penguin King ",
+      "thumbnail_url": "https://mediumrare.imgix.net/09712c449f1fe1a50c7d0b9365660c4c39e55193571135fb1568258240ffaa91",
+      "expected_filename": "Penguin King - 777 Hot Reels Supercharged.webp",
+      "game_url": "https://stake.com/casino/games/penguinking-777-hot-reels-supercharged",
+      "extracted_at": "2025-08-07T02:11:22.065022"
     },
     {
       "game_id": "penguinking-5-rings-of-darkness",
@@ -193,7 +194,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/a13bd4ce7feae593db285b450caa2cb9825f72c8739e162cfc630f0a9bb085a1",
       "expected_filename": "Penguin King - 5 Rings of Darkness.webp",
       "game_url": "https://stake.com/casino/games/penguinking-5-rings-of-darkness",
-      "extracted_at": "2025-08-06T22:32:27.037820"
+      "extracted_at": "2025-08-07T02:11:22.065022"
     },
     {
       "game_id": "penguinking-vegas-blitz-hold-and-win",
@@ -203,7 +204,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/1709d5d7f18b76d3324120682bdd7dee26703cbb7ac62a1958e96917d004d771",
       "expected_filename": "Penguin King - Vegas Blitz Hold and Win.webp",
       "game_url": "https://stake.com/casino/games/penguinking-vegas-blitz-hold-and-win",
-      "extracted_at": "2025-08-06T22:32:27.037820"
+      "extracted_at": "2025-08-07T02:11:22.065022"
     },
     {
       "game_id": "penguinking-buffalo-blaze-wild-wealth",
@@ -213,7 +214,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/2e46abb313185f3605e2db4df4ba30711149135dd02af1c7abd4b16bc81104f5",
       "expected_filename": "Penguin King - Buffalo Blaze Wild Wealth.webp",
       "game_url": "https://stake.com/casino/games/penguinking-buffalo-blaze-wild-wealth",
-      "extracted_at": "2025-08-06T22:32:27.037820"
+      "extracted_at": "2025-08-07T02:11:22.065022"
     },
     {
       "game_id": "penguinking-3-energy-diamonds-hold-and-win",
@@ -223,7 +224,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/d2ff41231849b4084b0a544febdf77a009b81ceca8a256ee6cb9a81ed9de7460",
       "expected_filename": "Penguin King - 3 Energy Diamonds Hold and Win.webp",
       "game_url": "https://stake.com/casino/games/penguinking-3-energy-diamonds-hold-and-win",
-      "extracted_at": "2025-08-06T22:32:27.037820"
+      "extracted_at": "2025-08-07T02:11:22.065022"
     },
     {
       "game_id": "penguinking-break-the-piggy-bank",
@@ -233,7 +234,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/6a663a26c006981e5fe1918cd6c7f8a1b89408e95104ef65c5b971c7d2a038ad",
       "expected_filename": "Penguin King - Break The Piggy Bank.webp",
       "game_url": "https://stake.com/casino/games/penguinking-break-the-piggy-bank",
-      "extracted_at": "2025-08-06T22:32:27.037820"
+      "extracted_at": "2025-08-07T02:11:22.065022"
     },
     {
       "game_id": "penguinking-coins-and-diamonds-hold-and-win",
@@ -243,7 +244,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/21dfb1b9bd5aaf0aa18f56e9f2770271ca6219e6aa11061b1052badf25016ee5",
       "expected_filename": "Penguin King - Coins and Diamonds Hold and Win.webp",
       "game_url": "https://stake.com/casino/games/penguinking-coins-and-diamonds-hold-and-win",
-      "extracted_at": "2025-08-06T22:32:27.037820"
+      "extracted_at": "2025-08-07T02:11:22.065022"
     },
     {
       "game_id": "penguinking-roaming-wild-buffalo",
@@ -253,7 +254,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/b8ed5a92908c4fae0dc849e04756b504853bc930d3a346ab1dc3a81827f637f9",
       "expected_filename": "Penguin King - Roaming Wild Buffalo.webp",
       "game_url": "https://stake.com/casino/games/penguinking-roaming-wild-buffalo",
-      "extracted_at": "2025-08-06T22:32:27.037820"
+      "extracted_at": "2025-08-07T02:11:22.065022"
     },
     {
       "game_id": "penguinking-pip-and-pippas-pots-of-plenty",
@@ -263,7 +264,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/ed12e3c19e3252271973719b9e3a4c37ba46e9709829a5acaa32e6849166e8f4",
       "expected_filename": "Penguin King - Pip and Pippa's Pots of Plenty.webp",
       "game_url": "https://stake.com/casino/games/penguinking-pip-and-pippas-pots-of-plenty",
-      "extracted_at": "2025-08-06T22:32:27.037820"
+      "extracted_at": "2025-08-07T02:11:22.065022"
     },
     {
       "game_id": "penguinking-3-pyramids-of-gold-hold-and-win",
@@ -273,17 +274,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/d7684890daae580aff8e4195f0358d0af3a6c21daa9e6831ccb32350373522f7",
       "expected_filename": "Penguin King - 3 Pyramids of Gold Hold and Win.webp",
       "game_url": "https://stake.com/casino/games/penguinking-3-pyramids-of-gold-hold-and-win",
-      "extracted_at": "2025-08-06T22:32:27.037820"
-    },
-    {
-      "game_id": "penguinking-piggy-coin-hold-and-win",
-      "title": "Piggy Coin: Hold and Win",
-      "slug": "penguinking-piggy-coin-hold-and-win",
-      "provider": "Penguin King ",
-      "thumbnail_url": "https://mediumrare.imgix.net/440dd32b69d66e519ba0612ceedc28bcc83c854c0e73e25de84be42817c0b183",
-      "expected_filename": "Penguin King - Piggy Coin Hold and Win.webp",
-      "game_url": "https://stake.com/casino/games/penguinking-piggy-coin-hold-and-win",
-      "extracted_at": "2025-08-06T22:32:27.037820"
+      "extracted_at": "2025-08-07T02:11:22.065022"
     },
     {
       "game_id": "penguinking-legends-battle-for-earth",
@@ -293,7 +284,17 @@
       "thumbnail_url": "https://mediumrare.imgix.net/5ba6ae70374b7d5f262b2c8a74a255332416cb05c7a563c1b53d54a552332192",
       "expected_filename": "Penguin King - Legends Battle for Earth.webp",
       "game_url": "https://stake.com/casino/games/penguinking-legends-battle-for-earth",
-      "extracted_at": "2025-08-06T22:32:27.037820"
+      "extracted_at": "2025-08-07T02:11:22.065022"
+    },
+    {
+      "game_id": "penguinking-piggy-coin-hold-and-win",
+      "title": "Piggy Coin: Hold and Win",
+      "slug": "penguinking-piggy-coin-hold-and-win",
+      "provider": "Penguin King ",
+      "thumbnail_url": "https://mediumrare.imgix.net/440dd32b69d66e519ba0612ceedc28bcc83c854c0e73e25de84be42817c0b183",
+      "expected_filename": "Penguin King - Piggy Coin Hold and Win.webp",
+      "game_url": "https://stake.com/casino/games/penguinking-piggy-coin-hold-and-win",
+      "extracted_at": "2025-08-07T02:11:22.065022"
     },
     {
       "game_id": "penguinking-bank-busters-the-big-score",
@@ -303,7 +304,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/7e79d2e7d1c25eeecbc21e3fadf1ac3cff5da58c79348b92e699c872b64b10cc",
       "expected_filename": "Penguin King - Bank Busters The Big Score.webp",
       "game_url": "https://stake.com/casino/games/penguinking-bank-busters-the-big-score",
-      "extracted_at": "2025-08-06T22:32:27.037820"
+      "extracted_at": "2025-08-07T02:11:22.065022"
     },
     {
       "game_id": "penguinking-kawaii-princess",
@@ -313,17 +314,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/ef056c8a32863fceb3ba63f10e846df9477b4e3f71d118692aec158572ce1fdd",
       "expected_filename": "Penguin King - Kawaii Princess.webp",
       "game_url": "https://stake.com/casino/games/penguinking-kawaii-princess",
-      "extracted_at": "2025-08-06T22:32:27.037820"
-    },
-    {
-      "game_id": "penguinking-wild-white-rhino",
-      "title": "Wild White Rhino",
-      "slug": "penguinking-wild-white-rhino",
-      "provider": "Penguin King ",
-      "thumbnail_url": "https://mediumrare.imgix.net/5bad3138eaaa86d82d0ff97155157c3d8c67eb7a89692104ca234813dd96a9d5",
-      "expected_filename": "Penguin King - Wild White Rhino.webp",
-      "game_url": "https://stake.com/casino/games/penguinking-wild-white-rhino",
-      "extracted_at": "2025-08-06T22:32:27.037820"
+      "extracted_at": "2025-08-07T02:11:22.065022"
     },
     {
       "game_id": "penguinking-eggsponential",
@@ -333,7 +324,17 @@
       "thumbnail_url": "https://mediumrare.imgix.net/acabb29744ec900219644f20a8308baf4f57d3c4524ecd195c7a9c9982785979",
       "expected_filename": "Penguin King - Eggsponential.webp",
       "game_url": "https://stake.com/casino/games/penguinking-eggsponential",
-      "extracted_at": "2025-08-06T22:32:27.037820"
+      "extracted_at": "2025-08-07T02:11:22.065022"
+    },
+    {
+      "game_id": "penguinking-wild-white-rhino",
+      "title": "Wild White Rhino",
+      "slug": "penguinking-wild-white-rhino",
+      "provider": "Penguin King ",
+      "thumbnail_url": "https://mediumrare.imgix.net/5bad3138eaaa86d82d0ff97155157c3d8c67eb7a89692104ca234813dd96a9d5",
+      "expected_filename": "Penguin King - Wild White Rhino.webp",
+      "game_url": "https://stake.com/casino/games/penguinking-wild-white-rhino",
+      "extracted_at": "2025-08-07T02:11:22.065022"
     },
     {
       "game_id": "penguinking-gemstone-guardians",
@@ -343,7 +344,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/fba54fcb55b738e8eef98256a955defd64420c2b39895beb5be3855188c7537e",
       "expected_filename": "Penguin King - Gemstone Guardians.webp",
       "game_url": "https://stake.com/casino/games/penguinking-gemstone-guardians",
-      "extracted_at": "2025-08-06T22:32:27.037820"
+      "extracted_at": "2025-08-07T02:11:22.065022"
     },
     {
       "game_id": "penguinking-buffalo-smash",
@@ -353,17 +354,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/f200567511d64ea4787d69920cac83debb7de8564f3a56bc5e3ff15587c9a20e",
       "expected_filename": "Penguin King - Buffalo Smash.webp",
       "game_url": "https://stake.com/casino/games/penguinking-buffalo-smash",
-      "extracted_at": "2025-08-06T22:32:27.037820"
-    },
-    {
-      "game_id": "penguinking-zeus-smash",
-      "title": "Zeus Smash",
-      "slug": "penguinking-zeus-smash",
-      "provider": "Penguin King ",
-      "thumbnail_url": "https://mediumrare.imgix.net/794b150fb89831ccb5f47a517f4b278fb39010f2cfe71a04d4717c5f0caef96f",
-      "expected_filename": "Penguin King - Zeus Smash.webp",
-      "game_url": "https://stake.com/casino/games/penguinking-zeus-smash",
-      "extracted_at": "2025-08-06T22:32:27.037820"
+      "extracted_at": "2025-08-07T02:11:22.065022"
     },
     {
       "game_id": "penguinking-5-star-coins-hold-and-win",
@@ -373,7 +364,17 @@
       "thumbnail_url": "https://mediumrare.imgix.net/e21a918f87439ad9b0dc46d8feb5f8c6e9605ef5a0ee07751d711ca144f99cc7",
       "expected_filename": "Penguin King - 5 Star Coins Hold and Win.webp",
       "game_url": "https://stake.com/casino/games/penguinking-5-star-coins-hold-and-win",
-      "extracted_at": "2025-08-06T22:32:27.037820"
+      "extracted_at": "2025-08-07T02:11:22.065022"
+    },
+    {
+      "game_id": "penguinking-zeus-smash",
+      "title": "Zeus Smash",
+      "slug": "penguinking-zeus-smash",
+      "provider": "Penguin King ",
+      "thumbnail_url": "https://mediumrare.imgix.net/794b150fb89831ccb5f47a517f4b278fb39010f2cfe71a04d4717c5f0caef96f",
+      "expected_filename": "Penguin King - Zeus Smash.webp",
+      "game_url": "https://stake.com/casino/games/penguinking-zeus-smash",
+      "extracted_at": "2025-08-07T02:11:22.065022"
     },
     {
       "game_id": "penguinking-eternal-clash",
@@ -383,7 +384,7 @@
       "thumbnail_url": "https://mediumrare.imgix.net/91a61e23370cceea29de0b5d8a37fce534d4d2a9afc757460142a01fd5274e70",
       "expected_filename": "Penguin King - Eternal Clash.webp",
       "game_url": "https://stake.com/casino/games/penguinking-eternal-clash",
-      "extracted_at": "2025-08-06T22:32:27.037820"
+      "extracted_at": "2025-08-07T02:11:22.065022"
     },
     {
       "game_id": "penguinking-mutant-potatoes",
@@ -393,150 +394,9 @@
       "thumbnail_url": "https://mediumrare.imgix.net/a67b4779064059c42442446779884ae1f77ff204d64650edef368e2a86027cbf",
       "expected_filename": "Penguin King - Mutant Potatoes.webp",
       "game_url": "https://stake.com/casino/games/penguinking-mutant-potatoes",
-      "extracted_at": "2025-08-06T22:32:27.037820"
-    },
-    {
-      "id": "49221af4-4b7b-4f01-82bc-3801465c6f54",
-      "name": "God Smash: Eternal Chaos",
-      "slug": "penguinking-god-smash-eternal-chaos",
-      "thumbnailUrl": "https://mediumrare.imgix.net/ba4d848799396ca06c52bbb18cbb4903122b13306b5f58eac4d0fa148789ff33",
-      "thumbnailBlurHash": "eaOnz?RRWBWARWChbxk6ofW=igb^rXoee-p{R-RpjFRPaPjwT1jIog",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "fc799190-6cc8-49e4-aa54-3d04e9afd2e0",
-      "name": "Supersonic Express: Hold and Win",
-      "slug": "penguinking-supersonic-express-hold-and-win",
-      "thumbnailUrl": "https://mediumrare.imgix.net/4ed13dd508b3a8d26d742b76427b819f761c001958f60dd35867aefa6dc2ad64",
-      "thumbnailBlurHash": "eVIE*^R:VDS#NG=ZR;=qS#oy4Vaj-lX9WG-#oJNHbbR-OBs+WCkCx@",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "ed03aa9d-919b-4bcc-b41f-9097a81a1a29",
-      "name": "Twin Cash: Hold and Win",
-      "slug": "penguinking-twin-cash-hold-and-win",
-      "thumbnailUrl": "https://mediumrare.imgix.net/b98c694b6789345a810416d14bfee294752f8ab2243e6013e3f26438d2ff6a45",
-      "thumbnailBlurHash": "eTJHR~$^Q;bwESs#s#nhouo{0EROO9n#xW=?iwI@NMIV8}t1ozNfNH",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "51e8a40f-35ca-42d5-b754-335df219b226",
-      "name": "Christmas Link Express: Hold and Win",
-      "slug": "penguinking-christmas-link-express-hold-and-win",
-      "thumbnailUrl": "https://mediumrare.imgix.net/8f45e4d23faa1fd563c21d351483b3cfae13b833d10af8b743cfc205a2759cfc",
-      "thumbnailBlurHash": "eoKlttj;ICoaj=1Ok9WYj=t3z{oNkqn+jDg$W.WYWCRjVHW-jJRkbc",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "d426aee7-1924-4e4e-9101-2b22168f2446",
-      "name": " Flame and Fortune: Hold and Win",
-      "slug": "penguinking-flame-and-fortune-hold-and-win",
-      "thumbnailUrl": "https://mediumrare.imgix.net/fe0111368f6ee71a05e43e3db65b30fc7eaf7e380aa0f57c85a3aff57707285a",
-      "thumbnailBlurHash": "ehIzVSt6KMbHWV1@ozX,bbkVwda#soo2e:yraersafnPInf+ozazs:",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "467895a4-9c61-4bef-b6db-506089f07ef3",
-      "name": "Cash Maximus: Battle Arena",
-      "slug": "penguinking-cash-maximus-battle-arena",
-      "thumbnailUrl": "https://mediumrare.imgix.net/146732ffc22ebba1a37c40a1859d88f03d542568e5f0848e9f15790356eb629c",
-      "thumbnailBlurHash": "eTOw{K-P-6IVVs3oofyDWCR*+JR;w^t7X5y=oyrWn%RQn3obb^RkNL",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "fe77ba09-9dbe-4c25-9a8d-e42d4f69cc43",
-      "name": "3 Golden Baskets: Treasure Tides",
-      "slug": "penguinking-3-golden-baskets-treasure-tides",
-      "thumbnailUrl": "https://mediumrare.imgix.net/e7f4611e73ae78cfc144a0501ba09fc4a22d024c8ebff083a3d07c6e5c66fb71",
-      "thumbnailBlurHash": "eWG,;39uP;tPR*wPI=yEoyt89@oznOW;g3.Ts:ROWXM{Fej?xDafn4",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "8e3511d1-3363-4da9-bb67-3d4e63527f12",
-      "name": "Dynamite Trail: Hold and Win",
-      "slug": "penguinking-dynamite-trail-hold-and-win",
-      "thumbnailUrl": "https://mediumrare.imgix.net/1e48d395bfad23f84434bad723c5d6d9bf7924b05dbe1064f87b47c19bf3e632",
-      "thumbnailBlurHash": "eOMh}f?CXJR6NMCV${u2nQW?L-RiJXtQj]6.I:IEo{e-qdShxIXOjD",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "7513c559-44e3-4972-b26a-0cf18cadbb96",
-      "name": "Lord of the Dunes",
-      "slug": "penguinking-lord-of-the-dunes",
-      "thumbnailUrl": "https://mediumrare.imgix.net/4b15fcd48ab4730499aec2fdca6f52da6a40acd262eb8e5f3e6bf9bc025d60bd",
-      "thumbnailBlurHash": "eXKvU8bF=sM}nh0eIqxuNHt7MyIpI=jsa~?vxYIVn%M{MdxZozn%X8",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "42f4b68c-7ae5-478a-a486-44fb64941348",
-      "name": "Doom's Digging Machine",
-      "slug": "penguinking-dooms-digging-machine",
-      "thumbnailUrl": "https://mediumrare.imgix.net/280a135e2f18cf9247e2a0b398cf92af0e6ec84169eaddaba36b325177252148",
-      "thumbnailBlurHash": "eTMi]jW.ENT0#7HTjYpJozi{qyjGrwsmIv*0WYiJV@jJ-DkB$%Rjxu",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "a20713db-d487-42fe-9833-8b072ad84171",
-      "name": "Wish for a Cash Star",
-      "slug": "penguinking-wish-for-a-cash-star",
-      "thumbnailUrl": "https://mediumrare.imgix.net/a07a01c728339ae4ff427eb8c7f1da0bd71ea8a3de172887c610991887047119",
-      "thumbnailBlurHash": "ekJ%b*sC9Bj;Sl|Bn~nWj=WsEYWVxSobs$i.WYa^k8nzVgfjthWXV]",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "38f40e69-10bf-4080-985d-b6de256051e2",
-      "name": "Savannah Gold: Coin of the Wild",
-      "slug": "penguinking-savannah-gold-coin-of-the-wild",
-      "thumbnailUrl": "https://mediumrare.imgix.net/e80a6c519d6b24e038d4af9850a5662e3c1ade09c1c641bbfddc159c6f110046",
-      "thumbnailBlurHash": "eVE;ltsmKjpIeRlCkCpdbvrq7}V@OYV@sp%3jYE0aLogVYt8r^kCX9",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
-    },
-    {
-      "id": "35459b7b-cb43-423a-877a-d6e3b2158cb0",
-      "name": "Thunder Hog Chaos Reels",
-      "slug": "penguinking-thunder-hog-chaos-reels",
-      "thumbnailUrl": "https://mediumrare.imgix.net/3b131c8eafd048186af8316580af0b9866ed2a72deee197652be29d667cfc058",
-      "thumbnailBlurHash": "eUK0aqRkA1WWs98ZjFTfWVi_z+sWS7j]n$1~j]H@oMbuM-W;xAaeSe",
-      "isBlocked": false,
-      "isWidgetEnabled": true,
-      "playerCount": 0,
-      "groupGames": []
+      "extracted_at": "2025-08-07T02:11:22.065022"
     }
-  ]
+  ],
+  "timestamp": "2025-08-07T02:11:22.065022",
+  "source": "initial_html_fetch"
 }

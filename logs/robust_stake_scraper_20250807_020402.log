@@ -1,0 +1,1788 @@
+2025-08-07 02:04:02,293 - INFO - 🚀 Robust Stake Scraper initialized
+2025-08-07 02:04:02,302 - INFO - 📁 Directories created/verified
+2025-08-07 02:04:02,302 - INFO - 🚀 Starting Robust Stake Scraper - Phase 1: Initial Data Collection
+2025-08-07 02:04:02,306 - INFO - 📋 Step 1: Fetching providers list...
+2025-08-07 02:04:02,338 - INFO - 🔍 Loading hardcoded providers list...
+2025-08-07 02:04:02,338 - INFO - ✅ Loaded 49 hardcoded providers
+2025-08-07 02:04:02,369 - INFO - ✅ Checkpoint saved: providers_list
+2025-08-07 02:04:02,371 - INFO - 🎮 Step 2: Fetching initial games data for all providers...
+2025-08-07 02:04:02,396 - INFO - 🚀 Starting initial fetch for 49 providers...
+2025-08-07 02:04:02,397 - INFO - 🎮 Fetching initial games for provider: Pragmatic Play
+2025-08-07 02:04:02,431 - INFO - 🎮 Fetching initial games for provider: Stake Originals
+2025-08-07 02:04:11,665 - INFO - 📊 HTML fetch output for Pragmatic Play:
+🚀 Starting live fetch of Stake.com games for provider: pragmatic-play (attempt 1/3)...
+✅ Session created successfully: 3a6dabbb-b268-451f-80fe-64304882a510
+📡 Fetching: https://stake.com/casino/group/pragmatic-play
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'error', 'info', 'session' ]
+📏 Content length: 5 characters
+💾 Games HTML saved to: stake_games_pragmatic-play_2025-08-06T21-04-11-318Z.html
+🎉 Successfully fetched and analyzed games for pragmatic-play!
+💾 Also saved as: stake_games_pragmatic-play_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched pragmatic-play games page!
+
+2025-08-07 02:04:11,665 - INFO - 📊 Extracted 0 games from stake_games_pragmatic-play_2025-08-06T21-04-11-318Z.html
+2025-08-07 02:04:11,665 - INFO - 📊 Extracted 0 games from stake_games_pragmatic-play_latest.html
+2025-08-07 02:04:11,683 - INFO - 📊 Extracted 0 games from stake_games_pragmatic-play_latest.html
+2025-08-07 02:04:11,684 - WARNING - ⚠️ Attempt 1 failed for Pragmatic Play - small/no content (size: 5). Retrying...
+2025-08-07 02:04:32,575 - INFO - 📊 HTML fetch output for Stake Originals:
+🚀 Starting live fetch of Stake.com games for provider: stake-originals (attempt 1/3)...
+✅ Session created successfully: 6f0ee009-c373-4efd-ad69-a192cddc9b0d
+📡 Fetching: https://stake.com/casino/group/stake-originals
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1783021 characters
+💾 Games HTML saved to: stake_games_stake-originals_2025-08-06T21-04-32-174Z.html
+🎰 Found 7142 game-related mentions
+� Page title: Stake Original Casino Games - Play Exclusive Games Online
+� Total games found: 25
+🎮 Found approximately 81.5 games in initial load
+🎉 Successfully fetched and analyzed games for stake-originals!
+💾 Also saved as: stake_games_stake-originals_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched stake-originals games page!
+
+2025-08-07 02:04:32,786 - INFO - 📊 Extracted 25 games from stake_games_stake-originals_2025-08-06T21-04-32-174Z.html
+2025-08-07 02:04:32,967 - INFO - 📊 Extracted 25 games from stake_games_stake-originals_latest.html
+2025-08-07 02:04:33,157 - INFO - 📊 Extracted 25 games from stake_games_stake-originals_latest.html
+2025-08-07 02:04:33,157 - INFO - 📊 Provider has only 25 games (complete - no pagination needed)
+2025-08-07 02:04:33,157 - INFO - 💾 Saved 25 games data for Stake Originals
+2025-08-07 02:04:33,179 - INFO - ✅ Checkpoint saved: provider_stake-originals_initial
+2025-08-07 02:04:33,180 - INFO - ✅ Initial fetch completed for Stake Originals: complete
+2025-08-07 02:04:33,205 - INFO - 🎮 Fetching initial games for provider: Hacksaw Gaming
+2025-08-07 02:04:41,984 - INFO - 📊 HTML fetch output for Hacksaw Gaming:
+🚀 Starting live fetch of Stake.com games for provider: hacksaw-gaming (attempt 1/3)...
+✅ Session created successfully: d3e8d87d-1c91-4d71-b51d-034a43721da6
+📡 Fetching: https://stake.com/casino/group/hacksaw-gaming
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'error', 'info', 'session' ]
+📏 Content length: 5 characters
+💾 Games HTML saved to: stake_games_hacksaw-gaming_2025-08-06T21-04-41-631Z.html
+🎉 Successfully fetched and analyzed games for hacksaw-gaming!
+💾 Also saved as: stake_games_hacksaw-gaming_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched hacksaw-gaming games page!
+
+2025-08-07 02:04:41,984 - INFO - 📊 Extracted 0 games from stake_games_hacksaw-gaming_2025-08-06T21-04-41-631Z.html
+2025-08-07 02:04:41,984 - INFO - 📊 Extracted 0 games from stake_games_hacksaw-gaming_latest.html
+2025-08-07 02:04:42,000 - INFO - 📊 Extracted 0 games from stake_games_hacksaw-gaming_latest.html
+2025-08-07 02:04:42,000 - WARNING - ⚠️ Attempt 1 failed for Hacksaw Gaming - small/no content (size: 5). Retrying...
+2025-08-07 02:05:11,660 - INFO - 📊 HTML fetch output for Pragmatic Play:
+🚀 Starting live fetch of Stake.com games for provider: pragmatic-play (attempt 1/3)...
+✅ Session created successfully: 9b63669b-ed64-44ca-ae31-aa92f4eae014
+📡 Fetching: https://stake.com/casino/group/pragmatic-play
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'error', 'info', 'session' ]
+📏 Content length: 5 characters
+💾 Games HTML saved to: stake_games_pragmatic-play_2025-08-06T21-05-10-708Z.html
+🎉 Successfully fetched and analyzed games for pragmatic-play!
+💾 Also saved as: stake_games_pragmatic-play_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched pragmatic-play games page!
+
+2025-08-07 02:05:11,660 - INFO - 📊 Extracted 0 games from stake_games_pragmatic-play_2025-08-06T21-04-11-318Z.html
+2025-08-07 02:05:11,660 - INFO - 📊 Extracted 0 games from stake_games_pragmatic-play_2025-08-06T21-05-10-708Z.html
+2025-08-07 02:05:11,687 - INFO - 📊 Extracted 0 games from stake_games_pragmatic-play_latest.html
+2025-08-07 02:05:11,688 - INFO - 📊 Extracted 0 games from stake_games_pragmatic-play_latest.html
+2025-08-07 02:05:11,714 - WARNING - ⚠️ Attempt 2 failed for Pragmatic Play - small/no content (size: 5). Retrying...
+2025-08-07 02:05:26,854 - INFO - 📊 HTML fetch output for Hacksaw Gaming:
+🚀 Starting live fetch of Stake.com games for provider: hacksaw-gaming (attempt 1/3)...
+✅ Session created successfully: 62257b9d-306d-4fc0-8edd-24d450439a31
+📡 Fetching: https://stake.com/casino/group/hacksaw-gaming
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1828173 characters
+💾 Games HTML saved to: stake_games_hacksaw-gaming_2025-08-06T21-05-26-461Z.html
+🎰 Found 7407 game-related mentions
+� Page title: Hacksaw Gaming Slots &amp; Instant Win Casino Games - Play Free
+� Total games found: 180
+🎮 Found approximately 102.5 games in initial load
+🎉 Successfully fetched and analyzed games for hacksaw-gaming!
+💾 Also saved as: stake_games_hacksaw-gaming_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched hacksaw-gaming games page!
+
+2025-08-07 02:05:26,854 - INFO - 📊 Extracted 0 games from stake_games_hacksaw-gaming_2025-08-06T21-04-41-631Z.html
+2025-08-07 02:05:27,134 - INFO - 📊 Extracted 39 games from stake_games_hacksaw-gaming_2025-08-06T21-05-26-461Z.html
+2025-08-07 02:05:27,328 - INFO - 📊 Extracted 39 games from stake_games_hacksaw-gaming_latest.html
+2025-08-07 02:05:27,569 - INFO - 📊 Extracted 39 games from stake_games_hacksaw-gaming_latest.html
+2025-08-07 02:05:27,569 - INFO - 📊 Provider has 180 total games (39 in initial batch)
+2025-08-07 02:05:27,569 - INFO - 💾 Saved 39 games data for Hacksaw Gaming
+2025-08-07 02:05:27,589 - INFO - ✅ Checkpoint saved: provider_hacksaw-gaming_initial
+2025-08-07 02:05:27,590 - INFO - ✅ Initial fetch completed for Hacksaw Gaming: initial batch (39/180)
+2025-08-07 02:05:27,618 - INFO - 🎮 Fetching initial games for provider: Evolution Gaming
+2025-08-07 02:05:53,260 - INFO - 📊 HTML fetch output for Evolution Gaming:
+🚀 Starting live fetch of Stake.com games for provider: evolution-gaming (attempt 1/3)...
+✅ Session created successfully: 9fdd5cd9-535d-470b-bfa1-0adeeb8acb32
+📡 Fetching: https://stake.com/casino/group/evolution-gaming
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1792782 characters
+💾 Games HTML saved to: stake_games_evolution-gaming_2025-08-06T21-05-52-868Z.html
+🎰 Found 7401 game-related mentions
+� Page title: Evolution Gaming Live Casino Game Provider - Play Online
+� Total games found: 82
+🎮 Found approximately 102.5 games in initial load
+🎉 Successfully fetched and analyzed games for evolution-gaming!
+💾 Also saved as: stake_games_evolution-gaming_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched evolution-gaming games page!
+
+2025-08-07 02:05:53,443 - INFO - 📊 Extracted 39 games from stake_games_evolution-gaming_2025-08-06T21-05-52-868Z.html
+2025-08-07 02:05:53,648 - INFO - 📊 Extracted 39 games from stake_games_evolution-gaming_latest.html
+2025-08-07 02:05:53,884 - INFO - 📊 Extracted 39 games from stake_games_evolution-gaming_latest.html
+2025-08-07 02:05:53,900 - INFO - 📊 Provider has 82 total games (39 in initial batch)
+2025-08-07 02:05:53,900 - INFO - 💾 Saved 39 games data for Evolution Gaming
+2025-08-07 02:05:53,922 - INFO - ✅ Checkpoint saved: provider_evolution-gaming_initial
+2025-08-07 02:05:53,923 - INFO - ✅ Initial fetch completed for Evolution Gaming: initial batch (39/82)
+2025-08-07 02:05:53,950 - INFO - 🎮 Fetching initial games for provider: No Limit City
+2025-08-07 02:05:54,295 - INFO - 📊 HTML fetch output for Pragmatic Play:
+🚀 Starting live fetch of Stake.com games for provider: pragmatic-play (attempt 1/3)...
+✅ Session created successfully: 1edd493f-ce5a-4e12-b542-2eb4dc645d92
+📡 Fetching: https://stake.com/casino/group/pragmatic-play
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1914051 characters
+💾 Games HTML saved to: stake_games_pragmatic-play_2025-08-06T21-05-53-914Z.html
+🎰 Found 8535 game-related mentions
+� Page title: Pragmatic Play - Free Play Slots by Best Casino Providers Online
+� Total games found: 639
+🎮 Found approximately 102.5 games in initial load
+🎉 Successfully fetched and analyzed games for pragmatic-play!
+💾 Also saved as: stake_games_pragmatic-play_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched pragmatic-play games page!
+
+2025-08-07 02:05:54,295 - INFO - 📊 Extracted 0 games from stake_games_pragmatic-play_2025-08-06T21-04-11-318Z.html
+2025-08-07 02:05:54,295 - INFO - 📊 Extracted 0 games from stake_games_pragmatic-play_2025-08-06T21-05-10-708Z.html
+2025-08-07 02:05:54,545 - INFO - 📊 Extracted 39 games from stake_games_pragmatic-play_2025-08-06T21-05-53-914Z.html
+2025-08-07 02:05:54,812 - INFO - 📊 Extracted 39 games from stake_games_pragmatic-play_latest.html
+2025-08-07 02:05:55,014 - INFO - 📊 Extracted 39 games from stake_games_pragmatic-play_latest.html
+2025-08-07 02:05:55,030 - INFO - 📊 Provider has 639 total games (39 in initial batch)
+2025-08-07 02:05:55,032 - INFO - 💾 Saved 39 games data for Pragmatic Play
+2025-08-07 02:05:55,048 - INFO - ✅ Checkpoint saved: provider_pragmatic-play_initial
+2025-08-07 02:05:55,049 - INFO - ✅ Initial fetch completed for Pragmatic Play: initial batch (39/639)
+2025-08-07 02:05:55,073 - INFO - 🎮 Fetching initial games for provider: Massive Studios
+2025-08-07 02:06:14,922 - INFO - 📊 HTML fetch output for Massive Studios:
+🚀 Starting live fetch of Stake.com games for provider: massive-studios (attempt 1/3)...
+✅ Session created successfully: ce2a1870-3d15-437c-8f4d-a61f574a5b69
+📡 Fetching: https://stake.com/casino/group/massive-studios
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1670171 characters
+💾 Games HTML saved to: stake_games_massive-studios_2025-08-06T21-06-14-188Z.html
+🎰 Found 6587 game-related mentions
+� Page title: Massive Studios Casino Games - Play Slots Online at Stake
+� Total games found: 21
+🎮 Found approximately 75.5 games in initial load
+🎉 Successfully fetched and analyzed games for massive-studios!
+💾 Also saved as: stake_games_massive-studios_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched massive-studios games page!
+
+2025-08-07 02:06:15,093 - INFO - 📊 Extracted 21 games from stake_games_massive-studios_2025-08-06T21-06-14-188Z.html
+2025-08-07 02:06:15,306 - INFO - 📊 Extracted 21 games from stake_games_massive-studios_latest.html
+2025-08-07 02:06:15,481 - INFO - 📊 Extracted 21 games from stake_games_massive-studios_latest.html
+2025-08-07 02:06:15,482 - INFO - 📊 Provider has only 21 games (complete - no pagination needed)
+2025-08-07 02:06:15,483 - INFO - 💾 Saved 21 games data for Massive Studios
+2025-08-07 02:06:15,498 - INFO - ✅ Checkpoint saved: provider_massive-studios_initial
+2025-08-07 02:06:15,499 - INFO - ✅ Initial fetch completed for Massive Studios: complete
+2025-08-07 02:06:15,524 - INFO - 🎮 Fetching initial games for provider: Twist Gaming
+2025-08-07 02:06:18,273 - INFO - 📊 HTML fetch output for No Limit City:
+🚀 Starting live fetch of Stake.com games for provider: no-limit-city (attempt 1/3)...
+✅ Session created successfully: 0f90d240-1647-42cf-91e7-9806258ab92d
+📡 Fetching: https://stake.com/casino/group/no-limit-city
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1785329 characters
+💾 Games HTML saved to: stake_games_no-limit-city_2025-08-06T21-06-17-721Z.html
+🎰 Found 7102 game-related mentions
+� Page title: Nolimit City Slots - Play Free Demo Games on Stake Casino
+� Total games found: 94
+🎮 Found approximately 102.5 games in initial load
+🎉 Successfully fetched and analyzed games for no-limit-city!
+💾 Also saved as: stake_games_no-limit-city_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched no-limit-city games page!
+
+2025-08-07 02:06:18,464 - INFO - 📊 Extracted 39 games from stake_games_no-limit-city_2025-08-06T21-06-17-721Z.html
+2025-08-07 02:06:18,692 - INFO - 📊 Extracted 39 games from stake_games_no-limit-city_latest.html
+2025-08-07 02:06:18,903 - INFO - 📊 Extracted 39 games from stake_games_no-limit-city_latest.html
+2025-08-07 02:06:18,903 - INFO - 📊 Provider has 94 total games (39 in initial batch)
+2025-08-07 02:06:18,909 - INFO - 💾 Saved 39 games data for No Limit City
+2025-08-07 02:06:18,922 - INFO - ✅ Checkpoint saved: provider_no-limit-city_initial
+2025-08-07 02:06:18,922 - INFO - ✅ Initial fetch completed for No Limit City: initial batch (39/94)
+2025-08-07 02:06:18,947 - INFO - 🎮 Fetching initial games for provider: Titan Gaming
+2025-08-07 02:06:32,515 - INFO - 📊 HTML fetch output for Twist Gaming:
+🚀 Starting live fetch of Stake.com games for provider: twist-gaming (attempt 1/3)...
+✅ Session created successfully: 75ba3c61-2736-45f3-8ded-2f97c1ebe109
+📡 Fetching: https://stake.com/casino/group/twist-gaming
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'error', 'info', 'session' ]
+📏 Content length: 5 characters
+💾 Games HTML saved to: stake_games_twist-gaming_2025-08-06T21-06-32-165Z.html
+🎉 Successfully fetched and analyzed games for twist-gaming!
+💾 Also saved as: stake_games_twist-gaming_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched twist-gaming games page!
+
+2025-08-07 02:06:32,515 - INFO - 📊 Extracted 0 games from stake_games_twist-gaming_2025-08-06T21-06-32-165Z.html
+2025-08-07 02:06:32,515 - INFO - 📊 Extracted 0 games from stake_games_twist-gaming_latest.html
+2025-08-07 02:06:32,533 - INFO - 📊 Extracted 0 games from stake_games_twist-gaming_latest.html
+2025-08-07 02:06:32,535 - WARNING - ⚠️ Attempt 1 failed for Twist Gaming - small/no content (size: 5). Retrying...
+2025-08-07 02:06:38,598 - INFO - 📊 HTML fetch output for Titan Gaming:
+🚀 Starting live fetch of Stake.com games for provider: titan-gaming (attempt 1/3)...
+✅ Session created successfully: eeabc9cc-0cd7-4ee4-991e-e7d15acec804
+📡 Fetching: https://stake.com/casino/group/titan-gaming
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1647679 characters
+💾 Games HTML saved to: stake_games_titan-gaming_2025-08-06T21-06-38-221Z.html
+🎰 Found 6589 game-related mentions
+� Page title: Titan Gaming Games - Play Best Casino Games Online at Stake
+� Total games found: 16
+🎮 Found approximately 68 games in initial load
+🎉 Successfully fetched and analyzed games for titan-gaming!
+💾 Also saved as: stake_games_titan-gaming_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched titan-gaming games page!
+
+2025-08-07 02:06:38,793 - INFO - 📊 Extracted 16 games from stake_games_titan-gaming_2025-08-06T21-06-38-221Z.html
+2025-08-07 02:06:38,968 - INFO - 📊 Extracted 16 games from stake_games_titan-gaming_latest.html
+2025-08-07 02:06:39,129 - INFO - 📊 Extracted 16 games from stake_games_titan-gaming_latest.html
+2025-08-07 02:06:39,129 - INFO - 📊 Provider has only 16 games (complete - no pagination needed)
+2025-08-07 02:06:39,129 - INFO - 💾 Saved 16 games data for Titan Gaming
+2025-08-07 02:06:39,158 - INFO - ✅ Checkpoint saved: provider_titan-gaming_initial
+2025-08-07 02:06:39,159 - INFO - ✅ Initial fetch completed for Titan Gaming: complete
+2025-08-07 02:06:39,183 - INFO - 🎮 Fetching initial games for provider: Backseat Gaming
+2025-08-07 02:07:11,164 - INFO - 📊 HTML fetch output for Twist Gaming:
+🚀 Starting live fetch of Stake.com games for provider: twist-gaming (attempt 1/3)...
+✅ Session created successfully: 397cb369-a967-4aa4-8fcb-2f7d09032806
+📡 Fetching: https://stake.com/casino/group/twist-gaming
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1731926 characters
+💾 Games HTML saved to: stake_games_twist-gaming_2025-08-06T21-07-10-755Z.html
+🎰 Found 6734 game-related mentions
+� Page title: Twist Gaming - Top Online Casino Game Provider at Stake.com
+� Total games found: 24
+🎮 Found approximately 80 games in initial load
+🎉 Successfully fetched and analyzed games for twist-gaming!
+💾 Also saved as: stake_games_twist-gaming_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched twist-gaming games page!
+
+2025-08-07 02:07:11,164 - INFO - 📊 Extracted 0 games from stake_games_twist-gaming_2025-08-06T21-06-32-165Z.html
+2025-08-07 02:07:11,406 - INFO - 📊 Extracted 24 games from stake_games_twist-gaming_2025-08-06T21-07-10-755Z.html
+2025-08-07 02:07:11,579 - INFO - 📊 Extracted 24 games from stake_games_twist-gaming_latest.html
+2025-08-07 02:07:11,755 - INFO - 📊 Extracted 24 games from stake_games_twist-gaming_latest.html
+2025-08-07 02:07:11,755 - INFO - 📊 Provider has only 24 games (complete - no pagination needed)
+2025-08-07 02:07:11,755 - INFO - 💾 Saved 24 games data for Twist Gaming
+2025-08-07 02:07:11,776 - INFO - ✅ Checkpoint saved: provider_twist-gaming_initial
+2025-08-07 02:07:11,777 - INFO - ✅ Initial fetch completed for Twist Gaming: complete
+2025-08-07 02:07:11,802 - INFO - 🎮 Fetching initial games for provider: B Gaming
+2025-08-07 02:07:36,309 - INFO - 📊 HTML fetch output for Backseat Gaming:
+🚀 Starting live fetch of Stake.com games for provider: backseat-gaming (attempt 1/3)...
+✅ Session created successfully: 67972fc9-a711-4ceb-aff2-422275e7ace6
+📡 Fetching: https://stake.com/casino/group/backseat-gaming
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1718764 characters
+💾 Games HTML saved to: stake_games_backseat-gaming_2025-08-06T21-07-35-932Z.html
+🎰 Found 6817 game-related mentions
+� Page title: Backseat Gaming Slots - Play Best Slots Online at Stake.com
+� Total games found: 26
+🎮 Found approximately 83 games in initial load
+🎉 Successfully fetched and analyzed games for backseat-gaming!
+💾 Also saved as: stake_games_backseat-gaming_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched backseat-gaming games page!
+
+2025-08-07 02:07:36,549 - INFO - 📊 Extracted 26 games from stake_games_backseat-gaming_2025-08-06T21-07-35-932Z.html
+2025-08-07 02:07:36,739 - INFO - 📊 Extracted 26 games from stake_games_backseat-gaming_latest.html
+2025-08-07 02:07:36,914 - INFO - 📊 Extracted 26 games from stake_games_backseat-gaming_latest.html
+2025-08-07 02:07:36,914 - INFO - 📊 Provider has only 26 games (complete - no pagination needed)
+2025-08-07 02:07:36,914 - INFO - 💾 Saved 26 games data for Backseat Gaming
+2025-08-07 02:07:36,939 - INFO - ✅ Checkpoint saved: provider_backseat-gaming_initial
+2025-08-07 02:07:36,940 - INFO - ✅ Initial fetch completed for Backseat Gaming: complete
+2025-08-07 02:07:36,966 - INFO - 🎮 Fetching initial games for provider: Push Gaming
+2025-08-07 02:07:51,266 - INFO - 📊 HTML fetch output for B Gaming:
+🚀 Starting live fetch of Stake.com games for provider: b-gaming (attempt 1/3)...
+✅ Session created successfully: 27b4fd30-4d9b-4706-b4c1-6de6047c8681
+📡 Fetching: https://stake.com/casino/group/b-gaming
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'error', 'info', 'session' ]
+📏 Content length: 5 characters
+💾 Games HTML saved to: stake_games_b-gaming_2025-08-06T21-07-50-936Z.html
+🎉 Successfully fetched and analyzed games for b-gaming!
+💾 Also saved as: stake_games_b-gaming_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched b-gaming games page!
+
+2025-08-07 02:07:51,281 - INFO - 📊 Extracted 0 games from stake_games_b-gaming_2025-08-06T21-07-50-936Z.html
+2025-08-07 02:07:51,281 - INFO - 📊 Extracted 0 games from stake_games_b-gaming_latest.html
+2025-08-07 02:07:51,298 - INFO - 📊 Extracted 0 games from stake_games_b-gaming_latest.html
+2025-08-07 02:07:51,299 - WARNING - ⚠️ Attempt 1 failed for B Gaming - small/no content (size: 5). Retrying...
+2025-08-07 02:08:02,384 - INFO - 📊 HTML fetch output for Push Gaming:
+🚀 Starting live fetch of Stake.com games for provider: push-gaming (attempt 1/3)...
+✅ Session created successfully: 9f392fae-dbeb-45ea-bff8-66c03741843e
+📡 Fetching: https://stake.com/casino/group/push-gaming
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1805285 characters
+💾 Games HTML saved to: stake_games_push-gaming_2025-08-06T21-08-01-712Z.html
+🎰 Found 7140 game-related mentions
+� Page title: Push Gaming - Play Casino Slot Games Online at Stake.com
+� Total games found: 57
+🎮 Found approximately 102.5 games in initial load
+🎉 Successfully fetched and analyzed games for push-gaming!
+💾 Also saved as: stake_games_push-gaming_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched push-gaming games page!
+
+2025-08-07 02:08:02,622 - INFO - 📊 Extracted 39 games from stake_games_push-gaming_2025-08-06T21-08-01-712Z.html
+2025-08-07 02:08:02,822 - INFO - 📊 Extracted 39 games from stake_games_push-gaming_latest.html
+2025-08-07 02:08:03,019 - INFO - 📊 Extracted 39 games from stake_games_push-gaming_latest.html
+2025-08-07 02:08:03,023 - INFO - 📊 Provider has 57 total games (39 in initial batch)
+2025-08-07 02:08:03,024 - INFO - 💾 Saved 39 games data for Push Gaming
+2025-08-07 02:08:03,039 - INFO - ✅ Checkpoint saved: provider_push-gaming_initial
+2025-08-07 02:08:03,040 - INFO - ✅ Initial fetch completed for Push Gaming: initial batch (39/57)
+2025-08-07 02:08:03,065 - INFO - 🎮 Fetching initial games for provider: Hacksaw OpenRGS
+2025-08-07 02:08:27,009 - INFO - 📊 HTML fetch output for Hacksaw OpenRGS:
+🚀 Starting live fetch of Stake.com games for provider: hacksaw-openrgs (attempt 1/3)...
+✅ Session created successfully: 6b07329c-fe94-4b66-9247-c7ac34cbe50c
+📡 Fetching: https://stake.com/casino/group/hacksaw-openrgs
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1415233 characters
+💾 Games HTML saved to: stake_games_hacksaw-openrgs_2025-08-06T21-08-25-989Z.html
+🎰 Found 5615 game-related mentions
+� Page title: Play Hacksaw OpenRGS Casino Games Online - Stake.com
+� Total games found: 8
+🎮 Found approximately 56 games in initial load
+🎉 Successfully fetched and analyzed games for hacksaw-openrgs!
+💾 Also saved as: stake_games_hacksaw-openrgs_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched hacksaw-openrgs games page!
+
+2025-08-07 02:08:27,199 - INFO - 📊 Extracted 8 games from stake_games_hacksaw-openrgs_2025-08-06T21-08-25-989Z.html
+2025-08-07 02:08:27,365 - INFO - 📊 Extracted 8 games from stake_games_hacksaw-openrgs_latest.html
+2025-08-07 02:08:27,510 - INFO - 📊 Extracted 8 games from stake_games_hacksaw-openrgs_latest.html
+2025-08-07 02:08:27,510 - INFO - 📊 Provider has only 8 games (complete - no pagination needed)
+2025-08-07 02:08:27,515 - INFO - 💾 Saved 8 games data for Hacksaw OpenRGS
+2025-08-07 02:08:27,531 - INFO - ✅ Checkpoint saved: provider_hacksaw-openrgs_initial
+2025-08-07 02:08:27,532 - INFO - ✅ Initial fetch completed for Hacksaw OpenRGS: complete
+2025-08-07 02:08:27,564 - INFO - 🎮 Fetching initial games for provider: Stake Engine
+2025-08-07 02:08:38,102 - INFO - 📊 HTML fetch output for B Gaming:
+🚀 Starting live fetch of Stake.com games for provider: b-gaming (attempt 1/3)...
+✅ Session created successfully: 1851c820-b8b1-4688-aaa2-ab214aa5239c
+📡 Fetching: https://stake.com/casino/group/b-gaming
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1907134 characters
+💾 Games HTML saved to: stake_games_b-gaming_2025-08-06T21-08-37-684Z.html
+🎰 Found 7747 game-related mentions
+� Page title: BGaming Slot Games - Play Casino Games Online at Stake
+� Total games found: 153
+🎮 Found approximately 102.5 games in initial load
+🎉 Successfully fetched and analyzed games for b-gaming!
+💾 Also saved as: stake_games_b-gaming_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched b-gaming games page!
+
+2025-08-07 02:08:38,102 - INFO - 📊 Extracted 0 games from stake_games_b-gaming_2025-08-06T21-07-50-936Z.html
+2025-08-07 02:08:38,349 - INFO - 📊 Extracted 39 games from stake_games_b-gaming_2025-08-06T21-08-37-684Z.html
+2025-08-07 02:08:38,559 - INFO - 📊 Extracted 39 games from stake_games_b-gaming_latest.html
+2025-08-07 02:08:38,757 - INFO - 📊 Extracted 39 games from stake_games_b-gaming_latest.html
+2025-08-07 02:08:38,757 - INFO - 📊 Provider has 153 total games (39 in initial batch)
+2025-08-07 02:08:38,772 - INFO - 💾 Saved 39 games data for B Gaming
+2025-08-07 02:08:38,789 - INFO - ✅ Checkpoint saved: provider_b-gaming_initial
+2025-08-07 02:08:38,790 - INFO - ✅ Initial fetch completed for B Gaming: initial batch (39/153)
+2025-08-07 02:08:38,818 - INFO - 🎮 Fetching initial games for provider: Shady Lady
+2025-08-07 02:09:15,007 - INFO - 📊 HTML fetch output for Shady Lady:
+🚀 Starting live fetch of Stake.com games for provider: shady-lady (attempt 1/3)...
+✅ Session created successfully: de60d74c-1af8-489a-94f5-9da57be29aa9
+📡 Fetching: https://stake.com/casino/group/shady-lady
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1601168 characters
+💾 Games HTML saved to: stake_games_shady-lady_2025-08-06T21-09-14-614Z.html
+🎰 Found 6187 game-related mentions
+� Page title: Shady Lady Casino Slot Provider - Play Slot Games Online
+� Total games found: 5
+🎮 Found approximately 51.5 games in initial load
+🎉 Successfully fetched and analyzed games for shady-lady!
+💾 Also saved as: stake_games_shady-lady_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched shady-lady games page!
+
+2025-08-07 02:09:15,228 - INFO - 📊 Extracted 5 games from stake_games_shady-lady_2025-08-06T21-09-14-614Z.html
+2025-08-07 02:09:15,392 - INFO - 📊 Extracted 5 games from stake_games_shady-lady_latest.html
+2025-08-07 02:09:15,543 - INFO - 📊 Extracted 5 games from stake_games_shady-lady_latest.html
+2025-08-07 02:09:15,558 - INFO - 📊 Provider has only 5 games (complete - no pagination needed)
+2025-08-07 02:09:15,558 - INFO - 💾 Saved 5 games data for Shady Lady
+2025-08-07 02:09:15,573 - INFO - ✅ Checkpoint saved: provider_shady-lady_initial
+2025-08-07 02:09:15,575 - INFO - ✅ Initial fetch completed for Shady Lady: complete
+2025-08-07 02:09:15,605 - INFO - 🎮 Fetching initial games for provider: Relax Gaming
+2025-08-07 02:09:38,982 - INFO - 📊 HTML fetch output for Relax Gaming:
+🚀 Starting live fetch of Stake.com games for provider: relax-gaming (attempt 1/3)...
+✅ Session created successfully: 1f280258-665e-4a66-bb6b-69dc5c745a15
+📡 Fetching: https://stake.com/casino/group/relax-gaming
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1810199 characters
+💾 Games HTML saved to: stake_games_relax-gaming_2025-08-06T21-09-38-277Z.html
+🎰 Found 7149 game-related mentions
+� Page title: Relax Gaming Casino Games - Play Online at Stake.com
+� Total games found: 132
+🎮 Found approximately 102.5 games in initial load
+🎉 Successfully fetched and analyzed games for relax-gaming!
+💾 Also saved as: stake_games_relax-gaming_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched relax-gaming games page!
+
+2025-08-07 02:09:39,227 - INFO - 📊 Extracted 39 games from stake_games_relax-gaming_2025-08-06T21-09-38-277Z.html
+2025-08-07 02:09:39,430 - INFO - 📊 Extracted 39 games from stake_games_relax-gaming_latest.html
+2025-08-07 02:09:39,651 - INFO - 📊 Extracted 39 games from stake_games_relax-gaming_latest.html
+2025-08-07 02:09:39,651 - INFO - 📊 Provider has 132 total games (39 in initial batch)
+2025-08-07 02:09:39,666 - INFO - 💾 Saved 39 games data for Relax Gaming
+2025-08-07 02:09:39,682 - INFO - ✅ Checkpoint saved: provider_relax-gaming_initial
+2025-08-07 02:09:39,684 - INFO - ✅ Initial fetch completed for Relax Gaming: initial batch (39/132)
+2025-08-07 02:09:39,708 - INFO - 🎮 Fetching initial games for provider: Avatarux
+2025-08-07 02:09:46,698 - INFO - 📊 HTML fetch output for Stake Engine:
+🚀 Starting live fetch of Stake.com games for provider: stake-engine (attempt 1/3)...
+✅ Session created successfully: 1712d935-5690-4e6e-be93-baadb07d01dc
+📡 Fetching: https://stake.com/casino/group/stake-engine
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'error', 'info', 'session' ]
+📏 Content length: 5 characters
+💾 Games HTML saved to: stake_games_stake-engine_2025-08-06T21-09-46-368Z.html
+🎉 Successfully fetched and analyzed games for stake-engine!
+💾 Also saved as: stake_games_stake-engine_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched stake-engine games page!
+
+2025-08-07 02:09:46,713 - INFO - 📊 Extracted 0 games from stake_games_stake-engine_2025-08-06T21-09-46-368Z.html
+2025-08-07 02:09:46,713 - INFO - 📊 Extracted 0 games from stake_games_stake-engine_latest.html
+2025-08-07 02:09:46,727 - INFO - 📊 Extracted 0 games from stake_games_stake-engine_latest.html
+2025-08-07 02:09:46,728 - WARNING - ⚠️ Attempt 1 failed for Stake Engine - small/no content (size: 5). Retrying...
+2025-08-07 02:10:23,572 - INFO - 📊 HTML fetch output for Avatarux:
+🚀 Starting live fetch of Stake.com games for provider: avatarux (attempt 1/3)...
+✅ Session created successfully: 2875c210-cd8c-4e1d-9a86-661e1411c64e
+📡 Fetching: https://stake.com/casino/group/avatarux
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'error', 'info', 'session' ]
+📏 Content length: 5 characters
+💾 Games HTML saved to: stake_games_avatarux_2025-08-06T21-10-23-195Z.html
+🎉 Successfully fetched and analyzed games for avatarux!
+💾 Also saved as: stake_games_avatarux_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched avatarux games page!
+
+2025-08-07 02:10:23,572 - INFO - 📊 Extracted 0 games from stake_games_avatarux_2025-08-06T21-10-23-195Z.html
+2025-08-07 02:10:23,572 - INFO - 📊 Extracted 0 games from stake_games_avatarux_latest.html
+2025-08-07 02:10:23,597 - INFO - 📊 Extracted 0 games from stake_games_avatarux_latest.html
+2025-08-07 02:10:23,597 - WARNING - ⚠️ Attempt 1 failed for Avatarux - small/no content (size: 5). Retrying...
+2025-08-07 02:10:40,148 - INFO - 📊 HTML fetch output for Stake Engine:
+🚀 Starting live fetch of Stake.com games for provider: stake-engine (attempt 1/3)...
+✅ Session created successfully: cff98240-2f0f-4fa6-8bf7-f7eacaeedef8
+📡 Fetching: https://stake.com/casino/group/stake-engine
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1689394 characters
+💾 Games HTML saved to: stake_games_stake-engine_2025-08-06T21-10-39-424Z.html
+🎰 Found 6534 game-related mentions
+� Page title: Stake Engine Casino Game Developer &amp; Remote Gaming Server
+� Total games found: 27
+🎮 Found approximately 84.5 games in initial load
+🎉 Successfully fetched and analyzed games for stake-engine!
+💾 Also saved as: stake_games_stake-engine_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched stake-engine games page!
+
+2025-08-07 02:10:40,148 - INFO - 📊 Extracted 0 games from stake_games_stake-engine_2025-08-06T21-09-46-368Z.html
+2025-08-07 02:10:40,327 - INFO - 📊 Extracted 27 games from stake_games_stake-engine_2025-08-06T21-10-39-424Z.html
+2025-08-07 02:10:40,502 - INFO - 📊 Extracted 27 games from stake_games_stake-engine_latest.html
+2025-08-07 02:10:40,723 - INFO - 📊 Extracted 27 games from stake_games_stake-engine_latest.html
+2025-08-07 02:10:40,723 - INFO - 📊 Provider has only 27 games (complete - no pagination needed)
+2025-08-07 02:10:40,723 - INFO - 💾 Saved 27 games data for Stake Engine
+2025-08-07 02:10:40,746 - INFO - ✅ Checkpoint saved: provider_stake-engine_initial
+2025-08-07 02:10:40,747 - INFO - ✅ Initial fetch completed for Stake Engine: complete
+2025-08-07 02:10:40,768 - INFO - 🎮 Fetching initial games for provider: Thunderkick
+2025-08-07 02:10:50,314 - INFO - 📊 HTML fetch output for Thunderkick:
+🚀 Starting live fetch of Stake.com games for provider: thunderkick (attempt 1/3)...
+✅ Session created successfully: 46c3c6fb-69e2-4930-9f7c-8f00db33d5a5
+📡 Fetching: https://stake.com/casino/group/thunderkick
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'error', 'info', 'session' ]
+📏 Content length: 5 characters
+💾 Games HTML saved to: stake_games_thunderkick_2025-08-06T21-10-49-687Z.html
+🎉 Successfully fetched and analyzed games for thunderkick!
+💾 Also saved as: stake_games_thunderkick_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched thunderkick games page!
+
+2025-08-07 02:10:50,324 - INFO - 📊 Extracted 0 games from stake_games_thunderkick_2025-08-06T21-10-49-687Z.html
+2025-08-07 02:10:50,324 - INFO - 📊 Extracted 0 games from stake_games_thunderkick_latest.html
+2025-08-07 02:10:50,337 - INFO - 📊 Extracted 0 games from stake_games_thunderkick_latest.html
+2025-08-07 02:10:50,337 - WARNING - ⚠️ Attempt 1 failed for Thunderkick - small/no content (size: 5). Retrying...
+2025-08-07 02:10:56,903 - INFO - 📊 HTML fetch output for Avatarux:
+🚀 Starting live fetch of Stake.com games for provider: avatarux (attempt 1/3)...
+✅ Session created successfully: 2bde9689-b226-497b-a595-1c79b1d85b2e
+📡 Fetching: https://stake.com/casino/group/avatarux
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1542968 characters
+💾 Games HTML saved to: stake_games_avatarux_2025-08-06T21-10-56-510Z.html
+🎰 Found 6658 game-related mentions
+� Page title: AvatarUX Studios - Play Popular Slots Online at Stake Casino
+� Total games found: 61
+🎮 Found approximately 102.5 games in initial load
+🎉 Successfully fetched and analyzed games for avatarux!
+💾 Also saved as: stake_games_avatarux_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched avatarux games page!
+
+2025-08-07 02:10:56,903 - INFO - 📊 Extracted 0 games from stake_games_avatarux_2025-08-06T21-10-23-195Z.html
+2025-08-07 02:10:57,046 - INFO - 📊 Extracted 39 games from stake_games_avatarux_2025-08-06T21-10-56-510Z.html
+2025-08-07 02:10:57,170 - INFO - 📊 Extracted 39 games from stake_games_avatarux_latest.html
+2025-08-07 02:10:57,318 - INFO - 📊 Extracted 39 games from stake_games_avatarux_latest.html
+2025-08-07 02:10:57,318 - INFO - 📊 Provider has 61 total games (39 in initial batch)
+2025-08-07 02:10:57,318 - INFO - 💾 Saved 39 games data for Avatarux
+2025-08-07 02:10:57,341 - INFO - ✅ Checkpoint saved: provider_avatarux_initial
+2025-08-07 02:10:57,341 - INFO - ✅ Initial fetch completed for Avatarux: initial batch (39/61)
+2025-08-07 02:10:57,366 - INFO - 🎮 Fetching initial games for provider: Penguin King
+2025-08-07 02:11:21,417 - INFO - 📊 HTML fetch output for Penguin King:
+🚀 Starting live fetch of Stake.com games for provider: penguin-king (attempt 1/3)...
+✅ Session created successfully: 9a23705c-1235-43b7-9bfe-bd919f438cdb
+📡 Fetching: https://stake.com/casino/group/penguin-king
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1739237 characters
+💾 Games HTML saved to: stake_games_penguin-king_2025-08-06T21-11-21-040Z.html
+🎰 Found 6967 game-related mentions
+� Page title: Penguin King Games - Play Slots by Penguin King on Stake Casino
+� Total games found: 52
+🎮 Found approximately 102.5 games in initial load
+🎉 Successfully fetched and analyzed games for penguin-king!
+💾 Also saved as: stake_games_penguin-king_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched penguin-king games page!
+
+2025-08-07 02:11:21,668 - INFO - 📊 Extracted 39 games from stake_games_penguin-king_2025-08-06T21-11-21-040Z.html
+2025-08-07 02:11:21,860 - INFO - 📊 Extracted 39 games from stake_games_penguin-king_latest.html
+2025-08-07 02:11:22,065 - INFO - 📊 Extracted 39 games from stake_games_penguin-king_latest.html
+2025-08-07 02:11:22,065 - INFO - 📊 Provider has 52 total games (39 in initial batch)
+2025-08-07 02:11:22,065 - INFO - 💾 Saved 39 games data for Penguin King
+2025-08-07 02:11:22,093 - INFO - ✅ Checkpoint saved: provider_penguin-king_initial
+2025-08-07 02:11:22,094 - INFO - ✅ Initial fetch completed for Penguin King: initial batch (39/52)
+2025-08-07 02:11:22,118 - INFO - 🎮 Fetching initial games for provider: Fat Panda
+2025-08-07 02:11:41,500 - INFO - 📊 HTML fetch output for Thunderkick:
+🚀 Starting live fetch of Stake.com games for provider: thunderkick (attempt 1/3)...
+✅ Session created successfully: ca57f542-c8c2-40f7-a2b5-12057618721f
+📡 Fetching: https://stake.com/casino/group/thunderkick
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'error', 'info', 'session' ]
+📏 Content length: 5 characters
+💾 Games HTML saved to: stake_games_thunderkick_2025-08-06T21-11-40-499Z.html
+🎉 Successfully fetched and analyzed games for thunderkick!
+💾 Also saved as: stake_games_thunderkick_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched thunderkick games page!
+
+2025-08-07 02:11:41,500 - INFO - 📊 Extracted 0 games from stake_games_thunderkick_2025-08-06T21-10-49-687Z.html
+2025-08-07 02:11:41,500 - INFO - 📊 Extracted 0 games from stake_games_thunderkick_2025-08-06T21-11-40-499Z.html
+2025-08-07 02:11:41,526 - INFO - 📊 Extracted 0 games from stake_games_thunderkick_latest.html
+2025-08-07 02:11:41,527 - INFO - 📊 Extracted 0 games from stake_games_thunderkick_latest.html
+2025-08-07 02:11:41,551 - WARNING - ⚠️ Attempt 2 failed for Thunderkick - small/no content (size: 5). Retrying...
+2025-08-07 02:11:44,247 - INFO - 📊 HTML fetch output for Fat Panda:
+🚀 Starting live fetch of Stake.com games for provider: fat-panda (attempt 1/3)...
+✅ Session created successfully: 30b4c05c-ea4d-4eea-a05b-74a1ca321de6
+📡 Fetching: https://stake.com/casino/group/fat-panda
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1612655 characters
+💾 Games HTML saved to: stake_games_fat-panda_2025-08-06T21-11-43-862Z.html
+🎰 Found 6347 game-related mentions
+� Page title: Fat Panda Casino Games on Stake - Play Slots by Fat Panda
+� Total games found: 15
+🎮 Found approximately 66.5 games in initial load
+🎉 Successfully fetched and analyzed games for fat-panda!
+💾 Also saved as: stake_games_fat-panda_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched fat-panda games page!
+
+2025-08-07 02:11:44,402 - INFO - 📊 Extracted 15 games from stake_games_fat-panda_2025-08-06T21-11-43-862Z.html
+2025-08-07 02:11:44,563 - INFO - 📊 Extracted 15 games from stake_games_fat-panda_latest.html
+2025-08-07 02:11:44,719 - INFO - 📊 Extracted 15 games from stake_games_fat-panda_latest.html
+2025-08-07 02:11:44,719 - INFO - 📊 Provider has only 15 games (complete - no pagination needed)
+2025-08-07 02:11:44,719 - INFO - 💾 Saved 15 games data for Fat Panda
+2025-08-07 02:11:44,744 - INFO - ✅ Checkpoint saved: provider_fat-panda_initial
+2025-08-07 02:11:44,745 - INFO - ✅ Initial fetch completed for Fat Panda: complete
+2025-08-07 02:11:44,768 - INFO - 🎮 Fetching initial games for provider: Peter & Sons
+2025-08-07 02:11:51,878 - INFO - 📊 HTML fetch output for Thunderkick:
+🚀 Starting live fetch of Stake.com games for provider: thunderkick (attempt 1/3)...
+✅ Session created successfully: 589d571d-afc8-4e3b-9158-08782a08b1ca
+📡 Fetching: https://stake.com/casino/group/thunderkick
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'error', 'info', 'session' ]
+📏 Content length: 5 characters
+💾 Games HTML saved to: stake_games_thunderkick_2025-08-06T21-11-51-513Z.html
+🎉 Successfully fetched and analyzed games for thunderkick!
+💾 Also saved as: stake_games_thunderkick_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched thunderkick games page!
+
+2025-08-07 02:11:51,882 - INFO - 📊 Extracted 0 games from stake_games_thunderkick_2025-08-06T21-10-49-687Z.html
+2025-08-07 02:11:51,883 - INFO - 📊 Extracted 0 games from stake_games_thunderkick_2025-08-06T21-11-40-499Z.html
+2025-08-07 02:11:51,900 - INFO - 📊 Extracted 0 games from stake_games_thunderkick_2025-08-06T21-11-51-513Z.html
+2025-08-07 02:11:51,901 - INFO - 📊 Extracted 0 games from stake_games_thunderkick_latest.html
+2025-08-07 02:11:51,933 - INFO - 📊 Extracted 0 games from stake_games_thunderkick_latest.html
+2025-08-07 02:11:51,935 - ERROR - ❌ All attempts failed for Thunderkick - no valid content after 3 tries
+2025-08-07 02:11:51,961 - INFO - 🎮 Fetching initial games for provider: Play'n GO
+2025-08-07 02:12:13,366 - INFO - 📊 HTML fetch output for Peter & Sons:
+🚀 Starting live fetch of Stake.com games for provider: peter-sons (attempt 1/3)...
+✅ Session created successfully: ca0f9942-7ffb-4476-84c3-65744378a828
+📡 Fetching: https://stake.com/casino/group/peter-sons
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1733875 characters
+💾 Games HTML saved to: stake_games_peter-sons_2025-08-06T21-12-12-995Z.html
+🎰 Found 6748 game-related mentions
+� Page title: Peter &amp; Sons Casino Games - Provider Overview &amp; Free Slots
+� Total games found: 33
+🎮 Found approximately 93.5 games in initial load
+🎉 Successfully fetched and analyzed games for peter-sons!
+💾 Also saved as: stake_games_peter-sons_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched peter-sons games page!
+
+2025-08-07 02:12:13,616 - INFO - 📊 Extracted 33 games from stake_games_peter-sons_2025-08-06T21-12-12-995Z.html
+2025-08-07 02:12:13,806 - INFO - 📊 Extracted 33 games from stake_games_peter-sons_latest.html
+2025-08-07 02:12:14,026 - INFO - 📊 Extracted 33 games from stake_games_peter-sons_latest.html
+2025-08-07 02:12:14,026 - INFO - 📊 Provider has only 33 games (complete - no pagination needed)
+2025-08-07 02:12:14,026 - INFO - 💾 Saved 33 games data for Peter & Sons
+2025-08-07 02:12:14,046 - INFO - ✅ Checkpoint saved: provider_peter-sons_initial
+2025-08-07 02:12:14,046 - INFO - ✅ Initial fetch completed for Peter & Sons: complete
+2025-08-07 02:12:14,066 - INFO - 🎮 Fetching initial games for provider: Popiplay
+2025-08-07 02:12:15,517 - INFO - 📊 HTML fetch output for Play'n GO:
+🚀 Starting live fetch of Stake.com games for provider: playn-go (attempt 1/3)...
+✅ Session created successfully: 715ca6ff-9459-456c-a0a2-ad305f2be3b1
+📡 Fetching: https://stake.com/casino/group/playn-go
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1843598 characters
+💾 Games HTML saved to: stake_games_playn-go_2025-08-06T21-12-15-127Z.html
+🎰 Found 7952 game-related mentions
+� Page title: Play'n GO Slots &amp; Best Online Casino Games - Play Free
+� Total games found: 199
+🎮 Found approximately 102.5 games in initial load
+🎉 Successfully fetched and analyzed games for playn-go!
+💾 Also saved as: stake_games_playn-go_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched playn-go games page!
+
+2025-08-07 02:12:15,747 - INFO - 📊 Extracted 39 games from stake_games_playn-go_2025-08-06T21-12-15-127Z.html
+2025-08-07 02:12:15,947 - INFO - 📊 Extracted 39 games from stake_games_playn-go_latest.html
+2025-08-07 02:12:16,197 - INFO - 📊 Extracted 39 games from stake_games_playn-go_latest.html
+2025-08-07 02:12:16,207 - INFO - 📊 Provider has 199 total games (39 in initial batch)
+2025-08-07 02:12:16,207 - INFO - 💾 Saved 39 games data for Play'n GO
+2025-08-07 02:12:16,217 - INFO - ✅ Checkpoint saved: provider_playn-go_initial
+2025-08-07 02:12:16,217 - INFO - ✅ Initial fetch completed for Play'n GO: initial batch (39/199)
+2025-08-07 02:12:16,247 - INFO - 🎮 Fetching initial games for provider: Paperclip Gaming
+2025-08-07 02:12:44,526 - INFO - 📊 HTML fetch output for Popiplay:
+🚀 Starting live fetch of Stake.com games for provider: popiplay (attempt 1/3)...
+✅ Session created successfully: 310d416c-c66f-402c-b022-758ce812a107
+📡 Fetching: https://stake.com/casino/group/popiplay
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1780545 characters
+💾 Games HTML saved to: stake_games_popiplay_2025-08-06T21-12-44-126Z.html
+🎰 Found 7652 game-related mentions
+� Page title: Popiplay Slot Casino Games - Play Best Slots Online at Stake
+� Total games found: 60
+🎮 Found approximately 102.5 games in initial load
+🎉 Successfully fetched and analyzed games for popiplay!
+💾 Also saved as: stake_games_popiplay_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched popiplay games page!
+
+2025-08-07 02:12:44,744 - INFO - 📊 Extracted 39 games from stake_games_popiplay_2025-08-06T21-12-44-126Z.html
+2025-08-07 02:12:44,974 - INFO - 📊 Extracted 39 games from stake_games_popiplay_latest.html
+2025-08-07 02:12:45,188 - INFO - 📊 Extracted 39 games from stake_games_popiplay_latest.html
+2025-08-07 02:12:45,188 - INFO - 📊 Provider has 60 total games (39 in initial batch)
+2025-08-07 02:12:45,188 - INFO - 💾 Saved 39 games data for Popiplay
+2025-08-07 02:12:45,215 - INFO - ✅ Checkpoint saved: provider_popiplay_initial
+2025-08-07 02:12:45,218 - INFO - ✅ Initial fetch completed for Popiplay: initial batch (39/60)
+2025-08-07 02:12:45,249 - INFO - 🎮 Fetching initial games for provider: Elk Studios
+2025-08-07 02:12:49,798 - INFO - 📊 HTML fetch output for Paperclip Gaming:
+🚀 Starting live fetch of Stake.com games for provider: paperclip-gaming (attempt 1/3)...
+✅ Session created successfully: 94c74c5e-39f8-4a9b-8edb-d6174e9708a4
+📡 Fetching: https://stake.com/casino/group/paperclip-gaming
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'error', 'info', 'session' ]
+📏 Content length: 5 characters
+💾 Games HTML saved to: stake_games_paperclip-gaming_2025-08-06T21-12-49-465Z.html
+🎉 Successfully fetched and analyzed games for paperclip-gaming!
+💾 Also saved as: stake_games_paperclip-gaming_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched paperclip-gaming games page!
+
+2025-08-07 02:12:49,801 - INFO - 📊 Extracted 0 games from stake_games_paperclip-gaming_2025-08-06T21-12-49-465Z.html
+2025-08-07 02:12:49,803 - INFO - 📊 Extracted 0 games from stake_games_paperclip-gaming_latest.html
+2025-08-07 02:12:49,818 - INFO - 📊 Extracted 0 games from stake_games_paperclip-gaming_latest.html
+2025-08-07 02:12:49,819 - WARNING - ⚠️ Attempt 1 failed for Paperclip Gaming - small/no content (size: 5). Retrying...
+2025-08-07 02:13:00,734 - INFO - 📊 HTML fetch output for Paperclip Gaming:
+🚀 Starting live fetch of Stake.com games for provider: paperclip-gaming (attempt 1/3)...
+✅ Session created successfully: baa1a446-7fa2-4d86-93b4-004ef78f15c9
+📡 Fetching: https://stake.com/casino/group/paperclip-gaming
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'error', 'info', 'session' ]
+📏 Content length: 5 characters
+💾 Games HTML saved to: stake_games_paperclip-gaming_2025-08-06T21-13-00-407Z.html
+🎉 Successfully fetched and analyzed games for paperclip-gaming!
+💾 Also saved as: stake_games_paperclip-gaming_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched paperclip-gaming games page!
+
+2025-08-07 02:13:00,745 - INFO - 📊 Extracted 0 games from stake_games_paperclip-gaming_2025-08-06T21-12-49-465Z.html
+2025-08-07 02:13:00,745 - INFO - 📊 Extracted 0 games from stake_games_paperclip-gaming_2025-08-06T21-13-00-407Z.html
+2025-08-07 02:13:00,758 - INFO - 📊 Extracted 0 games from stake_games_paperclip-gaming_latest.html
+2025-08-07 02:13:00,759 - INFO - 📊 Extracted 0 games from stake_games_paperclip-gaming_latest.html
+2025-08-07 02:13:00,794 - WARNING - ⚠️ Attempt 2 failed for Paperclip Gaming - small/no content (size: 5). Retrying...
+2025-08-07 02:13:23,714 - INFO - 📊 HTML fetch output for Elk Studios:
+🚀 Starting live fetch of Stake.com games for provider: elk-studios (attempt 1/3)...
+✅ Session created successfully: 568399f0-cb33-46fe-b2ce-3edd376253c2
+📡 Fetching: https://stake.com/casino/group/elk-studios
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1700838 characters
+💾 Games HTML saved to: stake_games_elk-studios_2025-08-06T21-13-23-319Z.html
+🎰 Found 7066 game-related mentions
+� Page title: ELK Studios Casino Games - Play Slots Online at Stake.com
+� Total games found: 125
+🎮 Found approximately 102.5 games in initial load
+🎉 Successfully fetched and analyzed games for elk-studios!
+💾 Also saved as: stake_games_elk-studios_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched elk-studios games page!
+
+2025-08-07 02:13:23,884 - INFO - 📊 Extracted 39 games from stake_games_elk-studios_2025-08-06T21-13-23-319Z.html
+2025-08-07 02:13:24,121 - INFO - 📊 Extracted 39 games from stake_games_elk-studios_latest.html
+2025-08-07 02:13:24,281 - INFO - 📊 Extracted 39 games from stake_games_elk-studios_latest.html
+2025-08-07 02:13:24,281 - INFO - 📊 Provider has 125 total games (39 in initial batch)
+2025-08-07 02:13:24,281 - INFO - 💾 Saved 39 games data for Elk Studios
+2025-08-07 02:13:24,304 - INFO - ✅ Checkpoint saved: provider_elk-studios_initial
+2025-08-07 02:13:24,304 - INFO - ✅ Initial fetch completed for Elk Studios: initial batch (39/125)
+2025-08-07 02:13:24,332 - INFO - 🎮 Fetching initial games for provider: Print Studios
+2025-08-07 02:14:09,948 - INFO - 📊 HTML fetch output for Paperclip Gaming:
+🚀 Starting live fetch of Stake.com games for provider: paperclip-gaming (attempt 1/3)...
+✅ Session created successfully: 2060f371-44be-40d8-bab5-6d7abc8d1569
+📡 Fetching: https://stake.com/casino/group/paperclip-gaming
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1571858 characters
+💾 Games HTML saved to: stake_games_paperclip-gaming_2025-08-06T21-14-09-217Z.html
+🎰 Found 6219 game-related mentions
+� Page title: Paperclip Gaming Slot Games - Play Best Casino Games Online
+� Total games found: 9
+🎮 Found approximately 57.5 games in initial load
+🎉 Successfully fetched and analyzed games for paperclip-gaming!
+💾 Also saved as: stake_games_paperclip-gaming_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched paperclip-gaming games page!
+
+2025-08-07 02:14:09,951 - INFO - 📊 Extracted 0 games from stake_games_paperclip-gaming_2025-08-06T21-12-49-465Z.html
+2025-08-07 02:14:09,951 - INFO - 📊 Extracted 0 games from stake_games_paperclip-gaming_2025-08-06T21-13-00-407Z.html
+2025-08-07 02:14:10,095 - INFO - 📊 Extracted 9 games from stake_games_paperclip-gaming_2025-08-06T21-14-09-217Z.html
+2025-08-07 02:14:10,250 - INFO - 📊 Extracted 9 games from stake_games_paperclip-gaming_latest.html
+2025-08-07 02:14:10,466 - INFO - 📊 Extracted 9 games from stake_games_paperclip-gaming_latest.html
+2025-08-07 02:14:10,466 - INFO - 📊 Provider has only 9 games (complete - no pagination needed)
+2025-08-07 02:14:10,466 - INFO - 💾 Saved 9 games data for Paperclip Gaming
+2025-08-07 02:14:10,482 - INFO - ✅ Checkpoint saved: provider_paperclip-gaming_initial
+2025-08-07 02:14:10,482 - INFO - ✅ Initial fetch completed for Paperclip Gaming: complete
+2025-08-07 02:14:10,506 - INFO - 🎮 Fetching initial games for provider: Bullshark Games
+2025-08-07 02:14:17,795 - INFO - 📊 HTML fetch output for Print Studios:
+🚀 Starting live fetch of Stake.com games for provider: print-studios (attempt 1/3)...
+✅ Session created successfully: f2f9709b-a04c-4731-9e79-5e1bb72b13a4
+📡 Fetching: https://stake.com/casino/group/print-studios
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1575538 characters
+💾 Games HTML saved to: stake_games_print-studios_2025-08-06T21-14-17-403Z.html
+🎰 Found 6426 game-related mentions
+� Page title: Print Studios Casino Games - Play Slots Online at Stake
+� Total games found: 22
+🎮 Found approximately 77 games in initial load
+🎉 Successfully fetched and analyzed games for print-studios!
+💾 Also saved as: stake_games_print-studios_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched print-studios games page!
+
+2025-08-07 02:14:17,951 - INFO - 📊 Extracted 22 games from stake_games_print-studios_2025-08-06T21-14-17-403Z.html
+2025-08-07 02:14:18,138 - INFO - 📊 Extracted 22 games from stake_games_print-studios_latest.html
+2025-08-07 02:14:18,343 - INFO - 📊 Extracted 22 games from stake_games_print-studios_latest.html
+2025-08-07 02:14:18,343 - INFO - 📊 Provider has only 22 games (complete - no pagination needed)
+2025-08-07 02:14:18,343 - INFO - 💾 Saved 22 games data for Print Studios
+2025-08-07 02:14:18,367 - INFO - ✅ Checkpoint saved: provider_print-studios_initial
+2025-08-07 02:14:18,368 - INFO - ✅ Initial fetch completed for Print Studios: complete
+2025-08-07 02:14:18,391 - INFO - 🎮 Fetching initial games for provider: NetEnt
+2025-08-07 02:14:42,050 - INFO - 📊 HTML fetch output for Bullshark Games:
+🚀 Starting live fetch of Stake.com games for provider: bullshark-games (attempt 1/3)...
+✅ Session created successfully: 0c9e64af-c47f-4fd3-941d-2a62cb65d314
+📡 Fetching: https://stake.com/casino/group/bullshark-games
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 46560 characters
+💾 Games HTML saved to: stake_games_bullshark-games_2025-08-06T21-14-41-516Z.html
+� Page title: Stake under Maintenance
+🎉 Successfully fetched and analyzed games for bullshark-games!
+💾 Also saved as: stake_games_bullshark-games_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched bullshark-games games page!
+
+2025-08-07 02:14:42,059 - INFO - 📊 Extracted 0 games from stake_games_bullshark-games_2025-08-06T21-14-41-516Z.html
+2025-08-07 02:14:42,059 - INFO - 📊 Extracted 0 games from stake_games_bullshark-games_latest.html
+2025-08-07 02:14:42,076 - INFO - 📊 Extracted 0 games from stake_games_bullshark-games_latest.html
+2025-08-07 02:14:42,077 - WARNING - ⚠️ Attempt 1 failed for Bullshark Games - small/no content (size: 46560). Retrying...
+2025-08-07 02:14:49,917 - INFO - 📊 HTML fetch output for NetEnt:
+🚀 Starting live fetch of Stake.com games for provider: netent (attempt 1/3)...
+✅ Session created successfully: ea05586e-dfd2-4265-9190-801739789c52
+📡 Fetching: https://stake.com/casino/group/netent
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1717796 characters
+💾 Games HTML saved to: stake_games_netent_2025-08-06T21-14-49-525Z.html
+🎰 Found 6974 game-related mentions
+� Page title: NetEnt Casino Games Online - Play Slots at Stake.com
+� Total games found: 90
+🎮 Found approximately 102.5 games in initial load
+🎉 Successfully fetched and analyzed games for netent!
+💾 Also saved as: stake_games_netent_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched netent games page!
+
+2025-08-07 02:14:50,098 - INFO - 📊 Extracted 39 games from stake_games_netent_2025-08-06T21-14-49-525Z.html
+2025-08-07 02:14:50,293 - INFO - 📊 Extracted 39 games from stake_games_netent_latest.html
+2025-08-07 02:14:50,520 - INFO - 📊 Extracted 39 games from stake_games_netent_latest.html
+2025-08-07 02:14:50,520 - INFO - 📊 Provider has 90 total games (39 in initial batch)
+2025-08-07 02:14:50,520 - INFO - 💾 Saved 39 games data for NetEnt
+2025-08-07 02:14:50,551 - INFO - ✅ Checkpoint saved: provider_netent_initial
+2025-08-07 02:14:50,552 - INFO - ✅ Initial fetch completed for NetEnt: initial batch (39/90)
+2025-08-07 02:14:50,587 - INFO - 🎮 Fetching initial games for provider: Big Time Gaming
+2025-08-07 02:15:08,033 - INFO - 📊 HTML fetch output for Bullshark Games:
+🚀 Starting live fetch of Stake.com games for provider: bullshark-games (attempt 1/3)...
+✅ Session created successfully: 4a3dc972-741c-4219-ab13-b1395208b04e
+📡 Fetching: https://stake.com/casino/group/bullshark-games
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1625145 characters
+💾 Games HTML saved to: stake_games_bullshark-games_2025-08-06T21-15-07-640Z.html
+🎰 Found 6693 game-related mentions
+� Page title: Bullshark Games - Play Exciting Slots &amp; Games Online 
+� Total games found: 20
+🎮 Found approximately 74 games in initial load
+🎉 Successfully fetched and analyzed games for bullshark-games!
+💾 Also saved as: stake_games_bullshark-games_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched bullshark-games games page!
+
+2025-08-07 02:15:08,034 - INFO - 📊 Extracted 0 games from stake_games_bullshark-games_2025-08-06T21-14-41-516Z.html
+2025-08-07 02:15:08,200 - INFO - 📊 Extracted 20 games from stake_games_bullshark-games_2025-08-06T21-15-07-640Z.html
+2025-08-07 02:15:08,363 - INFO - 📊 Extracted 20 games from stake_games_bullshark-games_latest.html
+2025-08-07 02:15:08,567 - INFO - 📊 Extracted 20 games from stake_games_bullshark-games_latest.html
+2025-08-07 02:15:08,567 - INFO - 📊 Provider has only 20 games (complete - no pagination needed)
+2025-08-07 02:15:08,567 - INFO - 💾 Saved 20 games data for Bullshark Games
+2025-08-07 02:15:08,585 - INFO - ✅ Checkpoint saved: provider_bullshark-games_initial
+2025-08-07 02:15:08,587 - INFO - ✅ Initial fetch completed for Bullshark Games: complete
+2025-08-07 02:15:08,617 - INFO - 🎮 Fetching initial games for provider: Red Tiger
+2025-08-07 02:15:17,053 - INFO - 📊 HTML fetch output for Big Time Gaming:
+🚀 Starting live fetch of Stake.com games for provider: big-time-gaming (attempt 1/3)...
+✅ Session created successfully: 2a06e61f-dd49-447d-a0b0-7c896f71af3a
+📡 Fetching: https://stake.com/casino/group/big-time-gaming
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1785854 characters
+💾 Games HTML saved to: stake_games_big-time-gaming_2025-08-06T21-15-16-665Z.html
+🎰 Found 7032 game-related mentions
+� Page title: Big Time Gaming Casino Games - Play Slots Online at Stake
+� Total games found: 56
+🎮 Found approximately 102.5 games in initial load
+🎉 Successfully fetched and analyzed games for big-time-gaming!
+💾 Also saved as: stake_games_big-time-gaming_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched big-time-gaming games page!
+
+2025-08-07 02:15:17,266 - INFO - 📊 Extracted 39 games from stake_games_big-time-gaming_2025-08-06T21-15-16-665Z.html
+2025-08-07 02:15:17,495 - INFO - 📊 Extracted 39 games from stake_games_big-time-gaming_latest.html
+2025-08-07 02:15:17,701 - INFO - 📊 Extracted 39 games from stake_games_big-time-gaming_latest.html
+2025-08-07 02:15:17,705 - INFO - 📊 Provider has 56 total games (39 in initial batch)
+2025-08-07 02:15:17,707 - INFO - 💾 Saved 39 games data for Big Time Gaming
+2025-08-07 02:15:17,722 - INFO - ✅ Checkpoint saved: provider_big-time-gaming_initial
+2025-08-07 02:15:17,723 - INFO - ✅ Initial fetch completed for Big Time Gaming: initial batch (39/56)
+2025-08-07 02:15:17,752 - INFO - 🎮 Fetching initial games for provider: PG Soft
+2025-08-07 02:15:34,048 - INFO - 📊 HTML fetch output for Red Tiger:
+🚀 Starting live fetch of Stake.com games for provider: red-tiger (attempt 1/3)...
+✅ Session created successfully: 951d420e-1da0-4957-bb67-b9d29c2fc58c
+📡 Fetching: https://stake.com/casino/group/red-tiger
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1790920 characters
+💾 Games HTML saved to: stake_games_red-tiger_2025-08-06T21-15-33-662Z.html
+🎰 Found 7107 game-related mentions
+� Page title: Red Tiger Casino Games - Play Slots Online at Stake.com
+� Total games found: 110
+🎮 Found approximately 102.5 games in initial load
+🎉 Successfully fetched and analyzed games for red-tiger!
+💾 Also saved as: stake_games_red-tiger_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched red-tiger games page!
+
+2025-08-07 02:15:34,232 - INFO - 📊 Extracted 39 games from stake_games_red-tiger_2025-08-06T21-15-33-662Z.html
+2025-08-07 02:15:34,514 - INFO - 📊 Extracted 39 games from stake_games_red-tiger_latest.html
+2025-08-07 02:15:34,698 - INFO - 📊 Extracted 39 games from stake_games_red-tiger_latest.html
+2025-08-07 02:15:34,698 - INFO - 📊 Provider has 110 total games (39 in initial batch)
+2025-08-07 02:15:34,714 - INFO - 💾 Saved 39 games data for Red Tiger
+2025-08-07 02:15:34,726 - INFO - ✅ Checkpoint saved: provider_red-tiger_initial
+2025-08-07 02:15:34,727 - INFO - ✅ Initial fetch completed for Red Tiger: initial batch (39/110)
+2025-08-07 02:15:34,756 - INFO - 🎮 Fetching initial games for provider: OneTouch
+2025-08-07 02:15:53,915 - INFO - 📊 HTML fetch output for OneTouch:
+🚀 Starting live fetch of Stake.com games for provider: onetouch (attempt 1/3)...
+✅ Session created successfully: 879225e9-e7c3-454e-b2b5-4e0d884e30cf
+📡 Fetching: https://stake.com/casino/group/onetouch
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 46560 characters
+💾 Games HTML saved to: stake_games_onetouch_2025-08-06T21-15-53-570Z.html
+� Page title: Stake under Maintenance
+🎉 Successfully fetched and analyzed games for onetouch!
+💾 Also saved as: stake_games_onetouch_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched onetouch games page!
+
+2025-08-07 02:15:53,931 - INFO - 📊 Extracted 0 games from stake_games_onetouch_2025-08-06T21-15-53-570Z.html
+2025-08-07 02:15:53,931 - INFO - 📊 Extracted 0 games from stake_games_onetouch_latest.html
+2025-08-07 02:15:53,946 - INFO - 📊 Extracted 0 games from stake_games_onetouch_latest.html
+2025-08-07 02:15:53,947 - WARNING - ⚠️ Attempt 1 failed for OneTouch - small/no content (size: 46560). Retrying...
+2025-08-07 02:16:06,032 - INFO - 📊 HTML fetch output for PG Soft:
+🚀 Starting live fetch of Stake.com games for provider: pg-soft (attempt 1/3)...
+✅ Session created successfully: 5340e387-7a96-40d4-b09c-7c1e5e717aca
+📡 Fetching: https://stake.com/casino/group/pg-soft
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'error', 'info', 'session' ]
+📏 Content length: 5 characters
+💾 Games HTML saved to: stake_games_pg-soft_2025-08-06T21-16-05-397Z.html
+🎉 Successfully fetched and analyzed games for pg-soft!
+💾 Also saved as: stake_games_pg-soft_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched pg-soft games page!
+
+2025-08-07 02:16:06,037 - INFO - 📊 Extracted 0 games from stake_games_pg-soft_2025-08-06T21-16-05-397Z.html
+2025-08-07 02:16:06,037 - INFO - 📊 Extracted 0 games from stake_games_pg-soft_latest.html
+2025-08-07 02:16:06,052 - INFO - 📊 Extracted 0 games from stake_games_pg-soft_latest.html
+2025-08-07 02:16:06,053 - WARNING - ⚠️ Attempt 1 failed for PG Soft - small/no content (size: 5). Retrying...
+2025-08-07 02:16:16,536 - INFO - 📊 HTML fetch output for OneTouch:
+🚀 Starting live fetch of Stake.com games for provider: onetouch (attempt 1/3)...
+✅ Session created successfully: e361a71b-4485-4ce9-99bf-2d435a13989e
+📡 Fetching: https://stake.com/casino/group/onetouch
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1638567 characters
+💾 Games HTML saved to: stake_games_onetouch_2025-08-06T21-16-15-701Z.html
+🎰 Found 6799 game-related mentions
+� Page title: OneTouch Games - Play Online Casino Games at Stake
+� Total games found: 32
+🎮 Found approximately 92 games in initial load
+🎉 Successfully fetched and analyzed games for onetouch!
+💾 Also saved as: stake_games_onetouch_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched onetouch games page!
+
+2025-08-07 02:16:16,552 - INFO - 📊 Extracted 0 games from stake_games_onetouch_2025-08-06T21-15-53-570Z.html
+2025-08-07 02:16:16,720 - INFO - 📊 Extracted 32 games from stake_games_onetouch_2025-08-06T21-16-15-701Z.html
+2025-08-07 02:16:16,944 - INFO - 📊 Extracted 32 games from stake_games_onetouch_latest.html
+2025-08-07 02:16:17,104 - INFO - 📊 Extracted 32 games from stake_games_onetouch_latest.html
+2025-08-07 02:16:17,104 - INFO - 📊 Provider has only 32 games (complete - no pagination needed)
+2025-08-07 02:16:17,109 - INFO - 💾 Saved 32 games data for OneTouch
+2025-08-07 02:16:17,124 - INFO - ✅ Checkpoint saved: provider_onetouch_initial
+2025-08-07 02:16:17,125 - INFO - ✅ Initial fetch completed for OneTouch: complete
+2025-08-07 02:16:17,147 - INFO - 🎮 Fetching initial games for provider: Slotmill
+2025-08-07 02:16:50,410 - INFO - 📊 HTML fetch output for Slotmill:
+🚀 Starting live fetch of Stake.com games for provider: slotmill (attempt 1/3)...
+✅ Session created successfully: 3d1a3348-8e4a-4c1c-95a5-5c78f31a4773
+📡 Fetching: https://stake.com/casino/group/slotmill
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1689260 characters
+💾 Games HTML saved to: stake_games_slotmill_2025-08-06T21-16-49-753Z.html
+🎰 Found 7353 game-related mentions
+� Page title: Slotmill Games - Play Online Slot Games by Slotmill on Stake
+� Total games found: 36
+🎮 Found approximately 98 games in initial load
+🎉 Successfully fetched and analyzed games for slotmill!
+💾 Also saved as: stake_games_slotmill_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched slotmill games page!
+
+2025-08-07 02:16:50,586 - INFO - 📊 Extracted 36 games from stake_games_slotmill_2025-08-06T21-16-49-753Z.html
+2025-08-07 02:16:50,805 - INFO - 📊 Extracted 36 games from stake_games_slotmill_latest.html
+2025-08-07 02:16:51,027 - INFO - 📊 Extracted 36 games from stake_games_slotmill_latest.html
+2025-08-07 02:16:51,027 - INFO - 📊 Provider has only 36 games (complete - no pagination needed)
+2025-08-07 02:16:51,027 - INFO - 💾 Saved 36 games data for Slotmill
+2025-08-07 02:16:51,047 - INFO - ✅ Checkpoint saved: provider_slotmill_initial
+2025-08-07 02:16:51,048 - INFO - ✅ Initial fetch completed for Slotmill: complete
+2025-08-07 02:16:51,073 - INFO - 🎮 Fetching initial games for provider: Live88
+2025-08-07 02:16:55,692 - INFO - 📊 HTML fetch output for PG Soft:
+🚀 Starting live fetch of Stake.com games for provider: pg-soft (attempt 1/3)...
+✅ Session created successfully: 4eace6ef-4fc7-4638-921f-900989cdbc51
+📡 Fetching: https://stake.com/casino/group/pg-soft
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1887449 characters
+💾 Games HTML saved to: stake_games_pg-soft_2025-08-06T21-16-55-298Z.html
+🎰 Found 7322 game-related mentions
+� Page title: PG Soft Casino Games &amp; Slots Online - Stake Casino
+� Total games found: 83
+🎮 Found approximately 102.5 games in initial load
+🎉 Successfully fetched and analyzed games for pg-soft!
+💾 Also saved as: stake_games_pg-soft_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched pg-soft games page!
+
+2025-08-07 02:16:55,692 - INFO - 📊 Extracted 0 games from stake_games_pg-soft_2025-08-06T21-16-05-397Z.html
+2025-08-07 02:16:55,921 - INFO - 📊 Extracted 39 games from stake_games_pg-soft_2025-08-06T21-16-55-298Z.html
+2025-08-07 02:16:56,193 - INFO - 📊 Extracted 39 games from stake_games_pg-soft_latest.html
+2025-08-07 02:16:56,413 - INFO - 📊 Extracted 39 games from stake_games_pg-soft_latest.html
+2025-08-07 02:16:56,415 - INFO - 📊 Provider has 83 total games (39 in initial batch)
+2025-08-07 02:16:56,416 - INFO - 💾 Saved 39 games data for PG Soft
+2025-08-07 02:16:56,431 - INFO - ✅ Checkpoint saved: provider_pg-soft_initial
+2025-08-07 02:16:56,432 - INFO - ✅ Initial fetch completed for PG Soft: initial batch (39/83)
+2025-08-07 02:16:56,461 - INFO - 🎮 Fetching initial games for provider: Gamomat
+2025-08-07 02:17:08,746 - INFO - 📊 HTML fetch output for Gamomat:
+🚀 Starting live fetch of Stake.com games for provider: gamomat (attempt 1/3)...
+✅ Session created successfully: 1f4f0761-58a1-458e-8bc2-c7429fbdf66e
+📡 Fetching: https://stake.com/casino/group/gamomat
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'error', 'info', 'session' ]
+📏 Content length: 5 characters
+💾 Games HTML saved to: stake_games_gamomat_2025-08-06T21-17-08-384Z.html
+🎉 Successfully fetched and analyzed games for gamomat!
+💾 Also saved as: stake_games_gamomat_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched gamomat games page!
+
+2025-08-07 02:17:08,746 - INFO - 📊 Extracted 0 games from stake_games_gamomat_2025-08-06T21-17-08-384Z.html
+2025-08-07 02:17:08,746 - INFO - 📊 Extracted 0 games from stake_games_gamomat_latest.html
+2025-08-07 02:17:08,765 - INFO - 📊 Extracted 0 games from stake_games_gamomat_latest.html
+2025-08-07 02:17:08,766 - WARNING - ⚠️ Attempt 1 failed for Gamomat - small/no content (size: 5). Retrying...
+2025-08-07 02:17:11,748 - INFO - 📊 HTML fetch output for Live88:
+🚀 Starting live fetch of Stake.com games for provider: live88 (attempt 1/3)...
+✅ Session created successfully: 11a3eee3-c355-44b5-bf7e-875851c92572
+📡 Fetching: https://stake.com/casino/group/live88
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1435379 characters
+💾 Games HTML saved to: stake_games_live88_2025-08-06T21-17-11-347Z.html
+🎰 Found 5864 game-related mentions
+� Page title: Live88 Casino Games - Play Online Games at Stake.com
+� Total games found: 5
+🎮 Found approximately 51.5 games in initial load
+🎉 Successfully fetched and analyzed games for live88!
+💾 Also saved as: stake_games_live88_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched live88 games page!
+
+2025-08-07 02:17:11,914 - INFO - 📊 Extracted 5 games from stake_games_live88_2025-08-06T21-17-11-347Z.html
+2025-08-07 02:17:12,054 - INFO - 📊 Extracted 5 games from stake_games_live88_latest.html
+2025-08-07 02:17:12,193 - INFO - 📊 Extracted 5 games from stake_games_live88_latest.html
+2025-08-07 02:17:12,194 - INFO - 📊 Provider has only 5 games (complete - no pagination needed)
+2025-08-07 02:17:12,195 - INFO - 💾 Saved 5 games data for Live88
+2025-08-07 02:17:12,210 - INFO - ✅ Checkpoint saved: provider_live88_initial
+2025-08-07 02:17:12,211 - INFO - ✅ Initial fetch completed for Live88: complete
+2025-08-07 02:17:12,236 - INFO - 🎮 Fetching initial games for provider: 3 Oaks Gaming
+2025-08-07 02:17:39,117 - INFO - 📊 HTML fetch output for Gamomat:
+🚀 Starting live fetch of Stake.com games for provider: gamomat (attempt 1/3)...
+✅ Session created successfully: 84a4bc94-1c1a-4877-bb40-5d8593328266
+📡 Fetching: https://stake.com/casino/group/gamomat
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1708395 characters
+💾 Games HTML saved to: stake_games_gamomat_2025-08-06T21-17-38-747Z.html
+🎰 Found 6902 game-related mentions
+� Page title: Gamomat Casino Games - Play Slots Online at Stake.com
+� Total games found: 70
+🎮 Found approximately 102.5 games in initial load
+🎉 Successfully fetched and analyzed games for gamomat!
+💾 Also saved as: stake_games_gamomat_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched gamomat games page!
+
+2025-08-07 02:17:39,127 - INFO - 📊 Extracted 0 games from stake_games_gamomat_2025-08-06T21-17-08-384Z.html
+2025-08-07 02:17:39,307 - INFO - 📊 Extracted 39 games from stake_games_gamomat_2025-08-06T21-17-38-747Z.html
+2025-08-07 02:17:39,547 - INFO - 📊 Extracted 39 games from stake_games_gamomat_latest.html
+2025-08-07 02:17:39,727 - INFO - 📊 Extracted 39 games from stake_games_gamomat_latest.html
+2025-08-07 02:17:39,727 - INFO - 📊 Provider has 70 total games (39 in initial batch)
+2025-08-07 02:17:39,737 - INFO - 💾 Saved 39 games data for Gamomat
+2025-08-07 02:17:39,757 - INFO - ✅ Checkpoint saved: provider_gamomat_initial
+2025-08-07 02:17:39,757 - INFO - ✅ Initial fetch completed for Gamomat: initial batch (39/70)
+2025-08-07 02:17:39,787 - INFO - 🎮 Fetching initial games for provider: Games Global
+2025-08-07 02:17:47,232 - INFO - 📊 HTML fetch output for Games Global:
+🚀 Starting live fetch of Stake.com games for provider: games-global (attempt 1/3)...
+✅ Session created successfully: 49b8465c-376d-4949-93db-6273fc909fb6
+📡 Fetching: https://stake.com/casino/group/games-global
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'error', 'info', 'session' ]
+📏 Content length: 5 characters
+💾 Games HTML saved to: stake_games_games-global_2025-08-06T21-17-46-889Z.html
+🎉 Successfully fetched and analyzed games for games-global!
+💾 Also saved as: stake_games_games-global_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched games-global games page!
+
+2025-08-07 02:17:47,236 - INFO - 📊 Extracted 0 games from stake_games_games-global_2025-08-06T21-17-46-889Z.html
+2025-08-07 02:17:47,237 - INFO - 📊 Extracted 0 games from stake_games_games-global_latest.html
+2025-08-07 02:17:47,250 - INFO - 📊 Extracted 0 games from stake_games_games-global_latest.html
+2025-08-07 02:17:47,251 - WARNING - ⚠️ Attempt 1 failed for Games Global - small/no content (size: 5). Retrying...
+2025-08-07 02:17:56,815 - INFO - 📊 HTML fetch output for Games Global:
+🚀 Starting live fetch of Stake.com games for provider: games-global (attempt 1/3)...
+✅ Session created successfully: 2185db64-3799-4abc-ad41-3f60d765e2b9
+📡 Fetching: https://stake.com/casino/group/games-global
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'error', 'info', 'session' ]
+📏 Content length: 5 characters
+💾 Games HTML saved to: stake_games_games-global_2025-08-06T21-17-56-157Z.html
+🎉 Successfully fetched and analyzed games for games-global!
+💾 Also saved as: stake_games_games-global_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched games-global games page!
+
+2025-08-07 02:17:56,815 - INFO - 📊 Extracted 0 games from stake_games_games-global_2025-08-06T21-17-46-889Z.html
+2025-08-07 02:17:56,821 - INFO - 📊 Extracted 0 games from stake_games_games-global_2025-08-06T21-17-56-157Z.html
+2025-08-07 02:17:56,832 - INFO - 📊 Extracted 0 games from stake_games_games-global_latest.html
+2025-08-07 02:17:56,833 - INFO - 📊 Extracted 0 games from stake_games_games-global_latest.html
+2025-08-07 02:17:56,857 - WARNING - ⚠️ Attempt 2 failed for Games Global - small/no content (size: 5). Retrying...
+2025-08-07 02:18:11,055 - INFO - 📊 HTML fetch output for 3 Oaks Gaming:
+🚀 Starting live fetch of Stake.com games for provider: 3-oaks-gaming (attempt 1/3)...
+✅ Session created successfully: b3518661-d69e-47d4-a6d5-c1f40cfe3874
+📡 Fetching: https://stake.com/casino/group/3-oaks-gaming
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'error', 'info', 'session' ]
+📏 Content length: 5 characters
+💾 Games HTML saved to: stake_games_3-oaks-gaming_2025-08-06T21-18-10-694Z.html
+🎉 Successfully fetched and analyzed games for 3-oaks-gaming!
+💾 Also saved as: stake_games_3-oaks-gaming_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched 3-oaks-gaming games page!
+
+2025-08-07 02:18:11,057 - INFO - 📊 Extracted 0 games from stake_games_3-oaks-gaming_2025-08-06T21-18-10-694Z.html
+2025-08-07 02:18:11,057 - INFO - 📊 Extracted 0 games from stake_games_3-oaks-gaming_latest.html
+2025-08-07 02:18:11,072 - INFO - 📊 Extracted 0 games from stake_games_3-oaks-gaming_latest.html
+2025-08-07 02:18:11,072 - WARNING - ⚠️ Attempt 1 failed for 3 Oaks Gaming - small/no content (size: 5). Retrying...
+2025-08-07 02:18:21,928 - INFO - 📊 HTML fetch output for Games Global:
+🚀 Starting live fetch of Stake.com games for provider: games-global (attempt 1/3)...
+✅ Session created successfully: 4273e576-b8ae-4e88-ab3e-f5494b5723bb
+📡 Fetching: https://stake.com/casino/group/games-global
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1836327 characters
+💾 Games HTML saved to: stake_games_games-global_2025-08-06T21-18-21-536Z.html
+🎰 Found 7663 game-related mentions
+� Page title: Games Global Online Games - Play Best Casino Games at Stake
+� Total games found: 95
+🎮 Found approximately 102.5 games in initial load
+🎉 Successfully fetched and analyzed games for games-global!
+💾 Also saved as: stake_games_games-global_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched games-global games page!
+
+2025-08-07 02:18:21,928 - INFO - 📊 Extracted 0 games from stake_games_games-global_2025-08-06T21-17-46-889Z.html
+2025-08-07 02:18:21,928 - INFO - 📊 Extracted 0 games from stake_games_games-global_2025-08-06T21-17-56-157Z.html
+2025-08-07 02:18:22,196 - INFO - 📊 Extracted 39 games from stake_games_games-global_2025-08-06T21-18-21-536Z.html
+2025-08-07 02:18:22,423 - INFO - 📊 Extracted 39 games from stake_games_games-global_latest.html
+2025-08-07 02:18:22,643 - INFO - 📊 Extracted 39 games from stake_games_games-global_latest.html
+2025-08-07 02:18:22,643 - INFO - 📊 Provider has 95 total games (39 in initial batch)
+2025-08-07 02:18:22,643 - INFO - 💾 Saved 39 games data for Games Global
+2025-08-07 02:18:22,659 - INFO - ✅ Checkpoint saved: provider_games-global_initial
+2025-08-07 02:18:22,659 - INFO - ✅ Initial fetch completed for Games Global: initial batch (39/95)
+2025-08-07 02:18:22,683 - INFO - 🎮 Fetching initial games for provider: Endorphina
+2025-08-07 02:18:43,393 - INFO - 📊 HTML fetch output for Endorphina:
+🚀 Starting live fetch of Stake.com games for provider: endorphina (attempt 1/3)...
+✅ Session created successfully: 6d258430-a9ea-4be7-a0b3-680abeecd47e
+📡 Fetching: https://stake.com/casino/group/endorphina
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1805506 characters
+💾 Games HTML saved to: stake_games_endorphina_2025-08-06T21-18-42-159Z.html
+🎰 Found 7330 game-related mentions
+� Page title: Endorphina Slots - Play Casino Games Online at Stake.com
+� Total games found: 186
+🎮 Found approximately 102.5 games in initial load
+🎉 Successfully fetched and analyzed games for endorphina!
+💾 Also saved as: stake_games_endorphina_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched endorphina games page!
+
+2025-08-07 02:18:43,650 - INFO - 📊 Extracted 39 games from stake_games_endorphina_2025-08-06T21-18-42-159Z.html
+2025-08-07 02:18:43,841 - INFO - 📊 Extracted 39 games from stake_games_endorphina_latest.html
+2025-08-07 02:18:44,081 - INFO - 📊 Extracted 39 games from stake_games_endorphina_latest.html
+2025-08-07 02:18:44,081 - INFO - 📊 Provider has 186 total games (39 in initial batch)
+2025-08-07 02:18:44,081 - INFO - 💾 Saved 39 games data for Endorphina
+2025-08-07 02:18:44,101 - INFO - ✅ Checkpoint saved: provider_endorphina_initial
+2025-08-07 02:18:44,101 - INFO - ✅ Initial fetch completed for Endorphina: initial batch (39/186)
+2025-08-07 02:18:44,121 - INFO - 🎮 Fetching initial games for provider: VoltEnt
+2025-08-07 02:18:45,945 - INFO - 📊 HTML fetch output for 3 Oaks Gaming:
+🚀 Starting live fetch of Stake.com games for provider: 3-oaks-gaming (attempt 1/3)...
+✅ Session created successfully: afafffc8-6d9c-4d2a-9c3d-baba131a7f08
+📡 Fetching: https://stake.com/casino/group/3-oaks-gaming
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1864137 characters
+💾 Games HTML saved to: stake_games_3-oaks-gaming_2025-08-06T21-18-45-554Z.html
+🎰 Found 7413 game-related mentions
+� Page title: 3 Oaks Gaming Casino Games (Formerly Booongo) - Stake
+� Total games found: 83
+🎮 Found approximately 102.5 games in initial load
+🎉 Successfully fetched and analyzed games for 3-oaks-gaming!
+💾 Also saved as: stake_games_3-oaks-gaming_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched 3-oaks-gaming games page!
+
+2025-08-07 02:18:45,945 - INFO - 📊 Extracted 0 games from stake_games_3-oaks-gaming_2025-08-06T21-18-10-694Z.html
+2025-08-07 02:18:46,165 - INFO - 📊 Extracted 39 games from stake_games_3-oaks-gaming_2025-08-06T21-18-45-554Z.html
+2025-08-07 02:18:46,375 - INFO - 📊 Extracted 39 games from stake_games_3-oaks-gaming_latest.html
+2025-08-07 02:18:46,655 - INFO - 📊 Extracted 39 games from stake_games_3-oaks-gaming_latest.html
+2025-08-07 02:18:46,655 - INFO - 📊 Provider has 83 total games (39 in initial batch)
+2025-08-07 02:18:46,655 - INFO - 💾 Saved 39 games data for 3 Oaks Gaming
+2025-08-07 02:18:46,665 - INFO - ✅ Checkpoint saved: provider_3-oaks-gaming_initial
+2025-08-07 02:18:46,665 - INFO - ✅ Initial fetch completed for 3 Oaks Gaming: initial batch (39/83)
+2025-08-07 02:18:46,695 - INFO - 🎮 Fetching initial games for provider: Just Slots
+2025-08-07 02:19:06,096 - INFO - 📊 HTML fetch output for Just Slots:
+🚀 Starting live fetch of Stake.com games for provider: just-slots (attempt 1/3)...
+✅ Session created successfully: 95263d3d-ca4b-401c-be9c-8b686e707180
+📡 Fetching: https://stake.com/casino/group/just-slots
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1406259 characters
+💾 Games HTML saved to: stake_games_just-slots_2025-08-06T21-19-05-726Z.html
+🎰 Found 5722 game-related mentions
+� Page title: Play Just Slots Casino Games Online - Stake.com
+� Total games found: 4
+🎮 Found approximately 50 games in initial load
+🎉 Successfully fetched and analyzed games for just-slots!
+💾 Also saved as: stake_games_just-slots_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched just-slots games page!
+
+2025-08-07 02:19:06,227 - INFO - 📊 Extracted 4 games from stake_games_just-slots_2025-08-06T21-19-05-726Z.html
+2025-08-07 02:19:06,346 - INFO - 📊 Extracted 4 games from stake_games_just-slots_latest.html
+2025-08-07 02:19:06,506 - INFO - 📊 Extracted 4 games from stake_games_just-slots_latest.html
+2025-08-07 02:19:06,516 - INFO - 📊 Provider has only 4 games (complete - no pagination needed)
+2025-08-07 02:19:06,516 - INFO - 💾 Saved 4 games data for Just Slots
+2025-08-07 02:19:06,527 - INFO - ✅ Checkpoint saved: provider_just-slots_initial
+2025-08-07 02:19:06,527 - INFO - ✅ Initial fetch completed for Just Slots: complete
+2025-08-07 02:19:06,556 - INFO - 🎮 Fetching initial games for provider: Fantasma Games
+2025-08-07 02:19:06,776 - INFO - 📊 HTML fetch output for VoltEnt:
+🚀 Starting live fetch of Stake.com games for provider: voltent (attempt 1/3)...
+✅ Session created successfully: 88e28830-e9c9-44ec-a21e-5eaae6583c1a
+📡 Fetching: https://stake.com/casino/group/voltent
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1789336 characters
+💾 Games HTML saved to: stake_games_voltent_2025-08-06T21-19-06-386Z.html
+🎰 Found 7066 game-related mentions
+� Page title: VoltEnt Casino Games Online - Play Slots by VolEnt
+� Total games found: 121
+🎮 Found approximately 102.5 games in initial load
+🎉 Successfully fetched and analyzed games for voltent!
+💾 Also saved as: stake_games_voltent_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched voltent games page!
+
+2025-08-07 02:19:06,986 - INFO - 📊 Extracted 39 games from stake_games_voltent_2025-08-06T21-19-06-386Z.html
+2025-08-07 02:19:07,186 - INFO - 📊 Extracted 39 games from stake_games_voltent_latest.html
+2025-08-07 02:19:07,416 - INFO - 📊 Extracted 39 games from stake_games_voltent_latest.html
+2025-08-07 02:19:07,416 - INFO - 📊 Provider has 121 total games (39 in initial batch)
+2025-08-07 02:19:07,416 - INFO - 💾 Saved 39 games data for VoltEnt
+2025-08-07 02:19:07,436 - INFO - ✅ Checkpoint saved: provider_voltent_initial
+2025-08-07 02:19:07,436 - INFO - ✅ Initial fetch completed for VoltEnt: initial batch (39/121)
+2025-08-07 02:19:07,456 - INFO - 🎮 Fetching initial games for provider: Blueprint
+2025-08-07 02:19:30,245 - INFO - 📊 HTML fetch output for Fantasma Games:
+🚀 Starting live fetch of Stake.com games for provider: fantasma-games (attempt 1/3)...
+✅ Session created successfully: 50ffbacd-0ecd-4c5d-a576-2949ddadab7d
+📡 Fetching: https://stake.com/casino/group/fantasma-games
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'error', 'info', 'session' ]
+📏 Content length: 5 characters
+💾 Games HTML saved to: stake_games_fantasma-games_2025-08-06T21-19-29-905Z.html
+🎉 Successfully fetched and analyzed games for fantasma-games!
+💾 Also saved as: stake_games_fantasma-games_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched fantasma-games games page!
+
+2025-08-07 02:19:30,255 - INFO - 📊 Extracted 0 games from stake_games_fantasma-games_2025-08-06T21-19-29-905Z.html
+2025-08-07 02:19:30,255 - INFO - 📊 Extracted 0 games from stake_games_fantasma-games_latest.html
+2025-08-07 02:19:30,266 - INFO - 📊 Extracted 0 games from stake_games_fantasma-games_latest.html
+2025-08-07 02:19:30,266 - WARNING - ⚠️ Attempt 1 failed for Fantasma Games - small/no content (size: 5). Retrying...
+2025-08-07 02:19:48,845 - INFO - 📊 HTML fetch output for Blueprint:
+🚀 Starting live fetch of Stake.com games for provider: blueprint (attempt 1/3)...
+✅ Session created successfully: 061d0600-4c58-4bd4-b05f-79a0ebc6b0b4
+📡 Fetching: https://stake.com/casino/group/blueprint
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1640072 characters
+💾 Games HTML saved to: stake_games_blueprint_2025-08-06T21-19-47-854Z.html
+🎰 Found 6949 game-related mentions
+� Page title: Blueprint Gaming - Play Slot Casino Games at Stake.com
+� Total games found: 86
+🎮 Found approximately 102.5 games in initial load
+🎉 Successfully fetched and analyzed games for blueprint!
+💾 Also saved as: stake_games_blueprint_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched blueprint games page!
+
+2025-08-07 02:19:49,005 - INFO - 📊 Extracted 39 games from stake_games_blueprint_2025-08-06T21-19-47-854Z.html
+2025-08-07 02:19:49,155 - INFO - 📊 Extracted 39 games from stake_games_blueprint_latest.html
+2025-08-07 02:19:49,385 - INFO - 📊 Extracted 39 games from stake_games_blueprint_latest.html
+2025-08-07 02:19:49,395 - INFO - 📊 Provider has 86 total games (39 in initial batch)
+2025-08-07 02:19:49,396 - INFO - 💾 Saved 39 games data for Blueprint
+2025-08-07 02:19:49,405 - INFO - ✅ Checkpoint saved: provider_blueprint_initial
+2025-08-07 02:19:49,405 - INFO - ✅ Initial fetch completed for Blueprint: initial batch (39/86)
+2025-08-07 02:19:49,435 - INFO - 🎮 Fetching initial games for provider: Belatra
+2025-08-07 02:19:58,354 - INFO - 📊 HTML fetch output for Fantasma Games:
+🚀 Starting live fetch of Stake.com games for provider: fantasma-games (attempt 1/3)...
+✅ Session created successfully: 268ddff2-fd92-4f59-8d64-56a2c225dd2d
+📡 Fetching: https://stake.com/casino/group/fantasma-games
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1594817 characters
+💾 Games HTML saved to: stake_games_fantasma-games_2025-08-06T21-19-57-789Z.html
+🎰 Found 6663 game-related mentions
+� Page title: Fantasma Games - Play Slots Online at Stake Casino
+� Total games found: 26
+🎮 Found approximately 83 games in initial load
+🎉 Successfully fetched and analyzed games for fantasma-games!
+💾 Also saved as: stake_games_fantasma-games_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched fantasma-games games page!
+
+2025-08-07 02:19:58,354 - INFO - 📊 Extracted 0 games from stake_games_fantasma-games_2025-08-06T21-19-29-905Z.html
+2025-08-07 02:19:58,524 - INFO - 📊 Extracted 26 games from stake_games_fantasma-games_2025-08-06T21-19-57-789Z.html
+2025-08-07 02:19:58,684 - INFO - 📊 Extracted 26 games from stake_games_fantasma-games_latest.html
+2025-08-07 02:19:58,845 - INFO - 📊 Extracted 26 games from stake_games_fantasma-games_latest.html
+2025-08-07 02:19:58,845 - INFO - 📊 Provider has only 26 games (complete - no pagination needed)
+2025-08-07 02:19:58,854 - INFO - 💾 Saved 26 games data for Fantasma Games
+2025-08-07 02:19:58,864 - INFO - ✅ Checkpoint saved: provider_fantasma-games_initial
+2025-08-07 02:19:58,864 - INFO - ✅ Initial fetch completed for Fantasma Games: complete
+2025-08-07 02:19:58,894 - INFO - 🎮 Fetching initial games for provider: Playson
+2025-08-07 02:20:08,437 - INFO - 📊 HTML fetch output for Playson:
+🚀 Starting live fetch of Stake.com games for provider: playson (attempt 1/3)...
+✅ Session created successfully: b762e9d7-7431-4024-b8a2-de27ee279d38
+📡 Fetching: https://stake.com/casino/group/playson
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'error', 'info', 'session' ]
+📏 Content length: 5 characters
+💾 Games HTML saved to: stake_games_playson_2025-08-06T21-20-07-676Z.html
+🎉 Successfully fetched and analyzed games for playson!
+💾 Also saved as: stake_games_playson_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched playson games page!
+
+2025-08-07 02:20:08,447 - INFO - 📊 Extracted 0 games from stake_games_playson_2025-08-06T21-20-07-676Z.html
+2025-08-07 02:20:08,447 - INFO - 📊 Extracted 0 games from stake_games_playson_latest.html
+2025-08-07 02:20:08,457 - INFO - 📊 Extracted 0 games from stake_games_playson_latest.html
+2025-08-07 02:20:08,457 - WARNING - ⚠️ Attempt 1 failed for Playson - small/no content (size: 5). Retrying...
+2025-08-07 02:20:11,119 - INFO - 📊 HTML fetch output for Belatra:
+🚀 Starting live fetch of Stake.com games for provider: belatra (attempt 1/3)...
+✅ Session created successfully: fdcaa10d-447f-444e-9f26-2ebb18c4da56
+📡 Fetching: https://stake.com/casino/group/belatra
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1802277 characters
+💾 Games HTML saved to: stake_games_belatra_2025-08-06T21-20-10-739Z.html
+🎰 Found 7215 game-related mentions
+� Page title: Belatra Games - Play Online Slot Games at Stake Casino
+� Total games found: 76
+🎮 Found approximately 102.5 games in initial load
+🎉 Successfully fetched and analyzed games for belatra!
+💾 Also saved as: stake_games_belatra_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched belatra games page!
+
+2025-08-07 02:20:11,370 - INFO - 📊 Extracted 39 games from stake_games_belatra_2025-08-06T21-20-10-739Z.html
+2025-08-07 02:20:11,570 - INFO - 📊 Extracted 39 games from stake_games_belatra_latest.html
+2025-08-07 02:20:11,790 - INFO - 📊 Extracted 39 games from stake_games_belatra_latest.html
+2025-08-07 02:20:11,790 - INFO - 📊 Provider has 76 total games (39 in initial batch)
+2025-08-07 02:20:11,790 - INFO - 💾 Saved 39 games data for Belatra
+2025-08-07 02:20:11,800 - INFO - ✅ Checkpoint saved: provider_belatra_initial
+2025-08-07 02:20:11,810 - INFO - ✅ Initial fetch completed for Belatra: initial batch (39/76)
+2025-08-07 02:20:11,840 - INFO - 🎮 Fetching initial games for provider: Novomatic
+2025-08-07 02:20:38,085 - INFO - 📊 HTML fetch output for Novomatic:
+🚀 Starting live fetch of Stake.com games for provider: novomatic (attempt 1/3)...
+✅ Session created successfully: 97c900c6-64f6-41cb-b812-937a6a5a25e2
+📡 Fetching: https://stake.com/casino/group/novomatic
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1703139 characters
+💾 Games HTML saved to: stake_games_novomatic_2025-08-06T21-20-37-714Z.html
+🎰 Found 6896 game-related mentions
+� Page title: Novomatic Online Slot Games - Play Casino Games by Novomatic
+� Total games found: 61
+🎮 Found approximately 102.5 games in initial load
+🎉 Successfully fetched and analyzed games for novomatic!
+💾 Also saved as: stake_games_novomatic_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched novomatic games page!
+
+2025-08-07 02:20:38,275 - INFO - 📊 Extracted 39 games from stake_games_novomatic_2025-08-06T21-20-37-714Z.html
+2025-08-07 02:20:38,467 - INFO - 📊 Extracted 39 games from stake_games_novomatic_latest.html
+2025-08-07 02:20:38,685 - INFO - 📊 Extracted 39 games from stake_games_novomatic_latest.html
+2025-08-07 02:20:38,685 - INFO - 📊 Provider has 61 total games (39 in initial batch)
+2025-08-07 02:20:38,695 - INFO - 💾 Saved 39 games data for Novomatic
+2025-08-07 02:20:38,705 - INFO - ✅ Checkpoint saved: provider_novomatic_initial
+2025-08-07 02:20:38,705 - INFO - ✅ Initial fetch completed for Novomatic: initial batch (39/61)
+2025-08-07 02:20:38,725 - INFO - 🎮 Fetching initial games for provider: Skywind
+2025-08-07 02:20:46,466 - INFO - 📊 HTML fetch output for Skywind:
+🚀 Starting live fetch of Stake.com games for provider: skywind (attempt 1/3)...
+✅ Session created successfully: f8823499-065b-4bce-83f1-c1b7125d8dd9
+📡 Fetching: https://stake.com/casino/group/skywind
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'error', 'info', 'session' ]
+📏 Content length: 5 characters
+💾 Games HTML saved to: stake_games_skywind_2025-08-06T21-20-46-105Z.html
+🎉 Successfully fetched and analyzed games for skywind!
+💾 Also saved as: stake_games_skywind_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched skywind games page!
+
+2025-08-07 02:20:46,476 - INFO - 📊 Extracted 0 games from stake_games_skywind_2025-08-06T21-20-46-105Z.html
+2025-08-07 02:20:46,478 - INFO - 📊 Extracted 0 games from stake_games_skywind_latest.html
+2025-08-07 02:20:46,486 - INFO - 📊 Extracted 0 games from stake_games_skywind_latest.html
+2025-08-07 02:20:46,486 - WARNING - ⚠️ Attempt 1 failed for Skywind - small/no content (size: 5). Retrying...
+2025-08-07 02:20:52,996 - INFO - 📊 HTML fetch output for Playson:
+🚀 Starting live fetch of Stake.com games for provider: playson (attempt 1/3)...
+✅ Session created successfully: 458619ac-2cd3-43eb-a06d-c380fc6ac4d8
+📡 Fetching: https://stake.com/casino/group/playson
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1602745 characters
+💾 Games HTML saved to: stake_games_playson_2025-08-06T21-20-52-587Z.html
+🎰 Found 6849 game-related mentions
+� Page title: Play Playson Casino Games Online - Stake.com
+� Total games found: 38
+🎮 Found approximately 101 games in initial load
+🎉 Successfully fetched and analyzed games for playson!
+💾 Also saved as: stake_games_playson_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched playson games page!
+
+2025-08-07 02:20:52,996 - INFO - 📊 Extracted 0 games from stake_games_playson_2025-08-06T21-20-07-676Z.html
+2025-08-07 02:20:53,176 - INFO - 📊 Extracted 38 games from stake_games_playson_2025-08-06T21-20-52-587Z.html
+2025-08-07 02:20:53,356 - INFO - 📊 Extracted 38 games from stake_games_playson_latest.html
+2025-08-07 02:20:53,556 - INFO - 📊 Extracted 38 games from stake_games_playson_latest.html
+2025-08-07 02:20:53,566 - INFO - 📊 Provider has only 38 games (complete - no pagination needed)
+2025-08-07 02:20:53,566 - INFO - 💾 Saved 38 games data for Playson
+2025-08-07 02:20:53,576 - INFO - ✅ Checkpoint saved: provider_playson_initial
+2025-08-07 02:20:53,576 - INFO - ✅ Initial fetch completed for Playson: complete
+2025-08-07 02:20:53,606 - INFO - 🎮 Fetching initial games for provider: Quickspin
+2025-08-07 02:21:18,959 - INFO - 📊 HTML fetch output for Quickspin:
+🚀 Starting live fetch of Stake.com games for provider: quickspin (attempt 1/3)...
+✅ Session created successfully: aa18d40e-b84d-4bac-9df0-1b2b25446c5b
+📡 Fetching: https://stake.com/casino/group/quickspin
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1663471 characters
+💾 Games HTML saved to: stake_games_quickspin_2025-08-06T21-21-18-578Z.html
+🎰 Found 6784 game-related mentions
+� Page title: Quickspin Slot Casino Games- Play Online at Stake.com
+� Total games found: 116
+🎮 Found approximately 102.5 games in initial load
+🎉 Successfully fetched and analyzed games for quickspin!
+💾 Also saved as: stake_games_quickspin_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched quickspin games page!
+
+2025-08-07 02:21:19,139 - INFO - 📊 Extracted 39 games from stake_games_quickspin_2025-08-06T21-21-18-578Z.html
+2025-08-07 02:21:19,319 - INFO - 📊 Extracted 39 games from stake_games_quickspin_latest.html
+2025-08-07 02:21:19,520 - INFO - 📊 Extracted 39 games from stake_games_quickspin_latest.html
+2025-08-07 02:21:19,530 - INFO - 📊 Provider has 116 total games (39 in initial batch)
+2025-08-07 02:21:19,531 - INFO - 💾 Saved 39 games data for Quickspin
+2025-08-07 02:21:19,540 - INFO - ✅ Checkpoint saved: provider_quickspin_initial
+2025-08-07 02:21:19,540 - INFO - ✅ Initial fetch completed for Quickspin: initial batch (39/116)
+2025-08-07 02:21:19,570 - INFO - 🎮 Fetching initial games for provider: Red Rake Gaming
+2025-08-07 02:21:21,982 - INFO - 📊 HTML fetch output for Skywind:
+🚀 Starting live fetch of Stake.com games for provider: skywind (attempt 1/3)...
+✅ Session created successfully: d2004dd8-5fd5-43aa-9fd7-633c129ae4fa
+📡 Fetching: https://stake.com/casino/group/skywind
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'error', 'info', 'session' ]
+📏 Content length: 5 characters
+💾 Games HTML saved to: stake_games_skywind_2025-08-06T21-21-21-652Z.html
+🎉 Successfully fetched and analyzed games for skywind!
+💾 Also saved as: stake_games_skywind_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched skywind games page!
+
+2025-08-07 02:21:21,992 - INFO - 📊 Extracted 0 games from stake_games_skywind_2025-08-06T21-20-46-105Z.html
+2025-08-07 02:21:21,992 - INFO - 📊 Extracted 0 games from stake_games_skywind_2025-08-06T21-21-21-652Z.html
+2025-08-07 02:21:22,002 - INFO - 📊 Extracted 0 games from stake_games_skywind_latest.html
+2025-08-07 02:21:22,002 - INFO - 📊 Extracted 0 games from stake_games_skywind_latest.html
+2025-08-07 02:21:22,034 - WARNING - ⚠️ Attempt 2 failed for Skywind - small/no content (size: 5). Retrying...
+2025-08-07 02:21:31,817 - INFO - 📊 HTML fetch output for Skywind:
+🚀 Starting live fetch of Stake.com games for provider: skywind (attempt 1/3)...
+✅ Session created successfully: f318d1ba-91fe-4abd-9f0a-160451008b99
+📡 Fetching: https://stake.com/casino/group/skywind
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'error', 'info', 'session' ]
+📏 Content length: 5 characters
+💾 Games HTML saved to: stake_games_skywind_2025-08-06T21-21-31-466Z.html
+🎉 Successfully fetched and analyzed games for skywind!
+💾 Also saved as: stake_games_skywind_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched skywind games page!
+
+2025-08-07 02:21:31,817 - INFO - 📊 Extracted 0 games from stake_games_skywind_2025-08-06T21-20-46-105Z.html
+2025-08-07 02:21:31,817 - INFO - 📊 Extracted 0 games from stake_games_skywind_2025-08-06T21-21-21-652Z.html
+2025-08-07 02:21:31,827 - INFO - 📊 Extracted 0 games from stake_games_skywind_2025-08-06T21-21-31-466Z.html
+2025-08-07 02:21:31,827 - INFO - 📊 Extracted 0 games from stake_games_skywind_latest.html
+2025-08-07 02:21:31,857 - INFO - 📊 Extracted 0 games from stake_games_skywind_latest.html
+2025-08-07 02:21:31,857 - ERROR - ❌ All attempts failed for Skywind - no valid content after 3 tries
+2025-08-07 02:21:31,877 - INFO - 🎮 Fetching initial games for provider: Game Art
+2025-08-07 02:21:46,958 - INFO - 📊 HTML fetch output for Red Rake Gaming:
+🚀 Starting live fetch of Stake.com games for provider: red-rake-gaming (attempt 1/3)...
+✅ Session created successfully: 856c83bc-cb2c-44fa-b94c-015115d16359
+📡 Fetching: https://stake.com/casino/group/red-rake-gaming
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1691263 characters
+💾 Games HTML saved to: stake_games_red-rake-gaming_2025-08-06T21-21-46-274Z.html
+🎰 Found 6756 game-related mentions
+� Page title: Red Rake Gaming Slots &amp; Casino Games - Play Online at Stake.com
+� Total games found: 45
+🎮 Found approximately 102.5 games in initial load
+🎉 Successfully fetched and analyzed games for red-rake-gaming!
+💾 Also saved as: stake_games_red-rake-gaming_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched red-rake-gaming games page!
+
+2025-08-07 02:21:47,145 - INFO - 📊 Extracted 39 games from stake_games_red-rake-gaming_2025-08-06T21-21-46-274Z.html
+2025-08-07 02:21:47,337 - INFO - 📊 Extracted 39 games from stake_games_red-rake-gaming_latest.html
+2025-08-07 02:21:47,559 - INFO - 📊 Extracted 39 games from stake_games_red-rake-gaming_latest.html
+2025-08-07 02:21:47,564 - INFO - 📊 Provider has 45 total games (39 in initial batch)
+2025-08-07 02:21:47,565 - INFO - 💾 Saved 39 games data for Red Rake Gaming
+2025-08-07 02:21:47,586 - INFO - ✅ Checkpoint saved: provider_red-rake-gaming_initial
+2025-08-07 02:21:47,586 - INFO - ✅ Initial fetch completed for Red Rake Gaming: initial batch (39/45)
+2025-08-07 02:21:47,615 - INFO - 🎮 Fetching initial games for provider: Spinomenal
+2025-08-07 02:22:31,023 - INFO - 📊 HTML fetch output for Game Art:
+🚀 Starting live fetch of Stake.com games for provider: game-art (attempt 1/3)...
+✅ Session created successfully: e8458155-3548-4efd-a9e3-36921e0c7797
+📡 Fetching: https://stake.com/casino/group/game-art
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1644227 characters
+💾 Games HTML saved to: stake_games_game-art_2025-08-06T21-22-30-373Z.html
+🎰 Found 7493 game-related mentions
+� Page title: GameArt Casino Games - Play GameArt Slots Online at Stake
+� Total games found: 99
+🎮 Found approximately 102.5 games in initial load
+🎉 Successfully fetched and analyzed games for game-art!
+💾 Also saved as: stake_games_game-art_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched game-art games page!
+
+2025-08-07 02:22:31,184 - INFO - 📊 Extracted 39 games from stake_games_game-art_2025-08-06T21-22-30-373Z.html
+2025-08-07 02:22:31,344 - INFO - 📊 Extracted 39 games from stake_games_game-art_latest.html
+2025-08-07 02:22:31,554 - INFO - 📊 Extracted 39 games from stake_games_game-art_latest.html
+2025-08-07 02:22:31,554 - INFO - 📊 Provider has 99 total games (39 in initial batch)
+2025-08-07 02:22:31,554 - INFO - 💾 Saved 39 games data for Game Art
+2025-08-07 02:22:31,574 - INFO - ✅ Checkpoint saved: provider_game-art_initial
+2025-08-07 02:22:31,574 - INFO - ✅ Initial fetch completed for Game Art: initial batch (39/99)
+2025-08-07 02:22:40,528 - INFO - 📊 HTML fetch output for Spinomenal:
+🚀 Starting live fetch of Stake.com games for provider: spinomenal (attempt 1/3)...
+✅ Session created successfully: 0e1e6614-afab-4dd4-a3de-19ff91a4d618
+📡 Fetching: https://stake.com/casino/group/spinomenal
+✅ Successfully fetched live HTML content
+📊 Response status: undefined
+📋 Response structure: [ 'solution', 'timeElapsed', 'data', 'session' ]
+📏 Content length: 1216491 characters
+💾 Games HTML saved to: stake_games_spinomenal_2025-08-06T21-22-40-138Z.html
+🎰 Found 5593 game-related mentions
+� Page title: Spinomenal Casino Games - Play Slots Online at Stake
+� Total games found: 119
+🎮 Found approximately 102.5 games in initial load
+🎉 Successfully fetched and analyzed games for spinomenal!
+💾 Also saved as: stake_games_spinomenal_latest.html
+🧹 Session cleaned up
+🎉 Successfully fetched spinomenal games page!
+
+2025-08-07 02:22:40,688 - INFO - 📊 Extracted 39 games from stake_games_spinomenal_2025-08-06T21-22-40-138Z.html
+2025-08-07 02:22:40,848 - INFO - 📊 Extracted 39 games from stake_games_spinomenal_latest.html
+2025-08-07 02:22:41,039 - INFO - 📊 Extracted 39 games from stake_games_spinomenal_latest.html
+2025-08-07 02:22:41,049 - INFO - 📊 Provider has 119 total games (39 in initial batch)
+2025-08-07 02:22:41,049 - INFO - 💾 Saved 39 games data for Spinomenal
+2025-08-07 02:22:41,059 - INFO - ✅ Checkpoint saved: provider_spinomenal_initial
+2025-08-07 02:22:41,059 - INFO - ✅ Initial fetch completed for Spinomenal: initial batch (39/119)
+2025-08-07 02:22:41,089 - INFO - ✅ Initial fetch completed: 47/49 providers successful
+2025-08-07 02:22:41,089 - INFO - ✅ Phase 1 Complete: Initial provider data collection finished
+2025-08-07 02:22:41,109 - INFO - 📊 Summary:
+2025-08-07 02:22:41,129 - INFO -    🏢 Total Providers: 49
+2025-08-07 02:22:41,139 - INFO -    ✅ Successful: 47
+2025-08-07 02:22:41,159 - INFO -    🎮 Total Games Found: 3722
+2025-08-07 02:22:41,159 - INFO -    📥 Initial Games Fetched: 1484
+2025-08-07 02:22:41,189 - INFO -    ✅ Complete Providers (≤39 games): 19
+2025-08-07 02:22:41,189 - INFO -    📄 Providers Needing Pagination: 28
+2025-08-07 02:22:41,209 - INFO - 📊 Generating metadata files...
+2025-08-07 02:22:41,219 - INFO - 📊 Starting metadata generation...
+2025-08-07 02:22:41,239 - INFO - 🔍 Scanning for games data in: stake_thumbnails
+2025-08-07 02:22:41,239 - INFO - 📊 3_Oaks_Gaming: 39 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,269 - INFO - 📊 Avatarux: 39 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,299 - INFO - 📊 Backseat_Gaming: 26 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,299 - INFO - 📊 Belatra: 39 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,319 - INFO - 📊 Big_Time_Gaming: 39 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,354 - INFO - 📊 Blueprint: 39 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,359 - INFO - 📊 Bullshark_Games: 20 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,399 - INFO - 📊 B_Gaming: 39 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,429 - INFO - 📊 Elk_Studios: 39 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,429 - INFO - 📊 Endorphina: 39 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,454 - INFO - 📊 Evolution_Gaming: 39 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,509 - INFO - 📊 Fantasma_Games: 26 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,509 - INFO - 📊 Fat_Panda: 15 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,529 - INFO - 📊 Games_Global: 39 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,559 - INFO - 📊 Game_Art: 39 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,559 - INFO - 📊 Gamomat: 39 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,579 - INFO - 📊 Hacksaw_Gaming: 39 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,609 - INFO - 📊 Hacksaw_OpenRGS: 8 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,609 - INFO - 📊 Just_Slots: 4 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,629 - INFO - 📊 Live88: 5 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,654 - INFO - 📊 Massive_Studios: 21 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,659 - INFO - 📊 NetEnt: 39 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,679 - INFO - 📊 Novomatic: 39 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,699 - INFO - 📊 No_Limit_City: 39 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,709 - INFO - 📊 OneTouch: 32 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,729 - INFO - 📊 Paperclip_Gaming: 9 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,754 - INFO - 📊 Penguin_King: 39 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,754 - INFO - 📊 Peter_&_Sons: 33 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,769 - INFO - 📊 PG_Soft: 39 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,779 - INFO - 📊 Play'n_GO: 39 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,799 - INFO - 📊 Playson: 38 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,819 - INFO - 📊 Popiplay: 39 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,819 - INFO - 📊 Pragmatic_Play: 39 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,849 - INFO - 📊 Print_Studios: 22 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,869 - INFO - 📊 Push_Gaming: 39 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,869 - INFO - 📊 Quickspin: 39 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,899 - INFO - 📊 Red_Rake_Gaming: 39 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,919 - INFO - 📊 Red_Tiger: 39 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,919 - INFO - 📊 Relax_Gaming: 39 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,939 - INFO - 📊 Shady_Lady: 5 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,969 - WARNING - No games files found for provider: Skywind
+2025-08-07 02:22:41,969 - INFO - 📊 Slotmill: 36 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,969 - INFO - 📊 Spinomenal: 39 unique games (removed 0 duplicates)
+2025-08-07 02:22:41,989 - INFO - 📊 Stake_Engine: 27 unique games (removed 0 duplicates)
+2025-08-07 02:22:42,019 - INFO - 📊 Stake_Originals: 25 unique games (removed 0 duplicates)
+2025-08-07 02:22:42,019 - WARNING - No games files found for provider: Thunderkick
+2025-08-07 02:22:42,019 - INFO - 📊 Titan_Gaming: 16 unique games (removed 0 duplicates)
+2025-08-07 02:22:42,039 - INFO - 📊 Twist_Gaming: 24 unique games (removed 0 duplicates)
+2025-08-07 02:22:42,059 - INFO - 📊 VoltEnt: 39 unique games (removed 0 duplicates)
+2025-08-07 02:22:42,069 - INFO - ✅ Loaded 1484 total games from 47 providers
+2025-08-07 02:22:42,089 - INFO - 📊 Generating CSV metadata: stake_thumbnails\games_metadata_20250807_022242.csv
+2025-08-07 02:22:42,129 - INFO - ✅ CSV metadata saved: 1484 games
+2025-08-07 02:22:42,129 - INFO - 📊 Generating JSON metadata: stake_thumbnails\games_metadata_20250807_022242.json
+2025-08-07 02:22:42,169 - INFO - ✅ JSON metadata saved: 1484 games
+2025-08-07 02:22:42,169 - INFO - 📊 Generating provider summary: stake_thumbnails\provider_summary_20250807_022242.csv
+2025-08-07 02:22:42,179 - INFO - ✅ Provider summary saved: 53 providers
+2025-08-07 02:22:42,179 - INFO - ✅ Metadata generation completed!
+2025-08-07 02:22:42,199 - INFO - 📊 Final Statistics:
+2025-08-07 02:22:42,219 - INFO -    Total Games: 1484
+2025-08-07 02:22:42,219 - INFO -    Total Providers: 53
+2025-08-07 02:22:42,219 - INFO -    Images Downloaded: 0
+2025-08-07 02:22:42,219 - INFO -    Images Missing: 1484
+2025-08-07 02:22:42,219 - INFO -    Completion Rate: 0.0%
+2025-08-07 02:22:42,219 - INFO - ✅ Metadata generation completed successfully!
+2025-08-07 02:22:42,219 - INFO - 📊 Final Summary:
+2025-08-07 02:22:42,249 - INFO -    🎮 Total Games: 1484
+2025-08-07 02:22:42,249 - INFO -    🏢 Total Providers: 53
+2025-08-07 02:22:42,269 - INFO -    🖼️ Images Downloaded: 0
+2025-08-07 02:22:42,269 - INFO -    📈 Completion Rate: 0.0%
+2025-08-07 02:22:42,299 - INFO - 📋 Comprehensive metadata saved to metadata\comprehensive_metadata_20250807_022242.json
+2025-08-07 02:22:42,319 - INFO - 🎯 Phase 1 objectives achieved:
+2025-08-07 02:22:42,319 - INFO -    ✅ All provider total game counts collected
+2025-08-07 02:22:42,349 - INFO -    ✅ Initial game batches (≤39 games) saved
+2025-08-07 02:22:42,349 - INFO -    ✅ Data formatted according to client requirements
+2025-08-07 02:22:42,369 - INFO -    ✅ Checkpoints saved for all providers
+2025-08-07 02:22:42,369 - INFO - 
+📋 Next Steps Available:
+2025-08-07 02:22:42,399 - INFO -    📄 Phase 2: Complete game fetching for 28 providers
+2025-08-07 02:22:42,399 - INFO -    🖼️ Phase 3: Image downloading and processing
+2025-08-07 02:22:42,419 - INFO -    📊 Phase 4: Final metadata generation
+2025-08-07 02:22:42,419 - INFO - ⏱️ Phase 1 execution time: 0:18:40.117055
+2025-08-07 02:22:42,449 - INFO - 📊 Session stats saved to: metadata\session_stats_phase1_20250807_022242.json
