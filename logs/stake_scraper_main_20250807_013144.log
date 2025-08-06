@@ -1,0 +1,816 @@
+[01:31:44] INFO: 🔍 Checking dependencies...
+[01:31:44] INFO:    ✅ Found: robust_stake_scraper.py
+[01:31:44] INFO:    ✅ Found: thumbnail_downloader_fixed.py
+[01:31:44] INFO:    ✅ Found: complete_all_providers_parallel.js
+[01:31:44] INFO:    ✅ Found: hardcoded_providers.py
+[01:31:44] INFO:    ✅ Node.js: v24.4.1
+[01:31:44] INFO:    ✅ Python package: requests
+[01:31:44] INFO:    ✅ Python package: pillow
+[01:31:44] INFO:    ✅ Python package: beautifulsoup4
+[01:31:45] INFO:    ✅ Python package: aiohttp
+[01:31:45] INFO: 
+============================================================
+[01:31:45] INFO: 📋 STEP 1: Initial Game Data Scraping
+[01:31:45] INFO: ============================================================
+[01:31:45] INFO: 🐍 Running Python script: robust_stake_scraper.py
+[01:31:45] INFO:    Command: C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\python.exe C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py
+   📋 --- Logging error ---
+   📋 Traceback (most recent call last):
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\logging\__init__.py", line 1113, in emit
+   📋 stream.write(msg + self.terminator)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+   📋 return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+   📋 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   📋 UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f680' in position 33: character maps to <undefined>
+   📋 Call stack:
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 1060, in <module>
+   📋 asyncio.run(main())
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+   📋 return runner.run(main)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+   📋 return self._loop.run_until_complete(task)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 640, in run_until_complete
+   📋 self.run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 321, in run_forever
+   📋 super().run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 607, in run_forever
+   📋 self._run_once()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1922, in _run_once
+   📋 handle._run()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+   📋 self._context.run(self._callback, *self._args)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 1056, in main
+   📋 scraper = RobustStakeScraper()
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 125, in __init__
+   📋 self.setup_logging()
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 210, in setup_logging
+   📋 self.logger.info("\U0001f680 Robust Stake Scraper initialized")
+   📋 Message: '\U0001f680 Robust Stake Scraper initialized'
+   📋 Arguments: ()
+   📋 --- Logging error ---
+   📋 Traceback (most recent call last):
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\logging\__init__.py", line 1113, in emit
+   📋 stream.write(msg + self.terminator)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+   📋 return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+   📋 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   📋 UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f4c1' in position 33: character maps to <undefined>
+   📋 Call stack:
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 1060, in <module>
+   📋 asyncio.run(main())
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+   📋 return runner.run(main)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+   📋 return self._loop.run_until_complete(task)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 640, in run_until_complete
+   📋 self.run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 321, in run_forever
+   📋 super().run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 607, in run_forever
+   📋 self._run_once()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1922, in _run_once
+   📋 handle._run()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+   📋 self._context.run(self._callback, *self._args)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 1056, in main
+   📋 scraper = RobustStakeScraper()
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 126, in __init__
+   📋 self.setup_directories()
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 224, in setup_directories
+   📋 self.logger.info("\U0001f4c1 Directories created/verified")
+   📋 Message: '\U0001f4c1 Directories created/verified'
+   📋 Arguments: ()
+   📋 --- Logging error ---
+   📋 Traceback (most recent call last):
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\logging\__init__.py", line 1113, in emit
+   📋 stream.write(msg + self.terminator)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+   📋 return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+   📋 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   📋 UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f680' in position 33: character maps to <undefined>
+   📋 Call stack:
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 1060, in <module>
+   📋 asyncio.run(main())
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+   📋 return runner.run(main)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+   📋 return self._loop.run_until_complete(task)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 640, in run_until_complete
+   📋 self.run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 321, in run_forever
+   📋 super().run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 607, in run_forever
+   📋 self._run_once()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1922, in _run_once
+   📋 handle._run()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+   📋 self._context.run(self._callback, *self._args)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 1057, in main
+   📋 await scraper.run()
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 980, in run
+   📋 self.logger.info("\U0001f680 Starting Robust Stake Scraper - Phase 1: Initial Data Collection")
+   📋 Message: '\U0001f680 Starting Robust Stake Scraper - Phase 1: Initial Data Collection'
+   📋 Arguments: ()
+   📋 --- Logging error ---
+   📋 Traceback (most recent call last):
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\logging\__init__.py", line 1113, in emit
+   📋 stream.write(msg + self.terminator)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+   📋 return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+   📋 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   📋 UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f4cb' in position 33: character maps to <undefined>
+   📋 Call stack:
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 1060, in <module>
+   📋 asyncio.run(main())
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+   📋 return runner.run(main)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+   📋 return self._loop.run_until_complete(task)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 640, in run_until_complete
+   📋 self.run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 321, in run_forever
+   📋 super().run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 607, in run_forever
+   📋 self._run_once()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1922, in _run_once
+   📋 handle._run()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+   📋 self._context.run(self._callback, *self._args)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 1057, in main
+   📋 await scraper.run()
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 984, in run
+   📋 self.logger.info("\U0001f4cb Step 1: Fetching providers list...")
+   📋 Message: '\U0001f4cb Step 1: Fetching providers list...'
+   📋 Arguments: ()
+   📋 --- Logging error ---
+   📋 Traceback (most recent call last):
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\logging\__init__.py", line 1113, in emit
+   📋 stream.write(msg + self.terminator)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+   📋 return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+   📋 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   📋 UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 33: character maps to <undefined>
+   📋 Call stack:
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 1060, in <module>
+   📋 asyncio.run(main())
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+   📋 return runner.run(main)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+   📋 return self._loop.run_until_complete(task)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 640, in run_until_complete
+   📋 self.run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 321, in run_forever
+   📋 super().run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 607, in run_forever
+   📋 self._run_once()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1922, in _run_once
+   📋 handle._run()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+   📋 self._context.run(self._callback, *self._args)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 1057, in main
+   📋 await scraper.run()
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 985, in run
+   📋 providers = await self.fetch_providers()
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 230, in fetch_providers
+   📋 providers_checkpoint = self.checkpoint_manager.load_checkpoint("providers_list")
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 103, in load_checkpoint
+   📋 logging.info(f"\u2705 Checkpoint loaded: {checkpoint_name}")
+   📋 Message: '\u2705 Checkpoint loaded: providers_list'
+   📋 Arguments: ()
+   📋 --- Logging error ---
+   📋 Traceback (most recent call last):
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\logging\__init__.py", line 1113, in emit
+   📋 stream.write(msg + self.terminator)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+   📋 return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+   📋 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   📋 UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f4cb' in position 33: character maps to <undefined>
+   📋 Call stack:
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 1060, in <module>
+   📋 asyncio.run(main())
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+   📋 return runner.run(main)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+   📋 return self._loop.run_until_complete(task)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 640, in run_until_complete
+   📋 self.run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 321, in run_forever
+   📋 super().run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 607, in run_forever
+   📋 self._run_once()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1922, in _run_once
+   📋 handle._run()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+   📋 self._context.run(self._callback, *self._args)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 1057, in main
+   📋 await scraper.run()
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 985, in run
+   📋 providers = await self.fetch_providers()
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 232, in fetch_providers
+   📋 self.logger.info("\U0001f4cb Loading providers from checkpoint...")
+   📋 Message: '\U0001f4cb Loading providers from checkpoint...'
+   📋 Arguments: ()
+   📋 --- Logging error ---
+   📋 Traceback (most recent call last):
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\logging\__init__.py", line 1113, in emit
+   📋 stream.write(msg + self.terminator)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+   📋 return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+   📋 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   📋 UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f3ae' in position 33: character maps to <undefined>
+   📋 Call stack:
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 1060, in <module>
+   📋 asyncio.run(main())
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+   📋 return runner.run(main)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+   📋 return self._loop.run_until_complete(task)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 640, in run_until_complete
+   📋 self.run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 321, in run_forever
+   📋 super().run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 607, in run_forever
+   📋 self._run_once()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1922, in _run_once
+   📋 handle._run()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+   📋 self._context.run(self._callback, *self._args)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 1057, in main
+   📋 await scraper.run()
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 988, in run
+   📋 self.logger.info("\U0001f3ae Step 2: Fetching initial games data for all providers...")
+   📋 Message: '\U0001f3ae Step 2: Fetching initial games data for all providers...'
+   📋 Arguments: ()
+   📋 --- Logging error ---
+   📋 Traceback (most recent call last):
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\logging\__init__.py", line 1113, in emit
+   📋 stream.write(msg + self.terminator)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+   📋 return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+   📋 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   📋 UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f680' in position 33: character maps to <undefined>
+   📋 Call stack:
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 1060, in <module>
+   📋 asyncio.run(main())
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+   📋 return runner.run(main)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+   📋 return self._loop.run_until_complete(task)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 640, in run_until_complete
+   📋 self.run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 321, in run_forever
+   📋 super().run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 607, in run_forever
+   📋 self._run_once()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1922, in _run_once
+   📋 handle._run()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+   📋 self._context.run(self._callback, *self._args)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 1057, in main
+   📋 await scraper.run()
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 989, in run
+   📋 await self.process_all_providers_initial(providers)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 834, in process_all_providers_initial
+   📋 self.logger.info(f"\U0001f680 Starting initial fetch for {len(providers)} providers...")
+   📋 Message: '\U0001f680 Starting initial fetch for 49 providers...'
+   📋 Arguments: ()
+   📋 --- Logging error ---
+   📋 Traceback (most recent call last):
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\logging\__init__.py", line 1113, in emit
+   📋 stream.write(msg + self.terminator)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+   📋 return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+   📋 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   📋 UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 33: character maps to <undefined>
+   📋 Call stack:
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 1060, in <module>
+   📋 asyncio.run(main())
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+   📋 return runner.run(main)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+   📋 return self._loop.run_until_complete(task)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 640, in run_until_complete
+   📋 self.run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 321, in run_forever
+   📋 super().run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 607, in run_forever
+   📋 self._run_once()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1922, in _run_once
+   📋 handle._run()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+   📋 self._context.run(self._callback, *self._args)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 841, in fetch_with_semaphore
+   📋 return await self.fetch_provider_games_initial(provider)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 306, in fetch_provider_games_initial
+   📋 existing_checkpoint = self.checkpoint_manager.load_checkpoint(checkpoint_name)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 103, in load_checkpoint
+   📋 logging.info(f"\u2705 Checkpoint loaded: {checkpoint_name}")
+   📋 Message: '\u2705 Checkpoint loaded: provider_pragmatic-play_initial'
+   📋 Arguments: ()
+   📋 --- Logging error ---
+   📋 Traceback (most recent call last):
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\logging\__init__.py", line 1113, in emit
+   📋 stream.write(msg + self.terminator)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+   📋 return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+   📋 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   📋 UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f4cb' in position 33: character maps to <undefined>
+   📋 Call stack:
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 1060, in <module>
+   📋 asyncio.run(main())
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+   📋 return runner.run(main)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+   📋 return self._loop.run_until_complete(task)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 640, in run_until_complete
+   📋 self.run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 321, in run_forever
+   📋 super().run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 607, in run_forever
+   📋 self._run_once()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1922, in _run_once
+   📋 handle._run()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+   📋 self._context.run(self._callback, *self._args)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 841, in fetch_with_semaphore
+   📋 return await self.fetch_provider_games_initial(provider)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 309, in fetch_provider_games_initial
+   📋 self.logger.info(f"\U0001f4cb Provider {provider.name} initial data already fetched")
+   📋 Message: '\U0001f4cb Provider Pragmatic Play initial data already fetched'
+   📋 Arguments: ()
+   📋 --- Logging error ---
+   📋 Traceback (most recent call last):
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\logging\__init__.py", line 1113, in emit
+   📋 stream.write(msg + self.terminator)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+   📋 return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+   📋 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   📋 UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 33: character maps to <undefined>
+   📋 Call stack:
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 1060, in <module>
+   📋 asyncio.run(main())
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+   📋 return runner.run(main)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+   📋 return self._loop.run_until_complete(task)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 640, in run_until_complete
+   📋 self.run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 321, in run_forever
+   📋 super().run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 607, in run_forever
+   📋 self._run_once()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1922, in _run_once
+   📋 handle._run()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+   📋 self._context.run(self._callback, *self._args)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 841, in fetch_with_semaphore
+   📋 return await self.fetch_provider_games_initial(provider)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 306, in fetch_provider_games_initial
+   📋 existing_checkpoint = self.checkpoint_manager.load_checkpoint(checkpoint_name)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 103, in load_checkpoint
+   📋 logging.info(f"\u2705 Checkpoint loaded: {checkpoint_name}")
+   📋 Message: '\u2705 Checkpoint loaded: provider_stake-originals_initial'
+   📋 Arguments: ()
+   📋 --- Logging error ---
+   📋 Traceback (most recent call last):
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\logging\__init__.py", line 1113, in emit
+   📋 stream.write(msg + self.terminator)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+   📋 return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+   📋 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   📋 UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f4cb' in position 33: character maps to <undefined>
+   📋 Call stack:
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 1060, in <module>
+   📋 asyncio.run(main())
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+   📋 return runner.run(main)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+   📋 return self._loop.run_until_complete(task)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 640, in run_until_complete
+   📋 self.run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 321, in run_forever
+   📋 super().run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 607, in run_forever
+   📋 self._run_once()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1922, in _run_once
+   📋 handle._run()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+   📋 self._context.run(self._callback, *self._args)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 841, in fetch_with_semaphore
+   📋 return await self.fetch_provider_games_initial(provider)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 309, in fetch_provider_games_initial
+   📋 self.logger.info(f"\U0001f4cb Provider {provider.name} initial data already fetched")
+   📋 Message: '\U0001f4cb Provider Stake Originals initial data already fetched'
+   📋 Arguments: ()
+   📋 --- Logging error ---
+   📋 Traceback (most recent call last):
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\logging\__init__.py", line 1113, in emit
+   📋 stream.write(msg + self.terminator)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+   📋 return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+   📋 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   📋 UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 33: character maps to <undefined>
+   📋 Call stack:
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 1060, in <module>
+   📋 asyncio.run(main())
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+   📋 return runner.run(main)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+   📋 return self._loop.run_until_complete(task)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 640, in run_until_complete
+   📋 self.run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 321, in run_forever
+   📋 super().run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 607, in run_forever
+   📋 self._run_once()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1922, in _run_once
+   📋 handle._run()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+   📋 self._context.run(self._callback, *self._args)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 841, in fetch_with_semaphore
+   📋 return await self.fetch_provider_games_initial(provider)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 306, in fetch_provider_games_initial
+   📋 existing_checkpoint = self.checkpoint_manager.load_checkpoint(checkpoint_name)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 103, in load_checkpoint
+   📋 logging.info(f"\u2705 Checkpoint loaded: {checkpoint_name}")
+   📋 Message: '\u2705 Checkpoint loaded: provider_hacksaw-gaming_initial'
+   📋 Arguments: ()
+   📋 --- Logging error ---
+   📋 Traceback (most recent call last):
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\logging\__init__.py", line 1113, in emit
+   📋 stream.write(msg + self.terminator)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+   📋 return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+   📋 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   📋 UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f4cb' in position 33: character maps to <undefined>
+   📋 Call stack:
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 1060, in <module>
+   📋 asyncio.run(main())
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+   📋 return runner.run(main)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+   📋 return self._loop.run_until_complete(task)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 640, in run_until_complete
+   📋 self.run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 321, in run_forever
+   📋 super().run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 607, in run_forever
+   📋 self._run_once()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1922, in _run_once
+   📋 handle._run()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+   📋 self._context.run(self._callback, *self._args)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 841, in fetch_with_semaphore
+   📋 return await self.fetch_provider_games_initial(provider)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 309, in fetch_provider_games_initial
+   📋 self.logger.info(f"\U0001f4cb Provider {provider.name} initial data already fetched")
+   📋 Message: '\U0001f4cb Provider Hacksaw Gaming initial data already fetched'
+   📋 Arguments: ()
+   📋 --- Logging error ---
+   📋 Traceback (most recent call last):
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\logging\__init__.py", line 1113, in emit
+   📋 stream.write(msg + self.terminator)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+   📋 return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+   📋 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   📋 UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 33: character maps to <undefined>
+   📋 Call stack:
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 1060, in <module>
+   📋 asyncio.run(main())
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+   📋 return runner.run(main)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+   📋 return self._loop.run_until_complete(task)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 640, in run_until_complete
+   📋 self.run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 321, in run_forever
+   📋 super().run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 607, in run_forever
+   📋 self._run_once()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1922, in _run_once
+   📋 handle._run()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+   📋 self._context.run(self._callback, *self._args)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 841, in fetch_with_semaphore
+   📋 return await self.fetch_provider_games_initial(provider)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 306, in fetch_provider_games_initial
+   📋 existing_checkpoint = self.checkpoint_manager.load_checkpoint(checkpoint_name)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 103, in load_checkpoint
+   📋 logging.info(f"\u2705 Checkpoint loaded: {checkpoint_name}")
+   📋 Message: '\u2705 Checkpoint loaded: provider_evolution-gaming_initial'
+   📋 Arguments: ()
+   📋 --- Logging error ---
+   📋 Traceback (most recent call last):
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\logging\__init__.py", line 1113, in emit
+   📋 stream.write(msg + self.terminator)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+   📋 return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+   📋 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   📋 UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f4cb' in position 33: character maps to <undefined>
+   📋 Call stack:
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 1060, in <module>
+   📋 asyncio.run(main())
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+   📋 return runner.run(main)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+   📋 return self._loop.run_until_complete(task)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 640, in run_until_complete
+   📋 self.run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 321, in run_forever
+   📋 super().run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 607, in run_forever
+   📋 self._run_once()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1922, in _run_once
+   📋 handle._run()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+   📋 self._context.run(self._callback, *self._args)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 841, in fetch_with_semaphore
+   📋 return await self.fetch_provider_games_initial(provider)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 309, in fetch_provider_games_initial
+   📋 self.logger.info(f"\U0001f4cb Provider {provider.name} initial data already fetched")
+   📋 Message: '\U0001f4cb Provider Evolution Gaming initial data already fetched'
+   📋 Arguments: ()
+   📋 --- Logging error ---
+   📋 Traceback (most recent call last):
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\logging\__init__.py", line 1113, in emit
+   📋 stream.write(msg + self.terminator)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+   📋 return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+   📋 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   📋 UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 33: character maps to <undefined>
+   📋 Call stack:
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 1060, in <module>
+   📋 asyncio.run(main())
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+   📋 return runner.run(main)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+   📋 return self._loop.run_until_complete(task)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 640, in run_until_complete
+   📋 self.run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 321, in run_forever
+   📋 super().run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 607, in run_forever
+   📋 self._run_once()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1922, in _run_once
+   📋 handle._run()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+   📋 self._context.run(self._callback, *self._args)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 841, in fetch_with_semaphore
+   📋 return await self.fetch_provider_games_initial(provider)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 306, in fetch_provider_games_initial
+   📋 existing_checkpoint = self.checkpoint_manager.load_checkpoint(checkpoint_name)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 103, in load_checkpoint
+   📋 logging.info(f"\u2705 Checkpoint loaded: {checkpoint_name}")
+   📋 Message: '\u2705 Checkpoint loaded: provider_no-limit-city_initial'
+   📋 Arguments: ()
+   📋 --- Logging error ---
+   📋 Traceback (most recent call last):
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\logging\__init__.py", line 1113, in emit
+   📋 stream.write(msg + self.terminator)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+   📋 return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+   📋 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   📋 UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f4cb' in position 33: character maps to <undefined>
+   📋 Call stack:
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 1060, in <module>
+   📋 asyncio.run(main())
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+   📋 return runner.run(main)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+   📋 return self._loop.run_until_complete(task)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 640, in run_until_complete
+   📋 self.run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 321, in run_forever
+   📋 super().run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 607, in run_forever
+   📋 self._run_once()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1922, in _run_once
+   📋 handle._run()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+   📋 self._context.run(self._callback, *self._args)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 841, in fetch_with_semaphore
+   📋 return await self.fetch_provider_games_initial(provider)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 309, in fetch_provider_games_initial
+   📋 self.logger.info(f"\U0001f4cb Provider {provider.name} initial data already fetched")
+   📋 Message: '\U0001f4cb Provider No Limit City initial data already fetched'
+   📋 Arguments: ()
+   📋 --- Logging error ---
+   📋 Traceback (most recent call last):
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\logging\__init__.py", line 1113, in emit
+   📋 stream.write(msg + self.terminator)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+   📋 return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+   📋 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   📋 UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 33: character maps to <undefined>
+   📋 Call stack:
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 1060, in <module>
+   📋 asyncio.run(main())
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+   📋 return runner.run(main)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+   📋 return self._loop.run_until_complete(task)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 640, in run_until_complete
+   📋 self.run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 321, in run_forever
+   📋 super().run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 607, in run_forever
+   📋 self._run_once()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1922, in _run_once
+   📋 handle._run()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+   📋 self._context.run(self._callback, *self._args)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 841, in fetch_with_semaphore
+   📋 return await self.fetch_provider_games_initial(provider)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 306, in fetch_provider_games_initial
+   📋 existing_checkpoint = self.checkpoint_manager.load_checkpoint(checkpoint_name)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 103, in load_checkpoint
+   📋 logging.info(f"\u2705 Checkpoint loaded: {checkpoint_name}")
+   📋 Message: '\u2705 Checkpoint loaded: provider_massive-studios_initial'
+   📋 Arguments: ()
+   📋 --- Logging error ---
+   📋 Traceback (most recent call last):
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\logging\__init__.py", line 1113, in emit
+   📋 stream.write(msg + self.terminator)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+   📋 return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+   📋 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   📋 UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f4cb' in position 33: character maps to <undefined>
+   📋 Call stack:
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 1060, in <module>
+   📋 asyncio.run(main())
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+   📋 return runner.run(main)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+   📋 return self._loop.run_until_complete(task)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 640, in run_until_complete
+   📋 self.run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 321, in run_forever
+   📋 super().run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 607, in run_forever
+   📋 self._run_once()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1922, in _run_once
+   📋 handle._run()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+   📋 self._context.run(self._callback, *self._args)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 841, in fetch_with_semaphore
+   📋 return await self.fetch_provider_games_initial(provider)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 309, in fetch_provider_games_initial
+   📋 self.logger.info(f"\U0001f4cb Provider {provider.name} initial data already fetched")
+   📋 Message: '\U0001f4cb Provider Massive Studios initial data already fetched'
+   📋 Arguments: ()
+   📋 --- Logging error ---
+   📋 Traceback (most recent call last):
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\logging\__init__.py", line 1113, in emit
+   📋 stream.write(msg + self.terminator)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+   📋 return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+   📋 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   📋 UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 33: character maps to <undefined>
+   📋 Call stack:
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 1060, in <module>
+   📋 asyncio.run(main())
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+   📋 return runner.run(main)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+   📋 return self._loop.run_until_complete(task)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 640, in run_until_complete
+   📋 self.run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 321, in run_forever
+   📋 super().run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 607, in run_forever
+   📋 self._run_once()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1922, in _run_once
+   📋 handle._run()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+   📋 self._context.run(self._callback, *self._args)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 841, in fetch_with_semaphore
+   📋 return await self.fetch_provider_games_initial(provider)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 306, in fetch_provider_games_initial
+   📋 existing_checkpoint = self.checkpoint_manager.load_checkpoint(checkpoint_name)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 103, in load_checkpoint
+   📋 logging.info(f"\u2705 Checkpoint loaded: {checkpoint_name}")
+   📋 Message: '\u2705 Checkpoint loaded: provider_twist-gaming_initial'
+   📋 Arguments: ()
+   📋 --- Logging error ---
+   📋 Traceback (most recent call last):
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\logging\__init__.py", line 1113, in emit
+   📋 stream.write(msg + self.terminator)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+   📋 return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+   📋 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   📋 UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f4cb' in position 33: character maps to <undefined>
+   📋 Call stack:
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 1060, in <module>
+   📋 asyncio.run(main())
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+   📋 return runner.run(main)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+   📋 return self._loop.run_until_complete(task)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 640, in run_until_complete
+   📋 self.run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 321, in run_forever
+   📋 super().run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 607, in run_forever
+   📋 self._run_once()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1922, in _run_once
+   📋 handle._run()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+   📋 self._context.run(self._callback, *self._args)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 841, in fetch_with_semaphore
+   📋 return await self.fetch_provider_games_initial(provider)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 309, in fetch_provider_games_initial
+   📋 self.logger.info(f"\U0001f4cb Provider {provider.name} initial data already fetched")
+   📋 Message: '\U0001f4cb Provider Twist Gaming initial data already fetched'
+   📋 Arguments: ()
+   📋 --- Logging error ---
+   📋 Traceback (most recent call last):
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\logging\__init__.py", line 1113, in emit
+   📋 stream.write(msg + self.terminator)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+   📋 return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+   📋 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   📋 UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 33: character maps to <undefined>
+   📋 Call stack:
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 1060, in <module>
+   📋 asyncio.run(main())
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+   📋 return runner.run(main)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+   📋 return self._loop.run_until_complete(task)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 640, in run_until_complete
+   📋 self.run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 321, in run_forever
+   📋 super().run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 607, in run_forever
+   📋 self._run_once()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1922, in _run_once
+   📋 handle._run()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+   📋 self._context.run(self._callback, *self._args)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 841, in fetch_with_semaphore
+   📋 return await self.fetch_provider_games_initial(provider)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 306, in fetch_provider_games_initial
+   📋 existing_checkpoint = self.checkpoint_manager.load_checkpoint(checkpoint_name)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 103, in load_checkpoint
+   📋 logging.info(f"\u2705 Checkpoint loaded: {checkpoint_name}")
+   📋 Message: '\u2705 Checkpoint loaded: provider_titan-gaming_initial'
+   📋 Arguments: ()
+   📋 --- Logging error ---
+   📋 Traceback (most recent call last):
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\logging\__init__.py", line 1113, in emit
+   📋 stream.write(msg + self.terminator)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+   📋 return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+   📋 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   📋 UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f4cb' in position 33: character maps to <undefined>
+   📋 Call stack:
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 1060, in <module>
+   📋 asyncio.run(main())
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+   📋 return runner.run(main)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+   📋 return self._loop.run_until_complete(task)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 640, in run_until_complete
+   📋 self.run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 321, in run_forever
+   📋 super().run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 607, in run_forever
+   📋 self._run_once()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1922, in _run_once
+   📋 handle._run()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+   📋 self._context.run(self._callback, *self._args)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 841, in fetch_with_semaphore
+   📋 return await self.fetch_provider_games_initial(provider)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 309, in fetch_provider_games_initial
+   📋 self.logger.info(f"\U0001f4cb Provider {provider.name} initial data already fetched")
+   📋 Message: '\U0001f4cb Provider Titan Gaming initial data already fetched'
+   📋 Arguments: ()
+   📋 --- Logging error ---
+   📋 Traceback (most recent call last):
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\logging\__init__.py", line 1113, in emit
+   📋 stream.write(msg + self.terminator)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+   📋 return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+   📋 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   📋 UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 33: character maps to <undefined>
+   📋 Call stack:
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 1060, in <module>
+   📋 asyncio.run(main())
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+   📋 return runner.run(main)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+   📋 return self._loop.run_until_complete(task)
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 640, in run_until_complete
+   📋 self.run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 321, in run_forever
+   📋 super().run_forever()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 607, in run_forever
+   📋 self._run_once()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1922, in _run_once
+   📋 handle._run()
+   📋 File "C:\Users\Zaryab Jibu\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+   📋 self._context.run(self._callback, *self._args)
+   📋 File "C:\Users\Zaryab Jibu\Desktop\Python\Stake_clean\robust_stake_scraper.py", line 841, in fetch_with_semaphore
+   📋 return await self.fetch_provider_games_initial(provider)
+[01:31:45] WARNING: ⏹️ Process interrupted by user

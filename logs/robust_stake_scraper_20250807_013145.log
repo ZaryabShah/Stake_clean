@@ -1,0 +1,30 @@
+2025-08-07 01:31:45,456 - INFO - 🚀 Robust Stake Scraper initialized
+2025-08-07 01:31:45,471 - INFO - 📁 Directories created/verified
+2025-08-07 01:31:45,475 - INFO - 🚀 Starting Robust Stake Scraper - Phase 1: Initial Data Collection
+2025-08-07 01:31:45,486 - INFO - 📋 Step 1: Fetching providers list...
+2025-08-07 01:31:45,487 - INFO - ✅ Checkpoint loaded: providers_list
+2025-08-07 01:31:45,517 - INFO - 📋 Loading providers from checkpoint...
+2025-08-07 01:31:45,518 - INFO - 🎮 Step 2: Fetching initial games data for all providers...
+2025-08-07 01:31:45,542 - INFO - 🚀 Starting initial fetch for 49 providers...
+2025-08-07 01:31:45,545 - INFO - ✅ Checkpoint loaded: provider_pragmatic-play_initial
+2025-08-07 01:31:45,573 - INFO - 📋 Provider Pragmatic Play initial data already fetched
+2025-08-07 01:31:45,598 - INFO - ✅ Checkpoint loaded: provider_stake-originals_initial
+2025-08-07 01:31:45,599 - INFO - 📋 Provider Stake Originals initial data already fetched
+2025-08-07 01:31:45,621 - INFO - ✅ Checkpoint loaded: provider_hacksaw-gaming_initial
+2025-08-07 01:31:45,621 - INFO - 📋 Provider Hacksaw Gaming initial data already fetched
+2025-08-07 01:31:45,648 - INFO - ✅ Checkpoint loaded: provider_evolution-gaming_initial
+2025-08-07 01:31:45,648 - INFO - 📋 Provider Evolution Gaming initial data already fetched
+2025-08-07 01:31:45,671 - INFO - ✅ Checkpoint loaded: provider_no-limit-city_initial
+2025-08-07 01:31:45,696 - INFO - 📋 Provider No Limit City initial data already fetched
+2025-08-07 01:31:45,697 - INFO - ✅ Checkpoint loaded: provider_massive-studios_initial
+2025-08-07 01:31:45,720 - INFO - 📋 Provider Massive Studios initial data already fetched
+2025-08-07 01:31:45,721 - INFO - ✅ Checkpoint loaded: provider_twist-gaming_initial
+2025-08-07 01:31:45,746 - INFO - 📋 Provider Twist Gaming initial data already fetched
+2025-08-07 01:31:45,747 - INFO - ✅ Checkpoint loaded: provider_titan-gaming_initial
+2025-08-07 01:31:45,771 - INFO - 📋 Provider Titan Gaming initial data already fetched
+2025-08-07 01:31:45,771 - INFO - ✅ Checkpoint loaded: provider_backseat-gaming_initial
+2025-08-07 01:31:45,795 - INFO - 📋 Provider Backseat Gaming initial data already fetched
+2025-08-07 01:31:45,828 - INFO - ✅ Checkpoint loaded: provider_b-gaming_initial
+2025-08-07 01:31:45,828 - INFO - 📋 Provider B Gaming initial data already fetched
+2025-08-07 01:31:45,837 - INFO - ⏱️ Phase 1 execution time: 0:00:00.361689
+2025-08-07 01:31:45,837 - INFO - 📊 Session stats saved to: metadata\session_stats_phase1_20250807_013145.json

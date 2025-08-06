@@ -53,10 +53,7 @@ class StakeScraperOrchestrator:
             'downloader': 'thumbnail_downloader_fixed.py'
         }
         
-        # Setup logging
-        self.setup_logging()
-        
-        # Statistics
+        # Statistics (initialize before setup_logging)
         self.stats = {
             'start_time': datetime.now(),
             'end_time': None,
@@ -68,6 +65,9 @@ class StakeScraperOrchestrator:
             'total_thumbnails': 0,
             'errors': []
         }
+        
+        # Setup logging
+        self.setup_logging()
     
     def setup_logging(self):
         """Setup logging and directories"""
