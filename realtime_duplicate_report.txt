@@ -1,0 +1,72 @@
+REAL-TIME IMAGE DUPLICATE ANALYSIS
+============================================================
+Generated: 2025-08-07 05:31:32
+Directory: stake_thumbnails_final
+
+SUMMARY
+------------------------------
+Total WebP files scanned: 3,657
+Unique images: 3,657
+Duplicate files: 0
+Duplicate groups: 0
+Duplication rate: 0.00%
+
+DUPLICATE TYPES
+------------------------------
+Same game, different providers: 0
+Different games, same image: 0
+Other duplicates: 0
+
+
+
+FILES BY PROVIDER
+------------------------------
+Pragmatic Play: 604 files
+Play'n GO: 194 files
+Hacksaw Gaming: 180 files
+Endorphina: 147 files
+Elk Studios: 124 files
+VoltEnt: 120 files
+B Gaming: 117 files
+Quickspin: 116 files
+Spinomenal: 115 files
+Red Tiger: 106 files
+Relax Gaming: 101 files
+Game Art: 99 files
+Games Global: 95 files
+No Limit City: 94 files
+NetEnt: 89 files
+Blueprint: 86 files
+3 Oaks Gaming: 83 files
+PG Soft: 83 files
+Evolution Gaming: 82 files
+Thunderkick: 82 files
+Belatra: 76 files
+Gamomat: 70 files
+Avatarux: 61 files
+Novomatic: 60 files
+Popiplay: 60 files
+Push Gaming: 57 files
+Big Time Gaming: 56 files
+Penguin King: 52 files
+Red Rake Gaming: 45 files
+Playson: 38 files
+Slotmill: 36 files
+Peter & Sons: 33 files
+OneTouch: 32 files
+Backseat Gaming: 26 files
+Fantasma Games: 26 files
+Stake Originals: 25 files
+Skywind: 24 files
+Twist Gaming: 23 files
+Print Studios: 22 files
+Massive Studios: 21 files
+Bullshark Games: 20 files
+Stake Engine: 18 files
+Fat Panda: 15 files
+Titan Gaming: 13 files
+Paperclip Gaming: 9 files
+Hacksaw OpenRGS: 8 files
+Live88: 5 files
+Shady Lady: 5 files
+Just Slots: 4 files

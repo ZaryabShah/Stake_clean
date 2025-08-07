@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "generated": "2025-08-07T05:18:16.329517",
+    "tool": "Stake.com Duplicate Analyzer",
+    "output_directory": "stake_thumbnails_final",
+    "hashes_directory": "stake_thumbnails_final\\.hashes"
+  },
+  "statistics": {
+    "total_hashes": 3657,
+    "duplicate_hashes": 0,
+    "total_duplicate_files": 0,
+    "same_game_different_providers": 0,
+    "different_games_same_image": 0,
+    "provider_duplicates": {},
+    "most_duplicated_games": []
+  },
+  "duplicates": {}
+}

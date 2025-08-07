@@ -1,9 +1,9 @@
 {
-  "timestamp": "2025-08-06T23:21:24.367Z",
+  "timestamp": "2025-08-07T00:08:45.665Z",
   "provider_slug": "spinomenal",
   "provider_name": "Spinomenal",
   "total_games": 119,
-  "games_fetched": 115,
+  "games_fetched": 117,
   "games": [
     {
       "game_id": "spinomenal-story-of-zeus",
@@ -1204,6 +1204,28 @@
       "slug": "spinomenal-wolf-fang-desert-mirage",
       "thumbnailUrl": "https://mediumrare.imgix.net/f68d622b800a7b191a5e50b32d8576f08dff955e60cc045714878fd575a7e25d",
       "thumbnailBlurHash": "eRNRxyNGvJxtS535WU%0t7a#:7ofbLR*nOtRs:MzRjnjq]f%XTj[oz",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "1be26bd7-9a96-4733-a10e-ce080a0fb0d0",
+      "name": "Snowing Gifts",
+      "slug": "spinomenal-snowing-gifts",
+      "thumbnailUrl": "https://mediumrare.imgix.net/e127ee16d164f67eba52270cb1a08850257b2dd0982b91a2e329bfc17942b8dd",
+      "thumbnailBlurHash": "eYFH74XO5_spxEHrbpXpozw@5Ioc$$X9R$%0jcxVV[NaD*V]xsafjr",
+      "isBlocked": false,
+      "isWidgetEnabled": true,
+      "playerCount": 0,
+      "groupGames": []
+    },
+    {
+      "id": "7bb2acf4-615a-4492-b02b-981a3d41a269",
+      "name": "4 Horsemen 3 Inferno",
+      "slug": "spinomenal-4-horsemen-3-inferno",
+      "thumbnailUrl": "https://mediumrare.imgix.net/09c61844b39cd53ecef1d0df22b6614dcad33b45cb2671cb5a4fdf342ac47917",
+      "thumbnailBlurHash": "enLo.?t7MyW.V?BUaxNHn%fi$kNFM{oLn~*0aeRPjsnOR6s;t7WVkB",
       "isBlocked": false,
       "isWidgetEnabled": true,
       "playerCount": 0,

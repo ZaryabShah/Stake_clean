@@ -1,0 +1,21 @@
+STAKE.COM THUMBNAIL DUPLICATE ANALYSIS REPORT
+============================================================
+Generated: 2025-08-07 05:18:16
+
+SUMMARY STATISTICS
+------------------------------
+Total unique image hashes: 3,657
+Duplicate hashes found: 0
+Total duplicate files: 0
+Duplicate rate: 0.00%
+
+DUPLICATE ANALYSIS
+------------------------------
+Same game, different providers: 0
+Different games, same image: 0
+
+DUPLICATES BY PROVIDER
+------------------------------
+
+DETAILED DUPLICATE EXAMPLES
+------------------------------
